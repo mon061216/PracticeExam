@@ -1,0 +1,11 @@
+# ASP.NET Core / .NET
+[Bb]in/
+[Oo]bj/
+appsettings.Development.json
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+.vscode/
+.idea/
