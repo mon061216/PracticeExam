@@ -34,13 +34,17 @@ using (var scope = app.Services.CreateScope())
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     db.Database.Migrate();
 
-    if (!db.Subjects.Any())
+    // Seed Software Testing
+    var swtSubject = db.Subjects.FirstOrDefault(s => s.Name == "Software Testing");
+    if (swtSubject == null)
     {
-        var subject = new Subject { Name = "Software Testing" };
-        db.Subjects.Add(subject);
+        swtSubject = new Subject { Name = "Software Testing" };
+        db.Subjects.Add(swtSubject);
         db.SaveChanges();
+    }
 
-        // Read from the frontend directory for seeding
+    if (!db.Questions.Any(q => q.SubjectId == swtSubject.Id))
+    {
         var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "app", "exam-app", "src", "data", "questions.json");
         if (File.Exists(jsonPath))
         {
@@ -53,7 +57,7 @@ using (var scope = app.Services.CreateScope())
                 {
                     db.Questions.Add(new Question
                     {
-                        SubjectId = subject.Id,
+                        SubjectId = swtSubject.Id,
                         Text = q.Text,
                         Options = JsonSerializer.Serialize(q.Options),
                         CorrectAnswers = JsonSerializer.Serialize(q.CorrectAnswers),
@@ -61,6 +65,43 @@ using (var scope = app.Services.CreateScope())
                     });
                 }
                 db.SaveChanges();
+                Console.WriteLine("Successfully seeded Software Testing questions.");
+            }
+        }
+    }
+
+    // Seed SWR302
+    var swrSubject = db.Subjects.FirstOrDefault(s => s.Name == "SWR302");
+    if (swrSubject == null)
+    {
+        swrSubject = new Subject { Name = "SWR302" };
+        db.Subjects.Add(swrSubject);
+        db.SaveChanges();
+    }
+
+    if (!db.Questions.Any(q => q.SubjectId == swrSubject.Id))
+    {
+        var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "swr302_questions.json");
+        if (File.Exists(jsonPath))
+        {
+            var json = File.ReadAllText(jsonPath);
+            var questionsData = JsonSerializer.Deserialize<List<QuestionData>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            
+            if (questionsData != null)
+            {
+                foreach (var q in questionsData)
+                {
+                    db.Questions.Add(new Question
+                    {
+                        SubjectId = swrSubject.Id,
+                        Text = q.Text,
+                        Options = JsonSerializer.Serialize(q.Options),
+                        CorrectAnswers = JsonSerializer.Serialize(q.CorrectAnswers),
+                        Explanation = q.Explanation
+                    });
+                }
+                db.SaveChanges();
+                Console.WriteLine("Successfully seeded SWR302 questions.");
             }
         }
     }

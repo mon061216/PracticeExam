@@ -12,8 +12,8 @@ export function SubjectProvider({ children }) {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  // VITE_API_URL should be set in .env or defaulting to localhost:5000
-  const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+  // VITE_API_URL should be set in .env or defaulting to localhost:5203
+  const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5203/api';
 
   useEffect(() => {
     // Fetch subjects on mount

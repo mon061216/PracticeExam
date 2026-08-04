@@ -1,0 +1,15 @@
+E:\app\onThi\BE\DocxParserApp\bin\Debug\net10.0\DocxParser.exe
+E:\app\onThi\BE\DocxParserApp\bin\Debug\net10.0\DocxParser.deps.json
+E:\app\onThi\BE\DocxParserApp\bin\Debug\net10.0\DocxParser.runtimeconfig.json
+E:\app\onThi\BE\DocxParserApp\bin\Debug\net10.0\DocxParser.dll
+E:\app\onThi\BE\DocxParserApp\bin\Debug\net10.0\DocxParser.pdb
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.GeneratedMSBuildEditorConfig.editorconfig
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.AssemblyInfoInputs.cache
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.AssemblyInfo.cs
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.csproj.CoreCompileInputs.cache
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.sourcelink.json
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.dll
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\refint\DocxParser.dll
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.pdb
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\DocxParser.genruntimeconfig.cache
+E:\app\onThi\BE\DocxParserApp\obj\Debug\net10.0\ref\DocxParser.dll

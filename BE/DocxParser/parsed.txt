@@ -1,0 +1,1714 @@
+Tổng hợp môn SWR
+Q1. Why is it critical to clearly distinguish between Business Requirements, User Requirements, and Functional Requirements in software projects?
+A. It reduces development time by eliminating unnecessary requirements from the outset
+B.  It guarantees that the system will comply with all security and performance standards
+C. It ensures that all stakeholder needs are accurately understood and translated into specific system features.
+D. It allows developers to start coding immediately without needing further clarification.
+Answer: C
+Q2. Requirements development does not include:
+A. Analysis
+B. Validation
+C. Design
+D. Elicitation
+Answer: C
+Q3. What is meant by the “Expectation Gap” in software development?
+A. The difference between business requirements and technical requirements
+B. The difference between the initial design and the final product.
+C. The discrepancy between the project plan and the actual budget.
+D. The difference between what customers expect and what the development team plans to deliver.
+E. The difference between customer requirements and testing criteria.
+Answer: D
+Q4. Which of the following roles is considered a &quot;customer&quot; for a software product?
+A. Legal staff
+B. Compliance auditors
+C. Executive sponsor
+D. Contractors
+E. Venture capitalists
+Answer: C
+Q5. What is the first step in the Requirements Development Process?
+A. Analysis (Analyzing requirements)
+B. Validation (Validating requirements)
+C. Elicitation (Gathering requirements)
+D. Specification (Documenting requirements)
+E. Management (Managing requirements)
+Answer: C
+Q6. What is a key action in the &quot;Analysis&quot; subdiscipline of requirements development?
+A. Discovering requirements.
+B. Documenting assumptions
+C. Decomposing high-level requirements into an appropriate level of detail
+D. Confirming requirements accuracy with customers
+Answer: C
+Q7. With whom should an Agile analyst collaborate closely to ensure the requirements accurately reflect business needs?
+A. Only the end customers
+B. Only the development and testing teams
+C. Only with the development team to relay technical requirements
+D. With the customer, project management, the development team, and other stakeholders to ensure requirements align with business needs.
+E. With the business department solely for comparing statistical data.
+Answer: D
+Q8. What is the primary role of a business analyst (BA) in software projects?
+A. Writing code
+B. Managing server infrastructure
+C. Bridging the gap between stakeholders and developers
+D. Approving budgets
+Answer: C
+Q9. Which of the following are essential analyst skills required from the Business Analyst?
+A. Listening skills, Systems thinking skills
+B. Interviewing and questioning skills, Learning skills, Interpersonal skills
+C. Thinking on your feet, Facilitation skills
+D. Analytical skills, Leadership skills, Organizational skills, Creativity
+E. Observational skills, Communication skills, Modeling skills
+F. All of the mentioned
+Answer: F
+Q10. Why is it important to identify stakeholders when eliciting the requirements for a software system?
+A. The people, groups, or organizations that are actively involved in a project, are affected by its outcome, or are able to influence its outcome
+B. It helps you identify the vision and roadmap.
+C. It helps you identify which support you need, who can influence the support, and potential issues that result from a non-supportive stakeholder
+D. It helps you to make strategic decisions and clear the path of political and financial obstacles.
+Answer: C
+Q11. Which diagram provides a high-level view of system processes and external entities?
+A. Context diagram
+B. Data flow diagram
+C. Entity-relationship diagram
+D. Use case diagram
+Answer: A
+Q12. Why is it important to clearly define the scope of a software project in a scope document?
+A. Limit stakeholder involvement
+B. Speed up the development process
+C. Avoid addressing project risks
+D. Prevent scope creep and ensure project focus
+Answer: D
+Q13. What is a significant challenge in gathering user stories from diverse stakeholders?
+A. Ensuring alignment of priorities and resolving conflicting perspectives
+B. Avoiding technical jargon during discussions
+C. Eliminating all non-functional requirements
+D. Skipping stakeholder meetings
+Answer: A
+Q14. When resolving conflicts between &quot;Development and customers,&quot; how to resolve?
+A. Development always gets preference due to technical expertise.
+B. Customers always get preference to ensure satisfaction.
+C. Customers get preference, but in alignment with business objectives
+D. The project manager makes the final decision without external input.
+Answer: C
+Q15. What is a user persona?
+A. A fictional representation of an ideal user
+B. A diagram of the system's architecture
+C. A document outlining technical requirements
+D. A set of functional requirements
+Answer: A
+Q16. Consider the use case diagram for the Chemical Tracking System. How does the &quot;extend&quot; relationship between &quot;Request a Chemical&quot; and &quot;Search Vendor Catalogs&quot; affect the system's functionality?
+A. It allows “Request a Chemical” to function independently without any alternative flows.
+B. It integrates “Search Vendor Catalogs” into the normal flow of “Request a Chemical.”
+C. It provides an optional alternative flow for requesting chemicals from a vendor.
+D. It duplicates the steps of “Search Vendor Catalogs” within “Request a Chemical.”
+Answer: C
+Q17. Which of the following is NOT a recommended elicitation technique?
+A. Interviews
+B. Walkthroughs
+C. Code reviews
+D. Focus groups
+Answer: C
+Q18. What is one of the first steps in performing an elicitation activity?
+A. Identifying and engaging the right stakeholders
+B. Designing the user interface
+C. Building the prototype
+D. Writing test scripts
+Answer:  A
+Q19. Which category refers to the characteristics and structure of data the system will handle?
+A. Process Descriptions (PD)
+B. Data Definitions (DD)
+C. Business Rules (BR)
+D. Quality Attributes (QA)
+Answer:  B
+Q20. What is a User Story and what is the key difference compared to a Use Case?
+A. A User Story is a detailed step-by-step description of the user's interaction with the system.
+B. A User Story is a brief description of a user's need, typically written in the format “As a [user], I want [goal] so that [benefit].”
+C. A User Story focuses on the system's non-functional requirements
+D. A User Story is used to completely replace a Use Case in all situations.
+E. A User Story is a tool for test planning, while a Use Case is only for designing the interface.
+Answer: B
+Q1. What is the primary distinction between Scope Creep and Gold Plating?
+A. Scope Creep involves adding features, whereas Gold Plating involves reducing project scope.
+B. Scope Creep arises from customer-driven changes, while Gold Plating results from the project team adding unnecessary features
+C. Both Scope Creep and Gold Plating involve unplanned changes.
+D. Scope Creep occurs only in the early stages of a project, while Gold Plating happens post-delivery
+E. Scope Creep is seen in small projects, while Gold Plating only occurs in large projects.
+Answer: B
+Q2. Which of the following statements INCORRECTLY describes types of software requirements?
+A. Business rules are the origin of several types of software requirements, but they are not software requirements themselves.
+B. Nonfunctional requirements describe the system's performance characteristics rather than its specific behaviors
+C. Functional requirements describe how the system will perform certain actions under specific conditions.
+D. Quality attributes describe the system's functional behaviors in terms of user interactions
+Answer: D
+Q3. Some stakeholders are customers, such as legal staff, compliance auditors, suppliers, contractors, and venture capitalists.
+A. True
+B. False
+Answer: B
+Q5. What are the purposes of prioritizing the requirements? Choose 2 correct answers.
+A. To ensure that the team implements the highest value or most timely functionality first
+B. To determine which release or increment will contain each feature or set of requirements
+C. To finish the project faster
+D. To facilitate the release of the product
+Answer: A, B
+Q6. During which activity are customer needs processed and related to software requirements?
+A. Elicitation
+B. Analysis
+C. Specification
+D. Validation
+Answer: B
+Q7. In a project, who is primarily responsible for communicating project information?
+A. The business analyst
+B. The project manager
+C. The software development team
+D. The customer community
+Answer: B
+Q9. Which one of these is NOT a Business analyst's task?
+A. Communicate requirements
+B. Document requirements
+C. Analyze requirements
+D. Assure requirements
+E. Elicit requirements
+Answer: D
+Q11. What is the relationship between &quot;product vision&quot; and &quot;project scope&quot;?
+A. Product vision and project scope are interchangeable terms
+B. Product vision describes the ultimate product, while project scope identifies the portion of that vision to be addressed by the current project.
+C. Project scope defines business objectives, while product vision defines functional requirements.
+D. Product vision is a subset of project scope for each release.
+Answer: B
+Q12. What is the main purpose of defining &quot;Scope and limitations&quot; in a software project?
+A. To provide a detailed breakdown of all tasks for developers
+B. To identify all potential users and their individual preferences.
+C. To establish realistic stakeholder expectations by clearly stating what the solution will and will not include
+D. To determine the most cost-effective technologies for implementation.
+Answer: C
+Q15. Which of the following is not a benefit of having a clear set of expectations for product champions?
+A. Encouraging accountability and clarity of role
+B. Helping champions align with project goals
+C. Guaranteeing the project will stay on budget
+D. Facilitating negotiation of the champion’s responsibilities
+Answer: C
+Q17. Why is it challenging to amalgamate requirements input from numerous users?
+A. Users often disagree on technical specifications
+B. Structured organizing schemes are typically unavailable.
+C. Requirements input is often diverse and unstructured
+D. Users lack domain expertise.
+Answer: C
+Q18. Why is it essential to validate requirements with stakeholders?
+A. To ensure they align with business goals and user expectations
+B. To reduce the scope of non-functional requirements
+C. To finalize the system design early
+D. To prioritize coding tasks over prototyping
+Answer: A
+Q20. What is not the purpose of a Use Case Diagram?
+A. Use case diagrams are both behavior diagrams because they describe the behavior of the system. They are also structure diagrams, serving as a special case of class diagrams where classifiers are restricted to be either actors or use cases related to each other with associations
+B. Use case diagrams show the graphical user interface that needs to be implemented
+C. Use case diagrams are usually referred to as behavior diagrams used to describe a set of actions (use cases) that some system or systems (subject) should or can perform in collaboration with one or more external users of the system (actors).
+D. A use case describes a sequence of interactions between a system and an external actor that results in the actor being able to achieve some outcome of value.
+Answer: B
+Q21. What is the distinction between users and actors?
+A. There is no real difference; the terms can be used interchangeably.
+B. Users are only relevant for use cases involving a graphical interface, while actors cover backend processes
+C. Users are responsible for system development, and actors are responsible for testing.
+D. A user is an actual person (or system) using the product, while an actor is an abstraction that represents the role the user plays in a given use case.
+E. Users are always individuals, while actors are always systems.
+Answer: D
+Q23. What's the difference between Use Cases and User Stories?
+A. The use case is a business artifact which defines the software requirement or an application feature. Whereas use story is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists
+B. The user story contains complete and lengthy descriptions. A use case contains simplified and short descriptions
+C. The user story is a business artifact which defines the software requirement or an application feature. Whereas use case is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists
+D. The user story contains simplified and short descriptions. A use case contains complete and lengthy descriptions
+Answer:  D
+Q24. “Every order has a shipping charge” is a:
+A. fact
+B. constraint
+C. action enabler
+D. inference
+Answer: A
+Q25. Which of the following is NOT a type of business rule according to the taxonomy?
+A. Fact Rules
+B. Action Enabler Rules
+C. Constraint Rules
+D. Operational Rules
+Answer: D
+Q28. Why do we have to label the requirements in a software requirements specification (SRS)? (Choose 3 correct answers)
+A. It allows us to refer to specific requirements in a change request, modification history, cross-reference, or requirements traceability matrix
+B. It enables reusing the requirements in multiple projects
+C. It facilitates collaboration between team members when they're discussing requirements.
+D. It makes the SRS look more professional
+Answer: A, B, C
+Q29. Which of the following is NOT an intended audience for a Software Requirements Specification (SRS)?
+A. Project Managers
+B. Testers
+C. Legal Staff
+D. Hardware Manufacturers
+E. Documentation Writers
+Answer: D
+Q30. How can you explain the statement &quot;Implicit requirements can also be unknown unknowns&quot;?
+A. During the SRS process, customers should always be required to spell out their unknown unknowns.
+B. An unknown unknown cannot be known and therefore we can not make them explicit requirements.
+C. There are matters that should be, but are not, elicited through the elicitation process. They exist, but they are not realized
+D. They help us reveal both known unknowns and more unknown unknowns
+Answer: B
+Q31. What is the main advantage of using the active voice in writing requirements?
+A. It helps in reducing the length of the requirements
+B. It makes the subject and action of the sentence clear, ensuring clarity
+C. It makes the requirements sound more formal and professional
+D. It is easier to translate into other languages
+Answer: B
+Q32. Which of the following is a correct guideline for writing clear and concise requirements?
+A. Use long, descriptive sentences to cover all aspects of a requirement
+B. Avoid using “shall” or “must” in favor of softer terms like “could” and “may.”
+C. Write in simple language, avoid jargon, and keep sentences short and direct
+D. Use multiple terms for the same concept to make the document more interesting
+Answer: C
+Q33. What is the function of decision tables in requirements modeling?
+A. To represent complex Boolean logic and decisions in a tabular format
+B. To model user interface design
+C. To specify data flows
+D. To define system states
+Answer: A
+Q34. An analysis model that visually depicts the various states in which a system or an object in the system can exist, the permitted transitions that can take place between states:
+A. State-transition diagram
+B. Swimlane diagram
+C. Use case diagram
+D. Data Flow diagram
+Answer: A
+Q35. What is one guideline for naming processes in a DFD?
+A. Use a verb only
+B. Use a noun only
+C. Name the process after its corresponding data store
+D. Name each process using a concise verb-object action
+Answer: D
+Q36. Which of the following are true about a dashboard? Choose 3 correct answers.
+A. It is a screen display or printed report
+B. It uses multiple textual and/or graphical representations of data
+C. It aims to provide a consolidated, multidimensional view of what is going on in an organization or a process
+D. It is a brochure to promote the product.
+Answer: A, B, C
+Q38. In an ERD, what is an entity typically represented by?
+A. A diamond shape
+B. A rectangle
+C. An oval shape
+D. A hexagon shape
+Answer: B
+Q39. What does the &quot;STRETCH&quot; keyword in Planguage represent?
+A. The ideal performance level
+B. A benchmark for testing
+C. A more desirable performance objective than the minimum goal
+D. A failure condition
+Answer: C
+Q40. External quality attributes describe characteristics that are observed when the software is executing. Which following definition is Integrity?
+A. It deals with blocking unauthorized access to system functions or data, ensuring that the software is protected from malware attacks, and so on.
+B. It is the degree to which a system continues to function properly when confronted with invalid inputs.
+C. It deals with preventing information loss and preserving the correctness of data entered into the system.
+D. It deal with the need to prevent a system from doing any injury to people or damage to property.
+Answer: C
+Q41. Which of the following is an example of an external quality attribute?
+A. Performance
+B. Maintainability
+C. Portability
+D. Usability
+Answer: D
+Q43. What is a key benefit of using mock-ups in prototyping?
+A. To test the performance of the system
+B. To demonstrate the system's functionality
+C. To clarify user interface designs early
+D. To finalize system features
+Answer: C
+Q44. Which one is a kind of prototyping that firstly creates a sample for clarifying requirements with the user, then builds up and adds new features to this sample incrementally, and finally releases the final deliverable product based on it?
+A. Mockup
+B. Throwaway prototype
+C. Evolutionary prototype
+D. Wireframe
+Answer: C
+Q45. Prioritization is a way to deal with competing demands for limited resources. So, establishing the relative priority of each product capability lets you plan construction to provide the _____ value at the _____ cost.
+A. highest, lowest
+B. lowest, highest
+C. highest, highest
+D. lowest, lowest
+Answer: A
+Q46. Why is a defect checklist important during requirements validation?
+A. It helps to systematically identify potential issues in the requirements
+B. It ensures the system meets the design specifications
+C. It simplifies the testing process
+D. It provides detailed technical instructions for developers
+Answer: A
+Q47. Which of the following is NOT about Requirements validation?
+A. It is the fourth component of requirements development
+B. It is ensure that they have all the desired properties of high-quality requirements is also an essential activity
+C. It is assesses whether you have written the right requirements: they trace back to business objectives.
+D. It allows teams to build a correct solution that meets the stated business objectives
+Answer: D
+Q48. Which of the following is NOT considered a dimension of requirements reuse when adapting requirements from one project to another?
+A. The extent of reuse, including whether individual requirement statements or sets of requirements with their associated elements are reused
+B. Reuse frequency, which measures how often a particular requirement has been reused in different projects
+C. The extent of modification, which considers the degree to which reused requirements must be altered to fit the new project's context
+D. The reuse mechanism, which involves how the requirement is reused, such as copying from a library of reusable requirements or referring to the original source.
+Answer: B
+Q49. How can reusable requirements be stored for easy reference?
+A. By storing them in a spreadsheet
+B. By copying them into every new project document
+C. By linking to them from a shared location such as a database or a requirements management tool
+D. By creating new versions for every instance they are used.
+Answer: C
+Q50. What role does requirements estimation play in project planning?
+A. It helps determine the effort needed for design and development
+B. It dictates the project's release schedule
+C. It defines the testing strategy
+D. It allocates resources for the project
+Answer: A
+Q51. Which of the following is NOT a characteristic of Software as a service (SaaS)?
+A. Subscription-based pricing
+B. On-premises deployment
+C. Centralized hosting
+D. Internet accessibility
+Answer: B
+Q52. When selecting packaged solutions, what factors determine the level of detail and effort that should be put into specifying requirements?
+A. The availability of vendor documentation and training materials
+B. The complexity of the existing system that the package will replace.
+C. The expected package costs, the evaluation timeline, and the number of candidate solutions.
+D. The size of the development team and their familiarity with packaged solutions
+Answer: C
+Q53. What are the reasons for companies to contract with software outsourcing organizations?
+A. To increase control and oversight project
+B. To minimize stakeholder involvement
+C. To limit project scope
+D. To save money, or to accelerate development and access specialized expertise.
+Answer: D
+Q54. What is the main purpose of a requirements baseline?
+A. To track changes
+B. To establish project goals
+C. To set the scope of the project
+D. To establish an initial set of agreed-upon requirements
+Answer: D
+Q55. What does the change control process primarily aim to do?
+A. Delay changes until all requirements are implemented
+B. Provide visibility and control over proposed changes
+C. Implement changes immediately
+D. Reject unnecessary changes
+Answer: B
+Q56. A key motivation for requirements tracing is to facilitate what activity, especially when a requirement needs to be modified?
+A. Requirements elicitation
+B. Change impact analysis
+C. User interface design
+D. Project budgeting
+Answer: B
+Q57. What is the main benefit of fostering a collaborative relationship between the development team and other stakeholders in the requirements process?
+A. To ensure that each stakeholder has full control over the project
+B. To align business, technical, and user needs and avoid misunderstandings
+C. To speed up the development process by minimizing the number of team members involved
+D. To focus only on technical requirements without business or user input.
+Answer: B
+Q58. The elements of risk management are (choose 3 correct answers):
+A. Risk assessment
+B. Risk avoidance
+C. Risk control
+D. Risk reduction
+Answer: A, C, D
+Q59. Choose the incorrect answer when talking about the essential aspects of an agile approach to requirements.
+A. Customer involvement
+B. Expect stability
+C. The backlog and prioritization
+D. Timing
+E. Documentation detail
+Answer: B
+A. It is important (customers need the capability) but not urgent (it can wait for a later release)
+B. It is both important (customers need the capability) and urgent (customers need it in the next release), or contractual/compliance obligations mandate its inclusion.
+C. It is neither important nor urgent, and can be eliminated.
+D. It is urgent for political reasons but not important for achieving business objectives.
+Answer: B
+Q1. Which of the following is the most precise definition of 'Requirements'?
+A. A requirement is anything that drives design choices
+B. A requirement is a property that a product must have to provide value to a stakeholder
+C. Requirements are a specification of what should be implemented. They are descriptions of how the system should behave, or of a system property or attribute. They may be a constraint on the development process of the system.
+D. Requirements are what customers want
+Answer: C
+Q2. Which of the following items correctly describes the difference between product requirements and project requirements?
+A. Product requirements describe the physical resources and training needs necessary for project completion
+B. Project requirements include staff training and infrastructure changes needed in the operating environment
+C. Project requirements are housed in the SRS along with product requirements.
+D. Product requirements focus on the behaviors and attributes of the software system being built.
+Answer: B, D
+Q3. Customers are a (an) _____ of stakeholders.
+A. subset
+B. representative
+C. owner
+D. equivalent
+Answer: A
+Q5. What activity is not included in a representative requirements development process?
+A. Select an appropriate software development life cycle.
+B. Select elicitation techniques.
+C. Review requirement.
+D. Plan elicitation.
+E. Analysis requirement.
+Answer: A
+Q6. Which of the following are considered good practices in requirements analysis? Select three.
+A. Modeling the application environment to understand contexts and boundaries with the real world
+B. Starting the project without standardizing terminology to save time
+C. Creating prototypes to explore and validate uncertain requirements with stakeholders
+D. It helps avoid a focus on the UI or architecture of the system being built before the needs are understood.
+Answer: A, C, D
+Q7. What is a potential way for someone to transition into the business analyst role?
+A. Through an apprenticeship program with mentoring
+B. By studying software development exclusively
+C. By focusing only on user interface design skills
+D. By avoiding involvement with diverse user groups
+Answer: A
+Q8. What should a business analyst do in an Agile project? Choose 3 correct answers.
+A. Define a practical, flexible requirements process and adapt it to the project realities
+B. Ensure that requirements documentation is at a high level, very detailed.
+C. Help validate that customer needs are accurately represented in the product backlog
+D. Facilitate backlog prioritization
+Answer: A, C, D
+Q10. What should a business analyst do in an Agile project? Choose 3 correct answers.
+A. Define a highly flexible requirements process and adapt it to the project variants
+B. Ensure that requirements documentation is at a high level, very detailed.
+C. Help validate that customer needs are accurately represented in the product backlog
+D. Facilitate backlog prioritization
+Answer: A, C, D
+Q11. When defining the scope and limitations of a project, which of the following guidelines should be followed?
+A. List the solution's major features or user capabilities, focusing on those that distinguish it from competitors.
+B. Include all possible features in the scope to ensure nothing is left out, even if some may be unnecessary.
+C. Clearly define the features that will be included in the release and those that will be excluded.
+D. Avoid mentioning any limitations or exclusions to keep the focus on what the product will do.
+Answer: A, C
+Q12. What is the main purpose of a Vision and Scope document?
+A. To define the bounds and objectives of the project
+B. To specify all technical requirements
+C. To finalize the system's architecture
+D. To replace the requirements traceability matrix
+Answer: A
+Q13. A designated representative of a specific user class, who supplies the user requirements for the group that he/she represents is a _____.
+A. Product manager
+B. Product champion
+C. Product backlog
+D. Product owner
+Answer: B
+Q14. Propose a solution for a scenario where product owners struggle to understand user requirements due to the complexity of the project. Which approach would you recommend?
+A. Replace the product owner with a more knowledgeable technical lead.
+B. Collaborate with multiple business analysts and product champions to gather comprehensive requirements.
+C. Submit their project to check complete.
+D. Delegate all decision making to the development team.
+Answer: B
+Q15. What is the primary challenge of validating non-functional requirements?
+A. They are often subjective and difficult to measure objectively.
+B. They focus only on technical constraints.
+C. They replace stakeholder reviews.
+Answer: A
+Q16. Devise a method to ensure that all necessary documents and systems are available for independent validation and verification. Which of the following is the most practical approach?
+A. Creating a checklist of required documents and systems.
+B. Assigning a team to manually verify all access links.
+C. Setting up a single location for data access.
+D. Scheduling regular meetings to confirm document availability.
+Answer: A
+Q17. What is the advantage of using acceptance tests during validation?
+A. To ensure the software meets user expectations before release.
+B. To skip stakeholder reviews.
+C. To prioritize coding tasks.
+Answer: A
+Q18. Why is traceability essential for managing changing requirements?
+A. To track changes and ensure alignment with project goals
+B. To prioritize functional requirements
+C. To reduce stakeholder involvement
+D. To eliminate ambiguous requirements
+Answer: A
+Q19. Why is stakeholder feedback critical during requirements validation?
+A. To ensure requirements align with business objectives and user needs
+B. To finalize coding strategies
+C. To skip ambiguous requirements
+D. To prioritize testing phases
+Answer: A
+Q20. What is the difference between Use Cases and User Stories?
+A. The use case is a business artifact which defines the software requirement or an application feature. Whereas use story is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists.
+B. The user story contains complete and lengthy descriptions. A use case contains simplified and short descriptions.
+C. The user story is a business artifact which defines the software requirement or an application feature. Whereas use case is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists.
+D. The user story contains simplified and short descriptions. A use case contains complete and lengthy descriptions.
+Answer: D
+Q21. Consider the use case diagram for the Chemical Tracking System. How does the &quot;extend&quot; relationship between
+&quot;Request a Chemical&quot; and &quot;Search Vendor Catalogs' affect the system's functionality?
+A. It allows &quot;Request a Chemical&quot; to function independently without any alternative flows.
+B. It integrates &quot;Search Vendor Catalogs&quot; into the normal flow of 'Request a Chemical.&quot;
+C. It provides an optional alternative flow for requesting chemicals from a vendor.
+D. It duplicates the steps of &quot;Search Vendor Catalogs* within &quot;Request a Chemical.&quot;
+[IMAGE_PLACEHOLDER]
+
+Answer: C
+Q22. What is the most popular form of user stories?
+A. As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;.
+B. As a &lt;type of user&gt;, I want &lt;some goal&gt;,
+C. As a &lt;type of user&gt;, I need &lt;some need&gt; so that &lt;some reason&gt;.
+D. As a &lt;type of user&gt;, I want &lt;some goal&gt; to &lt;some purpose&gt;.
+Answer: A
+Q24. Evaluate the effectiveness of using business process modeling to discover business rules. Which of the following best describes its impact?
+A. It only clarifies computations rules and ignores constraints.
+B. It highlights rules that govern process flows and decision points.
+C. It focuses solely on the accuracy of existing documentation.
+D. It is ineffective in discovering business rules related to data attributes.
+Answer: B
+Q26. Which of the following is NOT a type of business rule according to the taxonomy?
+A. Fact Rules
+B. Action Enabler Rules
+C. Constraint Rules
+D. Operational Rules
+Answer: D
+Q27. Why do we have to label the requirements in a software requirements specification (SRS)? (Choose 3 correct answers)
+A. It allows us to refer to specific requirements in a change request, modification history, cross-reference, or requirements traceability matrix.
+B. It enables reusing the requirements in multiple projects.
+C. It facilitates collaboration between team members when they're discussing requirements.
+D. It makes the SRS look more professional.
+Answer: A, B, C
+Q28. Which of the following does NOT suggest an overall description of the Software Requirements Specification pattern?
+A. Product perspective
+B. User classes and characteristics
+C. Operating environment
+D. Design and implementation constraints
+E. Assumptions and dependencies
+F. System features
+Answer: F
+Q29. In software requirements specification, which section do user interfaces belong to?
+A. Overall description
+B. System features
+C. Data requirements
+D. External interface requirements
+Answer: D
+Q30. When specifying the level of detail in Software requirements, which of the following practices should be followed?
+A. It is necessary to specify all requirements at the same high level of detail to ensure consistency.
+B. You don't need to specify details that are obvious to the development team, such as standard error messages that are handled consistently across the system.
+C. Less detail can be acceptable when a task is being done internally for your company and developers have extensive domain experience.
+D. Writing all requirements at a very low-level is always best, regardless of the project's context.
+Answer: B, C
+Q31.What steps would you include in a peer review process to identify and resolve ambiguities in requirement statements?
+A. Have each participant review the requirements individually and submit their feedback separately.
+B. Conduct a formal peer review meeting where participants compare their understanding of each requirement and discuss any ambiguities.
+C. Skip the peer review process and rely on individual interpretations.
+D. Only review requirements after the development phase.
+Answer: B
+Q32.How can you explain the statement &quot;Implicit requirements can also be unknown unknowns&quot;?
+A. During the SRS process, customers should always be required to spell out their unknown unknowns.
+B. An unknown unknown cannot be known and therefore we can not make them explicit requirements.
+C. There are matters that should be, but are not, elicited through the elicitation process. They exist, but they are not realized.
+D. They help us reveal both known unknowns and more unknown unknowns.
+Answer: C
+Q34. What is the primary purpose of a state-transition diagram (STD)?
+A. To model the physical layout and hardware components of a system
+B. To represent the possible states of an object and the transitions between these states based on various events or conditions.
+C. To outline the organization's roles and responsibilities within a business process.
+D. To visualize user interface flow and interactions in software applications.
+Answer: B
+Q35. An analysis model that describes process flow proceeding from one step to another.
+A. Dialog map
+B. Swimlane diagram
+C. Context diagram
+D. Class diagram
+Answer: B
+Q36. What is one of the first questions to ask when eliciting reporting requirements from a customer?
+A. How often should the reports be printed?
+B. What reports are currently used?
+C. How many users will need access to the report?
+D. What is the preferred color scheme for the reports?
+Answer: B
+Q37. A collection of definitions for the data elements and data structures that are relevant to the problem domain.
+A. Data dictionary
+B. Data flow diagram
+C. Database
+D. Record
+Answer: A
+Q40. Which of the following statements best describes a key aspect of performance requirements for a software system?
+A. Performance requirements focus solely on the visual design and user flow of the system.
+B. System requirements specify quantitative metrics such as response time, throughput, etc.
+C. Performance requirements are concerned only with the physical storage capacity of a system's database.
+D. Performance requirements are unrelated to external factors like network connections and hardware components.
+Answer: B
+Q41. What is a potential consequence of adding more functionality without assessing its impact?
+A. Improved system performance.
+B. Increased system efficiency.
+C. Deterioration of system performance.
+D. Reduced need for performance testing.
+Answer: C
+Q42. What is true about a software prototype? Choose 3 correct answers.
+A. It is a partial implementation of a proposed new product.
+B. It is a possible implementation of a proposed new product.
+C. It is a preliminary implementation of a proposed new product.
+D. It is a complete implementation of a proposed new product.
+Answer: A, B, C
+Q43. While a mock-up is called a ___prototype, a proof of concept is called a ___prototype.
+A. horizontal, vertical
+B. vertical, horizontal
+C. primary, secondary
+D. front-end, back-end
+Answer: A
+Q44. Which of the following statements are incorrect about throwaway prototypes?
+A. most appropriate when the team faces uncertainty, ambiguity, incompleteness, or vagueness in the requirements
+B. when build a throwaway prototype, they ignore solid software construction techniques
+C. you might prefer to call it a releasable prototype
+D. Build a throwaway prototype to answer questions, resolve uncertainties, and improve requirements quality
+Answer: C
+Q45. Which of the following is NOT a requirements prioritization technique?
+A. Pairwise comparison
+B. In or out
+C. Three-level scale
+D. $1000
+E. MoSCoW
+Answer: D
+Q46. What does the MoSCoW method classify in requirements prioritization?
+A. Urgency and cost of requirements
+B. Must, Should, Could, and Won't categories
+C. Technical feasibility and design limitations
+D. High, Medium, and Low priorities
+Answer: B
+Q47. Validation of requirements assesses whether you have written ___
+A. the right requirements
+B. the requirements right
+C. the flexible requirements
+D. the variable requirements
+Answer: A
+Q48. How does the Kano model help analyze user requirements?
+A. By classifying features into basic, performance, and delight categories
+B. By prioritizing requirements based on technical feasibility
+C. By eliminating unnecessary requirements
+D. By focusing only on functional requirements
+Answer: A
+Q49. What is the primary purpose of requirements reuse?
+A. To save time, improve consistency, and reduce risks
+B. To eliminate stakeholder reviews
+C. To finalize the coding phase.
+D. To reduce prototyping efforts.
+Answer: A
+Q50. How does requirements reuse improve project efficiency?
+A. By reducing time and effort during the elicitation process
+B. By skipping stakeholder reviews
+C. By focusing only on functional requirements
+D. By eliminating non-functional requirements
+Answer: A
+Q51. What tool did Sedevel develop to assist with estimating requirements development effort?
+A. A coding tool for developers
+B. A requirement effort estimation spreadsheet
+C. A time-tracking tool for project managers
+D. A documentation tool for stakeholders
+Answer: B
+Q52. Which of the following is NOT about Agile project?
+A. Developers have little interaction with customers once construction begins and progresses.
+B. It encourages creating the minimum amount of documentation needed to successfully build the deliverable.
+C. Agile projects recognize that requirements will evolve.
+D. The collaboration of customers with developers on agile projects generally means that requirements can be documented in less detail.
+Answer: A
+Q53. Which of the following is NOT about packaged solution?
+A. You build systems by using your own staff.
+B. It needs to be configured, integrated, and extended to work in the target environment.
+C. You can purchase a package as a part or all of the solution for a new project.
+D. Evaluate solution candidates so that you can select the most appropriate package.
+Answer: A
+Q54. Which of the following is NOT about outsourced projects?
+A. We take advantage of offline tools when they are available.
+B. It is harder to get developer feedback on requirements and passing along user feedback on delivered software.
+C. A formal contract definition of requirements is necessary, which can lead to conflict if there are differences of interpretation.
+Answer: A
+Q55. What are the core activities in requirements management?
+A. Version control, project scheduling, change control and budget management.
+B. Change control, risk assessment, requirements tracing and stakeholder engagement.
+C. Version control, change control, requirement status tracking, and requirement tracing.
+D. Change control, test deployment, and maintenance.
+Answer: C
+Q56. In the context of change management on software projects, how are changes typically managed to maintain effectiveness without stifling flexibility?
+A. By freezing the product backlog after each release to prevent changes until the next project.
+B. By managing changes flexibly through practices like risk assessment, change boards, and iteration planning.
+C. By strictly adhering to a predetermined change board, outside of which no changes are permitted.
+D. By escalating all change requests to an executive change authority, regardless of their impact on the project.
+Answer: B
+Q58. What is the main benefit of fostering a collaborative relationship between the development team and other stakeholders in the requirements process?
+A. To ensure that each stakeholder has full control over the project.
+B. To align business, technical, and user needs and avoid misunderstandings.
+C. To speed up the development process by minimizing the number of team members involved.
+D. To focus only on technical requirements without business or user input.
+Answer: B
+Q59. What is Risk assessment?
+Q59. What is Risk assessment?
+A. It is the process of examining a project to detect potential threats.
+B. It is one way to deal with a risk: don't do the risky thing.
+C. It produces a plan for dealing with each significant risk.
+D. Activities to manage the top priority risks you identified.
+Answer: A
+Q60. Product backlogs typically are...
+Q60. Product backlogs typically are...
+A. user stories
+B. defects
+C. user stories and defects
+D. prototypes
+Answer: C
+Đề thêm
+Câu 1: Which JSTL tag is used to format numbers according to locales?
+A. &lt;fmt:parseNumber&gt;
+B. &lt;fmt:setNumber&gt;
+C. &lt;fmt:formatNumber&gt;
+D. &lt;fmt:setLocale&gt;
+Câu 2: Which one of the following is not a step of requirement development?
+A. elicitation
+B. design
+C. analysis
+D. validation
+E. documentation
+Câu 3: Which of the following statements about reaching agreement on requirements is accurate? Select two.
+A. Signing off on requirements is an infallible method to prevent any changes later in the project
+B. All participants in the requirements approval process must understand what signing off implies.
+C. The purpose of signing off is to freeze requirements and prevent any future modifications
+D. Reaching agreement on requirements ensures that both customers and developers have a shared understanding of project objectives.
+Câu 4: What is the benefit of having a small group representing key areas as decision makers in a project?
+A. It simplifies the decision-making process by involving only the project manager
+B. It ensures diverse perspectives from management, customers, business analysis, development, and marketing
+C. It reduces the need for stakeholder involvement
+D. It focuses solely on technical specifications
+Câu 5: Which type of requirement best describes the behavior and information that the solution will manage, including a specific system actions or responses?
+A. Stakeholder Requirements
+B. Functional Requirements
+C. Business Requirements
+D. Non-functional Requirements
+Câu 6: Which of the following are considered good practices in requirements elicitation? Select two.
+A. Defining the product vision and project scope early in the project to ensure all stakeholders have a shared understanding
+B. Focusing exclusively on nonfunctional requirements during initial elicitation while ignoring functional requirements to save time.
+C. Identifying user classes and their characteristics to ensure that all user needs are considered
+D. Avoiding the use of prototypes in the early stages of requirements elicitation to prevent biasing stakeholders
+Câu 7: Why is it crucial for a business analyst to communicate requirements effectively and efficiently?
+A. To ensure that requirements are documented only once
+B. To facilitate ongoing collaboration and ensure the team understands the requirements
+C. To avoid the need for visual analysis models
+D. To reduce the number of requirements
+Câu 8: Which of the following tasks are typically performed by a business analyst? Select two.
+A. Defining business requirements and helping project sponsors express the project's vision clearly
+B. Focusing only on textual documentation and avoiding the use of visual aids like diagrams and prototypes
+C. Ensuring that all team members fully understand the requirements being communicated
+D. Managing the entire software development life cycle, from inception to deployment
+Câu 9: Which of the following statements accurately describes the role of a business analyst in a project? Select two.
+A. The business analyst is solely responsible for managing communication between the customer(s) and the development team
+B. The business analyst primarily focuses on eliciting, analyzing, documenting, and validating the needs of the project stakeholders
+C. In agile projects, the business analyst often acts as the project manager, handling both internal and external project tasks
+D. The business analyst plays a central role in collecting and disseminating product information, while the project manager focuses on communicating project information
+Câu 10: Which of the following is a likely stakeholder interest for a retail kiosk's customer?
+A. Maximizing user convenience
+B. Minimizing development cost
+C. Improving operational efficiency
+D. Increasing market reach
+Câu 11: Which of the following statements accurately describe the use of context diagrams in representing project scope? Select two.
+A. A context diagram visually illustrates the boundary between the system being developed and external entities that interact with it
+B. The context diagram includes detailed information about the system's internal processes and data
+C. The primary purpose of a context diagram is to depict the interactions between the system and external entities without detailing the internal workings of the system.
+D. Context diagrams are typically used to represent the relationship between user interfaces and system components within the boundary
+Câu 12: Which of the following elements should be included when crafting a vision statement? Select three.
+A. The specific target customer for whom the product is intended
+B. A detailed technical specification of the product's architecture.
+C. The key benefit or compelling reason for the customer to buy or use the product
+D. A comparison with the primary competitive alternative or current system
+Câu 13: Which of the following is NOT characteristic of the user?
+A. A subset of the product's customers in some cases
+B. A subset of the product's users
+C. A superset of stakeholders
+D. Includes direct users and indirect users
+Câu 14: A designated representative of a specific user class, who supplies the user requirements for the group that he or she represents, is a:
+A. Product manager
+B. Product champion
+C. Product backlog
+D. Product owner
+Câu 15: What do product champions do? Choose 2 correct answers.
+A. They gather requirements from other members of the user classes they represent, and reconcile inconsistencies.
+B. They serve as the primary interface between members of a single user class and the project's business analyst
+C. They implement the coding standards.
+D. They write requirements documents.
+Câu 16: &quot;Organize and share notes&quot; is an activity that belongs to?
+A. Preparing for elicitation
+B. Performing elicitation activities
+C. Following up after elicitation
+D. Classifying customer
+Câu 17: Which of the following is a recommended question to ask when probing for exceptions in processes?
+A. Why do you think this system is perfect?
+B. What are the three things you dislike about the current system?
+C. What happens when an error occurs?
+D. What is your favorite feature of this system?
+Câu 18: Which of the following are the signals indicating that you have completed requirements elicitation? Choose 3 correct answers.
+A. Users repeat issues they already covered in previous discussions.
+B. Suggested new features, user requirements, or functional requirements are all deemed to be out of scope.
+C. Proposed new requirements are all low priority
+D. Developers and testers who review the requirements for an area raise many questions
+Câu 19: Why is it essential to specify acceptance criteria during requirements validation?
+A. To define clear and measurable conditions for success
+B. To prioritize functional requirements
+C. To finalize the design phase
+D. To eliminate stakeholder input
+Câu 21: Which of the following statements accurately describe preconditions and postconditions in the context of use cases? Select two.
+A. Preconditions define the prerequisites that must be met before the system can begin executing a use case.
+B. Preconditions describe the expected outcome after the use case has been successfully executed
+C. Postconditions describe the state of the system after the use case has executed successfully
+D. Postconditions determine whether the system should proceed with executing a use case
+Câu 22: Which elements are mandatory in use case?
+A. Post-condition
+B. Actors
+C. Pre-condition
+D. Name
+Câu 23: In the Chemical Tracking System project, what is the relationship between use case: &quot;Pay a bill&quot; and use case: &quot;Write a check&quot;?
+A. include
+B. extend
+C. generalization
+Câu 24: Consider the following Statement: “If a lead doesn't respond back within 30 days of the first contact, it must be a cold lead and can be marked accordingly”. What type of business rule is being depicted here?
+A. Facts
+B. Constraints
+C. Action enablers
+D. Inferences
+E. Computations
+Câu 25: Which of the following statements accurately describes a business rule? Select two.
+A. A business rule is a statement that defines or constrains some aspect of the business to control or influence its behavior
+B. Business rules are only relevant for heavily rules-driven systems and can be ignored in simpler systems
+C. Classifying business rules helps in understanding how they might be applied in a software application, such as using constraints to enforce certain conditions
+D. A business rule is the same as a system requirement, focusing solely on the technical implementation details
+Câu 26: Which of the following are common places and ways to look for business rules? Choose 3 correct answers.
+A. &quot;Common knowledge&quot; from the organization, often collected from individuals who have worked with the business for a long time and know the details of how it operates
+B. Legacy systems that embed business rules in their requirements and code.
+C. Analysis of existing documentation, including requirements specifications from earlier projects, regulations, industry standards, corporate policy documents, contracts, and business plans
+D. Business laws
+Câu 27: In a software requirements specification, which section do user interfaces belong to?
+A. Overall description
+B. System features
+C. Data requirements
+D. External interface requirements
+Câu 28: Which of the following practices should be followed when documenting software requirements? Select two.
+A. Ensure that each requirement is documented in multiple places to increase visibility and reduce the risk of it being overlooked
+B. Use a consistent format for documenting requirements to enhance clarity and understanding among all stakeholders.
+C. Avoid documenting requirements that involve complex logic, as these can be difficult for stakeholders to understand
+D. The software requirements specification (SRS) should be used to formally record the agreed-upon requirements and ensure all stakeholders have a shared understanding
+Câu 29: When documenting data requirements for a system, which of the following practices should be followed? Select three.
+A. Include a detailed implementation data model directly in the SRS to ensure clarity in the system's design.
+B. Create a data dictionary that defines the composition, meaning, data type, and allowed values for all data elements the system will handle
+C. Document any reports that the application will generate, focusing on their logical descriptions and deferring detailed layouts to the design stage
+D. Describe how data will be acquired, maintained, and protected, including policies for data retention, disposal, and ensuring data integrity
+Câu 30: Requirement statements must be: (Choose 3 correct answers)
+A. Feasible
+B. Correct
+C. Verifiable
+D. Flexible
+Câu 31: Which of the following characteristics should a collection of requirements exhibit?
+A. Completeness, meaning it is acceptable if some necessary information is absent as long as the core requirements are documented
+B. Modifiability, which allows changes to be made without maintaining a history of changes or considering dependencies among requirements
+C. Consistency, ensuring that requirements do not conflict with other requirements or higher-level business, user, or system requirements
+D. Traceability, where requirements should be loosely linked and not necessarily connected to their origin or to derived elements
+Câu 32: Which of the following characteristics should a well-written requirement statement exhibit? Select two.
+A. Each requirement should be complete, meaning it contains all the information necessary for the reader to understand it and for developers to implement it correctly
+B. A requirement statement can be ambiguous as long as it is feasible to implement
+C. Requirements should be prioritized based on their importance to achieving the desired business value, and should be assigned an implementation priority
+D. Verifiability of a requirement is optional as long as it meets stakeholder needs.
+Câu 33: Two important goals of writing requirements are that:
+A. Anyone who reads the requirements comes to the same interpretation as any other reader.
+B. Each reader’s interpretation matches what the author intended to communicate.
+C. Developers find the requirements technically easy to understand
+D. Customers are happy.
+Câu 34: What is the primary purpose of a Swimlane diagram?
+A. To represent detailed software architecture and coding structures.
+B. To visually depict the steps involved in a business process or the operations of a proposed software system, subdivided into lanes that represent different systems or actors.
+C. To exclusively model user interface interactions and design layouts.
+D. To show the organizational structure and management hierarchy within a company.
+Câu 35: How can requirements modeling assist in resolving conflicts between stakeholders?
+A. By providing a clear, visual representation of requirements for alignment
+B. By finalizing all functional requirements
+C. By focusing only on technical feasibility
+D. By eliminating the need for prototyping
+Câu 36: If a report is generated but not used, what should a Business Analyst consider doing?
+A. Ensure it is included in the new system
+B. Modify it to meet new requirements
+C. Exclude it from the new system
+D. Increase its frequency of generation
+Câu 37: What is the definition of Pre-Condition in Use case?
+A. A condition that describes the state of a system after a use case is successfully completed
+B. A condition that must be satisfied or a state the system must be in before a use case can begin.
+C. A condition that initiates execution of the use case
+D. A condition that must be satisfied so that system run successful
+Câu 38: In the context of a data dictionary, which of the following is true about organizing data elements?
+A. Each data element in the dictionary should be represented only by primitive types
+B. The data dictionary should only store information about complex data structures, not individual data elements
+C. The data dictionary should list all data elements alphabetically, regardless of their relationships or grouping in the system
+D. The data dictionary should contain information about each data element, including its data type, length, and any associated constraints
+Câu 39: Which keyword in Planguage defines the goal or minimum acceptable achievement level?
+A. AMBITION
+B. SCALE
+C. GOAL
+D. WISH
+Câu 40: What is a potential consequence of adding more functionality through a series of iterations?
+A. Improved system performance.
+B. Increased system efficiency.
+C. Deterioration of system performance.
+D. Reduced need for performance testing.
+Câu 41: When considering software quality attributes, which of the following is classified as an internal quality attribute?
+A. Usability
+B. Security
+C. Efficiency
+D. Availability
+Câu 42: What is the primary purpose of using a prototype in the software development process?
+A. To finalize the product design and ensure no further changes are needed
+B. To validate requirements by finding errors and omissions, and assessing their accuracy and quality.
+C. To create a fully functional product that can be immediately deployed
+D. To focus solely on the user experience without considering technical feasibility
+Câu 43: What should you not expect a prototype to replace?
+A. Multiple iterations
+B. Written requirements.
+C. Plausible data.
+D. The purpose of the prototype
+Câu 44: Which of the following statements best describes a &quot;horizontal prototype&quot; in the context of software development?
+A. A horizontal prototype focuses on the user interface, allowing exploration of specific behaviors without diving into detailed functionality or architectural layers
+B. A horizontal prototype fully implements all layers of the system, from the user interface to the backend services
+C. A horizontal prototype is used to validate the architectural approach and test critical timing requirements
+D. A horizontal prototype includes detailed implementation of business logic and database interactions.
+Câu 45: Which of the following is a benefit of prioritizing requirements?
+A. Improved project management
+B. Decreased stakeholder involvement
+C. Enhanced focus on high-value features
+D. Reduced scope creep
+Câu 46: Why is prioritization essential in agile projects, especially when customer expectations are high and timelines are short?
+A. It ensures that the project manager can handle the project without customer input, focusing solely on cost and efficiency
+B. It allows developers to skip less important features, ensuring that only critical bugs are fixed before release
+C. It helps in delivering the most critical or valuable functionality as early as possible, ensuring maximum business value within project constraints
+D. It lets the project manager choose which requirements to ignore, focusing only on budget and staff limitations.
+Câu 47: What potential issues can be prevented by validating requirements? (Select all that apply)
+A. Scope creep
+B. Eliminating All Bugs
+C. Misaligned Expectations
+D. Cost Overruns and Delays
+Câu 48: What is the purpose of peer reviews during the requirements validation process?
+A. To ensure requirements are written in technical language
+B. To identify ambiguous or unverifiable requirements
+C. To finalize the system design before development begins
+D. To align requirements with user interface designs
+Câu 49: What is the primary advantage of requirements reuse in software projects?
+A. Reducing time and effort during the elicitation process
+B. Skipping the stakeholder review phase
+C. Eliminating the need for prototyping
+D. Ensuring all requirements are functional
+Câu 50: We can reuse all authentication requirements from the previous project by copy from a library of reusable components. Which dimensions does the statement refer to?
+A. extent of modification
+B. reuse mechanism
+C. extent of reuses
+Câu 51: In software development, what do requirements drive? Choose 3 correct answers.
+A. Project planning
+B. Design and coding
+C. Testing activities
+D. Financial activities
+Câu 52: &quot;Story point&quot; is used to measure which one below?
+A. User story
+B. Code
+C. Function
+D. Architecture
+Câu 53: Which statement accurately describes the implementation of a COTS package?
+A. COTS packages always require significant customization.
+B. Some COTS packages can be used out of the box with little to no modification
+C. COTS packages provide unlimited flexibility to meet all business requirements
+D. All COTS packages require integration with other systems
+Câu 55: Why is version control important in managing requirements? (Select all that apply)
+A. It ensures that requirements are unique and traceable.
+B. It allows for tracking the history of changes
+C. It helps prioritize the requirements.
+D. It guarantees that all stakeholders are updated on changes.
+Câu 56: Which of the following are basic steps in change impact analysis? (Select all that apply)
+A. Understand the possible implications of the change
+B. Identify all affected requirements and documents
+C. Implement the change without stakeholder approval
+D. Estimate the effort needed for the change
+Câu 57: Which of the following best describes the structure of the Requirements Traceability Matrix (RTM)?
+A. It is a spreadsheet that lists requirements and their corresponding test cases
+B. It is a graphical representation of the project schedule
+C. It is a tool used to manage project risks
+D. It is a spreadsheet that maps requirements to other project artifacts such as design documents, test cases, and source code
+Câu 58: Which of the following is NOT an objective of improving requirements processes?
+A. Improve the accuracy of project estimates
+B. Reduce the cost of creating and maintaining software
+C. Increase the value delivered by projects
+D. Increase the complexity of requirements
+Câu 59: Which is NOT element of risk management?
+A. Risk avoidance is one way to deal with a risk: don't do the risky thing.
+B. Risk assessment is the process of examining a project to identify potential threats
+C. Risk control activities to manage the top-priority risks you identified
+D. Risk management planning produces a plan for dealing with each significant risk, including mitigation approaches, contingency plans, owners, and timelines
+Câu 60: The close collaboration of customers with developers on agile projects generally means that requirements can be documented in [less/more] detail than on traditional projects.
+A. less
+B. more
+C. shorter
+D. longer
+Câu 61: What is the primary challenge of documenting requirements for complex systems?
+A. Ensuring clarity, consistency, and avoiding ambiguities
+B. Eliminating low priority requirements
+C. Skipping stakeholder validation
+D. Focusing only on functional needs
+Câu 62: How can requirements processes reduce the cost of development?
+A. By increasing the number of features developed.
+B. By reducing rework, unnecessary features, and miscommunications.
+C. By increasing the project timeline.
+D. By focusing solely on technical specifications.
+Câu 63: Which one of the following is NOT a step of requirement engineering?
+A. documentation
+B. elicitation
+C. analysis
+D. design
+Câu 64: Customers have the right: (choose 3 correct answers)
+A. expect business analysts to learn about their business and their objectives
+B. describe characteristics that will make the product easy to use
+C. receive a system that meets their functional needs and quality expectations
+D. prompt communicate changes to the requirements
+Câu 65: Which of the following is NOT included in the list of Software Bill of Rights Requirements?
+A. Expect BAS to speak your language.
+B. Expect BAS to learn about your business and your objectives.
+C. Promptly communicate changes to the requirements.
+D. Receive explanations of requirements practices and constraints.
+Câu 66: What is the correct description about the requests and event process in requirements development?
+A. The process of requirements development is linear, moving from elicitation to validation without any iteration
+B. Elicitation, analysis, specification, and validation are iterative activities that may require revising earlier steps to ensure accuracy and completeness
+C. Validation is only performed at the end of the project to confirm that requirements have been met
+D. Peer reviews are used exclusively for code optimizations
+Câu 67: How does the process of elicitation relate to the other activities in requirements development?
+A. Elicitation is performed only after specifications complete.
+B. Elicitation is a standalone step that does not need to be revisited.
+C. Elicitation is interwoven with analysis, specification, and validation.
+D. Elicitation is only necessary for the first iteration of the project.
+Câu 68: In business analysis, what is NOT a basic task?
+A. Communicate requirements
+B. Document requirements
+C. Analyze requirements
+D. Elicit requirements
+Câu 69: In a project, who is primarily responsible for communicating official format requirements?
+A. The business analyst
+B. The project manager
+C. The software development team
+D. The customer committee
+Câu 70: What are the tasks of a business analyst? Choose 3 correct answers.
+A. Define business requirements
+B. Identify project stakeholders and user classes
+C. Document requirements
+D. Lead requirements prioritization
+Câu 71: What technique is most effective for resolving conflicts among stakeholders?
+A. Prioritization work sessions
+B. Eliminating conflicting requirements
+C. Focusing only on functional requirements
+D. Avoiding stakeholder feedback
+Câu 72: What is the definition of a condition in which the scope of a project continues to increase in an uncontrolled fashion throughout the development process?
+A. Risk
+B. Inspection
+C. Scope creep
+D. Decision tree
+Câu 73: Which of the following statements correctly describe the use of the context diagram in representing project scope? Select two.
+A. A context diagram visually illustrates the boundary between the system being developed and external entities that interact with it
+B. The context diagram includes detailed information about the system's internal processes and data
+C. The primary purpose of a context diagram is to depict the interactions between the system and external entities without detailing the internal workings of the system
+D. Context diagrams are typically used to represent the relationship between user interfaces and system components within the boundary
+Câu 74: What is a common pitfall in writing non-functional requirements?
+A. Making them too vague or unmeasurable
+B. Prioritizing them over functional requirements
+C. Writing them without stakeholder input
+D. Skipping them in the documentation process
+Câu 75: Which of the following is NOT a benefit of writing a clear set of expectations for product champions?
+A. Encouraging accountability and clarity of role
+B. Helping champions align with project goals
+C. Guaranteeing the project will stay on budget
+Câu 76: Which of the following statements accurately describes personas? Select two.
+A. A persona is a real user from the target audience, used to validate requirements and ensure they meet business needs
+B. Personas are hypothetical, generic users representing a group with similar characteristics, used to understand user goals and design best experiences
+C. Personas help teams to empathize with users throughout the software development process
+D. Personas should be used to replace direct user interviews in all project phases
+Câu 77: &quot;The user must be able to sort the project list in forward and reverse alphabetical order&quot; is an example of:
+A. business requirement
+B. functional requirement
+C. non-functional requirement
+D. system constraint
+Câu 78: Organizing and sharing notes is an activity that belongs to:
+A. Preparing for elicitation
+B. Performing elicitation activities
+C. Following up after elicitation
+D. Classifying customer
+Câu 79: What is the primary purpose of elicitation?
+A. The process of gathering requirements from stakeholders
+B. The validation of technical requirements
+C. The prioritization of system constraints
+D. The realization of the critical path
+Câu 80: What is the value of creating a Traceability matrix in a project?
+A. To ensure all requirements are linked to their design, testing, and implementation pieces
+B. To replace stakeholder involvement in the validation phase
+C. To prioritize non-functional requirements over functional ones
+D. To maximize the system's coding standards
+Câu 81: In the specification of a use case, conditions that have the potential to prevent a use case from succeeding are called:
+A. exceptions
+B. alternative flows
+C. secondary scenarios
+D. backup flows
+Câu 82: How should the names of use cases be written?
+A. A noun allowed by a verb
+B. A verb followed by an object
+C. A random combination of words
+D. A description phrase
+Câu 83: Which of the following statement is TRUE about Use Cases?
+A. Use Cases are static and do not evolve throughout the software development process.
+B. Use case diagrams are the primary method to document requirements
+C. Use Cases are not used in capturing user requirements
+D. Use Cases describe the interactions between the system and external entities.
+Câu 84: What is the role of user stories in Agile requirements management?
+A. To provide concise, actionable descriptions of features from the user perspective
+B. To replace the Vision and Scope document
+C. To prioritize non-functional requirements
+D. To maximize the system's architecture
+Câu 85: What is the value of prototyping during requirements elicitation?
+A. It provides a visual representation to clarify ambiguous requirements and gather stakeholder feedback
+B. It eliminates the need for acceptance criteria
+C. It skips non-functional requirements
+D. It focuses on coding rather than design
+Câu 86: How does prototyping mitigate risks in requirements engineering?
+A. By providing stakeholders with a visual representation to validate ambiguous requirements
+B. By maximizing system requirements clarity
+C. By focusing on coding rather than design
+D. By skipping the requirements validation phase
+Câu 87: Which of the following statements accurately describes a business rule? Select two.
+A. A business rule is a statement that defines or constrains some aspect of the business to control or influence its behavior
+B. Business rules are only relevant for heavily rules-driven systems and can be ignored in simpler systems
+C. Classifying business rules helps in understanding how they might be applied in a software application, such as using constraints to enforce certain conditions
+D. A business rule is the same as a system requirement, focusing solely on the technical implementation details
+Câu 88: Which of the following is NOT included in a software requirements specification (SRS) template?
+A. Quality Attributes
+B. External interface
+C. Data requirements
+D. System features
+Câu 89: Why do we have to label the requirement in a software requirements specification (SRS)?
+A. It allows us to refer to specific requirements in change request, modification history, cross-reference, or traceability matrix
+B. It enables reusing the requirements in multiple projects
+C. It indicates collaboration between team members when they discuss requirements
+D. It makes the SRS look more professional
+Câu 92: Consider the following statement: “A requirement statement must be Correct and Feasible”. What type of requirement is it?
+A. Correct and Feasible
+B. Unambiguous and Testable
+C. Unambiguous and Non-Testable
+D. Ambiguous and Non-Testable
+Câu 93: When considering requirements representation, which of the following statements are correct? Select two.
+A. Business process flows can be represented with data flow diagrams or Swimlane diagrams that show flows and responses
+B. Use any one type of model to avoid confusion and ensure clarity through the development process
+C. Complex logic can be effectively represented using decision tables or decision trees, which show possible outcomes or rule functions requirements
+D. Data definition should be studied using state-transition diagrams or storyboard models
+Câu 94: In a Swimlane diagram, process steps are shown as:
+A. rectangles
+B. arrows connecting pairs of rectangles
+C. diamonds
+D. ovals
+Câu 95: How can business analysts effectively analyze the voice of the customer in textual documents?
+A. By identifying key terms and challenges defined by customers, prioritizing them by cost
+B. By identifying keywords such as nouns, verbs, and conditional statements that can be mapped to corresponding analysis models
+C. By ignoring minor complaints and focusing only on core features
+D. By mapping verb elements provided by customers into processes, activities, and use cases in the analysis models
+Câu 96: Entries in the data dictionary represent the following types of data elements: (choose 3 correct answers)
+A. Primitive
+B. Structure
+C. Repeating group
+D. View
+Câu 97: Which of the following is NOT a component of an Entity Relationship Diagram (ERD)?
+A. Entity
+B. Relationship
+C. Association
+D. Cardinality
+E. Attribute
+Câu 98: Which of the following statements are correct about ERD?
+A. All instances of an entity will share the same attributes
+B. The cardinality, or multiplicity, of each association is shown with a number or text on the lines that connect entities and relationships
+C. Each entity is described by two or more states
+D. The modern ERD presentation, with entity-relationship boxes, acts as a database schema
+Câu 100: What is Planguage?
+A. It is a programming language
+B. It is a language with which a set of keywords that permits precise statements of quality attributes and other project goals
+C. It is a planning language used in project management
+D. It is a language to express non-functional requirements
+Câu 101: Which one of the following is a non-functional requirement?
+A. Priority
+B. Order processing
+C. Maintainability
+D. Security
+E. Robustness
+Câu 102: Builds up and adds new features to this sample incrementally, and finally releases the full deliverable product based on:
+A. Hookup
+B. Throwaway prototype
+C. Evolutionary prototype
+D. Pilot implementation
+Câu 103: Which of the following is NOT a purpose of creating a mock-up?
+A. To test user interface design
+B. To test architectural feasibility
+C. To allow users to judge the overall workflow and requirements
+D. To gather feedback on screen layouts
+Câu 104: If you prototype the whole solution rather than only the most uncertain, high-risk, or complex portions, your:
+A. testing excessive part in prototypes
+B. distraction by design
+C. pressure to release the prototype
+D. unrealistic performance expectations
+Câu 105: The four capitalized letters in the MoSCoW prioritization technique stand for:
+A. Must, Should, Could, Won't
+B. Must, Should, Count, Will
+C. Must, Should, Can, Will
+D. Must, Shall, Could, Won't
+Câu 106: Which prioritization technique involves sorting requirements from best to worst, or high to low?
+A. MoSCoW
+B. Timeboxing
+C. Pairwise comparison and rank ordering
+D. Kano model
+E. Baselines
+Câu 107: Which approach to reviewing requirements involves the author describing a deliverable and stakeholders commenting on it?
+A. Peer deskcheck approach
+B. Passaround approach
+C. Walkthrough approach
+D. Inspection approach
+Câu 109: What is Extent of Reuse?
+A. You might reuse an existing requirement statement directly
+B. It is simply a copy-and-paste of a previous requirement information
+C. For many requirements, reuse consists of taking a pattern or concept from another specification
+D. Reusing code components directly
+Câu 110: The benefits of effective requirements reuse include: (choose 3 correct answers)
+A. faster delivery
+B. lower development costs
+C. reduced rework
+D. fewer test cases
+Câu 112: What is an enhancement project?
+A. It is a project in which new capabilities are added to an existing system.
+B. It is a project that replaces an existing application with a new custom built system, commercial off-the-shelf system, or a hybrid of those.
+C. It is a project which costs less than planned.
+D. It is a project which generates more revenues.
+Câu 113: Which statement sure describes the flexibility of a COTS package?
+A. COTS packages always require significant customization
+B. Some COTS packages can be used out of the box with little to no modification
+C. COTS packages provide unlimited flexibility to meet all business requirements
+D. All COTS packages require integration with other systems
+Câu 115: What is a requirements baseline?
+A. Constraints on the development process of the system
+B. A specification of features to be implemented, description of how the system should behave, or description of user stories
+C. A set of requirements that stakeholders have agreed to, often defining the contents of a specific planned release or development iteration
+D. A temporary list of user requirements during elicitation
+Câu 116: Which of the following is NOT about change management on agile projects?
+A. Agile processes harness change for the customer's competitive advantage.
+B. Agile projects manage change by maintaining a specific backlog of work items to be done.
+C. Agile processes manage change by monitoring risks and addressing them according to priority.
+D. Agile methods vary as to their philosophy on this point; there is no single &quot;correct&quot; approach.
+Câu 117: What is the primary mean for baselining requirements?
+A. To prevent any changes from being made to project requirements
+B. To document project assumptions
+C. To manage project team members
+D. To improve the quality of your process, check maintenance costs, and facilitate reuse
+Câu 118: In the context of requirements tracking, what is a traceability matrix used for? (Choose 2 answers)
+A. To track project progress in real time
+B. To generate new requirements automatically
+C. To map requirements to other system elements like design and code
+D. To identify missing or unnecessary requirements
+Câu 119: Which of the following is an example of risk avoidance strategy?
+A. Performing risk control activities to manage top-priority risks
+B. Documenting potential risks without any action
+C. Not engaging in the risky activity at all
+D. Ignoring minor risks and focusing only on major risks
+Câu 120: Which statement best describes the purpose of an Epic in an Agile project?
+A. To define detailed requirements and specifications for a project
+B. To represent a high-level user story that can be broken down into smaller, more detailed user stories
+C. To assign tasks to team members for implementation
+D. To prioritize project deliverables
+PHẦN 2: TỔNG HỢP ĐÁP ÁN ĐÚNG
+C (&lt;fmt:formatNumber&gt;)
+B (design)
+B, D
+B (It ensures diverse perspectives...)
+B (Functional Requirements)
+A, C
+B (To facilitate ongoing collaboration...)
+A, C
+B, D
+A (Maximizing user convenience)
+A, C
+A, C, D
+C (A superset of stakeholders)
+B (Product champion)
+A, B
+C (Following up after elicitation)
+C (What happens when an error occurs?)
+A, B, C
+A (To define clear and measurable conditions for success)
+A (exceptions)
+A, C
+B, D (Actors, Name)
+B (extend)
+D (Inferences)
+A, C
+A, B, C (hoặc A, B, C, D tùy chọn, nhưng phổ biến gồm A, B, C)
+D (External interface requirements)
+B, D
+B, C, D
+A, B, C (Feasible, Correct, Verifiable)
+C (Consistency)
+A, C
+A, B
+B (To visually depict the steps involved in a business process...)
+A (By providing a clear, visual representation...)
+C (Exclude it from the new system)
+B (A condition that must be satisfied or a state the system must be in before a use case can begin.)
+D (The data dictionary should contain information about each data element, including its data type, length, and any associated constraints)
+C (GOAL)
+C (Deterioration of system performance.)
+C (Efficiency)
+B (To validate requirements by finding errors and omissions...)
+B (Written requirements.)
+A (A horizontal prototype focuses on the user interface...)
+C (Enhanced focus on high-value features)
+C (It helps in delivering the most critical or valuable functionality as early as possible...)
+A, C, D
+B (To identify ambiguous or unverifiable requirements)
+A (Reducing time and effort during the elicitation process)
+B, C (hoặc tùy theo tùy chọn hiển thị dạng mở rộng/cơ chế)
+A, B, C (Project planning, Design and coding, Testing activities)
+A (User story)
+B (Some COTS packages can be used out of the box with little to no modification)
+D (To save money, or to accelerate development and access specialized expertise.)
+B, D
+A, B, D
+D (It is a spreadsheet that maps requirements to other project artifacts...)
+D (Increase the complexity of requirements)
+A (Risk avoidance is one way...) (tùy câu hỏi nhận diện thành phần ngoại lệ)
+A (less)
+A (Ensuring clarity, consistency, and avoiding ambiguities)
+B (By reducing rework, unnecessary features, and miscommunications.)
+D (design)
+A, B, C (hoặc A, B, C, D tùy biến thể hệ thống)
+C (Promptly communicate changes to requirements - đây là quyền lợi hoặc quy tắc khác)
+B (Elicitation, analysis, specification, and validation are iterative activities...)
+C (Elicitation is interwoven with analysis, specification, and validation.)
+D (Tùy chọn không nằm trong nhóm cơ bản)
+B (The project manager)
+A, B, C
+A (Prioritization work sessions)
+C (Scope creep)
+A, C
+A (Making them too vague or unmeasurable)
+C (Guaranteeing the project will stay on budget)
+B, C
+B (functional requirement)
+C (Following up after elicitation)
+A (The process of gathering requirements from stakeholders)
+A (To ensure all requirements are linked to their design, testing, and implementation pieces)
+A (exceptions)
+B (A verb followed by an object)
+D (Use Cases describe the interactions between the system and external entities.)
+A (To provide concise, actionable descriptions of features from the user perspective)
+A (It provides a visual representation to clarify ambiguous requirements and gather stakeholder feedback)
+A (By providing stakeholders with a visual representation to validate ambiguous requirements)
+A, C
+D (System features)
+A (It allows us to refer to specific requirements...)
+C (Consistency)
+A, B
+A (Correct and Feasible)
+A, C
+A (rectangles)
+B, D
+A, B, C
+C (Association)
+A, B (hoặc các ý đúng tùy theo biến thể, ví dụ A, B, D)
+C (Efficiency)
+B (It is a language with which a set of keywords that permits precise statements...)
+C, D, E (Maintainability, Security, Robustness)
+C (Evolutionary prototype)
+B (To test architectural feasibility)
+B (distraction by design)
+A (Must, Should, Could, Won't)
+C (Pairwise comparison and rank ordering)
+C (Walkthrough approach)
+A, B, C
+A, C
+A, B, C
+A, B, C
+A (It is a project in which new capabilities are added to an existing system.)
+B (Some COTS packages can be used out of the box with little to no modification)
+D (To save money, or to accelerate development and access specialized expertise.)
+C (A set of requirements that stakeholders have agreed to...)
+C (Agile processes manage change by monitoring risks...)
+D (To improve the quality of your process, check maintenance costs, and facilitate reuse)
+C, D
+C (Not engaging in the risky activity at all)
+B (To represent a high-level user story that can be broken down into smaller, more detailed user stories)
+===========================EXPLATION===============
+Q1. Đáp án C
+Giải thích: Các dự án phần mềm có nhiều cấp độ yêu cầu khác nhau (Business, User, Functional). Phân biệt rõ các loại này giúp đảm bảo rằng mọi nhu cầu của các bên liên quan (từ mục tiêu kinh doanh, mong muốn của người dùng đến chi tiết kỹ thuật) đều được hiểu và chuyển hóa thành các tính năng chính xác.
+Q2. Đáp án C
+Giải thích: Quy trình Requirement Engineering (Phát triển yêu cầu) chỉ bao gồm 4 bước chính: Elicitation (Khám phá), Analysis (Phân tích), Specification (Đặc tả) và Validation (Xác nhận). Design (Thiết kế) là bước tiếp theo trong vòng đời phát triển phần mềm, không thuộc quy trình lấy yêu cầu.
+Q3. Đáp án D
+Giải thích: &quot;Expectation Gap&quot; (Khoảng trống kỳ vọng) dùng để chỉ sự sai lệch giữa những gì khách hàng mong đợi sản phẩm sẽ làm được và những gì đội ngũ phát triển thực sự dự định xây dựng.
+Q4. Đáp án C
+Giải thích: Executive sponsor (Nhà tài trợ dự án/Ban giám đốc) là người trực tiếp trả tiền và bảo trợ cho dự án, nên được coi là &quot;khách hàng&quot;. Các vai trò như pháp chế (Legal staff) hay kiểm toán (Auditors) chỉ là các bên liên quan (Stakeholders).
+Q5. Đáp án C
+Giải thích: Bước đầu tiên của quy trình phát triển yêu cầu luôn là Elicitation (Thu thập/Khám phá yêu cầu) để lấy được thông tin và nhu cầu từ người dùng trước khi có thể phân tích hay viết tài liệu.
+Q6. Đáp án C
+Giải thích: Trong bước Phân tích (Analysis), hành động quan trọng nhất là &quot;phân rã&quot; (decompose) các yêu cầu ở mức cao (High-level) thành các chi tiết nhỏ hơn, cụ thể hơn để team dev có thể thực hiện.
+Q7. Đáp án D
+Giải thích: Một Business Analyst (BA) trong dự án Agile không chỉ làm việc với khách hàng hay dev, mà phải hợp tác chặt chẽ với tất cả các bên liên quan (Khách hàng, Quản lý, Đội dev...) để đảm bảo các yêu cầu luôn bám sát mục tiêu kinh doanh.
+Q8. Đáp án C
+Giải thích: Vai trò chính của BA là làm &quot;cầu nối&quot; (Bridging the gap) giữa những người có nhu cầu kinh doanh (stakeholders) và những người xây dựng hệ thống (developers), đảm bảo hai bên hiểu nhau.
+Q9. Đáp án F
+Giải thích: Một BA giỏi cần có một bộ kỹ năng rất toàn diện: Lắng nghe, phỏng vấn, tư duy hệ thống, phân tích, giao tiếp, mô hình hóa và cả sự sáng tạo. Nên tất cả các phương án đều đúng.
+Q10. Đáp án C
+Giải thích: Xác định đúng stakeholder giúp bạn biết mình cần lấy thông tin từ ai, ai có tầm ảnh hưởng lớn nhất đến dự án và lường trước được rủi ro nếu có một stakeholder không ủng hộ dự án.
+Q11. Đáp án A
+Giải thích: Context diagram (Biểu đồ ngữ cảnh) cung cấp cái nhìn tổng quan nhất ở mức cao (high-level) về hệ thống và cách nó tương tác với các thực thể bên ngoài (external entities).
+Q12. Đáp án D
+Giải thích: Xác định rõ phạm vi (Scope) ngay từ đầu giúp thiết lập giới hạn cho dự án, từ đó ngăn chặn tình trạng &quot;scope creep&quot; (dự án phình to mất kiểm soát vì bị thêm yêu cầu liên tục) và giúp team giữ được sự tập trung.
+Q13. Đáp án A
+Giải thích: Khi thu thập yêu cầu từ nhiều stakeholders khác nhau, thách thức lớn nhất là làm sao đồng bộ hóa các ưu tiên của họ và giải quyết các quan điểm, lợi ích trái chiều.
+Q14. Đáp án C
+Giải thích: Khi có xung đột giữa Dev và Khách hàng, sự ưu tiên thường nghiêng về khách hàng để đảm bảo sản phẩm giải quyết được vấn đề thực tế, nhưng sự ưu tiên đó vẫn phải dựa trên việc nó có phù hợp với mục tiêu kinh doanh (business objectives) hay không.
+Q15. Đáp án A
+Giải thích: User persona là một nhân vật hư cấu (fictional) được team tạo ra để đại diện cho một tệp người dùng lý tưởng, giúp team dễ hình dung và thiết kế tính năng phù hợp cho họ.
+Q16. Đáp án C
+Giải thích: Mối quan hệ &quot;extend&quot; trong Use Case thể hiện một luồng hành động thay thế mang tính &quot;tùy chọn&quot; (optional). Nghĩa là chức năng Search Vendor Catalogs có thể được gọi hoặc không khi thực hiện Request a Chemical.
+Q17. Đáp án C
+Giải thích: Code reviews là quá trình các developer kiểm tra mã nguồn của nhau để tìm lỗi, đây không phải là kỹ thuật để thu thập yêu cầu (elicitation) từ khách hàng.
+Q18. Đáp án A
+Giải thích: Trước khi bắt tay vào thu thập yêu cầu, việc đầu tiên và tiên quyết nhất là phải xác định và mời đúng các stakeholders (những người nắm giữ thông tin và quyền quyết định).
+Q19. Đáp án B
+Giải thích: Data Definitions (Định nghĩa dữ liệu) tập trung vào việc mô tả các đặc điểm, kiểu dữ liệu, và cấu trúc của dữ liệu mà hệ thống sẽ thao tác.
+Q20. Đáp án B
+Giải thích: User Story là một câu mô tả ngắn gọn về nhu cầu của người dùng, thường theo cấu trúc kinh điển: “Là một [vai trò], tôi muốn [mục tiêu] để [nhận được lợi ích gì]”.
+Phần 2: Phân tích, Đặc tả và Quản lý yêu cầu (30 câu tiếp theo)
+Q21 (Q1 Phần 2). Đáp án B
+Giải thích: &quot;Scope Creep&quot; là sự phình to yêu cầu từ phía khách hàng hoặc do quản lý kém. Còn &quot;Gold Plating&quot; là khi chính đội ngũ phát triển (dev) tự ý thêm vào các tính năng &quot;màu mè&quot; không cần thiết mà khách hàng không hề yêu cầu.
+Q22 (Q2 Phần 2). Đáp án D
+Giải thích: Nhận định D sai vì Quality attributes (Thuộc tính chất lượng / Yêu cầu phi chức năng) mô tả các tiêu chuẩn về hiệu năng, bảo mật, độ tin cậy... chứ không mô tả &quot;hành vi chức năng&quot; (functional behaviors) của hệ thống.
+Q23 (Q3 Phần 2). Đáp án B (False)
+Giải thích: Khẳng định này sai. Nhân viên pháp chế, kiểm toán viên, nhà cung cấp là các bên liên quan (Stakeholders), chứ không phải là Khách hàng (Customers) - những người mua hoặc sử dụng sản phẩm trực tiếp.
+Q24 (Q5 Phần 2). Đáp án A, B
+Giải thích: Ưu tiên (Prioritization) giúp team biết nên làm tính năng nào mang lại giá trị cao nhất trước (A) và giúp quyết định các tính năng sẽ được đóng gói vào phiên bản release nào (B).
+Q25 (Q6 Phần 2). Đáp án B
+Giải thích: Quá trình chuyển hóa các &quot;nhu cầu&quot; thô của khách hàng (customer needs) thành các &quot;yêu cầu phần mềm&quot; rõ ràng có cấu trúc chính là bước Phân tích (Analysis).
+Q26 (Q7 Phần 2). Đáp án B
+Giải thích: Project Manager (Quản lý dự án) là người chịu trách nhiệm chính trong việc truyền đạt các thông tin về tiến độ, lịch trình, và tình trạng của dự án đến mọi người. BA chỉ truyền đạt thông tin về &quot;Yêu cầu&quot; (Requirements).
+Q27 (Q9 Phần 2). Đáp án D
+Giải thích: BA có nhiệm vụ thu thập (Elicit), phân tích (Analyze), ghi chép (Document) và truyền đạt (Communicate). Việc &quot;Đảm bảo chất lượng yêu cầu&quot; (Assure) thường cần sự phối hợp đánh giá của QA hoặc cả team, không phải là nhiệm vụ độc lập của BA.
+Q28 (Q11 Phần 2). Đáp án B
+Giải thích: Product vision (Tầm nhìn sản phẩm) mô tả sản phẩm hoàn hảo ở tương lai xa. Còn Project scope (Phạm vi dự án) chỉ xác định ranh giới những gì sẽ được làm trong giới hạn của &quot;dự án hiện tại&quot; (một phần của vision).
+Q29 (Q12 Phần 2). Đáp án C
+Giải thích: Nêu rõ &quot;Scope and limitations&quot; (Phạm vi và giới hạn) giúp thiết lập kỳ vọng thực tế cho các bên liên quan bằng cách nói thẳng những gì hệ thống SẼ LÀM và KHÔNG LÀM, tránh tranh cãi về sau.
+Q30 (Q15 Phần 2). Đáp án C
+Giải thích: Việc thiết lập kỳ vọng cho Product Champion mang lại nhiều lợi ích về quy trình, nhưng nó không thể &quot;đảm bảo&quot; (guarantee) dự án sẽ hoàn thành đúng ngân sách, vì ngân sách bị ảnh hưởng bởi vô số yếu tố kỹ thuật và con người khác.
+Q31 (Q17 Phần 2). Đáp án C
+Giải thích: Tổng hợp yêu cầu từ nhiều người dùng rất khó vì thông tin đầu vào thường rất đa dạng, đến từ nhiều góc nhìn khác nhau và không có cấu trúc thống nhất (unstructured).
+Q32 (Q18 Phần 2). Đáp án A
+Giải thích: Bạn phải Validation (Xác nhận) lại tài liệu yêu cầu với stakeholders để đảm bảo rằng những gì bạn hiểu và viết ra hoàn toàn khớp với mục tiêu kinh doanh và mong đợi thực tế của họ.
+Q33 (Q20 Phần 2). Đáp án B
+Giải thích: Use Case Diagram mô tả hành vi (behavior) và sự tương tác giữa hệ thống với người dùng. Nó tuyệt đối KHÔNG ĐƯỢC DÙNG để vẽ hay thể hiện giao diện người dùng (GUI - Graphical User Interface).
+Q34 (Q21 Phần 2). Đáp án D
+Giải thích: User là một cá nhân (hoặc hệ thống) bằng xương bằng thịt đang dùng phần mềm. Còn Actor trong Use Case là một khái niệm &quot;trừu tượng&quot; đại diện cho một vai trò (ví dụ: Admin, Guest) mà người dùng đảm nhận.
+Q35 (Q23 Phần 2). Đáp án D
+Giải thích: User Story rất ngắn gọn, đơn giản (dùng để thảo luận trong Agile). Trong khi đó, Use Case là một tài liệu hoàn chỉnh, chứa mô tả dài và chi tiết về các bước, luồng chính, luồng phụ của hệ thống.
+Q36 (Q24 Phần 2). Đáp án A
+Giải thích: Câu &quot;Mọi đơn hàng đều có phí vận chuyển&quot; là một sự thật hiển nhiên/điều kiện luôn đúng trong hoạt động kinh doanh của công ty, do đó nó được xếp loại là Fact (Sự thật/Sự kiện).
+Q37 (Q25 Phần 2). Đáp án D
+Giải thích: Theo phân loại Business Rules, chúng ta có các loại: Facts, Constraints, Action Enablers, Inferences, Computations. Không có khái niệm nào là &quot;Operational Rules&quot;.
+Q38 (Q28 Phần 2). Đáp án A, B, C
+Giải thích: Việc gán nhãn (ví dụ REQ-01, REQ-02...) cho từng yêu cầu giúp dễ dàng truy vết (Traceability), dễ dàng tái sử dụng ở dự án khác, và giúp team giao tiếp chính xác khi chỉ đích danh một yêu cầu nào đó.
+Q39 (Q29 Phần 2). Đáp án D
+Giải thích: Tài liệu SRS được viết để team dự án (PM, Dev, Tester, Người viết docs) đọc. Các &quot;nhà sản xuất phần cứng&quot; (Hardware Manufacturers) không liên quan và không phải là đối tượng đọc tài liệu của phần mềm.
+Q40 (Q30 Phần 2). Đáp án C
+Giải thích: &quot;Yêu cầu ngầm&quot; (Implicit requirements) thường trở thành &quot;Unknown unknowns&quot; (Những thứ chưa biết mà ta không biết là mình chưa biết) vì khách hàng coi nó là điều hiển nhiên nên không nói ra, và BA cũng không nhận ra để mà hỏi.
+Q41 (Q31 Phần 2). Đáp án B
+Giải thích: Dùng &quot;câu chủ động&quot; (Active voice) khi viết yêu cầu giúp xác định rõ Ai (Chủ thể/Hệ thống) thực hiện Hành động gì, làm cho yêu cầu cực kỳ rõ ràng và tránh hiểu lầm.
+Q42 (Q32 Phần 2). Đáp án C
+Giải thích: Một nguyên tắc viết yêu cầu tốt là sử dụng ngôn từ đơn giản, tránh các thuật ngữ (jargon) khó hiểu, và giữ cho các câu ngắn gọn, đi thẳng vào vấn đề.
+Q43 (Q33 Phần 2). Đáp án A
+Giải thích: Decision tables (Bảng quyết định) là công cụ hoàn hảo để biểu diễn một tập hợp các điều kiện logic phức tạp (Boolean logic) và kết quả của chúng dưới dạng bảng trực quan.
+Q44 (Q34 Phần 2). Đáp án A
+Giải thích: State-transition diagram (Biểu đồ chuyển trạng thái) dùng để trực quan hóa các trạng thái (states) của một đối tượng và các sự kiện (events) làm kích hoạt sự chuyển đổi giữa các trạng thái đó.
+Q45 (Q35 Phần 2). Đáp án D
+Giải thích: Các quá trình (process) trong sơ đồ luồng dữ liệu (DFD) nên được đặt tên bằng một cấu trúc Động từ + Tân ngữ ngắn gọn (Ví dụ: &quot;Calculate Total&quot;, &quot;Print Report&quot;).
+Q46 (Q36 Phần 2). Đáp án A, B, C
+Giải thích: Dashboard là một màn hình hiển thị sử dụng nhiều biểu đồ/văn bản kết hợp nhằm mang lại một cái nhìn tổng quan, đa chiều về dữ liệu của tổ chức. Nó không phải là một cuốn sổ quảng cáo (brochure).
+Q47 (Q38 Phần 2). Đáp án B
+Giải thích: Trong sơ đồ Thực thể - Liên kết (ERD), một Entity (Thực thể - ví dụ: Khách hàng, Sản phẩm) luôn được vẽ bằng một hình chữ nhật (Rectangle).
+Q48 (Q39 Phần 2). Đáp án C
+Giải thích: Trong cú pháp viết yêu cầu chất lượng (Planguage), &quot;STRETCH&quot; định nghĩa một mức hiệu suất mục tiêu lý tưởng và mong muốn đạt được, cao hơn mức độ tối thiểu bắt buộc.
+Q49 (Q40 Phần 2). Đáp án C
+Giải thích: Integrity (Tính toàn vẹn) là thuộc tính đảm bảo rằng dữ liệu không bị mất mát, sai lệch và luôn giữ được tính chính xác khi người dùng nhập vào hệ thống.
+Q50 (Q41 Phần 2). Đáp án D
+Giải thích: Usability (Tính dễ sử dụng) là một thuộc tính chất lượng bên ngoài (External quality attribute) bởi vì người dùng có thể trực tiếp quan sát và cảm nhận nó trong quá trình chạy và thao tác phần mềm.
+Q43. Đáp án C: Mock-ups (bản phác thảo tĩnh) mang lại lợi ích chính là giúp làm rõ các thiết kế giao diện người dùng từ sớm trước khi tốn công lập trình.
+Q44. Đáp án C: &quot;Evolutionary prototype&quot; (Bản mẫu tiến hóa) là dạng bản mẫu được đắp thêm tính năng liên tục qua các vòng lặp cho đến khi nó trở thành sản phẩm cuối cùng có thể release.
+Q45. Đáp án A: Đánh giá ưu tiên giúp bạn phân bổ nguồn lực giới hạn để triển khai các tính năng mang lại giá trị cao nhất (highest value) với chi phí thấp nhất (lowest cost).
+Q46. Đáp án A: Sử dụng defect checklist (danh sách kiểm tra lỗi) trong lúc validation giúp nhận diện các vấn đề tiềm ẩn trong tài liệu yêu cầu một cách có hệ thống.
+Q47. Đáp án D: Validation là quá trình kiểm tra xem bạn đã viết &quot;đúng yêu cầu chưa&quot; (truy xuất ngược về business objectives). Việc &quot;cho phép team xây dựng một giải pháp chính xác&quot; là kết quả của toàn bộ quá trình phát triển, không phải định nghĩa cốt lõi của validation.
+Q48. Đáp án B: &quot;Reuse frequency&quot; (Tần suất tái sử dụng) không được xem là một khía cạnh (dimension) tiêu chuẩn của việc tái sử dụng yêu cầu khi chuyển từ dự án này sang dự án khác.
+Q49. Đáp án C: Để dễ dàng tham chiếu, các yêu cầu có thể tái sử dụng nên được lưu trữ bằng cách liên kết (linking) chúng từ một vị trí dùng chung như cơ sở dữ liệu hoặc công cụ quản lý yêu cầu.
+Q50. Đáp án A: Việc ước lượng yêu cầu (requirements estimation) trong lập kế hoạch dự án đóng vai trò giúp xác định công sức (effort) cần thiết cho việc thiết kế và phát triển.
+Q51. Đáp án B: &quot;On-premises deployment&quot; (triển khai tại máy chủ nội bộ) hoàn toàn trái ngược với bản chất của SaaS (Phần mềm dạng Dịch vụ - thường lưu trữ tập trung trên cloud và dùng qua internet).
+Q52. Đáp án C: Khi chọn giải pháp đóng gói (packaged solutions), mức độ chi tiết của yêu cầu phụ thuộc vào chi phí kỳ vọng, thời gian đánh giá và số lượng các giải pháp ứng viên.
+Q53. Đáp án D: Các công ty thường thuê ngoài (outsourcing) để tiết kiệm tiền, đẩy nhanh tốc độ phát triển và tiếp cận được với nguồn chuyên môn đặc thù.
+Q54. Đáp án D: Mục đích chính của Requirements Baseline (Đường cơ sở yêu cầu) là thiết lập một bộ yêu cầu ban đầu đã được các bên đồng thuận để làm chuẩn.
+Q55. Đáp án B: Quy trình kiểm soát thay đổi (change control process) nhằm mục đích cung cấp sự minh bạch (visibility) và khả năng kiểm soát đối với các đề xuất thay đổi.
+Q56. Đáp án B: Động lực chính cho việc truy vết yêu cầu (requirements tracing) là tạo điều kiện thuận lợi cho việc phân tích tác động của sự thay đổi (Change impact analysis).
+Q57. Đáp án B: Mối quan hệ hợp tác giữa team dev và stakeholders giúp điều chỉnh đồng bộ giữa mục tiêu kinh doanh, kỹ thuật và nhu cầu người dùng, từ đó tránh hiểu lầm.
+Q58. Đáp án A, C, D: Các yếu tố cốt lõi của quản lý rủi ro bao gồm: Đánh giá rủi ro (Risk assessment), Kiểm soát rủi ro (Risk control) và Giảm thiểu rủi ro (Risk reduction).
+Q59. Đáp án B: Trong phương pháp Agile, &quot;Expect stability&quot; (Kỳ vọng sự ổn định) là một nhận định sai, vì Agile luôn chào đón và thích ứng với sự thay đổi của yêu cầu.
+Phần 2: Ôn tập các khái niệm (Từ Q1 đến Q40 của khối tiếp theo)
+(Lưu ý: Bỏ qua 1 đoạn câu hỏi mồ côi không có số thứ tự trong file của bạn để đảm bảo số đếm liên mạch)
+Q1. Đáp án C: Yêu cầu (Requirements) được định nghĩa chuẩn xác nhất là sự đặc tả những gì cần được lập trình, mô tả hành vi của hệ thống, các thuộc tính hoặc các ranh giới ràng buộc hệ thống.
+Q2. Đáp án B, D: Product requirements (yêu cầu sản phẩm) tập trung vào hành vi và thuộc tính của phần mềm. Còn Project requirements (yêu cầu dự án) bao gồm các yếu tố bổ trợ như đào tạo nhân sự và thay đổi hạ tầng.
+Q3. Đáp án A: Khách hàng (Customers) chỉ là một tập con (subset) nằm trong nhóm rất rộng các bên liên quan (Stakeholders).
+Q5. Đáp án A: &quot;Chọn mô hình phát triển phần mềm&quot; (SDLC) là công việc của quản lý dự án, không nằm trong quy trình phát triển yêu cầu (Requirements development process).
+Q6. Đáp án A, C, D: Các &quot;best practices&quot; trong phân tích yêu cầu bao gồm việc mô hình hóa môi trường, tạo prototypes để xác nhận tính năng, và tránh sa đà vào thiết kế UI/kiến trúc từ quá sớm.
+Q7. Đáp án A: Cách tốt nhất để chuyển sang vai trò Business Analyst (BA) là thông qua một chương trình học việc có người cố vấn (mentoring).
+Q8. Đáp án A, C, D: Trong Agile, một BA nên định nghĩa một quy trình linh hoạt, giúp xác nhận nhu cầu khách hàng vào product backlog, và điều phối việc sắp xếp thứ tự ưu tiên (prioritization).
+Q10. Đáp án A, C, D: (Câu này có nội dung tương tự Q8) BA trong Agile cần quy trình linh hoạt, xác nhận nhu cầu thực tế trên backlog và điều phối việc ưu tiên công việc.
+Q11. Đáp án A, C: Khi định nghĩa phạm vi (scope) và ranh giới (limitations), bạn cần liệt kê các tính năng chính yếu mang tính cạnh tranh, đồng thời nêu rõ những gì sẽ được bao gồm và KHÔNG được bao gồm trong phiên bản đó.
+Q12. Đáp án A: Mục đích chính của tài liệu Vision and Scope là để xác định ranh giới (bounds) và các mục tiêu (objectives) cốt lõi của dự án.
+Q13. Đáp án B: &quot;Product champion&quot; là người đại diện được chỉ định cho một lớp người dùng cụ thể, chuyên cung cấp yêu cầu cho nhóm mà họ đại diện.
+Q14. Đáp án B: Khi dự án quá phức tạp và Product owner gặp khó khăn, giải pháp tốt nhất là hợp tác với nhiều BA và Product champions để thu thập yêu cầu toàn diện hơn.
+Q15. Đáp án A: Thách thức lớn nhất khi xác nhận các yêu cầu phi chức năng (NFRs) là chúng thường mang tính chủ quan và rất khó để đo lường một cách khách quan.
+Q16. Đáp án A: Phương pháp thực tế nhất để đảm bảo các tài liệu luôn sẵn sàng cho việc xác nhận độc lập (IV&amp;V) là tạo ra một danh sách kiểm tra (checklist) các tài liệu và hệ thống cần thiết.
+Q17. Đáp án A: Lợi thế của Acceptance tests (Kiểm thử chấp nhận) trong quá trình validation là đảm bảo phần mềm đáp ứng đúng kỳ vọng của người dùng trước khi thực sự phát hành.
+Q18. Đáp án A: Truy vết (Traceability) rất quan trọng để theo dõi các sự thay đổi và đảm bảo chúng luôn bám sát (alignment) với mục tiêu ban đầu của dự án.
+Q19. Đáp án A: Phản hồi của stakeholder rất quan trọng để đảm bảo rằng các yêu cầu hoàn toàn phù hợp với mục tiêu kinh doanh và nhu cầu thực tế của người dùng.
+Q20. Đáp án D: User story chỉ bao gồm các mô tả ngắn gọn, đơn giản. Trong khi đó, Use case bao gồm các mô tả đầy đủ, chi tiết và dài hơn rất nhiều.
+Q21. Đáp án C: Quan hệ &quot;extend&quot; trong Use case cho biết &quot;Search Vendor Catalogs&quot; là một luồng hành động thay thế mang tính tùy chọn (optional) cho luồng mặc định &quot;Request a Chemical&quot;.
+Q22. Đáp án A: Cấu trúc chuẩn và phổ biến nhất của User story là: &quot;As a , I want so that &quot;.
+Q24. Đáp án B: Lợi ích của việc dùng Business process modeling (mô hình hóa quy trình kinh doanh) là nó làm nổi bật các quy tắc (rules) chi phối luồng quy trình và các điểm ra quyết định.
+Q26. Đáp án D: &quot;Operational Rules&quot; (Quy tắc vận hành) không nằm trong hệ thống phân loại tiêu chuẩn của Business Rules.
+Q27. Đáp án A, B, C: Đánh nhãn yêu cầu trong SRS giúp bạn dễ dàng tham chiếu, tái sử dụng trong dự án khác và hỗ trợ việc trao đổi thông tin giữa các thành viên thuận lợi hơn.
+Q28. Đáp án F: System features (Các tính năng hệ thống) là một phần độc lập, không nằm trong mục Overall description (Mô tả tổng quan) của mẫu tài liệu SRS chuẩn.
+Q29. Đáp án D: Yêu cầu về User interfaces (Giao diện người dùng) được phân loại vào mục External interface requirements (Yêu cầu giao diện bên ngoài) trong tài liệu SRS.
+Q30. Đáp án B, C: Bạn không cần viết quá chi tiết những điều đã hiển nhiên với team dev, hoặc có thể viết ít chi tiết hơn nếu dự án làm nội bộ và dev đã rất am hiểu nghiệp vụ.
+Q31. Đáp án B: Bước quan trọng trong quy trình peer review để xử lý sự mơ hồ là tổ chức một cuộc họp chính thức, nơi người tham gia so sánh cách họ hiểu về từng yêu cầu để cùng thảo luận.
+Q32. Đáp án C: Yêu cầu ngầm (Implicit requirements) thường tồn tại nhưng lại không được nhận ra hoặc không được thu thập đầy đủ trong quá trình elicitation.
+Q34. Đáp án B: Mục đích chính của biểu đồ chuyển trạng thái (STD) là thể hiện các trạng thái có thể có của một đối tượng và sự chuyển đổi giữa chúng dựa trên các sự kiện hoặc điều kiện.
+Q35. Đáp án B: Swimlane diagram là mô hình phân tích diễn tả luồng quy trình (process flow) chuyển tiếp từ bước này sang bước khác một cách trực quan.
+Q36. Đáp án B: Câu hỏi đầu tiên cần hỏi khi lấy yêu cầu về báo cáo (reporting) từ khách hàng là: &quot;Hiện tại các anh/chị đang sử dụng những báo cáo nào?&quot; (What reports are currently used?).
+Q37. Đáp án A: Data dictionary (Từ điển dữ liệu) là một tập hợp các định nghĩa về các phần tử dữ liệu và cấu trúc dữ liệu liên quan trực tiếp đến hệ thống.
+Q40. Đáp án B: Đặc điểm quan trọng nhất của yêu cầu hiệu năng (Performance requirements) là chúng phải chỉ định được các chỉ số định lượng (quantitative metrics) rõ ràng như thời gian phản hồi, lưu lượng dữ liệu,....
+Phần 3: Phân tích, Đặc tả và Quản lý yêu cầu (Tiếp theo)
+Q41. Đáp án C: Việc bổ sung thêm chức năng mà không đánh giá kỹ tác động (impact) thường mang lại hậu quả là làm suy giảm hiệu năng của hệ thống (Deterioration of system performance).
+Q42. Đáp án A, B, C: Một prototype (bản mẫu) phần mềm có thể là một bản triển khai một phần (partial), một khả năng có thể xảy ra (possible), hoặc một bản triển khai sơ bộ (preliminary) của sản phẩm mới.
+Q43. Đáp án A: Mock-up (bản phác thảo giao diện) được gọi là bản mẫu ngang (horizontal prototype - tập trung vào bề nổi UI), trong khi Proof of Concept (PoC) được gọi là bản mẫu dọc (vertical prototype - đi sâu vào kiến trúc/logic).
+Q44. Đáp án C: Nhận định sai về Throwaway prototype (bản mẫu dùng một lần) là gọi nó là &quot;releasable prototype&quot; (có thể phát hành). Đặc tính của nó là làm nháp để hiểu yêu cầu rồi bỏ đi chứ không dùng làm sản phẩm cuối.
+Q45. Đáp án D: Phương pháp phân bổ $100 (100-dollar test) là một kỹ thuật ưu tiên, nhưng phương án &quot;$1000&quot; là sai tên gọi.
+Q46. Đáp án B: Phương pháp MoSCoW phân loại yêu cầu thành 4 nhóm: Must (Phải có), Should (Nên có), Could (Có thể có), và Won't (Sẽ không có).
+Q47. Đáp án A: Quá trình Validation (Xác nhận) tập trung vào việc đánh giá xem bạn đã viết &quot;đúng yêu cầu chưa&quot; (the right requirements - có giải quyết đúng vấn đề kinh doanh không).
+Q48. Đáp án A: Mô hình Kano giúp phân tích yêu cầu người dùng bằng cách phân loại các tính năng thành nhóm cơ bản (basic), hiệu năng (performance), và đem lại sự thích thú (delight).
+Q49. Đáp án A: Mục đích chính của việc tái sử dụng yêu cầu (requirements reuse) là để tiết kiệm thời gian, cải thiện tính nhất quán và giảm thiểu rủi ro cho dự án.
+Q50. Đáp án A: Tái sử dụng yêu cầu giúp tăng hiệu quả dự án nhờ việc giảm thiểu thời gian và công sức bỏ ra trong giai đoạn thu thập yêu cầu (elicitation).
+Q51. Đáp án B: Sedevel đã phát triển một bảng tính (spreadsheet) chuyên dụng để hỗ trợ việc ước lượng công sức phát triển yêu cầu.
+Q52. Đáp án A: Nhận định sai về dự án Agile là &quot;Lập trình viên ít tương tác với khách hàng sau khi bắt đầu lập trình&quot;. Ngược lại, Agile đòi hỏi sự tương tác và phản hồi liên tục với khách hàng.
+Q53. Đáp án A: &quot;Xây dựng hệ thống bằng nhân sự nội bộ&quot; (build systems by using your own staff) là phát triển tùy chỉnh, không phải đặc điểm của giải pháp mua sẵn (packaged solution).
+Q54. Đáp án A: Việc &quot;tận dụng các công cụ offline&quot; không phải là đặc trưng hay vấn đề trọng tâm khi nhắc đến các dự án thuê ngoài (outsourced projects).
+Q55. Đáp án C: Các hoạt động cốt lõi của Quản lý yêu cầu (Requirements management) bao gồm: kiểm soát phiên bản, kiểm soát thay đổi, theo dõi trạng thái yêu cầu, và truy vết yêu cầu (tracing).
+Q56. Đáp án B: Trong các dự án phần mềm, thay đổi thường được quản lý linh hoạt thông qua các thực tiễn như đánh giá rủi ro, hội đồng phê duyệt thay đổi (change boards) và lập kế hoạch theo từng vòng lặp.
+Q58. Đáp án B: Lợi ích lớn nhất của việc hợp tác giữa team dev và các bên liên quan là giúp đồng bộ hóa các nhu cầu về kinh doanh, kỹ thuật và người dùng để tránh hiểu lầm.
+Q59. Đáp án A: Đánh giá rủi ro (Risk assessment) là quá trình kiểm tra dự án để phát hiện và nhận diện các mối đe dọa tiềm ẩn.
+Q60. Đáp án C: Product backlogs (Danh sách công việc tồn đọng của sản phẩm) thường bao gồm cả các User stories (tính năng) và Defects (lỗi cần sửa).
+Phần 4: Đề thêm (Từ Câu 1 đến Câu 32)
+Câu 1. Đáp án C: Thẻ &lt;fmt:formatNumber&gt; trong JSTL được sử dụng để định dạng các con số theo tiêu chuẩn của từng quốc gia/khu vực (locales).
+Q2. Đáp án B: Thiết kế (design) thuộc giai đoạn phát triển, không phải là một bước trong quy trình phát triển yêu cầu (elicitation, analysis, validation, documentation).
+Q3. Đáp án B, D: Khi chốt yêu cầu, mọi người tham gia phải hiểu rõ việc ký duyệt (signing off) có ý nghĩa gì, và điều này giúp đảm bảo khách hàng cùng dev có chung sự thấu hiểu về mục tiêu dự án.
+Q4. Đáp án B: Việc có một nhóm nhỏ đại diện từ nhiều lĩnh vực tham gia ra quyết định sẽ mang lại các góc nhìn đa dạng (diverse perspectives) từ quản lý, khách hàng, BA, Dev đến marketing.
+Q5. Đáp án B: Functional Requirements (Yêu cầu chức năng) mô tả các hành vi, thông tin và các hành động/phản hồi cụ thể mà hệ thống phải thực hiện.
+Q6. Đáp án A, C: Thực tiễn tốt trong lúc lấy yêu cầu là xác định sớm tầm nhìn/phạm vi dự án, đồng thời nhận diện rõ các nhóm người dùng (user classes) để không bỏ sót nhu cầu của họ.
+Q7. Đáp án B: BA cần truyền đạt yêu cầu một cách hiệu quả để tạo điều kiện thuận lợi cho sự hợp tác liên tục và đảm bảo cả team đều hiểu đúng những gì cần làm.
+Q8. Đáp án A, C: Nhiệm vụ điển hình của BA là định nghĩa yêu cầu kinh doanh, làm rõ tầm nhìn dự án, và đảm bảo tất cả thành viên trong team hiểu đầy đủ yêu cầu đó.
+Q9. Đáp án B, D: BA tập trung vào việc thu thập, phân tích, viết docs và xác nhận nhu cầu của stakeholders. Họ đóng vai trò trung tâm trong việc thu thập thông tin của sản phẩm.
+Q10. Đáp án A: Đối với một khách hàng sử dụng quầy kiosk tự phục vụ, lợi ích mà họ quan tâm nhất chắc chắn là tối đa hóa sự tiện lợi khi sử dụng (Maximizing user convenience).
+Q11. Đáp án A, C: Biểu đồ ngữ cảnh (Context diagram) phác họa ranh giới giữa hệ thống và các thực thể bên ngoài, chỉ thể hiện sự tương tác mà không đi sâu vào chi tiết bên trong hệ thống.
+Q12. Đáp án A, C, D: Một Tuyên bố Tầm nhìn (Vision statement) cần có: khách hàng mục tiêu, lợi ích chính trị giá của sản phẩm, và sự so sánh với các lựa chọn thay thế hiện tại.
+Q13. Đáp án C: User (người dùng) chỉ là một tập con (subset), chứ KHÔNG PHẢI là &quot;tập cha&quot; (superset) của stakeholders (các bên liên quan).
+Q14. Đáp án B: Product champion là một người đại diện được chỉ định riêng biệt để cung cấp yêu cầu cho nhóm người dùng mà họ đại diện.
+Q15. Đáp án A, B: Product champion có nhiệm vụ thu thập yêu cầu từ những người dùng khác, giải quyết sự bất đồng, và đóng vai trò là cầu nối giao tiếp chính với BA.
+Q16. Đáp án C: &quot;Sắp xếp và chia sẻ ghi chú&quot; là hành động được thực hiện ở bước theo dõi sau khi đã thu thập yêu cầu (Following up after elicitation).
+Q17. Đáp án C: Khi muốn khai thác thông tin về các trường hợp ngoại lệ (exceptions) trong một quy trình, câu hỏi tốt nhất là &quot;Điều gì sẽ xảy ra khi có lỗi?&quot; (What happens when an error occurs?).
+Q18. Đáp án A, B, C: Các dấu hiệu cho thấy bạn đã hoàn thành việc lấy yêu cầu: người dùng bắt đầu lặp lại các vấn đề cũ, các tính năng mới bị đánh giá là ngoài phạm vi, hoặc các yêu cầu mới đều có mức ưu tiên rất thấp.
+Q19. Đáp án A: Cần chỉ định Tiêu chí chấp nhận (Acceptance criteria) vì nó giúp xác định các điều kiện rõ ràng và có thể đo lường được để đánh giá sự thành công của sản phẩm.
+Q21. Đáp án A, C: Trong Use Case, &quot;Preconditions&quot; là điều kiện tiên quyết phải đạt được trước khi chạy, còn &quot;Postconditions&quot; mô tả trạng thái của hệ thống sau khi Use Case chạy thành công.
+Q22. Đáp án B, D: Bất kỳ Use Case nào cũng bắt buộc phải có hai thành phần cơ bản nhất: Tên (Name) và Tác nhân tham gia (Actors).
+Q23. Đáp án B: Quan hệ &quot;extend&quot; (Mở rộng). Việc &quot;Viết séc&quot; (Write a check) có thể là một luồng phụ/luồng tùy chọn để thanh toán hóa đơn (Pay a bill).
+Q24. Đáp án D: &quot;Nếu một khách hàng tiềm năng không phản hồi trong 30 ngày, họ sẽ bị đánh dấu là cold lead&quot;. Đây là một sự suy luận (Inferences) rút ra từ hành vi của người dùng.
+Q25. Đáp án A, C: Business rule (quy tắc kinh doanh) định nghĩa hoặc giới hạn một khía cạnh của doanh nghiệp để kiểm soát hành vi của hệ thống. Phân loại chúng giúp dễ dàng áp dụng vào ứng dụng phần mềm.
+Q26. Đáp án A, B, C: Bạn có thể tìm thấy Business rules từ &quot;kiến thức chung&quot; của nhân viên lâu năm, từ các hệ thống cũ (legacy systems), và từ các tài liệu/chính sách hiện có.
+Q27. Đáp án D: Trong tài liệu SRS, Giao diện người dùng (User interfaces) nằm trong phần Yêu cầu giao diện bên ngoài (External interface requirements).
+Q28. Đáp án B, D: Khi viết SRS, cần tuân thủ định dạng nhất quán để tăng độ rõ ràng, và SRS phải được dùng để ghi chép chính thức các yêu cầu đã được thống nhất.
+Q29. Đáp án B, C, D: Khi viết yêu cầu dữ liệu, cần lập từ điển dữ liệu (data dictionary), mô tả logic các báo cáo sẽ xuất, và mô tả quy định về việc lưu trữ, bảo vệ tính toàn vẹn của dữ liệu.
+Q30. Đáp án A, B, C: Các câu phát biểu yêu cầu phải luôn đảm bảo 3 yếu tố: Feasible (Khả thi), Correct (Chính xác), và Verifiable (Có thể kiểm chứng được).
+Q31. Đáp án C: Tính nhất quán (Consistency) đảm bảo rằng không có yêu cầu nào bị mâu thuẫn hay xung đột với các yêu cầu kinh doanh, người dùng hay hệ thống khác.
+Q32. Đáp án A, C: Một yêu cầu được viết tốt phải Hoàn chỉnh (Complete - cung cấp đủ thông tin cho dev lập trình) và được Ưu tiên (Prioritized - đánh giá mức độ quan trọng so với giá trị kinh doanh).
+Phần 3: Các kỹ thuật phân tích và Mô hình hóa yêu cầu (Câu 33 - 52)
+Câu 33. Đáp án A, B: Hai mục tiêu quan trọng nhất khi viết yêu cầu là: bất kỳ ai đọc cũng có chung một cách hiểu (A), và cách hiểu của họ phải khớp đúng với ý định mà người tác giả muốn truyền tải (B).
+Q34. Đáp án B: Biểu đồ Swimlane (đường bơi) nhằm mục đích trực quan hóa các bước trong một quy trình kinh doanh, chia thành các &quot;làn&quot; đại diện cho các hệ thống hoặc tác nhân khác nhau.
+Q35. Đáp án A: Mô hình hóa yêu cầu giúp giải quyết xung đột bằng cách cung cấp một bức tranh trực quan, rõ ràng để mọi người cùng xem và căn chỉnh cho thống nhất.
+Q36. Đáp án C: Nếu một báo cáo được hệ thống tạo ra nhưng không ai dùng đến (not used), BA nên loại bỏ nó (Exclude) khỏi hệ thống mới để tránh lãng phí công sức lập trình.
+Q37. Đáp án B: Pre-Condition (Điều kiện tiên quyết) là một điều kiện phải được thỏa mãn hoặc trạng thái hệ thống bắt buộc phải có trước khi một Use case có thể bắt đầu chạy.
+Q38. Đáp án D: Từ điển dữ liệu (Data dictionary) cần chứa thông tin chi tiết về từng phần tử dữ liệu, bao gồm kiểu dữ liệu, độ dài và mọi ràng buộc liên quan đến nó.
+Q39. Đáp án C: Trong ngôn ngữ viết yêu cầu Planguage, từ khóa &quot;GOAL&quot; xác định mục tiêu hoặc mức độ đạt được tối thiểu có thể chấp nhận được của một yêu cầu.
+Q40. Đáp án C: Việc cứ liên tục thêm chức năng qua nhiều vòng lặp mà không kiểm soát tốt tổng thể có thể dẫn đến hậu quả làm suy giảm hiệu năng hệ thống (Deterioration of system performance).
+Q41. Đáp án C: &quot;Efficiency&quot; (Tính hiệu quả) được coi là một thuộc tính chất lượng nội bộ (internal quality attribute) vì nó liên quan đến cách hệ thống sử dụng tài nguyên bên trong (như CPU, RAM).
+Q42. Đáp án B: Mục đích chính của prototype (bản mẫu) là để xác nhận lại yêu cầu, tìm ra các lỗi, sự thiếu sót và đánh giá độ chính xác của tài liệu yêu cầu.
+Q43. Đáp án B: Bạn không thể hy vọng một prototype (vốn chỉ là mô hình trực quan) có thể hoàn toàn thay thế được &quot;Written requirements&quot; (Tài liệu yêu cầu được viết chi tiết).
+Q44. Đáp án A: &quot;Horizontal prototype&quot; (Bản mẫu ngang) chỉ tập trung vào lớp giao diện người dùng (UI) bề nổi, cho phép khám phá hành vi mà không đi sâu vào chi tiết kỹ thuật bên dưới.
+Q45. Đáp án C: Lợi ích lớn nhất của việc sắp xếp ưu tiên là giúp team tăng cường sự tập trung vào các tính năng mang lại giá trị cao nhất (high-value features).
+Q46. Đáp án C: Trong các dự án Agile, đánh giá ưu tiên rất quan trọng để có thể bàn giao những tính năng quan trọng và giá trị nhất từ sớm, mang lại giá trị kinh doanh tối đa.
+Q47. Đáp án A, C, D: Quá trình Validate (xác nhận) yêu cầu giúp ngăn chặn các vấn đề như Scope creep (phình to phạm vi), Misaligned Expectations (lệch pha kỳ vọng) và Cost Overruns (vượt ngân sách và trễ hạn).
+Q48. Đáp án B: Mục đích của Peer reviews (Đánh giá ngang hàng) là để đồng nghiệp cùng xem xét và tìm ra các yêu cầu bị viết mơ hồ (ambiguous) hoặc không thể kiểm chứng được (unverifiable).
+Q49. Đáp án A: Lợi thế chính của việc tái sử dụng yêu cầu là giúp giảm bớt thời gian và công sức trong quá trình thu thập yêu cầu ban đầu (elicitation).
+Q50. Đáp án B, C: Tái sử dụng bằng cách copy các yêu cầu xác thực từ thư viện (library of reusable components) đề cập đến cơ chế tái sử dụng (reuse mechanism) và phạm vi tái sử dụng (extent of reuses).
+Q51. Đáp án A, B, C: Trong phát triển phần mềm, &quot;yêu cầu&quot; đóng vai trò định hướng trực tiếp cho việc lập kế hoạch (Project planning), thiết kế &amp; lập trình (Design and coding), và các hoạt động kiểm thử (Testing activities).
+Q52. Đáp án A: &quot;Story point&quot; là đơn vị đo lường phổ biến được dùng trong Agile để ước lượng độ phức tạp/khối lượng công việc của một User story.
+Phần 4: Quản lý thay đổi và Thực tiễn nâng cao (Câu 53 - 83)
+(Lưu ý: Mình giữ nguyên đánh số theo đúng tài liệu của bạn, bao gồm cả việc đề bị nhảy số, ví dụ không có câu 54).
+Câu 53. Đáp án B: Đối với các gói giải pháp có sẵn (COTS package), một số gói có thể được sử dụng ngay lập tức (out of the box) với rất ít hoặc không cần phải tùy biến thêm.
+Q55. Đáp án B, D: Version control (Kiểm soát phiên bản) rất quan trọng vì nó cho phép theo dõi lịch sử các lần thay đổi (B) và đảm bảo mọi bên liên quan đều được cập nhật các thay đổi mới nhất (D).
+Q56. Đáp án A, B, D: Các bước cơ bản khi phân tích tác động thay đổi bao gồm: Hiểu ý nghĩa của thay đổi (A), Nhận diện các yêu cầu/tài liệu bị ảnh hưởng (B), và Ước lượng công sức cần thiết để sửa đổi (D).
+Q57. Đáp án D: Ma trận truy vết yêu cầu (RTM) là một bảng tính dùng để ánh xạ/liên kết các yêu cầu với các tài liệu dự án khác như tài liệu thiết kế, test cases và mã nguồn.
+Q58. Đáp án D: Việc cải tiến quy trình yêu cầu nhằm mục đích giảm chi phí, tăng giá trị, chứ KHÔNG PHẢI để làm tăng độ phức tạp của các yêu cầu (Increase the complexity of requirements).
+Q59. Đáp án A: Né tránh rủi ro (Risk avoidance) là một cách để giải quyết rủi ro chứ không được phân loại là một thành phần (element) cấu trúc cốt lõi trong quy trình quản lý theo tùy chọn của câu hỏi này.
+Q60. Đáp án A: Sự hợp tác chặt chẽ giữa khách hàng và lập trình viên trong Agile có nghĩa là các tài liệu yêu cầu có thể được viết ra với ÍT chi tiết hơn (less) so với các dự án truyền thống.
+Q61. Đáp án A: Thách thức lớn nhất khi viết tài liệu cho các hệ thống phức tạp là phải đảm bảo được sự rõ ràng, tính nhất quán và tránh tuyệt đối các diễn đạt mơ hồ (ambiguities).
+Q62. Đáp án B: Một quy trình yêu cầu tốt giúp giảm thiểu chi phí phát triển bằng cách làm giảm sự làm lại (rework), tránh làm các tính năng thừa và hạn chế hiểu lầm.
+Q63. Đáp án D: Design (Thiết kế) là giai đoạn tiếp theo của vòng đời phần mềm, KHÔNG nằm trong 4 bước chính của quy trình Kỹ nghệ yêu cầu (Requirement engineering).
+Q64. Đáp án A, B, C: Theo danh sách &quot;Quyền lợi của khách hàng&quot;, họ có quyền mong đợi BA phải tìm hiểu về nghiệp vụ của họ (A), mô tả được tính dễ sử dụng (B), và nhận được hệ thống đáp ứng đúng chức năng (C).
+Q65. Đáp án C: Việc &quot;kịp thời thông báo các thay đổi về yêu cầu&quot; (Promptly communicate changes) là quyền lợi/nghĩa vụ khác, không nằm trong danh sách chuẩn của &quot;Software Bill of Rights Requirements&quot;.
+Q66. Đáp án B: Trong phát triển yêu cầu, các bước elicitation, analysis, specification, và validation là các hoạt động có tính lặp đi lặp lại (iterative), có thể phải vòng lại bước trước để đảm bảo tính chính xác.
+Q67. Đáp án C: Quá trình Elicitation (thu thập) luôn được đan xen (interwoven) và diễn ra song song với quá trình phân tích, đặc tả và xác nhận.
+Q68. Đáp án D: Theo đáp án chuẩn của đề cung cấp, Elicit requirements được xem là ngoại lệ không thuộc nhóm trong bộ câu hỏi này.
+Q69. Đáp án B: Project manager (Quản lý dự án) là người chịu trách nhiệm chính trong việc truyền đạt thông tin và các yêu cầu về định dạng chính thức của dự án.
+Q70. Đáp án A, B, C: Các nhiệm vụ nòng cốt của BA bao gồm: Định nghĩa yêu cầu kinh doanh, Xác định stakeholder và nhóm người dùng, và Viết tài liệu (document) yêu cầu.
+Q71. Đáp án A: Các phiên làm việc để đánh giá ưu tiên (Prioritization work sessions) là kỹ thuật hiệu quả nhất để giải quyết các xung đột lợi ích giữa các bên liên quan.
+Q72. Đáp án C: &quot;Scope creep&quot; (Trượt phạm vi) là thuật ngữ chỉ tình trạng phạm vi dự án cứ liên tục phình to ra một cách mất kiểm soát trong quá trình phát triển.
+Q73. Đáp án A, C: Biểu đồ ngữ cảnh (Context diagram) chỉ minh họa ranh giới giữa hệ thống và các thực thể bên ngoài, không đi sâu vào cấu trúc bên trong của hệ thống.
+Q74. Đáp án A: Cạm bẫy phổ biến nhất khi viết yêu cầu phi chức năng (NFR) là viết chúng quá mơ hồ, chung chung và không thể đo lường được (unmeasurable).
+Q75. Đáp án C: Thiết lập kỳ vọng rõ ràng cho Product champion rất tốt nhưng nó không thể đảm bảo (guaranteeing) 100% việc dự án sẽ không vượt ngân sách.
+Q76. Đáp án B, C: Personas (chân dung người dùng) là các nhân vật mô phỏng đại diện cho một nhóm người dùng có chung đặc điểm, giúp team thiết kế thấu hiểu và hướng tới trải nghiệm tốt nhất cho họ.
+Q77. Đáp án B: Yêu cầu &quot;Người dùng phải có khả năng sắp xếp danh sách...&quot; là mô tả một hành vi cụ thể mà hệ thống phải đáp ứng, do đó nó là Functional requirement (yêu cầu chức năng).
+Q78. Đáp án C: Hoạt động sắp xếp và chia sẻ các ghi chú thuộc về bước theo dõi sau khi đã tiến hành lấy yêu cầu (Following up after elicitation).
+Q79. Đáp án A: Mục đích cốt lõi của elicitation là quá trình đi thu thập, khơi gợi các yêu cầu từ các bên liên quan (stakeholders).
+Q80. Đáp án A: Giá trị lớn nhất của Ma trận truy vết (Traceability matrix) là đảm bảo rằng mọi yêu cầu đều được liên kết chặt chẽ đến các phần thiết kế, kiểm thử và tài liệu triển khai tương ứng.
+Q81. Đáp án A: Trong đặc tả Use case, các điều kiện có khả năng ngăn cản Use case hoàn thành thành công được gọi là các ngoại lệ (exceptions).
+Q82. Đáp án B: Tên của Use case luôn luôn phải được viết theo cấu trúc: Động từ + Tân ngữ (A verb followed by an object) - ví dụ: &quot;Request a chemical&quot;, &quot;Write a check&quot;.
+Q83. Đáp án D: Nhận định đúng về Use Cases là chúng dùng để mô tả các luồng tương tác giữa hệ thống và các thực thể/người dùng bên ngoài hệ thống.
+Tuyệt vời! Chúng ta cùng đi nốt chặng đường cuối cùng với các câu hỏi còn lại trong file &quot;Tổng hợp SWR.docx&quot; nhé. Việc nắm vững những câu này sẽ giúp bạn có cái nhìn cực kỳ bao quát về môn học này đấy.
+Dưới đây là phần giải thích chi tiết cho các câu từ 84 đến 120:
+Phần 5: Agile, Mô hình hóa và Các công cụ thực tiễn
+Câu 84. Đáp án A: Trong quản lý yêu cầu Agile, các User stories (Câu chuyện người dùng) đóng vai trò cung cấp những mô tả ngắn gọn, súc tích và có thể thực thi được về các tính năng, đứng từ góc nhìn của người dùng.
+Q85. Đáp án A: Giá trị lớn nhất của việc làm prototype (bản mẫu) khi lấy yêu cầu là nó cung cấp một hình ảnh trực quan (visual representation) để làm rõ các yêu cầu còn mơ hồ và thu thập phản hồi của stakeholder dễ dàng hơn.
+Q86. Đáp án A: Prototyping giúp giảm thiểu rủi ro (mitigate risks) thông qua việc cho stakeholder xem trực tiếp hình ảnh trực quan để họ xác nhận (validate) những yêu cầu khó hiểu.
+Q87. Đáp án A, C: Quy tắc kinh doanh (Business rule) là những phát biểu nhằm định nghĩa hoặc ràng buộc một khía cạnh nào đó của doanh nghiệp. Việc phân loại chúng giúp team dev hiểu cách áp dụng chúng vào phần mềm (ví dụ: dùng constraint để ép buộc các điều kiện).
+Q88. Đáp án D: Theo đáp án của bộ đề này, &quot;System features&quot; (Các tính năng hệ thống) được chọn là phần KHÔNG nằm trong template chuẩn của SRS đang được đề cập.
+Q89. Đáp án A: Việc đánh nhãn (label) cho yêu cầu trong SRS rất quan trọng vì nó cho phép chúng ta dễ dàng tham chiếu đến từng yêu cầu cụ thể khi có yêu cầu thay đổi (change request), hoặc khi tra cứu trong ma trận truy vết (traceability matrix).
+Q92. Đáp án A: Phát biểu &quot;Một yêu cầu phải Correct (chính xác) và Feasible (khả thi)&quot; chính là đang mô tả trực tiếp hai thuộc tính này của một yêu cầu tốt.
+Q93. Đáp án A, C: Luồng quy trình kinh doanh (business process flows) có thể biểu diễn bằng sơ đồ luồng dữ liệu (DFD) hoặc sơ đồ Swimlane. Còn các logic phức tạp thì nên dùng bảng quyết định (decision tables) hoặc cây quyết định (decision trees).
+Q94. Đáp án A: Trong biểu đồ Swimlane, các bước của quy trình (process steps) luôn được vẽ bằng các hình chữ nhật (rectangles).
+Q95. Đáp án B, D: Để phân tích &quot;tiếng nói của khách hàng&quot; qua văn bản, BA nên xác định các từ khóa (như danh từ, động từ) và ánh xạ (mapping) các động từ đó vào các quy trình, hoạt động hoặc Use cases trong mô hình phân tích.
+Q96. Đáp án A, B, C: Các mục trong Từ điển dữ liệu (Data dictionary) đại diện cho các kiểu phần tử dữ liệu: Nguyên thủy (Primitive), Cấu trúc (Structure), và Nhóm lặp (Repeating group).
+Q97. Đáp án C: Trong sơ đồ Thực thể - Liên kết (ERD), &quot;Association&quot; (Sự liên kết) không phải là thuật ngữ chuẩn (nó thuộc về UML Class Diagram). ERD chỉ bao gồm Entity (Thực thể), Relationship (Mối quan hệ), Attribute (Thuộc tính) và Cardinality (Bản số).
+Q98. Đáp án A, B: Nhận định đúng về ERD là tất cả các thể hiện của một thực thể sẽ có chung các thuộc tính (A), và bản số (cardinality) được thể hiện bằng chữ hoặc số trên đường nối (B).
+Q100. Đáp án B: Planguage là một ngôn ngữ chứa tập hợp các từ khóa giúp phát biểu cực kỳ chính xác về các thuộc tính chất lượng (quality attributes) và mục tiêu dự án.
+Q101. Đáp án C, D, E: Maintainability (Tính dễ bảo trì), Security (Bảo mật), và Robustness (Tính mạnh mẽ/chống lỗi) đều là các yêu cầu phi chức năng (Non-functional requirements).
+Q102. Đáp án C: Dạng prototype được đắp thêm tính năng liên tục (incrementally) cho đến khi biến thành sản phẩm cuối cùng gọi là Bản mẫu tiến hóa (Evolutionary prototype).
+Q103. Đáp án B: Mock-up (bản phác thảo giao diện tĩnh) dùng để test UI và luồng công việc, KHÔNG dùng để kiểm tra tính khả thi của kiến trúc phần mềm (To test architectural feasibility).
+Q104. Đáp án B: Nếu bạn làm prototype cho toàn bộ hệ thống thay vì chỉ tập trung vào phần rủi ro cao, bạn sẽ bị mất tập trung do sa đà vào việc thiết kế (distraction by design).
+Q105. Đáp án A: Bốn chữ cái viết hoa trong kỹ thuật ưu tiên MoSCoW là viết tắt của: Must (Phải có), Should (Nên có), Could (Có thể có), và Won't (Sẽ không có).
+Phần 6: Tái sử dụng, Đánh giá dự án và Quản lý sự thay đổi
+Câu 106. Đáp án C: Kỹ thuật so sánh theo cặp và xếp hạng (Pairwise comparison and rank ordering) là phương pháp yêu cầu bạn sắp xếp các yêu cầu từ tốt nhất đến tệ nhất, hoặc từ cao xuống thấp.
+Q107. Đáp án C: Kỹ thuật Walkthrough (đi dạo/xem lướt) là cách đánh giá mà tác giả sẽ trình bày/mô tả tài liệu của mình, còn các bên liên quan ngồi nghe và đưa ra bình luận.
+Q109. Đáp án A, B, C: Mức độ tái sử dụng (Extent of Reuse) bao gồm việc sử dụng lại trực tiếp một câu yêu cầu có sẵn (A), copy-paste thông tin yêu cầu cũ (B), hoặc lấy một concept/pattern từ tài liệu khác (C).
+Q110. Đáp án A, B, C: Tái sử dụng yêu cầu hiệu quả mang lại lợi ích: Giao hàng nhanh hơn (faster delivery), giảm chi phí phát triển (lower development costs), và giảm thiểu việc phải làm lại (reduced rework).
+Q112. Đáp án A: Dự án nâng cấp (Enhancement project) là dự án mà các khả năng/tính năng mới được thêm vào một hệ thống đã có sẵn.
+Q113. Đáp án B: Điểm linh hoạt của gói phần mềm thương mại (COTS package) là một số gói có thể mua về dùng luôn (out of the box) mà hầu như không cần tùy biến gì thêm.
+Q115. Đáp án C: Đường cơ sở yêu cầu (Requirements baseline) là một tập hợp các yêu cầu đã được các bên liên quan đồng ý chốt lại, thường đại diện cho phạm vi của một đợt release cụ thể.
+Q116. Đáp án C: Nhận định KHÔNG đúng về quản lý thay đổi trong Agile là &quot;Quản lý thay đổi bằng cách theo dõi rủi ro&quot; (Agile processes manage change by monitoring risks...). Thực tế, Agile quản lý thay đổi thông qua Product Backlog và tận dụng sự thay đổi để tạo lợi thế.
+Q117. Đáp án D: Mục đích chính của việc chốt Baseline yêu cầu là để cải thiện chất lượng quy trình, kiểm tra chi phí bảo trì và tạo điều kiện thuận lợi cho việc tái sử dụng yêu cầu sau này.
+Q118. Đáp án C, D: Ma trận truy vết (Traceability matrix) dùng để ánh xạ các yêu cầu với thiết kế/code (C), và đồng thời giúp phát hiện ra các yêu cầu bị thiếu hoặc không cần thiết (D).
+Q119. Đáp án C: Tránh né rủi ro (Risk avoidance) là chiến lược mà bạn chọn CÁCH KHÔNG THỰC HIỆN hành động chứa rủi ro đó nữa (Not engaging in the risky activity at all).
+Q120. Đáp án B: Trong dự án Agile, Epic đại diện cho một câu chuyện người dùng (user story) ở mức cao (high-level), mang tính vĩ mô, và sau đó sẽ được chia nhỏ thành các user story chi tiết hơn để code.

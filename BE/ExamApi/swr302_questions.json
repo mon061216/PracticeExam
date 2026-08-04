@@ -1,0 +1,3339 @@
+[
+  {
+    "Id": 1,
+    "Text": "Why is it critical to clearly distinguish between Business Requirements, User Requirements, and Functional Requirements in software projects?",
+    "Options": [
+      "It reduces development time by eliminating unnecessary requirements from the outset",
+      "It guarantees that the system will comply with all security and performance standards",
+      "It ensures that all stakeholder needs are accurately understood and translated into specific system features.",
+      "It allows developers to start coding immediately without needing further clarification."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q1. Đáp án C\nGiải thích: Các dự án phần mềm có nhiều cấp độ yêu cầu khác nhau (Business, User, Functional). Phân biệt rõ các loại này giúp đảm bảo rằng mọi nhu cầu của các bên liên quan (từ mục tiêu kinh doanh, mong muốn của người dùng đến chi tiết kỹ thuật) đều được hiểu và chuyển hóa thành các tính năng chính xác."
+  },
+  {
+    "Id": 2,
+    "Text": "Requirements development does not include:",
+    "Options": [
+      "Analysis",
+      "Validation",
+      "Design",
+      "Elicitation"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q2. Đáp án C\nGiải thích: Quy trình Requirement Engineering (Phát triển yêu cầu) chỉ bao gồm 4 bước chính: Elicitation (Khám phá), Analysis (Phân tích), Specification (Đặc tả) và Validation (Xác nhận). Design (Thiết kế) là bước tiếp theo trong vòng đời phát triển phần mềm, không thuộc quy trình lấy yêu cầu."
+  },
+  {
+    "Id": 3,
+    "Text": "What is meant by the “Expectation Gap” in software development?",
+    "Options": [
+      "The difference between business requirements and technical requirements",
+      "The difference between the initial design and the final product.",
+      "The discrepancy between the project plan and the actual budget.",
+      "The difference between what customers expect and what the development team plans to deliver.",
+      "The difference between customer requirements and testing criteria."
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q3. Đáp án D\nGiải thích: &quot;Expectation Gap&quot; (Khoảng trống kỳ vọng) dùng để chỉ sự sai lệch giữa những gì khách hàng mong đợi sản phẩm sẽ làm được và những gì đội ngũ phát triển thực sự dự định xây dựng."
+  },
+  {
+    "Id": 4,
+    "Text": "Which of the following roles is considered a &quot;customer&quot; for a software product?",
+    "Options": [
+      "Legal staff",
+      "Compliance auditors",
+      "Executive sponsor",
+      "Contractors",
+      "Venture capitalists"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q4. Đáp án C\nGiải thích: Executive sponsor (Nhà tài trợ dự án/Ban giám đốc) là người trực tiếp trả tiền và bảo trợ cho dự án, nên được coi là &quot;khách hàng&quot;. Các vai trò như pháp chế (Legal staff) hay kiểm toán (Auditors) chỉ là các bên liên quan (Stakeholders)."
+  },
+  {
+    "Id": 5,
+    "Text": "What is the first step in the Requirements Development Process?",
+    "Options": [
+      "Analysis (Analyzing requirements)",
+      "Validation (Validating requirements)",
+      "Elicitation (Gathering requirements)",
+      "Specification (Documenting requirements)",
+      "Management (Managing requirements)"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q5. Đáp án C\nGiải thích: Bước đầu tiên của quy trình phát triển yêu cầu luôn là Elicitation (Thu thập/Khám phá yêu cầu) để lấy được thông tin và nhu cầu từ người dùng trước khi có thể phân tích hay viết tài liệu."
+  },
+  {
+    "Id": 6,
+    "Text": "What is a key action in the &quot;Analysis&quot; subdiscipline of requirements development?",
+    "Options": [
+      "Discovering requirements.",
+      "Documenting assumptions",
+      "Decomposing high-level requirements into an appropriate level of detail",
+      "Confirming requirements accuracy with customers"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q6. Đáp án C\nGiải thích: Trong bước Phân tích (Analysis), hành động quan trọng nhất là &quot;phân rã&quot; (decompose) các yêu cầu ở mức cao (High-level) thành các chi tiết nhỏ hơn, cụ thể hơn để team dev có thể thực hiện."
+  },
+  {
+    "Id": 7,
+    "Text": "With whom should an Agile analyst collaborate closely to ensure the requirements accurately reflect business needs?",
+    "Options": [
+      "Only the end customers",
+      "Only the development and testing teams",
+      "Only with the development team to relay technical requirements",
+      "With the customer, project management, the development team, and other stakeholders to ensure requirements align with business needs.",
+      "With the business department solely for comparing statistical data."
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q7. Đáp án D\nGiải thích: Một Business Analyst (BA) trong dự án Agile không chỉ làm việc với khách hàng hay dev, mà phải hợp tác chặt chẽ với tất cả các bên liên quan (Khách hàng, Quản lý, Đội dev...) để đảm bảo các yêu cầu luôn bám sát mục tiêu kinh doanh."
+  },
+  {
+    "Id": 8,
+    "Text": "What is the primary role of a business analyst (BA) in software projects?",
+    "Options": [
+      "Writing code",
+      "Managing server infrastructure",
+      "Bridging the gap between stakeholders and developers",
+      "Approving budgets"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q8. Đáp án C\nGiải thích: Vai trò chính của BA là làm &quot;cầu nối&quot; (Bridging the gap) giữa những người có nhu cầu kinh doanh (stakeholders) và những người xây dựng hệ thống (developers), đảm bảo hai bên hiểu nhau."
+  },
+  {
+    "Id": 9,
+    "Text": "Which of the following are essential analyst skills required from the Business Analyst?",
+    "Options": [
+      "Listening skills, Systems thinking skills",
+      "Interviewing and questioning skills, Learning skills, Interpersonal skills",
+      "Thinking on your feet, Facilitation skills",
+      "Analytical skills, Leadership skills, Organizational skills, Creativity",
+      "Observational skills, Communication skills, Modeling skills",
+      "All of the mentioned"
+    ],
+    "CorrectAnswers": [
+      "F"
+    ],
+    "Explanation": "Q9. Đáp án F\nGiải thích: Một BA giỏi cần có một bộ kỹ năng rất toàn diện: Lắng nghe, phỏng vấn, tư duy hệ thống, phân tích, giao tiếp, mô hình hóa và cả sự sáng tạo. Nên tất cả các phương án đều đúng."
+  },
+  {
+    "Id": 10,
+    "Text": "Why is it important to identify stakeholders when eliciting the requirements for a software system?",
+    "Options": [
+      "The people, groups, or organizations that are actively involved in a project, are affected by its outcome, or are able to influence its outcome",
+      "It helps you identify the vision and roadmap.",
+      "It helps you identify which support you need, who can influence the support, and potential issues that result from a non-supportive stakeholder",
+      "It helps you to make strategic decisions and clear the path of political and financial obstacles."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q10. Đáp án C\nGiải thích: Xác định đúng stakeholder giúp bạn biết mình cần lấy thông tin từ ai, ai có tầm ảnh hưởng lớn nhất đến dự án và lường trước được rủi ro nếu có một stakeholder không ủng hộ dự án."
+  },
+  {
+    "Id": 11,
+    "Text": "Which diagram provides a high-level view of system processes and external entities?",
+    "Options": [
+      "Context diagram",
+      "Data flow diagram",
+      "Entity-relationship diagram",
+      "Use case diagram"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q11. Đáp án A\nGiải thích: Context diagram (Biểu đồ ngữ cảnh) cung cấp cái nhìn tổng quan nhất ở mức cao (high-level) về hệ thống và cách nó tương tác với các thực thể bên ngoài (external entities)."
+  },
+  {
+    "Id": 12,
+    "Text": "Why is it important to clearly define the scope of a software project in a scope document?",
+    "Options": [
+      "Limit stakeholder involvement",
+      "Speed up the development process",
+      "Avoid addressing project risks",
+      "Prevent scope creep and ensure project focus"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q12. Đáp án D\nGiải thích: Xác định rõ phạm vi (Scope) ngay từ đầu giúp thiết lập giới hạn cho dự án, từ đó ngăn chặn tình trạng &quot;scope creep&quot; (dự án phình to mất kiểm soát vì bị thêm yêu cầu liên tục) và giúp team giữ được sự tập trung."
+  },
+  {
+    "Id": 13,
+    "Text": "What is a significant challenge in gathering user stories from diverse stakeholders?",
+    "Options": [
+      "Ensuring alignment of priorities and resolving conflicting perspectives",
+      "Avoiding technical jargon during discussions",
+      "Eliminating all non-functional requirements",
+      "Skipping stakeholder meetings"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q13. Đáp án A\nGiải thích: Khi thu thập yêu cầu từ nhiều stakeholders khác nhau, thách thức lớn nhất là làm sao đồng bộ hóa các ưu tiên của họ và giải quyết các quan điểm, lợi ích trái chiều."
+  },
+  {
+    "Id": 14,
+    "Text": "When resolving conflicts between &quot;Development and customers,&quot; how to resolve?",
+    "Options": [
+      "Development always gets preference due to technical expertise.",
+      "Customers always get preference to ensure satisfaction.",
+      "Customers get preference, but in alignment with business objectives",
+      "The project manager makes the final decision without external input."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q14. Đáp án C\nGiải thích: Khi có xung đột giữa Dev và Khách hàng, sự ưu tiên thường nghiêng về khách hàng để đảm bảo sản phẩm giải quyết được vấn đề thực tế, nhưng sự ưu tiên đó vẫn phải dựa trên việc nó có phù hợp với mục tiêu kinh doanh (business objectives) hay không."
+  },
+  {
+    "Id": 15,
+    "Text": "What is a user persona?",
+    "Options": [
+      "A fictional representation of an ideal user",
+      "A diagram of the system's architecture",
+      "A document outlining technical requirements",
+      "A set of functional requirements"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q15. Đáp án A\nGiải thích: User persona là một nhân vật hư cấu (fictional) được team tạo ra để đại diện cho một tệp người dùng lý tưởng, giúp team dễ hình dung và thiết kế tính năng phù hợp cho họ."
+  },
+  {
+    "Id": 16,
+    "Text": "Consider the use case diagram for the Chemical Tracking System. How does the &quot;extend&quot; relationship between &quot;Request a Chemical&quot; and &quot;Search Vendor Catalogs&quot; affect the system's functionality?",
+    "Options": [
+      "It allows “Request a Chemical” to function independently without any alternative flows.",
+      "It integrates “Search Vendor Catalogs” into the normal flow of “Request a Chemical.”",
+      "It provides an optional alternative flow for requesting chemicals from a vendor.",
+      "It duplicates the steps of “Search Vendor Catalogs” within “Request a Chemical.”"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q16. Đáp án C\nGiải thích: Mối quan hệ &quot;extend&quot; trong Use Case thể hiện một luồng hành động thay thế mang tính &quot;tùy chọn&quot; (optional). Nghĩa là chức năng Search Vendor Catalogs có thể được gọi hoặc không khi thực hiện Request a Chemical."
+  },
+  {
+    "Id": 17,
+    "Text": "Which of the following is NOT a recommended elicitation technique?",
+    "Options": [
+      "Interviews",
+      "Walkthroughs",
+      "Code reviews",
+      "Focus groups"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q17. Đáp án C\nGiải thích: Code reviews là quá trình các developer kiểm tra mã nguồn của nhau để tìm lỗi, đây không phải là kỹ thuật để thu thập yêu cầu (elicitation) từ khách hàng."
+  },
+  {
+    "Id": 18,
+    "Text": "What is one of the first steps in performing an elicitation activity?",
+    "Options": [
+      "Identifying and engaging the right stakeholders",
+      "Designing the user interface",
+      "Building the prototype",
+      "Writing test scripts"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q18. Đáp án A\nGiải thích: Trước khi bắt tay vào thu thập yêu cầu, việc đầu tiên và tiên quyết nhất là phải xác định và mời đúng các stakeholders (những người nắm giữ thông tin và quyền quyết định)."
+  },
+  {
+    "Id": 19,
+    "Text": "Which category refers to the characteristics and structure of data the system will handle?",
+    "Options": [
+      "Process Descriptions (PD)",
+      "Data Definitions (DD)",
+      "Business Rules (BR)",
+      "Quality Attributes (QA)"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q19. Đáp án B\nGiải thích: Data Definitions (Định nghĩa dữ liệu) tập trung vào việc mô tả các đặc điểm, kiểu dữ liệu, và cấu trúc của dữ liệu mà hệ thống sẽ thao tác."
+  },
+  {
+    "Id": 20,
+    "Text": "What is a User Story and what is the key difference compared to a Use Case?",
+    "Options": [
+      "A User Story is a detailed step-by-step description of the user's interaction with the system.",
+      "A User Story is a brief description of a user's need, typically written in the format “As a [user], I want [goal] so that [benefit].”",
+      "A User Story focuses on the system's non-functional requirements",
+      "A User Story is used to completely replace a Use Case in all situations.",
+      "A User Story is a tool for test planning, while a Use Case is only for designing the interface."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q20. Đáp án B\nGiải thích: User Story là một câu mô tả ngắn gọn về nhu cầu của người dùng, thường theo cấu trúc kinh điển: “Là một [vai trò], tôi muốn [mục tiêu] để [nhận được lợi ích gì]”.\nPhần 2: Phân tích, Đặc tả và Quản lý yêu cầu (30 câu tiếp theo)"
+  },
+  {
+    "Id": 21,
+    "Text": "What is the primary distinction between Scope Creep and Gold Plating?",
+    "Options": [
+      "Scope Creep involves adding features, whereas Gold Plating involves reducing project scope.",
+      "Scope Creep arises from customer-driven changes, while Gold Plating results from the project team adding unnecessary features",
+      "Both Scope Creep and Gold Plating involve unplanned changes.",
+      "Scope Creep occurs only in the early stages of a project, while Gold Plating happens post-delivery",
+      "Scope Creep is seen in small projects, while Gold Plating only occurs in large projects."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q21 (Q1 Phần 2). Đáp án B\nGiải thích: &quot;Scope Creep&quot; là sự phình to yêu cầu từ phía khách hàng hoặc do quản lý kém. Còn &quot;Gold Plating&quot; là khi chính đội ngũ phát triển (dev) tự ý thêm vào các tính năng &quot;màu mè&quot; không cần thiết mà khách hàng không hề yêu cầu."
+  },
+  {
+    "Id": 22,
+    "Text": "Which of the following statements INCORRECTLY describes types of software requirements?",
+    "Options": [
+      "Business rules are the origin of several types of software requirements, but they are not software requirements themselves.",
+      "Nonfunctional requirements describe the system's performance characteristics rather than its specific behaviors",
+      "Functional requirements describe how the system will perform certain actions under specific conditions.",
+      "Quality attributes describe the system's functional behaviors in terms of user interactions"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q22 (Q2 Phần 2). Đáp án D\nGiải thích: Nhận định D sai vì Quality attributes (Thuộc tính chất lượng / Yêu cầu phi chức năng) mô tả các tiêu chuẩn về hiệu năng, bảo mật, độ tin cậy... chứ không mô tả &quot;hành vi chức năng&quot; (functional behaviors) của hệ thống."
+  },
+  {
+    "Id": 23,
+    "Text": "Some stakeholders are customers, such as legal staff, compliance auditors, suppliers, contractors, and venture capitalists.",
+    "Options": [
+      "True",
+      "False"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q23 (Q3 Phần 2). Đáp án B (False)\nGiải thích: Khẳng định này sai. Nhân viên pháp chế, kiểm toán viên, nhà cung cấp là các bên liên quan (Stakeholders), chứ không phải là Khách hàng (Customers) - những người mua hoặc sử dụng sản phẩm trực tiếp."
+  },
+  {
+    "Id": 24,
+    "Text": "What are the purposes of prioritizing the requirements? Choose 2 correct answers.",
+    "Options": [
+      "To ensure that the team implements the highest value or most timely functionality first",
+      "To determine which release or increment will contain each feature or set of requirements",
+      "To finish the project faster",
+      "To facilitate the release of the product"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B"
+    ],
+    "Explanation": "Q24 (Q5 Phần 2). Đáp án A, B\nGiải thích: Ưu tiên (Prioritization) giúp team biết nên làm tính năng nào mang lại giá trị cao nhất trước (A) và giúp quyết định các tính năng sẽ được đóng gói vào phiên bản release nào (B)."
+  },
+  {
+    "Id": 25,
+    "Text": "During which activity are customer needs processed and related to software requirements?",
+    "Options": [
+      "Elicitation",
+      "Analysis",
+      "Specification",
+      "Validation"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q25 (Q6 Phần 2). Đáp án B\nGiải thích: Quá trình chuyển hóa các &quot;nhu cầu&quot; thô của khách hàng (customer needs) thành các &quot;yêu cầu phần mềm&quot; rõ ràng có cấu trúc chính là bước Phân tích (Analysis)."
+  },
+  {
+    "Id": 26,
+    "Text": "In a project, who is primarily responsible for communicating project information?",
+    "Options": [
+      "The business analyst",
+      "The project manager",
+      "The software development team",
+      "The customer community"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q26 (Q7 Phần 2). Đáp án B\nGiải thích: Project Manager (Quản lý dự án) là người chịu trách nhiệm chính trong việc truyền đạt các thông tin về tiến độ, lịch trình, và tình trạng của dự án đến mọi người. BA chỉ truyền đạt thông tin về &quot;Yêu cầu&quot; (Requirements)."
+  },
+  {
+    "Id": 27,
+    "Text": "Which one of these is NOT a Business analyst's task?",
+    "Options": [
+      "Communicate requirements",
+      "Document requirements",
+      "Analyze requirements",
+      "Assure requirements",
+      "Elicit requirements"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q27 (Q9 Phần 2). Đáp án D\nGiải thích: BA có nhiệm vụ thu thập (Elicit), phân tích (Analyze), ghi chép (Document) và truyền đạt (Communicate). Việc &quot;Đảm bảo chất lượng yêu cầu&quot; (Assure) thường cần sự phối hợp đánh giá của QA hoặc cả team, không phải là nhiệm vụ độc lập của BA."
+  },
+  {
+    "Id": 28,
+    "Text": "What is the relationship between &quot;product vision&quot; and &quot;project scope&quot;?",
+    "Options": [
+      "Product vision and project scope are interchangeable terms",
+      "Product vision describes the ultimate product, while project scope identifies the portion of that vision to be addressed by the current project.",
+      "Project scope defines business objectives, while product vision defines functional requirements.",
+      "Product vision is a subset of project scope for each release."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q28 (Q11 Phần 2). Đáp án B\nGiải thích: Product vision (Tầm nhìn sản phẩm) mô tả sản phẩm hoàn hảo ở tương lai xa. Còn Project scope (Phạm vi dự án) chỉ xác định ranh giới những gì sẽ được làm trong giới hạn của &quot;dự án hiện tại&quot; (một phần của vision)."
+  },
+  {
+    "Id": 29,
+    "Text": "What is the main purpose of defining &quot;Scope and limitations&quot; in a software project?",
+    "Options": [
+      "To provide a detailed breakdown of all tasks for developers",
+      "To identify all potential users and their individual preferences.",
+      "To establish realistic stakeholder expectations by clearly stating what the solution will and will not include",
+      "To determine the most cost-effective technologies for implementation."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q29 (Q12 Phần 2). Đáp án C\nGiải thích: Nêu rõ &quot;Scope and limitations&quot; (Phạm vi và giới hạn) giúp thiết lập kỳ vọng thực tế cho các bên liên quan bằng cách nói thẳng những gì hệ thống SẼ LÀM và KHÔNG LÀM, tránh tranh cãi về sau."
+  },
+  {
+    "Id": 30,
+    "Text": "Which of the following is not a benefit of having a clear set of expectations for product champions?",
+    "Options": [
+      "Encouraging accountability and clarity of role",
+      "Helping champions align with project goals",
+      "Guaranteeing the project will stay on budget",
+      "Facilitating negotiation of the champion’s responsibilities"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q30 (Q15 Phần 2). Đáp án C\nGiải thích: Việc thiết lập kỳ vọng cho Product Champion mang lại nhiều lợi ích về quy trình, nhưng nó không thể &quot;đảm bảo&quot; (guarantee) dự án sẽ hoàn thành đúng ngân sách, vì ngân sách bị ảnh hưởng bởi vô số yếu tố kỹ thuật và con người khác."
+  },
+  {
+    "Id": 31,
+    "Text": "Why is it challenging to amalgamate requirements input from numerous users?",
+    "Options": [
+      "Users often disagree on technical specifications",
+      "Structured organizing schemes are typically unavailable.",
+      "Requirements input is often diverse and unstructured",
+      "Users lack domain expertise."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q31 (Q17 Phần 2). Đáp án C\nGiải thích: Tổng hợp yêu cầu từ nhiều người dùng rất khó vì thông tin đầu vào thường rất đa dạng, đến từ nhiều góc nhìn khác nhau và không có cấu trúc thống nhất (unstructured)."
+  },
+  {
+    "Id": 32,
+    "Text": "Why is it essential to validate requirements with stakeholders?",
+    "Options": [
+      "To ensure they align with business goals and user expectations",
+      "To reduce the scope of non-functional requirements",
+      "To finalize the system design early",
+      "To prioritize coding tasks over prototyping"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q32 (Q18 Phần 2). Đáp án A\nGiải thích: Bạn phải Validation (Xác nhận) lại tài liệu yêu cầu với stakeholders để đảm bảo rằng những gì bạn hiểu và viết ra hoàn toàn khớp với mục tiêu kinh doanh và mong đợi thực tế của họ."
+  },
+  {
+    "Id": 33,
+    "Text": "What is not the purpose of a Use Case Diagram?",
+    "Options": [
+      "Use case diagrams are both behavior diagrams because they describe the behavior of the system. They are also structure diagrams, serving as a special case of class diagrams where classifiers are restricted to be either actors or use cases related to each other with associations",
+      "Use case diagrams show the graphical user interface that needs to be implemented",
+      "Use case diagrams are usually referred to as behavior diagrams used to describe a set of actions (use cases) that some system or systems (subject) should or can perform in collaboration with one or more external users of the system (actors).",
+      "A use case describes a sequence of interactions between a system and an external actor that results in the actor being able to achieve some outcome of value."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q33 (Q20 Phần 2). Đáp án B\nGiải thích: Use Case Diagram mô tả hành vi (behavior) và sự tương tác giữa hệ thống với người dùng. Nó tuyệt đối KHÔNG ĐƯỢC DÙNG để vẽ hay thể hiện giao diện người dùng (GUI - Graphical User Interface)."
+  },
+  {
+    "Id": 34,
+    "Text": "What is the distinction between users and actors?",
+    "Options": [
+      "There is no real difference; the terms can be used interchangeably.",
+      "Users are only relevant for use cases involving a graphical interface, while actors cover backend processes",
+      "Users are responsible for system development, and actors are responsible for testing.",
+      "A user is an actual person (or system) using the product, while an actor is an abstraction that represents the role the user plays in a given use case.",
+      "Users are always individuals, while actors are always systems."
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q34 (Q21 Phần 2). Đáp án D\nGiải thích: User là một cá nhân (hoặc hệ thống) bằng xương bằng thịt đang dùng phần mềm. Còn Actor trong Use Case là một khái niệm &quot;trừu tượng&quot; đại diện cho một vai trò (ví dụ: Admin, Guest) mà người dùng đảm nhận."
+  },
+  {
+    "Id": 35,
+    "Text": "What's the difference between Use Cases and User Stories?",
+    "Options": [
+      "The use case is a business artifact which defines the software requirement or an application feature. Whereas use story is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists",
+      "The user story contains complete and lengthy descriptions. A use case contains simplified and short descriptions",
+      "The user story is a business artifact which defines the software requirement or an application feature. Whereas use case is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists",
+      "The user story contains simplified and short descriptions. A use case contains complete and lengthy descriptions"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q35 (Q23 Phần 2). Đáp án D\nGiải thích: User Story rất ngắn gọn, đơn giản (dùng để thảo luận trong Agile). Trong khi đó, Use Case là một tài liệu hoàn chỉnh, chứa mô tả dài và chi tiết về các bước, luồng chính, luồng phụ của hệ thống."
+  },
+  {
+    "Id": 36,
+    "Text": "“Every order has a shipping charge” is a:",
+    "Options": [
+      "fact",
+      "constraint",
+      "action enabler",
+      "inference"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q36 (Q24 Phần 2). Đáp án A\nGiải thích: Câu &quot;Mọi đơn hàng đều có phí vận chuyển&quot; là một sự thật hiển nhiên/điều kiện luôn đúng trong hoạt động kinh doanh của công ty, do đó nó được xếp loại là Fact (Sự thật/Sự kiện)."
+  },
+  {
+    "Id": 37,
+    "Text": "Which of the following is NOT a type of business rule according to the taxonomy?",
+    "Options": [
+      "Fact Rules",
+      "Action Enabler Rules",
+      "Constraint Rules",
+      "Operational Rules"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q37 (Q25 Phần 2). Đáp án D\nGiải thích: Theo phân loại Business Rules, chúng ta có các loại: Facts, Constraints, Action Enablers, Inferences, Computations. Không có khái niệm nào là &quot;Operational Rules&quot;."
+  },
+  {
+    "Id": 38,
+    "Text": "Why do we have to label the requirements in a software requirements specification (SRS)? (Choose 3 correct answers)",
+    "Options": [
+      "It allows us to refer to specific requirements in a change request, modification history, cross-reference, or requirements traceability matrix",
+      "It enables reusing the requirements in multiple projects",
+      "It facilitates collaboration between team members when they're discussing requirements.",
+      "It makes the SRS look more professional"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q38 (Q28 Phần 2). Đáp án A, B, C\nGiải thích: Việc gán nhãn (ví dụ REQ-01, REQ-02...) cho từng yêu cầu giúp dễ dàng truy vết (Traceability), dễ dàng tái sử dụng ở dự án khác, và giúp team giao tiếp chính xác khi chỉ đích danh một yêu cầu nào đó."
+  },
+  {
+    "Id": 39,
+    "Text": "Which of the following is NOT an intended audience for a Software Requirements Specification (SRS)?",
+    "Options": [
+      "Project Managers",
+      "Testers",
+      "Legal Staff",
+      "Hardware Manufacturers",
+      "Documentation Writers"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q39 (Q29 Phần 2). Đáp án D\nGiải thích: Tài liệu SRS được viết để team dự án (PM, Dev, Tester, Người viết docs) đọc. Các &quot;nhà sản xuất phần cứng&quot; (Hardware Manufacturers) không liên quan và không phải là đối tượng đọc tài liệu của phần mềm."
+  },
+  {
+    "Id": 40,
+    "Text": "How can you explain the statement &quot;Implicit requirements can also be unknown unknowns&quot;?",
+    "Options": [
+      "During the SRS process, customers should always be required to spell out their unknown unknowns.",
+      "An unknown unknown cannot be known and therefore we can not make them explicit requirements.",
+      "There are matters that should be, but are not, elicited through the elicitation process. They exist, but they are not realized",
+      "They help us reveal both known unknowns and more unknown unknowns"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q40 (Q30 Phần 2). Đáp án C\nGiải thích: &quot;Yêu cầu ngầm&quot; (Implicit requirements) thường trở thành &quot;Unknown unknowns&quot; (Những thứ chưa biết mà ta không biết là mình chưa biết) vì khách hàng coi nó là điều hiển nhiên nên không nói ra, và BA cũng không nhận ra để mà hỏi."
+  },
+  {
+    "Id": 41,
+    "Text": "What is the main advantage of using the active voice in writing requirements?",
+    "Options": [
+      "It helps in reducing the length of the requirements",
+      "It makes the subject and action of the sentence clear, ensuring clarity",
+      "It makes the requirements sound more formal and professional",
+      "It is easier to translate into other languages"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q41 (Q31 Phần 2). Đáp án B\nGiải thích: Dùng &quot;câu chủ động&quot; (Active voice) khi viết yêu cầu giúp xác định rõ Ai (Chủ thể/Hệ thống) thực hiện Hành động gì, làm cho yêu cầu cực kỳ rõ ràng và tránh hiểu lầm."
+  },
+  {
+    "Id": 42,
+    "Text": "Which of the following is a correct guideline for writing clear and concise requirements?",
+    "Options": [
+      "Use long, descriptive sentences to cover all aspects of a requirement",
+      "Avoid using “shall” or “must” in favor of softer terms like “could” and “may.”",
+      "Write in simple language, avoid jargon, and keep sentences short and direct",
+      "Use multiple terms for the same concept to make the document more interesting"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q42 (Q32 Phần 2). Đáp án C\nGiải thích: Một nguyên tắc viết yêu cầu tốt là sử dụng ngôn từ đơn giản, tránh các thuật ngữ (jargon) khó hiểu, và giữ cho các câu ngắn gọn, đi thẳng vào vấn đề."
+  },
+  {
+    "Id": 43,
+    "Text": "What is the function of decision tables in requirements modeling?",
+    "Options": [
+      "To represent complex Boolean logic and decisions in a tabular format",
+      "To model user interface design",
+      "To specify data flows",
+      "To define system states"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q43 (Q33 Phần 2). Đáp án A\nGiải thích: Decision tables (Bảng quyết định) là công cụ hoàn hảo để biểu diễn một tập hợp các điều kiện logic phức tạp (Boolean logic) và kết quả của chúng dưới dạng bảng trực quan."
+  },
+  {
+    "Id": 44,
+    "Text": "An analysis model that visually depicts the various states in which a system or an object in the system can exist, the permitted transitions that can take place between states:",
+    "Options": [
+      "State-transition diagram",
+      "Swimlane diagram",
+      "Use case diagram",
+      "Data Flow diagram"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q44 (Q34 Phần 2). Đáp án A\nGiải thích: State-transition diagram (Biểu đồ chuyển trạng thái) dùng để trực quan hóa các trạng thái (states) của một đối tượng và các sự kiện (events) làm kích hoạt sự chuyển đổi giữa các trạng thái đó."
+  },
+  {
+    "Id": 45,
+    "Text": "What is one guideline for naming processes in a DFD?",
+    "Options": [
+      "Use a verb only",
+      "Use a noun only",
+      "Name the process after its corresponding data store",
+      "Name each process using a concise verb-object action"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q45 (Q35 Phần 2). Đáp án D\nGiải thích: Các quá trình (process) trong sơ đồ luồng dữ liệu (DFD) nên được đặt tên bằng một cấu trúc Động từ + Tân ngữ ngắn gọn (Ví dụ: &quot;Calculate Total&quot;, &quot;Print Report&quot;)."
+  },
+  {
+    "Id": 46,
+    "Text": "Which of the following are true about a dashboard? Choose 3 correct answers.",
+    "Options": [
+      "It is a screen display or printed report",
+      "It uses multiple textual and/or graphical representations of data",
+      "It aims to provide a consolidated, multidimensional view of what is going on in an organization or a process",
+      "It is a brochure to promote the product."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q46 (Q36 Phần 2). Đáp án A, B, C\nGiải thích: Dashboard là một màn hình hiển thị sử dụng nhiều biểu đồ/văn bản kết hợp nhằm mang lại một cái nhìn tổng quan, đa chiều về dữ liệu của tổ chức. Nó không phải là một cuốn sổ quảng cáo (brochure)."
+  },
+  {
+    "Id": 47,
+    "Text": "In an ERD, what is an entity typically represented by?",
+    "Options": [
+      "A diamond shape",
+      "A rectangle",
+      "An oval shape",
+      "A hexagon shape"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q47 (Q38 Phần 2). Đáp án B\nGiải thích: Trong sơ đồ Thực thể - Liên kết (ERD), một Entity (Thực thể - ví dụ: Khách hàng, Sản phẩm) luôn được vẽ bằng một hình chữ nhật (Rectangle)."
+  },
+  {
+    "Id": 48,
+    "Text": "What does the &quot;STRETCH&quot; keyword in Planguage represent?",
+    "Options": [
+      "The ideal performance level",
+      "A benchmark for testing",
+      "A more desirable performance objective than the minimum goal",
+      "A failure condition"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q48 (Q39 Phần 2). Đáp án C\nGiải thích: Trong cú pháp viết yêu cầu chất lượng (Planguage), &quot;STRETCH&quot; định nghĩa một mức hiệu suất mục tiêu lý tưởng và mong muốn đạt được, cao hơn mức độ tối thiểu bắt buộc."
+  },
+  {
+    "Id": 49,
+    "Text": "External quality attributes describe characteristics that are observed when the software is executing. Which following definition is Integrity?",
+    "Options": [
+      "It deals with blocking unauthorized access to system functions or data, ensuring that the software is protected from malware attacks, and so on.",
+      "It is the degree to which a system continues to function properly when confronted with invalid inputs.",
+      "It deals with preventing information loss and preserving the correctness of data entered into the system.",
+      "It deal with the need to prevent a system from doing any injury to people or damage to property."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q49 (Q40 Phần 2). Đáp án C\nGiải thích: Integrity (Tính toàn vẹn) là thuộc tính đảm bảo rằng dữ liệu không bị mất mát, sai lệch và luôn giữ được tính chính xác khi người dùng nhập vào hệ thống."
+  },
+  {
+    "Id": 50,
+    "Text": "Which of the following is an example of an external quality attribute?",
+    "Options": [
+      "Performance",
+      "Maintainability",
+      "Portability",
+      "Usability"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q50 (Q41 Phần 2). Đáp án D\nGiải thích: Usability (Tính dễ sử dụng) là một thuộc tính chất lượng bên ngoài (External quality attribute) bởi vì người dùng có thể trực tiếp quan sát và cảm nhận nó trong quá trình chạy và thao tác phần mềm."
+  },
+  {
+    "Id": 51,
+    "Text": "What is a key benefit of using mock-ups in prototyping?",
+    "Options": [
+      "To test the performance of the system",
+      "To demonstrate the system's functionality",
+      "To clarify user interface designs early",
+      "To finalize system features"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q43. Đáp án C: Mock-ups (bản phác thảo tĩnh) mang lại lợi ích chính là giúp làm rõ các thiết kế giao diện người dùng từ sớm trước khi tốn công lập trình."
+  },
+  {
+    "Id": 52,
+    "Text": "Which one is a kind of prototyping that firstly creates a sample for clarifying requirements with the user, then builds up and adds new features to this sample incrementally, and finally releases the final deliverable product based on it?",
+    "Options": [
+      "Mockup",
+      "Throwaway prototype",
+      "Evolutionary prototype",
+      "Wireframe"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q44. Đáp án C: &quot;Evolutionary prototype&quot; (Bản mẫu tiến hóa) là dạng bản mẫu được đắp thêm tính năng liên tục qua các vòng lặp cho đến khi nó trở thành sản phẩm cuối cùng có thể release."
+  },
+  {
+    "Id": 53,
+    "Text": "Prioritization is a way to deal with competing demands for limited resources. So, establishing the relative priority of each product capability lets you plan construction to provide the _____ value at the _____ cost.",
+    "Options": [
+      "highest, lowest",
+      "lowest, highest",
+      "highest, highest",
+      "lowest, lowest"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q45. Đáp án A: Đánh giá ưu tiên giúp bạn phân bổ nguồn lực giới hạn để triển khai các tính năng mang lại giá trị cao nhất (highest value) với chi phí thấp nhất (lowest cost)."
+  },
+  {
+    "Id": 54,
+    "Text": "Why is a defect checklist important during requirements validation?",
+    "Options": [
+      "It helps to systematically identify potential issues in the requirements",
+      "It ensures the system meets the design specifications",
+      "It simplifies the testing process",
+      "It provides detailed technical instructions for developers"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q46. Đáp án A: Sử dụng defect checklist (danh sách kiểm tra lỗi) trong lúc validation giúp nhận diện các vấn đề tiềm ẩn trong tài liệu yêu cầu một cách có hệ thống."
+  },
+  {
+    "Id": 55,
+    "Text": "Which of the following is NOT about Requirements validation?",
+    "Options": [
+      "It is the fourth component of requirements development",
+      "It is ensure that they have all the desired properties of high-quality requirements is also an essential activity",
+      "It is assesses whether you have written the right requirements: they trace back to business objectives.",
+      "It allows teams to build a correct solution that meets the stated business objectives"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q47. Đáp án D: Validation là quá trình kiểm tra xem bạn đã viết &quot;đúng yêu cầu chưa&quot; (truy xuất ngược về business objectives). Việc &quot;cho phép team xây dựng một giải pháp chính xác&quot; là kết quả của toàn bộ quá trình phát triển, không phải định nghĩa cốt lõi của validation."
+  },
+  {
+    "Id": 56,
+    "Text": "Which of the following is NOT considered a dimension of requirements reuse when adapting requirements from one project to another?",
+    "Options": [
+      "The extent of reuse, including whether individual requirement statements or sets of requirements with their associated elements are reused",
+      "Reuse frequency, which measures how often a particular requirement has been reused in different projects",
+      "The extent of modification, which considers the degree to which reused requirements must be altered to fit the new project's context",
+      "The reuse mechanism, which involves how the requirement is reused, such as copying from a library of reusable requirements or referring to the original source."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q48. Đáp án B: &quot;Reuse frequency&quot; (Tần suất tái sử dụng) không được xem là một khía cạnh (dimension) tiêu chuẩn của việc tái sử dụng yêu cầu khi chuyển từ dự án này sang dự án khác."
+  },
+  {
+    "Id": 57,
+    "Text": "How can reusable requirements be stored for easy reference?",
+    "Options": [
+      "By storing them in a spreadsheet",
+      "By copying them into every new project document",
+      "By linking to them from a shared location such as a database or a requirements management tool",
+      "By creating new versions for every instance they are used."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q49. Đáp án C: Để dễ dàng tham chiếu, các yêu cầu có thể tái sử dụng nên được lưu trữ bằng cách liên kết (linking) chúng từ một vị trí dùng chung như cơ sở dữ liệu hoặc công cụ quản lý yêu cầu."
+  },
+  {
+    "Id": 58,
+    "Text": "What role does requirements estimation play in project planning?",
+    "Options": [
+      "It helps determine the effort needed for design and development",
+      "It dictates the project's release schedule",
+      "It defines the testing strategy",
+      "It allocates resources for the project"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q50. Đáp án A: Việc ước lượng yêu cầu (requirements estimation) trong lập kế hoạch dự án đóng vai trò giúp xác định công sức (effort) cần thiết cho việc thiết kế và phát triển."
+  },
+  {
+    "Id": 59,
+    "Text": "Which of the following is NOT a characteristic of Software as a service (SaaS)?",
+    "Options": [
+      "Subscription-based pricing",
+      "On-premises deployment",
+      "Centralized hosting",
+      "Internet accessibility"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q51. Đáp án B: &quot;On-premises deployment&quot; (triển khai tại máy chủ nội bộ) hoàn toàn trái ngược với bản chất của SaaS (Phần mềm dạng Dịch vụ - thường lưu trữ tập trung trên cloud và dùng qua internet)."
+  },
+  {
+    "Id": 60,
+    "Text": "When selecting packaged solutions, what factors determine the level of detail and effort that should be put into specifying requirements?",
+    "Options": [
+      "The availability of vendor documentation and training materials",
+      "The complexity of the existing system that the package will replace.",
+      "The expected package costs, the evaluation timeline, and the number of candidate solutions.",
+      "The size of the development team and their familiarity with packaged solutions"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q52. Đáp án C: Khi chọn giải pháp đóng gói (packaged solutions), mức độ chi tiết của yêu cầu phụ thuộc vào chi phí kỳ vọng, thời gian đánh giá và số lượng các giải pháp ứng viên."
+  },
+  {
+    "Id": 61,
+    "Text": "What are the reasons for companies to contract with software outsourcing organizations?",
+    "Options": [
+      "To increase control and oversight project",
+      "To minimize stakeholder involvement",
+      "To limit project scope",
+      "To save money, or to accelerate development and access specialized expertise."
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q53. Đáp án D: Các công ty thường thuê ngoài (outsourcing) để tiết kiệm tiền, đẩy nhanh tốc độ phát triển và tiếp cận được với nguồn chuyên môn đặc thù."
+  },
+  {
+    "Id": 62,
+    "Text": "What is the main purpose of a requirements baseline?",
+    "Options": [
+      "To track changes",
+      "To establish project goals",
+      "To set the scope of the project",
+      "To establish an initial set of agreed-upon requirements"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q54. Đáp án D: Mục đích chính của Requirements Baseline (Đường cơ sở yêu cầu) là thiết lập một bộ yêu cầu ban đầu đã được các bên đồng thuận để làm chuẩn."
+  },
+  {
+    "Id": 63,
+    "Text": "What does the change control process primarily aim to do?",
+    "Options": [
+      "Delay changes until all requirements are implemented",
+      "Provide visibility and control over proposed changes",
+      "Implement changes immediately",
+      "Reject unnecessary changes"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q55. Đáp án B: Quy trình kiểm soát thay đổi (change control process) nhằm mục đích cung cấp sự minh bạch (visibility) và khả năng kiểm soát đối với các đề xuất thay đổi."
+  },
+  {
+    "Id": 64,
+    "Text": "A key motivation for requirements tracing is to facilitate what activity, especially when a requirement needs to be modified?",
+    "Options": [
+      "Requirements elicitation",
+      "Change impact analysis",
+      "User interface design",
+      "Project budgeting"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q56. Đáp án B: Động lực chính cho việc truy vết yêu cầu (requirements tracing) là tạo điều kiện thuận lợi cho việc phân tích tác động của sự thay đổi (Change impact analysis)."
+  },
+  {
+    "Id": 65,
+    "Text": "What is the main benefit of fostering a collaborative relationship between the development team and other stakeholders in the requirements process?",
+    "Options": [
+      "To ensure that each stakeholder has full control over the project",
+      "To align business, technical, and user needs and avoid misunderstandings",
+      "To speed up the development process by minimizing the number of team members involved",
+      "To focus only on technical requirements without business or user input."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q57. Đáp án B: Mối quan hệ hợp tác giữa team dev và stakeholders giúp điều chỉnh đồng bộ giữa mục tiêu kinh doanh, kỹ thuật và nhu cầu người dùng, từ đó tránh hiểu lầm."
+  },
+  {
+    "Id": 66,
+    "Text": "The elements of risk management are (choose 3 correct answers):",
+    "Options": [
+      "Risk assessment",
+      "Risk avoidance",
+      "Risk control",
+      "Risk reduction"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "Explanation": "Q58. Đáp án A, C, D: Các yếu tố cốt lõi của quản lý rủi ro bao gồm: Đánh giá rủi ro (Risk assessment), Kiểm soát rủi ro (Risk control) và Giảm thiểu rủi ro (Risk reduction)."
+  },
+  {
+    "Id": 67,
+    "Text": "Choose the incorrect answer when talking about the essential aspects of an agile approach to requirements.",
+    "Options": [
+      "Customer involvement",
+      "Expect stability",
+      "The backlog and prioritization",
+      "Timing",
+      "Documentation detail",
+      "It is important (customers need the capability) but not urgent (it can wait for a later release)",
+      "It is both important (customers need the capability) and urgent (customers need it in the next release), or contractual/compliance obligations mandate its inclusion.",
+      "It is neither important nor urgent, and can be eliminated.",
+      "It is urgent for political reasons but not important for achieving business objectives."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q59. Đáp án B: Trong phương pháp Agile, &quot;Expect stability&quot; (Kỳ vọng sự ổn định) là một nhận định sai, vì Agile luôn chào đón và thích ứng với sự thay đổi của yêu cầu.\nPhần 2: Ôn tập các khái niệm (Từ Q1 đến Q40 của khối tiếp theo)\n(Lưu ý: Bỏ qua 1 đoạn câu hỏi mồ côi không có số thứ tự trong file của bạn để đảm bảo số đếm liên mạch)"
+  },
+  {
+    "Id": 68,
+    "Text": "Which of the following is the most precise definition of 'Requirements'?",
+    "Options": [
+      "A requirement is anything that drives design choices",
+      "A requirement is a property that a product must have to provide value to a stakeholder",
+      "Requirements are a specification of what should be implemented. They are descriptions of how the system should behave, or of a system property or attribute. They may be a constraint on the development process of the system.",
+      "Requirements are what customers want"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q1. Đáp án C: Yêu cầu (Requirements) được định nghĩa chuẩn xác nhất là sự đặc tả những gì cần được lập trình, mô tả hành vi của hệ thống, các thuộc tính hoặc các ranh giới ràng buộc hệ thống."
+  },
+  {
+    "Id": 69,
+    "Text": "Which of the following items correctly describes the difference between product requirements and project requirements?",
+    "Options": [
+      "Product requirements describe the physical resources and training needs necessary for project completion",
+      "Project requirements include staff training and infrastructure changes needed in the operating environment",
+      "Project requirements are housed in the SRS along with product requirements.",
+      "Product requirements focus on the behaviors and attributes of the software system being built."
+    ],
+    "CorrectAnswers": [
+      "B",
+      "D"
+    ],
+    "Explanation": "Q2. Đáp án B, D: Product requirements (yêu cầu sản phẩm) tập trung vào hành vi và thuộc tính của phần mềm. Còn Project requirements (yêu cầu dự án) bao gồm các yếu tố bổ trợ như đào tạo nhân sự và thay đổi hạ tầng."
+  },
+  {
+    "Id": 70,
+    "Text": "Customers are a (an) _____ of stakeholders.",
+    "Options": [
+      "subset",
+      "representative",
+      "owner",
+      "equivalent"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q3. Đáp án A: Khách hàng (Customers) chỉ là một tập con (subset) nằm trong nhóm rất rộng các bên liên quan (Stakeholders)."
+  },
+  {
+    "Id": 71,
+    "Text": "What activity is not included in a representative requirements development process?",
+    "Options": [
+      "Select an appropriate software development life cycle.",
+      "Select elicitation techniques.",
+      "Review requirement.",
+      "Plan elicitation.",
+      "Analysis requirement."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q5. Đáp án A: &quot;Chọn mô hình phát triển phần mềm&quot; (SDLC) là công việc của quản lý dự án, không nằm trong quy trình phát triển yêu cầu (Requirements development process)."
+  },
+  {
+    "Id": 72,
+    "Text": "Which of the following are considered good practices in requirements analysis? Select three.",
+    "Options": [
+      "Modeling the application environment to understand contexts and boundaries with the real world",
+      "Starting the project without standardizing terminology to save time",
+      "Creating prototypes to explore and validate uncertain requirements with stakeholders",
+      "It helps avoid a focus on the UI or architecture of the system being built before the needs are understood."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "Explanation": "Q6. Đáp án A, C, D: Các &quot;best practices&quot; trong phân tích yêu cầu bao gồm việc mô hình hóa môi trường, tạo prototypes để xác nhận tính năng, và tránh sa đà vào thiết kế UI/kiến trúc từ quá sớm."
+  },
+  {
+    "Id": 73,
+    "Text": "What is a potential way for someone to transition into the business analyst role?",
+    "Options": [
+      "Through an apprenticeship program with mentoring",
+      "By studying software development exclusively",
+      "By focusing only on user interface design skills",
+      "By avoiding involvement with diverse user groups"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q7. Đáp án A: Cách tốt nhất để chuyển sang vai trò Business Analyst (BA) là thông qua một chương trình học việc có người cố vấn (mentoring)."
+  },
+  {
+    "Id": 74,
+    "Text": "What should a business analyst do in an Agile project? Choose 3 correct answers.",
+    "Options": [
+      "Define a practical, flexible requirements process and adapt it to the project realities",
+      "Ensure that requirements documentation is at a high level, very detailed.",
+      "Help validate that customer needs are accurately represented in the product backlog",
+      "Facilitate backlog prioritization"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "Explanation": "Q8. Đáp án A, C, D: Trong Agile, một BA nên định nghĩa một quy trình linh hoạt, giúp xác nhận nhu cầu khách hàng vào product backlog, và điều phối việc sắp xếp thứ tự ưu tiên (prioritization)."
+  },
+  {
+    "Id": 75,
+    "Text": "What should a business analyst do in an Agile project? Choose 3 correct answers.",
+    "Options": [
+      "Define a highly flexible requirements process and adapt it to the project variants",
+      "Ensure that requirements documentation is at a high level, very detailed.",
+      "Help validate that customer needs are accurately represented in the product backlog",
+      "Facilitate backlog prioritization"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "Explanation": "Q10. Đáp án A, C, D: (Câu này có nội dung tương tự Q8) BA trong Agile cần quy trình linh hoạt, xác nhận nhu cầu thực tế trên backlog và điều phối việc ưu tiên công việc."
+  },
+  {
+    "Id": 76,
+    "Text": "When defining the scope and limitations of a project, which of the following guidelines should be followed?",
+    "Options": [
+      "List the solution's major features or user capabilities, focusing on those that distinguish it from competitors.",
+      "Include all possible features in the scope to ensure nothing is left out, even if some may be unnecessary.",
+      "Clearly define the features that will be included in the release and those that will be excluded.",
+      "Avoid mentioning any limitations or exclusions to keep the focus on what the product will do."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q11. Đáp án A, C: Khi định nghĩa phạm vi (scope) và ranh giới (limitations), bạn cần liệt kê các tính năng chính yếu mang tính cạnh tranh, đồng thời nêu rõ những gì sẽ được bao gồm và KHÔNG được bao gồm trong phiên bản đó."
+  },
+  {
+    "Id": 77,
+    "Text": "What is the main purpose of a Vision and Scope document?",
+    "Options": [
+      "To define the bounds and objectives of the project",
+      "To specify all technical requirements",
+      "To finalize the system's architecture",
+      "To replace the requirements traceability matrix"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q12. Đáp án A: Mục đích chính của tài liệu Vision and Scope là để xác định ranh giới (bounds) và các mục tiêu (objectives) cốt lõi của dự án."
+  },
+  {
+    "Id": 78,
+    "Text": "A designated representative of a specific user class, who supplies the user requirements for the group that he/she represents is a _____.",
+    "Options": [
+      "Product manager",
+      "Product champion",
+      "Product backlog",
+      "Product owner"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q13. Đáp án B: &quot;Product champion&quot; là người đại diện được chỉ định cho một lớp người dùng cụ thể, chuyên cung cấp yêu cầu cho nhóm mà họ đại diện."
+  },
+  {
+    "Id": 79,
+    "Text": "Propose a solution for a scenario where product owners struggle to understand user requirements due to the complexity of the project. Which approach would you recommend?",
+    "Options": [
+      "Replace the product owner with a more knowledgeable technical lead.",
+      "Collaborate with multiple business analysts and product champions to gather comprehensive requirements.",
+      "Submit their project to check complete.",
+      "Delegate all decision making to the development team."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q14. Đáp án B: Khi dự án quá phức tạp và Product owner gặp khó khăn, giải pháp tốt nhất là hợp tác với nhiều BA và Product champions để thu thập yêu cầu toàn diện hơn."
+  },
+  {
+    "Id": 80,
+    "Text": "What is the primary challenge of validating non-functional requirements?",
+    "Options": [
+      "They are often subjective and difficult to measure objectively.",
+      "They focus only on technical constraints.",
+      "They replace stakeholder reviews."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q15. Đáp án A: Thách thức lớn nhất khi xác nhận các yêu cầu phi chức năng (NFRs) là chúng thường mang tính chủ quan và rất khó để đo lường một cách khách quan."
+  },
+  {
+    "Id": 81,
+    "Text": "Devise a method to ensure that all necessary documents and systems are available for independent validation and verification. Which of the following is the most practical approach?",
+    "Options": [
+      "Creating a checklist of required documents and systems.",
+      "Assigning a team to manually verify all access links.",
+      "Setting up a single location for data access.",
+      "Scheduling regular meetings to confirm document availability."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q16. Đáp án A: Phương pháp thực tế nhất để đảm bảo các tài liệu luôn sẵn sàng cho việc xác nhận độc lập (IV&amp;V) là tạo ra một danh sách kiểm tra (checklist) các tài liệu và hệ thống cần thiết."
+  },
+  {
+    "Id": 82,
+    "Text": "What is the advantage of using acceptance tests during validation?",
+    "Options": [
+      "To ensure the software meets user expectations before release.",
+      "To skip stakeholder reviews.",
+      "To prioritize coding tasks."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q17. Đáp án A: Lợi thế của Acceptance tests (Kiểm thử chấp nhận) trong quá trình validation là đảm bảo phần mềm đáp ứng đúng kỳ vọng của người dùng trước khi thực sự phát hành."
+  },
+  {
+    "Id": 83,
+    "Text": "Why is traceability essential for managing changing requirements?",
+    "Options": [
+      "To track changes and ensure alignment with project goals",
+      "To prioritize functional requirements",
+      "To reduce stakeholder involvement",
+      "To eliminate ambiguous requirements"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q18. Đáp án A: Truy vết (Traceability) rất quan trọng để theo dõi các sự thay đổi và đảm bảo chúng luôn bám sát (alignment) với mục tiêu ban đầu của dự án."
+  },
+  {
+    "Id": 84,
+    "Text": "Why is stakeholder feedback critical during requirements validation?",
+    "Options": [
+      "To ensure requirements align with business objectives and user needs",
+      "To finalize coding strategies",
+      "To skip ambiguous requirements",
+      "To prioritize testing phases"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q19. Đáp án A: Phản hồi của stakeholder rất quan trọng để đảm bảo rằng các yêu cầu hoàn toàn phù hợp với mục tiêu kinh doanh và nhu cầu thực tế của người dùng."
+  },
+  {
+    "Id": 85,
+    "Text": "What is the difference between Use Cases and User Stories?",
+    "Options": [
+      "The use case is a business artifact which defines the software requirement or an application feature. Whereas use story is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists.",
+      "The user story contains complete and lengthy descriptions. A use case contains simplified and short descriptions.",
+      "The user story is a business artifact which defines the software requirement or an application feature. Whereas use case is a test artifact which defines the steps to validate and verify that the software requirement or application feature exists.",
+      "The user story contains simplified and short descriptions. A use case contains complete and lengthy descriptions."
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q20. Đáp án D: User story chỉ bao gồm các mô tả ngắn gọn, đơn giản. Trong khi đó, Use case bao gồm các mô tả đầy đủ, chi tiết và dài hơn rất nhiều."
+  },
+  {
+    "Id": 86,
+    "Text": "Consider the use case diagram for the Chemical Tracking System. How does the &quot;extend&quot; relationship between\n&quot;Request a Chemical&quot; and &quot;Search Vendor Catalogs' affect the system's functionality?\n[IMAGE_PLACEHOLDER]",
+    "Options": [
+      "It allows &quot;Request a Chemical&quot; to function independently without any alternative flows.",
+      "It integrates &quot;Search Vendor Catalogs&quot; into the normal flow of 'Request a Chemical.&quot;",
+      "It provides an optional alternative flow for requesting chemicals from a vendor.",
+      "It duplicates the steps of &quot;Search Vendor Catalogs* within &quot;Request a Chemical.&quot;"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q21. Đáp án C: Quan hệ &quot;extend&quot; trong Use case cho biết &quot;Search Vendor Catalogs&quot; là một luồng hành động thay thế mang tính tùy chọn (optional) cho luồng mặc định &quot;Request a Chemical&quot;."
+  },
+  {
+    "Id": 87,
+    "Text": "What is the most popular form of user stories?",
+    "Options": [
+      "As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;.",
+      "As a &lt;type of user&gt;, I want &lt;some goal&gt;,",
+      "As a &lt;type of user&gt;, I need &lt;some need&gt; so that &lt;some reason&gt;.",
+      "As a &lt;type of user&gt;, I want &lt;some goal&gt; to &lt;some purpose&gt;."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q22. Đáp án A: Cấu trúc chuẩn và phổ biến nhất của User story là: &quot;As a , I want so that &quot;."
+  },
+  {
+    "Id": 88,
+    "Text": "Evaluate the effectiveness of using business process modeling to discover business rules. Which of the following best describes its impact?",
+    "Options": [
+      "It only clarifies computations rules and ignores constraints.",
+      "It highlights rules that govern process flows and decision points.",
+      "It focuses solely on the accuracy of existing documentation.",
+      "It is ineffective in discovering business rules related to data attributes."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q24. Đáp án B: Lợi ích của việc dùng Business process modeling (mô hình hóa quy trình kinh doanh) là nó làm nổi bật các quy tắc (rules) chi phối luồng quy trình và các điểm ra quyết định."
+  },
+  {
+    "Id": 89,
+    "Text": "Which of the following is NOT a type of business rule according to the taxonomy?",
+    "Options": [
+      "Fact Rules",
+      "Action Enabler Rules",
+      "Constraint Rules",
+      "Operational Rules"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q26. Đáp án D: &quot;Operational Rules&quot; (Quy tắc vận hành) không nằm trong hệ thống phân loại tiêu chuẩn của Business Rules."
+  },
+  {
+    "Id": 90,
+    "Text": "Why do we have to label the requirements in a software requirements specification (SRS)? (Choose 3 correct answers)",
+    "Options": [
+      "It allows us to refer to specific requirements in a change request, modification history, cross-reference, or requirements traceability matrix.",
+      "It enables reusing the requirements in multiple projects.",
+      "It facilitates collaboration between team members when they're discussing requirements.",
+      "It makes the SRS look more professional."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q27. Đáp án A, B, C: Đánh nhãn yêu cầu trong SRS giúp bạn dễ dàng tham chiếu, tái sử dụng trong dự án khác và hỗ trợ việc trao đổi thông tin giữa các thành viên thuận lợi hơn."
+  },
+  {
+    "Id": 91,
+    "Text": "Which of the following does NOT suggest an overall description of the Software Requirements Specification pattern?",
+    "Options": [
+      "Product perspective",
+      "User classes and characteristics",
+      "Operating environment",
+      "Design and implementation constraints",
+      "Assumptions and dependencies",
+      "System features"
+    ],
+    "CorrectAnswers": [
+      "F"
+    ],
+    "Explanation": "Q28. Đáp án F: System features (Các tính năng hệ thống) là một phần độc lập, không nằm trong mục Overall description (Mô tả tổng quan) của mẫu tài liệu SRS chuẩn."
+  },
+  {
+    "Id": 92,
+    "Text": "In software requirements specification, which section do user interfaces belong to?",
+    "Options": [
+      "Overall description",
+      "System features",
+      "Data requirements",
+      "External interface requirements"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q29. Đáp án D: Yêu cầu về User interfaces (Giao diện người dùng) được phân loại vào mục External interface requirements (Yêu cầu giao diện bên ngoài) trong tài liệu SRS."
+  },
+  {
+    "Id": 93,
+    "Text": "When specifying the level of detail in Software requirements, which of the following practices should be followed?",
+    "Options": [
+      "It is necessary to specify all requirements at the same high level of detail to ensure consistency.",
+      "You don't need to specify details that are obvious to the development team, such as standard error messages that are handled consistently across the system.",
+      "Less detail can be acceptable when a task is being done internally for your company and developers have extensive domain experience.",
+      "Writing all requirements at a very low-level is always best, regardless of the project's context."
+    ],
+    "CorrectAnswers": [
+      "B",
+      "C"
+    ],
+    "Explanation": "Q30. Đáp án B, C: Bạn không cần viết quá chi tiết những điều đã hiển nhiên với team dev, hoặc có thể viết ít chi tiết hơn nếu dự án làm nội bộ và dev đã rất am hiểu nghiệp vụ."
+  },
+  {
+    "Id": 94,
+    "Text": "What steps would you include in a peer review process to identify and resolve ambiguities in requirement statements?",
+    "Options": [
+      "Have each participant review the requirements individually and submit their feedback separately.",
+      "Conduct a formal peer review meeting where participants compare their understanding of each requirement and discuss any ambiguities.",
+      "Skip the peer review process and rely on individual interpretations.",
+      "Only review requirements after the development phase."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q31. Đáp án B: Bước quan trọng trong quy trình peer review để xử lý sự mơ hồ là tổ chức một cuộc họp chính thức, nơi người tham gia so sánh cách họ hiểu về từng yêu cầu để cùng thảo luận."
+  },
+  {
+    "Id": 95,
+    "Text": "How can you explain the statement &quot;Implicit requirements can also be unknown unknowns&quot;?",
+    "Options": [
+      "During the SRS process, customers should always be required to spell out their unknown unknowns.",
+      "An unknown unknown cannot be known and therefore we can not make them explicit requirements.",
+      "There are matters that should be, but are not, elicited through the elicitation process. They exist, but they are not realized.",
+      "They help us reveal both known unknowns and more unknown unknowns."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q32. Đáp án C: Yêu cầu ngầm (Implicit requirements) thường tồn tại nhưng lại không được nhận ra hoặc không được thu thập đầy đủ trong quá trình elicitation."
+  },
+  {
+    "Id": 96,
+    "Text": "What is the primary purpose of a state-transition diagram (STD)?",
+    "Options": [
+      "To model the physical layout and hardware components of a system",
+      "To represent the possible states of an object and the transitions between these states based on various events or conditions.",
+      "To outline the organization's roles and responsibilities within a business process.",
+      "To visualize user interface flow and interactions in software applications."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q34. Đáp án B: Mục đích chính của biểu đồ chuyển trạng thái (STD) là thể hiện các trạng thái có thể có của một đối tượng và sự chuyển đổi giữa chúng dựa trên các sự kiện hoặc điều kiện."
+  },
+  {
+    "Id": 97,
+    "Text": "An analysis model that describes process flow proceeding from one step to another.",
+    "Options": [
+      "Dialog map",
+      "Swimlane diagram",
+      "Context diagram",
+      "Class diagram"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q35. Đáp án B: Swimlane diagram là mô hình phân tích diễn tả luồng quy trình (process flow) chuyển tiếp từ bước này sang bước khác một cách trực quan."
+  },
+  {
+    "Id": 98,
+    "Text": "What is one of the first questions to ask when eliciting reporting requirements from a customer?",
+    "Options": [
+      "How often should the reports be printed?",
+      "What reports are currently used?",
+      "How many users will need access to the report?",
+      "What is the preferred color scheme for the reports?"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q36. Đáp án B: Câu hỏi đầu tiên cần hỏi khi lấy yêu cầu về báo cáo (reporting) từ khách hàng là: &quot;Hiện tại các anh/chị đang sử dụng những báo cáo nào?&quot; (What reports are currently used?)."
+  },
+  {
+    "Id": 99,
+    "Text": "A collection of definitions for the data elements and data structures that are relevant to the problem domain.",
+    "Options": [
+      "Data dictionary",
+      "Data flow diagram",
+      "Database",
+      "Record"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q37. Đáp án A: Data dictionary (Từ điển dữ liệu) là một tập hợp các định nghĩa về các phần tử dữ liệu và cấu trúc dữ liệu liên quan trực tiếp đến hệ thống."
+  },
+  {
+    "Id": 100,
+    "Text": "Which of the following statements best describes a key aspect of performance requirements for a software system?",
+    "Options": [
+      "Performance requirements focus solely on the visual design and user flow of the system.",
+      "System requirements specify quantitative metrics such as response time, throughput, etc.",
+      "Performance requirements are concerned only with the physical storage capacity of a system's database.",
+      "Performance requirements are unrelated to external factors like network connections and hardware components."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q40. Đáp án B: Đặc điểm quan trọng nhất của yêu cầu hiệu năng (Performance requirements) là chúng phải chỉ định được các chỉ số định lượng (quantitative metrics) rõ ràng như thời gian phản hồi, lưu lượng dữ liệu,....\nPhần 3: Phân tích, Đặc tả và Quản lý yêu cầu (Tiếp theo)"
+  },
+  {
+    "Id": 101,
+    "Text": "What is a potential consequence of adding more functionality without assessing its impact?",
+    "Options": [
+      "Improved system performance.",
+      "Increased system efficiency.",
+      "Deterioration of system performance.",
+      "Reduced need for performance testing."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q41. Đáp án C: Việc bổ sung thêm chức năng mà không đánh giá kỹ tác động (impact) thường mang lại hậu quả là làm suy giảm hiệu năng của hệ thống (Deterioration of system performance)."
+  },
+  {
+    "Id": 102,
+    "Text": "What is true about a software prototype? Choose 3 correct answers.",
+    "Options": [
+      "It is a partial implementation of a proposed new product.",
+      "It is a possible implementation of a proposed new product.",
+      "It is a preliminary implementation of a proposed new product.",
+      "It is a complete implementation of a proposed new product."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q42. Đáp án A, B, C: Một prototype (bản mẫu) phần mềm có thể là một bản triển khai một phần (partial), một khả năng có thể xảy ra (possible), hoặc một bản triển khai sơ bộ (preliminary) của sản phẩm mới."
+  },
+  {
+    "Id": 103,
+    "Text": "While a mock-up is called a ___prototype, a proof of concept is called a ___prototype.",
+    "Options": [
+      "horizontal, vertical",
+      "vertical, horizontal",
+      "primary, secondary",
+      "front-end, back-end"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q43. Đáp án A: Mock-up (bản phác thảo giao diện) được gọi là bản mẫu ngang (horizontal prototype - tập trung vào bề nổi UI), trong khi Proof of Concept (PoC) được gọi là bản mẫu dọc (vertical prototype - đi sâu vào kiến trúc/logic)."
+  },
+  {
+    "Id": 104,
+    "Text": "Which of the following statements are incorrect about throwaway prototypes?",
+    "Options": [
+      "most appropriate when the team faces uncertainty, ambiguity, incompleteness, or vagueness in the requirements",
+      "when build a throwaway prototype, they ignore solid software construction techniques",
+      "you might prefer to call it a releasable prototype",
+      "Build a throwaway prototype to answer questions, resolve uncertainties, and improve requirements quality"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q44. Đáp án C: Nhận định sai về Throwaway prototype (bản mẫu dùng một lần) là gọi nó là &quot;releasable prototype&quot; (có thể phát hành). Đặc tính của nó là làm nháp để hiểu yêu cầu rồi bỏ đi chứ không dùng làm sản phẩm cuối."
+  },
+  {
+    "Id": 105,
+    "Text": "Which of the following is NOT a requirements prioritization technique?",
+    "Options": [
+      "Pairwise comparison",
+      "In or out",
+      "Three-level scale",
+      "$1000",
+      "MoSCoW"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q45. Đáp án D: Phương pháp phân bổ $100 (100-dollar test) là một kỹ thuật ưu tiên, nhưng phương án &quot;$1000&quot; là sai tên gọi."
+  },
+  {
+    "Id": 106,
+    "Text": "What does the MoSCoW method classify in requirements prioritization?",
+    "Options": [
+      "Urgency and cost of requirements",
+      "Must, Should, Could, and Won't categories",
+      "Technical feasibility and design limitations",
+      "High, Medium, and Low priorities"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q46. Đáp án B: Phương pháp MoSCoW phân loại yêu cầu thành 4 nhóm: Must (Phải có), Should (Nên có), Could (Có thể có), và Won't (Sẽ không có)."
+  },
+  {
+    "Id": 107,
+    "Text": "Validation of requirements assesses whether you have written ___",
+    "Options": [
+      "the right requirements",
+      "the requirements right",
+      "the flexible requirements",
+      "the variable requirements"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q47. Đáp án A: Quá trình Validation (Xác nhận) tập trung vào việc đánh giá xem bạn đã viết &quot;đúng yêu cầu chưa&quot; (the right requirements - có giải quyết đúng vấn đề kinh doanh không)."
+  },
+  {
+    "Id": 108,
+    "Text": "How does the Kano model help analyze user requirements?",
+    "Options": [
+      "By classifying features into basic, performance, and delight categories",
+      "By prioritizing requirements based on technical feasibility",
+      "By eliminating unnecessary requirements",
+      "By focusing only on functional requirements"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q48. Đáp án A: Mô hình Kano giúp phân tích yêu cầu người dùng bằng cách phân loại các tính năng thành nhóm cơ bản (basic), hiệu năng (performance), và đem lại sự thích thú (delight)."
+  },
+  {
+    "Id": 109,
+    "Text": "What is the primary purpose of requirements reuse?",
+    "Options": [
+      "To save time, improve consistency, and reduce risks",
+      "To eliminate stakeholder reviews",
+      "To finalize the coding phase.",
+      "To reduce prototyping efforts."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q49. Đáp án A: Mục đích chính của việc tái sử dụng yêu cầu (requirements reuse) là để tiết kiệm thời gian, cải thiện tính nhất quán và giảm thiểu rủi ro cho dự án."
+  },
+  {
+    "Id": 110,
+    "Text": "How does requirements reuse improve project efficiency?",
+    "Options": [
+      "By reducing time and effort during the elicitation process",
+      "By skipping stakeholder reviews",
+      "By focusing only on functional requirements",
+      "By eliminating non-functional requirements"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q50. Đáp án A: Tái sử dụng yêu cầu giúp tăng hiệu quả dự án nhờ việc giảm thiểu thời gian và công sức bỏ ra trong giai đoạn thu thập yêu cầu (elicitation)."
+  },
+  {
+    "Id": 111,
+    "Text": "What tool did Sedevel develop to assist with estimating requirements development effort?",
+    "Options": [
+      "A coding tool for developers",
+      "A requirement effort estimation spreadsheet",
+      "A time-tracking tool for project managers",
+      "A documentation tool for stakeholders"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q51. Đáp án B: Sedevel đã phát triển một bảng tính (spreadsheet) chuyên dụng để hỗ trợ việc ước lượng công sức phát triển yêu cầu."
+  },
+  {
+    "Id": 112,
+    "Text": "Which of the following is NOT about Agile project?",
+    "Options": [
+      "Developers have little interaction with customers once construction begins and progresses.",
+      "It encourages creating the minimum amount of documentation needed to successfully build the deliverable.",
+      "Agile projects recognize that requirements will evolve.",
+      "The collaboration of customers with developers on agile projects generally means that requirements can be documented in less detail."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q52. Đáp án A: Nhận định sai về dự án Agile là &quot;Lập trình viên ít tương tác với khách hàng sau khi bắt đầu lập trình&quot;. Ngược lại, Agile đòi hỏi sự tương tác và phản hồi liên tục với khách hàng."
+  },
+  {
+    "Id": 113,
+    "Text": "Which of the following is NOT about packaged solution?",
+    "Options": [
+      "You build systems by using your own staff.",
+      "It needs to be configured, integrated, and extended to work in the target environment.",
+      "You can purchase a package as a part or all of the solution for a new project.",
+      "Evaluate solution candidates so that you can select the most appropriate package."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q53. Đáp án A: &quot;Xây dựng hệ thống bằng nhân sự nội bộ&quot; (build systems by using your own staff) là phát triển tùy chỉnh, không phải đặc điểm của giải pháp mua sẵn (packaged solution)."
+  },
+  {
+    "Id": 114,
+    "Text": "Which of the following is NOT about outsourced projects?",
+    "Options": [
+      "We take advantage of offline tools when they are available.",
+      "It is harder to get developer feedback on requirements and passing along user feedback on delivered software.",
+      "A formal contract definition of requirements is necessary, which can lead to conflict if there are differences of interpretation."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q54. Đáp án A: Việc &quot;tận dụng các công cụ offline&quot; không phải là đặc trưng hay vấn đề trọng tâm khi nhắc đến các dự án thuê ngoài (outsourced projects)."
+  },
+  {
+    "Id": 115,
+    "Text": "What are the core activities in requirements management?",
+    "Options": [
+      "Version control, project scheduling, change control and budget management.",
+      "Change control, risk assessment, requirements tracing and stakeholder engagement.",
+      "Version control, change control, requirement status tracking, and requirement tracing.",
+      "Change control, test deployment, and maintenance."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q55. Đáp án C: Các hoạt động cốt lõi của Quản lý yêu cầu (Requirements management) bao gồm: kiểm soát phiên bản, kiểm soát thay đổi, theo dõi trạng thái yêu cầu, và truy vết yêu cầu (tracing)."
+  },
+  {
+    "Id": 116,
+    "Text": "In the context of change management on software projects, how are changes typically managed to maintain effectiveness without stifling flexibility?",
+    "Options": [
+      "By freezing the product backlog after each release to prevent changes until the next project.",
+      "By managing changes flexibly through practices like risk assessment, change boards, and iteration planning.",
+      "By strictly adhering to a predetermined change board, outside of which no changes are permitted.",
+      "By escalating all change requests to an executive change authority, regardless of their impact on the project."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q56. Đáp án B: Trong các dự án phần mềm, thay đổi thường được quản lý linh hoạt thông qua các thực tiễn như đánh giá rủi ro, hội đồng phê duyệt thay đổi (change boards) và lập kế hoạch theo từng vòng lặp."
+  },
+  {
+    "Id": 117,
+    "Text": "What is the main benefit of fostering a collaborative relationship between the development team and other stakeholders in the requirements process?",
+    "Options": [
+      "To ensure that each stakeholder has full control over the project.",
+      "To align business, technical, and user needs and avoid misunderstandings.",
+      "To speed up the development process by minimizing the number of team members involved.",
+      "To focus only on technical requirements without business or user input."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q58. Đáp án B: Lợi ích lớn nhất của việc hợp tác giữa team dev và các bên liên quan là giúp đồng bộ hóa các nhu cầu về kinh doanh, kỹ thuật và người dùng để tránh hiểu lầm."
+  },
+  {
+    "Id": 118,
+    "Text": "What is Risk assessment?",
+    "Options": [],
+    "CorrectAnswers": [],
+    "Explanation": "Q59. Đáp án A: Đánh giá rủi ro (Risk assessment) là quá trình kiểm tra dự án để phát hiện và nhận diện các mối đe dọa tiềm ẩn."
+  },
+  {
+    "Id": 119,
+    "Text": "What is Risk assessment?",
+    "Options": [
+      "It is the process of examining a project to detect potential threats.",
+      "It is one way to deal with a risk: don't do the risky thing.",
+      "It produces a plan for dealing with each significant risk.",
+      "Activities to manage the top priority risks you identified."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q60. Đáp án C: Product backlogs (Danh sách công việc tồn đọng của sản phẩm) thường bao gồm cả các User stories (tính năng) và Defects (lỗi cần sửa)."
+  },
+  {
+    "Id": 120,
+    "Text": "Product backlogs typically are...",
+    "Options": [],
+    "CorrectAnswers": [],
+    "Explanation": null
+  },
+  {
+    "Id": 121,
+    "Text": "Product backlogs typically are...",
+    "Options": [
+      "user stories",
+      "defects",
+      "user stories and defects",
+      "prototypes"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": null
+  },
+  {
+    "Id": 122,
+    "Text": "Which JSTL tag is used to format numbers according to locales?",
+    "Options": [
+      "&lt;fmt:parseNumber&gt;",
+      "&lt;fmt:setNumber&gt;",
+      "&lt;fmt:formatNumber&gt;",
+      "&lt;fmt:setLocale&gt;"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Câu 1. Đáp án C: Thẻ &lt;fmt:formatNumber&gt; trong JSTL được sử dụng để định dạng các con số theo tiêu chuẩn của từng quốc gia/khu vực (locales)."
+  },
+  {
+    "Id": 123,
+    "Text": "Which one of the following is not a step of requirement development?",
+    "Options": [
+      "elicitation",
+      "design",
+      "analysis",
+      "validation",
+      "documentation"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q2. Đáp án B: Thiết kế (design) thuộc giai đoạn phát triển, không phải là một bước trong quy trình phát triển yêu cầu (elicitation, analysis, validation, documentation)."
+  },
+  {
+    "Id": 124,
+    "Text": "Which of the following statements about reaching agreement on requirements is accurate? Select two.",
+    "Options": [
+      "Signing off on requirements is an infallible method to prevent any changes later in the project",
+      "All participants in the requirements approval process must understand what signing off implies.",
+      "The purpose of signing off is to freeze requirements and prevent any future modifications",
+      "Reaching agreement on requirements ensures that both customers and developers have a shared understanding of project objectives."
+    ],
+    "CorrectAnswers": [
+      "B",
+      "D"
+    ],
+    "Explanation": "Q3. Đáp án B, D: Khi chốt yêu cầu, mọi người tham gia phải hiểu rõ việc ký duyệt (signing off) có ý nghĩa gì, và điều này giúp đảm bảo khách hàng cùng dev có chung sự thấu hiểu về mục tiêu dự án."
+  },
+  {
+    "Id": 125,
+    "Text": "What is the benefit of having a small group representing key areas as decision makers in a project?",
+    "Options": [
+      "It simplifies the decision-making process by involving only the project manager",
+      "It ensures diverse perspectives from management, customers, business analysis, development, and marketing",
+      "It reduces the need for stakeholder involvement",
+      "It focuses solely on technical specifications"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q4. Đáp án B: Việc có một nhóm nhỏ đại diện từ nhiều lĩnh vực tham gia ra quyết định sẽ mang lại các góc nhìn đa dạng (diverse perspectives) từ quản lý, khách hàng, BA, Dev đến marketing."
+  },
+  {
+    "Id": 126,
+    "Text": "Which type of requirement best describes the behavior and information that the solution will manage, including a specific system actions or responses?",
+    "Options": [
+      "Stakeholder Requirements",
+      "Functional Requirements",
+      "Business Requirements",
+      "Non-functional Requirements"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q5. Đáp án B: Functional Requirements (Yêu cầu chức năng) mô tả các hành vi, thông tin và các hành động/phản hồi cụ thể mà hệ thống phải thực hiện."
+  },
+  {
+    "Id": 127,
+    "Text": "Which of the following are considered good practices in requirements elicitation? Select two.",
+    "Options": [
+      "Defining the product vision and project scope early in the project to ensure all stakeholders have a shared understanding",
+      "Focusing exclusively on nonfunctional requirements during initial elicitation while ignoring functional requirements to save time.",
+      "Identifying user classes and their characteristics to ensure that all user needs are considered",
+      "Avoiding the use of prototypes in the early stages of requirements elicitation to prevent biasing stakeholders"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q6. Đáp án A, C: Thực tiễn tốt trong lúc lấy yêu cầu là xác định sớm tầm nhìn/phạm vi dự án, đồng thời nhận diện rõ các nhóm người dùng (user classes) để không bỏ sót nhu cầu của họ."
+  },
+  {
+    "Id": 128,
+    "Text": "Why is it crucial for a business analyst to communicate requirements effectively and efficiently?",
+    "Options": [
+      "To ensure that requirements are documented only once",
+      "To facilitate ongoing collaboration and ensure the team understands the requirements",
+      "To avoid the need for visual analysis models",
+      "To reduce the number of requirements"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q7. Đáp án B: BA cần truyền đạt yêu cầu một cách hiệu quả để tạo điều kiện thuận lợi cho sự hợp tác liên tục và đảm bảo cả team đều hiểu đúng những gì cần làm."
+  },
+  {
+    "Id": 129,
+    "Text": "Which of the following tasks are typically performed by a business analyst? Select two.",
+    "Options": [
+      "Defining business requirements and helping project sponsors express the project's vision clearly",
+      "Focusing only on textual documentation and avoiding the use of visual aids like diagrams and prototypes",
+      "Ensuring that all team members fully understand the requirements being communicated",
+      "Managing the entire software development life cycle, from inception to deployment"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q8. Đáp án A, C: Nhiệm vụ điển hình của BA là định nghĩa yêu cầu kinh doanh, làm rõ tầm nhìn dự án, và đảm bảo tất cả thành viên trong team hiểu đầy đủ yêu cầu đó."
+  },
+  {
+    "Id": 130,
+    "Text": "Which of the following statements accurately describes the role of a business analyst in a project? Select two.",
+    "Options": [
+      "The business analyst is solely responsible for managing communication between the customer(s) and the development team",
+      "The business analyst primarily focuses on eliciting, analyzing, documenting, and validating the needs of the project stakeholders",
+      "In agile projects, the business analyst often acts as the project manager, handling both internal and external project tasks",
+      "The business analyst plays a central role in collecting and disseminating product information, while the project manager focuses on communicating project information"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "D"
+    ],
+    "Explanation": "Q9. Đáp án B, D: BA tập trung vào việc thu thập, phân tích, viết docs và xác nhận nhu cầu của stakeholders. Họ đóng vai trò trung tâm trong việc thu thập thông tin của sản phẩm."
+  },
+  {
+    "Id": 131,
+    "Text": "Which of the following is a likely stakeholder interest for a retail kiosk's customer?",
+    "Options": [
+      "Maximizing user convenience",
+      "Minimizing development cost",
+      "Improving operational efficiency",
+      "Increasing market reach"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q10. Đáp án A: Đối với một khách hàng sử dụng quầy kiosk tự phục vụ, lợi ích mà họ quan tâm nhất chắc chắn là tối đa hóa sự tiện lợi khi sử dụng (Maximizing user convenience)."
+  },
+  {
+    "Id": 132,
+    "Text": "Which of the following statements accurately describe the use of context diagrams in representing project scope? Select two.",
+    "Options": [
+      "A context diagram visually illustrates the boundary between the system being developed and external entities that interact with it",
+      "The context diagram includes detailed information about the system's internal processes and data",
+      "The primary purpose of a context diagram is to depict the interactions between the system and external entities without detailing the internal workings of the system.",
+      "Context diagrams are typically used to represent the relationship between user interfaces and system components within the boundary"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q11. Đáp án A, C: Biểu đồ ngữ cảnh (Context diagram) phác họa ranh giới giữa hệ thống và các thực thể bên ngoài, chỉ thể hiện sự tương tác mà không đi sâu vào chi tiết bên trong hệ thống."
+  },
+  {
+    "Id": 133,
+    "Text": "Which of the following elements should be included when crafting a vision statement? Select three.",
+    "Options": [
+      "The specific target customer for whom the product is intended",
+      "A detailed technical specification of the product's architecture.",
+      "The key benefit or compelling reason for the customer to buy or use the product",
+      "A comparison with the primary competitive alternative or current system"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "Explanation": "Q12. Đáp án A, C, D: Một Tuyên bố Tầm nhìn (Vision statement) cần có: khách hàng mục tiêu, lợi ích chính trị giá của sản phẩm, và sự so sánh với các lựa chọn thay thế hiện tại."
+  },
+  {
+    "Id": 134,
+    "Text": "Which of the following is NOT characteristic of the user?",
+    "Options": [
+      "A subset of the product's customers in some cases",
+      "A subset of the product's users",
+      "A superset of stakeholders",
+      "Includes direct users and indirect users"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q13. Đáp án C: User (người dùng) chỉ là một tập con (subset), chứ KHÔNG PHẢI là &quot;tập cha&quot; (superset) của stakeholders (các bên liên quan)."
+  },
+  {
+    "Id": 135,
+    "Text": "A designated representative of a specific user class, who supplies the user requirements for the group that he or she represents, is a:",
+    "Options": [
+      "Product manager",
+      "Product champion",
+      "Product backlog",
+      "Product owner"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q14. Đáp án B: Product champion là một người đại diện được chỉ định riêng biệt để cung cấp yêu cầu cho nhóm người dùng mà họ đại diện."
+  },
+  {
+    "Id": 136,
+    "Text": "What do product champions do? Choose 2 correct answers.",
+    "Options": [
+      "They gather requirements from other members of the user classes they represent, and reconcile inconsistencies.",
+      "They serve as the primary interface between members of a single user class and the project's business analyst",
+      "They implement the coding standards.",
+      "They write requirements documents."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B"
+    ],
+    "Explanation": "Q15. Đáp án A, B: Product champion có nhiệm vụ thu thập yêu cầu từ những người dùng khác, giải quyết sự bất đồng, và đóng vai trò là cầu nối giao tiếp chính với BA."
+  },
+  {
+    "Id": 137,
+    "Text": "&quot;Organize and share notes&quot; is an activity that belongs to?\n![Chemical Tracking System Use Case](/images/swr302_q16.png)",
+    "Options": [
+      "Preparing for elicitation",
+      "Performing elicitation activities",
+      "Following up after elicitation",
+      "Classifying customer"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q16. Đáp án C: &quot;Sắp xếp và chia sẻ ghi chú&quot; là hành động được thực hiện ở bước theo dõi sau khi đã thu thập yêu cầu (Following up after elicitation)."
+  },
+  {
+    "Id": 138,
+    "Text": "Which of the following is a recommended question to ask when probing for exceptions in processes?",
+    "Options": [
+      "Why do you think this system is perfect?",
+      "What are the three things you dislike about the current system?",
+      "What happens when an error occurs?",
+      "What is your favorite feature of this system?"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q17. Đáp án C: Khi muốn khai thác thông tin về các trường hợp ngoại lệ (exceptions) trong một quy trình, câu hỏi tốt nhất là &quot;Điều gì sẽ xảy ra khi có lỗi?&quot; (What happens when an error occurs?)."
+  },
+  {
+    "Id": 139,
+    "Text": "Which of the following are the signals indicating that you have completed requirements elicitation? Choose 3 correct answers.",
+    "Options": [
+      "Users repeat issues they already covered in previous discussions.",
+      "Suggested new features, user requirements, or functional requirements are all deemed to be out of scope.",
+      "Proposed new requirements are all low priority",
+      "Developers and testers who review the requirements for an area raise many questions"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q18. Đáp án A, B, C: Các dấu hiệu cho thấy bạn đã hoàn thành việc lấy yêu cầu: người dùng bắt đầu lặp lại các vấn đề cũ, các tính năng mới bị đánh giá là ngoài phạm vi, hoặc các yêu cầu mới đều có mức ưu tiên rất thấp."
+  },
+  {
+    "Id": 140,
+    "Text": "Why is it essential to specify acceptance criteria during requirements validation?",
+    "Options": [
+      "To define clear and measurable conditions for success",
+      "To prioritize functional requirements",
+      "To finalize the design phase",
+      "To eliminate stakeholder input"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q19. Đáp án A: Cần chỉ định Tiêu chí chấp nhận (Acceptance criteria) vì nó giúp xác định các điều kiện rõ ràng và có thể đo lường được để đánh giá sự thành công của sản phẩm."
+  },
+  {
+    "Id": 141,
+    "Text": "Which of the following statements accurately describe preconditions and postconditions in the context of use cases? Select two.",
+    "Options": [
+      "Preconditions define the prerequisites that must be met before the system can begin executing a use case.",
+      "Preconditions describe the expected outcome after the use case has been successfully executed",
+      "Postconditions describe the state of the system after the use case has executed successfully",
+      "Postconditions determine whether the system should proceed with executing a use case"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q21. Đáp án A, C: Trong Use Case, &quot;Preconditions&quot; là điều kiện tiên quyết phải đạt được trước khi chạy, còn &quot;Postconditions&quot; mô tả trạng thái của hệ thống sau khi Use Case chạy thành công."
+  },
+  {
+    "Id": 142,
+    "Text": "Which elements are mandatory in use case?",
+    "Options": [
+      "Post-condition",
+      "Actors",
+      "Pre-condition",
+      "Name"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q22. Đáp án B, D: Bất kỳ Use Case nào cũng bắt buộc phải có hai thành phần cơ bản nhất: Tên (Name) và Tác nhân tham gia (Actors)."
+  },
+  {
+    "Id": 143,
+    "Text": "In the Chemical Tracking System project, what is the relationship between use case: &quot;Pay a bill&quot; and use case: &quot;Write a check&quot;?",
+    "Options": [
+      "include",
+      "extend",
+      "generalization"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "D"
+    ],
+    "Explanation": "Q23. Đáp án B: Quan hệ &quot;extend&quot; (Mở rộng). Việc &quot;Viết séc&quot; (Write a check) có thể là một luồng phụ/luồng tùy chọn để thanh toán hóa đơn (Pay a bill)."
+  },
+  {
+    "Id": 144,
+    "Text": "Consider the following Statement: “If a lead doesn't respond back within 30 days of the first contact, it must be a cold lead and can be marked accordingly”. What type of business rule is being depicted here?",
+    "Options": [
+      "Facts",
+      "Constraints",
+      "Action enablers",
+      "Inferences",
+      "Computations"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q24. Đáp án D: &quot;Nếu một khách hàng tiềm năng không phản hồi trong 30 ngày, họ sẽ bị đánh dấu là cold lead&quot;. Đây là một sự suy luận (Inferences) rút ra từ hành vi của người dùng."
+  },
+  {
+    "Id": 145,
+    "Text": "Which of the following statements accurately describes a business rule? Select two.",
+    "Options": [
+      "A business rule is a statement that defines or constrains some aspect of the business to control or influence its behavior",
+      "Business rules are only relevant for heavily rules-driven systems and can be ignored in simpler systems",
+      "Classifying business rules helps in understanding how they might be applied in a software application, such as using constraints to enforce certain conditions",
+      "A business rule is the same as a system requirement, focusing solely on the technical implementation details"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q25. Đáp án A, C: Business rule (quy tắc kinh doanh) định nghĩa hoặc giới hạn một khía cạnh của doanh nghiệp để kiểm soát hành vi của hệ thống. Phân loại chúng giúp dễ dàng áp dụng vào ứng dụng phần mềm."
+  },
+  {
+    "Id": 146,
+    "Text": "Which of the following are common places and ways to look for business rules? Choose 3 correct answers.",
+    "Options": [
+      "&quot;Common knowledge&quot; from the organization, often collected from individuals who have worked with the business for a long time and know the details of how it operates",
+      "Legacy systems that embed business rules in their requirements and code.",
+      "Analysis of existing documentation, including requirements specifications from earlier projects, regulations, industry standards, corporate policy documents, contracts, and business plans",
+      "Business laws"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q26. Đáp án A, B, C: Bạn có thể tìm thấy Business rules từ &quot;kiến thức chung&quot; của nhân viên lâu năm, từ các hệ thống cũ (legacy systems), và từ các tài liệu/chính sách hiện có."
+  },
+  {
+    "Id": 147,
+    "Text": "In a software requirements specification, which section do user interfaces belong to?",
+    "Options": [
+      "Overall description",
+      "System features",
+      "Data requirements",
+      "External interface requirements"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q27. Đáp án D: Trong tài liệu SRS, Giao diện người dùng (User interfaces) nằm trong phần Yêu cầu giao diện bên ngoài (External interface requirements)."
+  },
+  {
+    "Id": 148,
+    "Text": "Which of the following practices should be followed when documenting software requirements? Select two.",
+    "Options": [
+      "Ensure that each requirement is documented in multiple places to increase visibility and reduce the risk of it being overlooked",
+      "Use a consistent format for documenting requirements to enhance clarity and understanding among all stakeholders.",
+      "Avoid documenting requirements that involve complex logic, as these can be difficult for stakeholders to understand",
+      "The software requirements specification (SRS) should be used to formally record the agreed-upon requirements and ensure all stakeholders have a shared understanding"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q28. Đáp án B, D: Khi viết SRS, cần tuân thủ định dạng nhất quán để tăng độ rõ ràng, và SRS phải được dùng để ghi chép chính thức các yêu cầu đã được thống nhất."
+  },
+  {
+    "Id": 149,
+    "Text": "When documenting data requirements for a system, which of the following practices should be followed? Select three.",
+    "Options": [
+      "Include a detailed implementation data model directly in the SRS to ensure clarity in the system's design.",
+      "Create a data dictionary that defines the composition, meaning, data type, and allowed values for all data elements the system will handle",
+      "Document any reports that the application will generate, focusing on their logical descriptions and deferring detailed layouts to the design stage",
+      "Describe how data will be acquired, maintained, and protected, including policies for data retention, disposal, and ensuring data integrity"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "D"
+    ],
+    "Explanation": "Q29. Đáp án B, C, D: Khi viết yêu cầu dữ liệu, cần lập từ điển dữ liệu (data dictionary), mô tả logic các báo cáo sẽ xuất, và mô tả quy định về việc lưu trữ, bảo vệ tính toàn vẹn của dữ liệu."
+  },
+  {
+    "Id": 150,
+    "Text": "Requirement statements must be: (Choose 3 correct answers)",
+    "Options": [
+      "Feasible",
+      "Correct",
+      "Verifiable",
+      "Flexible"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "Explanation": "Q30. Đáp án A, B, C: Các câu phát biểu yêu cầu phải luôn đảm bảo 3 yếu tố: Feasible (Khả thi), Correct (Chính xác), và Verifiable (Có thể kiểm chứng được)."
+  },
+  {
+    "Id": 151,
+    "Text": "Which of the following characteristics should a collection of requirements exhibit?",
+    "Options": [
+      "Completeness, meaning it is acceptable if some necessary information is absent as long as the core requirements are documented",
+      "Modifiability, which allows changes to be made without maintaining a history of changes or considering dependencies among requirements",
+      "Consistency, ensuring that requirements do not conflict with other requirements or higher-level business, user, or system requirements",
+      "Traceability, where requirements should be loosely linked and not necessarily connected to their origin or to derived elements"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q31. Đáp án C: Tính nhất quán (Consistency) đảm bảo rằng không có yêu cầu nào bị mâu thuẫn hay xung đột với các yêu cầu kinh doanh, người dùng hay hệ thống khác."
+  },
+  {
+    "Id": 152,
+    "Text": "Which of the following characteristics should a well-written requirement statement exhibit? Select two.",
+    "Options": [
+      "Each requirement should be complete, meaning it contains all the information necessary for the reader to understand it and for developers to implement it correctly",
+      "A requirement statement can be ambiguous as long as it is feasible to implement",
+      "Requirements should be prioritized based on their importance to achieving the desired business value, and should be assigned an implementation priority",
+      "Verifiability of a requirement is optional as long as it meets stakeholder needs."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q32. Đáp án A, C: Một yêu cầu được viết tốt phải Hoàn chỉnh (Complete - cung cấp đủ thông tin cho dev lập trình) và được Ưu tiên (Prioritized - đánh giá mức độ quan trọng so với giá trị kinh doanh).\nPhần 3: Các kỹ thuật phân tích và Mô hình hóa yêu cầu (Câu 33 - 52)"
+  },
+  {
+    "Id": 153,
+    "Text": "Two important goals of writing requirements are that:",
+    "Options": [
+      "Anyone who reads the requirements comes to the same interpretation as any other reader.",
+      "Each reader’s interpretation matches what the author intended to communicate.",
+      "Developers find the requirements technically easy to understand",
+      "Customers are happy."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Câu 33. Đáp án A, B: Hai mục tiêu quan trọng nhất khi viết yêu cầu là: bất kỳ ai đọc cũng có chung một cách hiểu (A), và cách hiểu của họ phải khớp đúng với ý định mà người tác giả muốn truyền tải (B)."
+  },
+  {
+    "Id": 154,
+    "Text": "What is the primary purpose of a Swimlane diagram?",
+    "Options": [
+      "To represent detailed software architecture and coding structures.",
+      "To visually depict the steps involved in a business process or the operations of a proposed software system, subdivided into lanes that represent different systems or actors.",
+      "To exclusively model user interface interactions and design layouts.",
+      "To show the organizational structure and management hierarchy within a company."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B"
+    ],
+    "Explanation": "Q34. Đáp án B: Biểu đồ Swimlane (đường bơi) nhằm mục đích trực quan hóa các bước trong một quy trình kinh doanh, chia thành các &quot;làn&quot; đại diện cho các hệ thống hoặc tác nhân khác nhau."
+  },
+  {
+    "Id": 155,
+    "Text": "How can requirements modeling assist in resolving conflicts between stakeholders?",
+    "Options": [
+      "By providing a clear, visual representation of requirements for alignment",
+      "By finalizing all functional requirements",
+      "By focusing only on technical feasibility",
+      "By eliminating the need for prototyping"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q35. Đáp án A: Mô hình hóa yêu cầu giúp giải quyết xung đột bằng cách cung cấp một bức tranh trực quan, rõ ràng để mọi người cùng xem và căn chỉnh cho thống nhất."
+  },
+  {
+    "Id": 156,
+    "Text": "If a report is generated but not used, what should a Business Analyst consider doing?",
+    "Options": [
+      "Ensure it is included in the new system",
+      "Modify it to meet new requirements",
+      "Exclude it from the new system",
+      "Increase its frequency of generation"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q36. Đáp án C: Nếu một báo cáo được hệ thống tạo ra nhưng không ai dùng đến (not used), BA nên loại bỏ nó (Exclude) khỏi hệ thống mới để tránh lãng phí công sức lập trình."
+  },
+  {
+    "Id": 157,
+    "Text": "What is the definition of Pre-Condition in Use case?",
+    "Options": [
+      "A condition that describes the state of a system after a use case is successfully completed",
+      "A condition that must be satisfied or a state the system must be in before a use case can begin.",
+      "A condition that initiates execution of the use case",
+      "A condition that must be satisfied so that system run successful"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q37. Đáp án B: Pre-Condition (Điều kiện tiên quyết) là một điều kiện phải được thỏa mãn hoặc trạng thái hệ thống bắt buộc phải có trước khi một Use case có thể bắt đầu chạy."
+  },
+  {
+    "Id": 158,
+    "Text": "In the context of a data dictionary, which of the following is true about organizing data elements?",
+    "Options": [
+      "Each data element in the dictionary should be represented only by primitive types",
+      "The data dictionary should only store information about complex data structures, not individual data elements",
+      "The data dictionary should list all data elements alphabetically, regardless of their relationships or grouping in the system",
+      "The data dictionary should contain information about each data element, including its data type, length, and any associated constraints"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q38. Đáp án D: Từ điển dữ liệu (Data dictionary) cần chứa thông tin chi tiết về từng phần tử dữ liệu, bao gồm kiểu dữ liệu, độ dài và mọi ràng buộc liên quan đến nó."
+  },
+  {
+    "Id": 159,
+    "Text": "Which keyword in Planguage defines the goal or minimum acceptable achievement level?",
+    "Options": [
+      "AMBITION",
+      "SCALE",
+      "GOAL",
+      "WISH"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q39. Đáp án C: Trong ngôn ngữ viết yêu cầu Planguage, từ khóa &quot;GOAL&quot; xác định mục tiêu hoặc mức độ đạt được tối thiểu có thể chấp nhận được của một yêu cầu."
+  },
+  {
+    "Id": 160,
+    "Text": "What is a potential consequence of adding more functionality through a series of iterations?",
+    "Options": [
+      "Improved system performance.",
+      "Increased system efficiency.",
+      "Deterioration of system performance.",
+      "Reduced need for performance testing."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q40. Đáp án C: Việc cứ liên tục thêm chức năng qua nhiều vòng lặp mà không kiểm soát tốt tổng thể có thể dẫn đến hậu quả làm suy giảm hiệu năng hệ thống (Deterioration of system performance)."
+  },
+  {
+    "Id": 161,
+    "Text": "When considering software quality attributes, which of the following is classified as an internal quality attribute?",
+    "Options": [
+      "Usability",
+      "Security",
+      "Efficiency",
+      "Availability"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q41. Đáp án C: &quot;Efficiency&quot; (Tính hiệu quả) được coi là một thuộc tính chất lượng nội bộ (internal quality attribute) vì nó liên quan đến cách hệ thống sử dụng tài nguyên bên trong (như CPU, RAM)."
+  },
+  {
+    "Id": 162,
+    "Text": "What is the primary purpose of using a prototype in the software development process?",
+    "Options": [
+      "To finalize the product design and ensure no further changes are needed",
+      "To validate requirements by finding errors and omissions, and assessing their accuracy and quality.",
+      "To create a fully functional product that can be immediately deployed",
+      "To focus solely on the user experience without considering technical feasibility"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q42. Đáp án B: Mục đích chính của prototype (bản mẫu) là để xác nhận lại yêu cầu, tìm ra các lỗi, sự thiếu sót và đánh giá độ chính xác của tài liệu yêu cầu."
+  },
+  {
+    "Id": 163,
+    "Text": "What should you not expect a prototype to replace?",
+    "Options": [
+      "Multiple iterations",
+      "Written requirements.",
+      "Plausible data.",
+      "The purpose of the prototype"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q43. Đáp án B: Bạn không thể hy vọng một prototype (vốn chỉ là mô hình trực quan) có thể hoàn toàn thay thế được &quot;Written requirements&quot; (Tài liệu yêu cầu được viết chi tiết)."
+  },
+  {
+    "Id": 164,
+    "Text": "Which of the following statements best describes a &quot;horizontal prototype&quot; in the context of software development?",
+    "Options": [
+      "A horizontal prototype focuses on the user interface, allowing exploration of specific behaviors without diving into detailed functionality or architectural layers",
+      "A horizontal prototype fully implements all layers of the system, from the user interface to the backend services",
+      "A horizontal prototype is used to validate the architectural approach and test critical timing requirements",
+      "A horizontal prototype includes detailed implementation of business logic and database interactions."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q44. Đáp án A: &quot;Horizontal prototype&quot; (Bản mẫu ngang) chỉ tập trung vào lớp giao diện người dùng (UI) bề nổi, cho phép khám phá hành vi mà không đi sâu vào chi tiết kỹ thuật bên dưới."
+  },
+  {
+    "Id": 165,
+    "Text": "Which of the following is a benefit of prioritizing requirements?",
+    "Options": [
+      "Improved project management",
+      "Decreased stakeholder involvement",
+      "Enhanced focus on high-value features",
+      "Reduced scope creep"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q45. Đáp án C: Lợi ích lớn nhất của việc sắp xếp ưu tiên là giúp team tăng cường sự tập trung vào các tính năng mang lại giá trị cao nhất (high-value features)."
+  },
+  {
+    "Id": 166,
+    "Text": "Why is prioritization essential in agile projects, especially when customer expectations are high and timelines are short?",
+    "Options": [
+      "It ensures that the project manager can handle the project without customer input, focusing solely on cost and efficiency",
+      "It allows developers to skip less important features, ensuring that only critical bugs are fixed before release",
+      "It helps in delivering the most critical or valuable functionality as early as possible, ensuring maximum business value within project constraints",
+      "It lets the project manager choose which requirements to ignore, focusing only on budget and staff limitations."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q46. Đáp án C: Trong các dự án Agile, đánh giá ưu tiên rất quan trọng để có thể bàn giao những tính năng quan trọng và giá trị nhất từ sớm, mang lại giá trị kinh doanh tối đa."
+  },
+  {
+    "Id": 167,
+    "Text": "What potential issues can be prevented by validating requirements? (Select all that apply)",
+    "Options": [
+      "Scope creep",
+      "Eliminating All Bugs",
+      "Misaligned Expectations",
+      "Cost Overruns and Delays"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q47. Đáp án A, C, D: Quá trình Validate (xác nhận) yêu cầu giúp ngăn chặn các vấn đề như Scope creep (phình to phạm vi), Misaligned Expectations (lệch pha kỳ vọng) và Cost Overruns (vượt ngân sách và trễ hạn)."
+  },
+  {
+    "Id": 168,
+    "Text": "What is the purpose of peer reviews during the requirements validation process?",
+    "Options": [
+      "To ensure requirements are written in technical language",
+      "To identify ambiguous or unverifiable requirements",
+      "To finalize the system design before development begins",
+      "To align requirements with user interface designs"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "Explanation": "Q48. Đáp án B: Mục đích của Peer reviews (Đánh giá ngang hàng) là để đồng nghiệp cùng xem xét và tìm ra các yêu cầu bị viết mơ hồ (ambiguous) hoặc không thể kiểm chứng được (unverifiable)."
+  },
+  {
+    "Id": 169,
+    "Text": "What is the primary advantage of requirements reuse in software projects?",
+    "Options": [
+      "Reducing time and effort during the elicitation process",
+      "Skipping the stakeholder review phase",
+      "Eliminating the need for prototyping",
+      "Ensuring all requirements are functional"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q49. Đáp án A: Lợi thế chính của việc tái sử dụng yêu cầu là giúp giảm bớt thời gian và công sức trong quá trình thu thập yêu cầu ban đầu (elicitation)."
+  },
+  {
+    "Id": 170,
+    "Text": "We can reuse all authentication requirements from the previous project by copy from a library of reusable components. Which dimensions does the statement refer to?",
+    "Options": [
+      "extent of modification",
+      "reuse mechanism",
+      "extent of reuses"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q50. Đáp án B, C: Tái sử dụng bằng cách copy các yêu cầu xác thực từ thư viện (library of reusable components) đề cập đến cơ chế tái sử dụng (reuse mechanism) và phạm vi tái sử dụng (extent of reuses)."
+  },
+  {
+    "Id": 171,
+    "Text": "In software development, what do requirements drive? Choose 3 correct answers.",
+    "Options": [
+      "Project planning",
+      "Design and coding",
+      "Testing activities",
+      "Financial activities"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "C"
+    ],
+    "Explanation": "Q51. Đáp án A, B, C: Trong phát triển phần mềm, &quot;yêu cầu&quot; đóng vai trò định hướng trực tiếp cho việc lập kế hoạch (Project planning), thiết kế &amp; lập trình (Design and coding), và các hoạt động kiểm thử (Testing activities)."
+  },
+  {
+    "Id": 172,
+    "Text": "&quot;Story point&quot; is used to measure which one below?",
+    "Options": [
+      "User story",
+      "Code",
+      "Function",
+      "Architecture"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q52. Đáp án A: &quot;Story point&quot; là đơn vị đo lường phổ biến được dùng trong Agile để ước lượng độ phức tạp/khối lượng công việc của một User story.\nPhần 4: Quản lý thay đổi và Thực tiễn nâng cao (Câu 53 - 83)\n(Lưu ý: Mình giữ nguyên đánh số theo đúng tài liệu của bạn, bao gồm cả việc đề bị nhảy số, ví dụ không có câu 54)."
+  },
+  {
+    "Id": 173,
+    "Text": "Which statement accurately describes the implementation of a COTS package?",
+    "Options": [
+      "COTS packages always require significant customization.",
+      "Some COTS packages can be used out of the box with little to no modification",
+      "COTS packages provide unlimited flexibility to meet all business requirements",
+      "All COTS packages require integration with other systems"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Câu 53. Đáp án B: Đối với các gói giải pháp có sẵn (COTS package), một số gói có thể được sử dụng ngay lập tức (out of the box) với rất ít hoặc không cần phải tùy biến thêm."
+  },
+  {
+    "Id": 174,
+    "Text": "Why is version control important in managing requirements? (Select all that apply)",
+    "Options": [
+      "It ensures that requirements are unique and traceable.",
+      "It allows for tracking the history of changes",
+      "It helps prioritize the requirements.",
+      "It guarantees that all stakeholders are updated on changes."
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q55. Đáp án B, D: Version control (Kiểm soát phiên bản) rất quan trọng vì nó cho phép theo dõi lịch sử các lần thay đổi (B) và đảm bảo mọi bên liên quan đều được cập nhật các thay đổi mới nhất (D)."
+  },
+  {
+    "Id": 175,
+    "Text": "Which of the following are basic steps in change impact analysis? (Select all that apply)",
+    "Options": [
+      "Understand the possible implications of the change",
+      "Identify all affected requirements and documents",
+      "Implement the change without stakeholder approval",
+      "Estimate the effort needed for the change"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q56. Đáp án A, B, D: Các bước cơ bản khi phân tích tác động thay đổi bao gồm: Hiểu ý nghĩa của thay đổi (A), Nhận diện các yêu cầu/tài liệu bị ảnh hưởng (B), và Ước lượng công sức cần thiết để sửa đổi (D)."
+  },
+  {
+    "Id": 176,
+    "Text": "Which of the following best describes the structure of the Requirements Traceability Matrix (RTM)?",
+    "Options": [
+      "It is a spreadsheet that lists requirements and their corresponding test cases",
+      "It is a graphical representation of the project schedule",
+      "It is a tool used to manage project risks",
+      "It is a spreadsheet that maps requirements to other project artifacts such as design documents, test cases, and source code"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "D"
+    ],
+    "Explanation": "Q57. Đáp án D: Ma trận truy vết yêu cầu (RTM) là một bảng tính dùng để ánh xạ/liên kết các yêu cầu với các tài liệu dự án khác như tài liệu thiết kế, test cases và mã nguồn."
+  },
+  {
+    "Id": 177,
+    "Text": "Which of the following is NOT an objective of improving requirements processes?",
+    "Options": [
+      "Improve the accuracy of project estimates",
+      "Reduce the cost of creating and maintaining software",
+      "Increase the value delivered by projects",
+      "Increase the complexity of requirements"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "Explanation": "Q58. Đáp án D: Việc cải tiến quy trình yêu cầu nhằm mục đích giảm chi phí, tăng giá trị, chứ KHÔNG PHẢI để làm tăng độ phức tạp của các yêu cầu (Increase the complexity of requirements)."
+  },
+  {
+    "Id": 178,
+    "Text": "Which is NOT element of risk management?",
+    "Options": [
+      "Risk avoidance is one way to deal with a risk: don't do the risky thing.",
+      "Risk assessment is the process of examining a project to identify potential threats",
+      "Risk control activities to manage the top-priority risks you identified",
+      "Risk management planning produces a plan for dealing with each significant risk, including mitigation approaches, contingency plans, owners, and timelines"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q59. Đáp án A: Né tránh rủi ro (Risk avoidance) là một cách để giải quyết rủi ro chứ không được phân loại là một thành phần (element) cấu trúc cốt lõi trong quy trình quản lý theo tùy chọn của câu hỏi này."
+  },
+  {
+    "Id": 179,
+    "Text": "The close collaboration of customers with developers on agile projects generally means that requirements can be documented in [less/more] detail than on traditional projects.",
+    "Options": [
+      "less",
+      "more",
+      "shorter",
+      "longer"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q60. Đáp án A: Sự hợp tác chặt chẽ giữa khách hàng và lập trình viên trong Agile có nghĩa là các tài liệu yêu cầu có thể được viết ra với ÍT chi tiết hơn (less) so với các dự án truyền thống."
+  },
+  {
+    "Id": 180,
+    "Text": "What is the primary challenge of documenting requirements for complex systems?",
+    "Options": [
+      "Ensuring clarity, consistency, and avoiding ambiguities",
+      "Eliminating low priority requirements",
+      "Skipping stakeholder validation",
+      "Focusing only on functional needs"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q61. Đáp án A: Thách thức lớn nhất khi viết tài liệu cho các hệ thống phức tạp là phải đảm bảo được sự rõ ràng, tính nhất quán và tránh tuyệt đối các diễn đạt mơ hồ (ambiguities)."
+  },
+  {
+    "Id": 181,
+    "Text": "How can requirements processes reduce the cost of development?",
+    "Options": [
+      "By increasing the number of features developed.",
+      "By reducing rework, unnecessary features, and miscommunications.",
+      "By increasing the project timeline.",
+      "By focusing solely on technical specifications."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q62. Đáp án B: Một quy trình yêu cầu tốt giúp giảm thiểu chi phí phát triển bằng cách làm giảm sự làm lại (rework), tránh làm các tính năng thừa và hạn chế hiểu lầm."
+  },
+  {
+    "Id": 182,
+    "Text": "Which one of the following is NOT a step of requirement engineering?",
+    "Options": [
+      "documentation",
+      "elicitation",
+      "analysis",
+      "design"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q63. Đáp án D: Design (Thiết kế) là giai đoạn tiếp theo của vòng đời phần mềm, KHÔNG nằm trong 4 bước chính của quy trình Kỹ nghệ yêu cầu (Requirement engineering)."
+  },
+  {
+    "Id": 183,
+    "Text": "Customers have the right: (choose 3 correct answers)",
+    "Options": [
+      "expect business analysts to learn about their business and their objectives",
+      "describe characteristics that will make the product easy to use",
+      "receive a system that meets their functional needs and quality expectations",
+      "prompt communicate changes to the requirements"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q64. Đáp án A, B, C: Theo danh sách &quot;Quyền lợi của khách hàng&quot;, họ có quyền mong đợi BA phải tìm hiểu về nghiệp vụ của họ (A), mô tả được tính dễ sử dụng (B), và nhận được hệ thống đáp ứng đúng chức năng (C)."
+  },
+  {
+    "Id": 184,
+    "Text": "Which of the following is NOT included in the list of Software Bill of Rights Requirements?",
+    "Options": [
+      "Expect BAS to speak your language.",
+      "Expect BAS to learn about your business and your objectives.",
+      "Promptly communicate changes to the requirements.",
+      "Receive explanations of requirements practices and constraints."
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q65. Đáp án C: Việc &quot;kịp thời thông báo các thay đổi về yêu cầu&quot; (Promptly communicate changes) là quyền lợi/nghĩa vụ khác, không nằm trong danh sách chuẩn của &quot;Software Bill of Rights Requirements&quot;."
+  },
+  {
+    "Id": 185,
+    "Text": "What is the correct description about the requests and event process in requirements development?",
+    "Options": [
+      "The process of requirements development is linear, moving from elicitation to validation without any iteration",
+      "Elicitation, analysis, specification, and validation are iterative activities that may require revising earlier steps to ensure accuracy and completeness",
+      "Validation is only performed at the end of the project to confirm that requirements have been met",
+      "Peer reviews are used exclusively for code optimizations"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q66. Đáp án B: Trong phát triển yêu cầu, các bước elicitation, analysis, specification, và validation là các hoạt động có tính lặp đi lặp lại (iterative), có thể phải vòng lại bước trước để đảm bảo tính chính xác."
+  },
+  {
+    "Id": 186,
+    "Text": "How does the process of elicitation relate to the other activities in requirements development?",
+    "Options": [
+      "Elicitation is performed only after specifications complete.",
+      "Elicitation is a standalone step that does not need to be revisited.",
+      "Elicitation is interwoven with analysis, specification, and validation.",
+      "Elicitation is only necessary for the first iteration of the project."
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q67. Đáp án C: Quá trình Elicitation (thu thập) luôn được đan xen (interwoven) và diễn ra song song với quá trình phân tích, đặc tả và xác nhận."
+  },
+  {
+    "Id": 187,
+    "Text": "In business analysis, what is NOT a basic task?",
+    "Options": [
+      "Communicate requirements",
+      "Document requirements",
+      "Analyze requirements",
+      "Elicit requirements"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q68. Đáp án D: Theo đáp án chuẩn của đề cung cấp, Elicit requirements được xem là ngoại lệ không thuộc nhóm trong bộ câu hỏi này."
+  },
+  {
+    "Id": 188,
+    "Text": "In a project, who is primarily responsible for communicating official format requirements?",
+    "Options": [
+      "The business analyst",
+      "The project manager",
+      "The software development team",
+      "The customer committee"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q69. Đáp án B: Project manager (Quản lý dự án) là người chịu trách nhiệm chính trong việc truyền đạt thông tin và các yêu cầu về định dạng chính thức của dự án."
+  },
+  {
+    "Id": 189,
+    "Text": "What are the tasks of a business analyst? Choose 3 correct answers.",
+    "Options": [
+      "Define business requirements",
+      "Identify project stakeholders and user classes",
+      "Document requirements",
+      "Lead requirements prioritization"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q70. Đáp án A, B, C: Các nhiệm vụ nòng cốt của BA bao gồm: Định nghĩa yêu cầu kinh doanh, Xác định stakeholder và nhóm người dùng, và Viết tài liệu (document) yêu cầu."
+  },
+  {
+    "Id": 190,
+    "Text": "What technique is most effective for resolving conflicts among stakeholders?",
+    "Options": [
+      "Prioritization work sessions",
+      "Eliminating conflicting requirements",
+      "Focusing only on functional requirements",
+      "Avoiding stakeholder feedback"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q71. Đáp án A: Các phiên làm việc để đánh giá ưu tiên (Prioritization work sessions) là kỹ thuật hiệu quả nhất để giải quyết các xung đột lợi ích giữa các bên liên quan."
+  },
+  {
+    "Id": 191,
+    "Text": "What is the definition of a condition in which the scope of a project continues to increase in an uncontrolled fashion throughout the development process?",
+    "Options": [
+      "Risk",
+      "Inspection",
+      "Scope creep",
+      "Decision tree"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q72. Đáp án C: &quot;Scope creep&quot; (Trượt phạm vi) là thuật ngữ chỉ tình trạng phạm vi dự án cứ liên tục phình to ra một cách mất kiểm soát trong quá trình phát triển."
+  },
+  {
+    "Id": 192,
+    "Text": "Which of the following statements correctly describe the use of the context diagram in representing project scope? Select two.",
+    "Options": [
+      "A context diagram visually illustrates the boundary between the system being developed and external entities that interact with it",
+      "The context diagram includes detailed information about the system's internal processes and data",
+      "The primary purpose of a context diagram is to depict the interactions between the system and external entities without detailing the internal workings of the system",
+      "Context diagrams are typically used to represent the relationship between user interfaces and system components within the boundary"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q73. Đáp án A, C: Biểu đồ ngữ cảnh (Context diagram) chỉ minh họa ranh giới giữa hệ thống và các thực thể bên ngoài, không đi sâu vào cấu trúc bên trong của hệ thống."
+  },
+  {
+    "Id": 193,
+    "Text": "What is a common pitfall in writing non-functional requirements?",
+    "Options": [
+      "Making them too vague or unmeasurable",
+      "Prioritizing them over functional requirements",
+      "Writing them without stakeholder input",
+      "Skipping them in the documentation process"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q74. Đáp án A: Cạm bẫy phổ biến nhất khi viết yêu cầu phi chức năng (NFR) là viết chúng quá mơ hồ, chung chung và không thể đo lường được (unmeasurable)."
+  },
+  {
+    "Id": 194,
+    "Text": "Which of the following is NOT a benefit of writing a clear set of expectations for product champions?",
+    "Options": [
+      "Encouraging accountability and clarity of role",
+      "Helping champions align with project goals",
+      "Guaranteeing the project will stay on budget"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q75. Đáp án C: Thiết lập kỳ vọng rõ ràng cho Product champion rất tốt nhưng nó không thể đảm bảo (guaranteeing) 100% việc dự án sẽ không vượt ngân sách."
+  },
+  {
+    "Id": 195,
+    "Text": "Which of the following statements accurately describes personas? Select two.",
+    "Options": [
+      "A persona is a real user from the target audience, used to validate requirements and ensure they meet business needs",
+      "Personas are hypothetical, generic users representing a group with similar characteristics, used to understand user goals and design best experiences",
+      "Personas help teams to empathize with users throughout the software development process",
+      "Personas should be used to replace direct user interviews in all project phases"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q76. Đáp án B, C: Personas (chân dung người dùng) là các nhân vật mô phỏng đại diện cho một nhóm người dùng có chung đặc điểm, giúp team thiết kế thấu hiểu và hướng tới trải nghiệm tốt nhất cho họ."
+  },
+  {
+    "Id": 196,
+    "Text": "&quot;The user must be able to sort the project list in forward and reverse alphabetical order&quot; is an example of:",
+    "Options": [
+      "business requirement",
+      "functional requirement",
+      "non-functional requirement",
+      "system constraint"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q77. Đáp án B: Yêu cầu &quot;Người dùng phải có khả năng sắp xếp danh sách...&quot; là mô tả một hành vi cụ thể mà hệ thống phải đáp ứng, do đó nó là Functional requirement (yêu cầu chức năng)."
+  },
+  {
+    "Id": 197,
+    "Text": "Organizing and sharing notes is an activity that belongs to:",
+    "Options": [
+      "Preparing for elicitation",
+      "Performing elicitation activities",
+      "Following up after elicitation",
+      "Classifying customer"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "C"
+    ],
+    "Explanation": "Q78. Đáp án C: Hoạt động sắp xếp và chia sẻ các ghi chú thuộc về bước theo dõi sau khi đã tiến hành lấy yêu cầu (Following up after elicitation)."
+  },
+  {
+    "Id": 198,
+    "Text": "What is the primary purpose of elicitation?",
+    "Options": [
+      "The process of gathering requirements from stakeholders",
+      "The validation of technical requirements",
+      "The prioritization of system constraints",
+      "The realization of the critical path"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q79. Đáp án A: Mục đích cốt lõi của elicitation là quá trình đi thu thập, khơi gợi các yêu cầu từ các bên liên quan (stakeholders)."
+  },
+  {
+    "Id": 199,
+    "Text": "What is the value of creating a Traceability matrix in a project?",
+    "Options": [
+      "To ensure all requirements are linked to their design, testing, and implementation pieces",
+      "To replace stakeholder involvement in the validation phase",
+      "To prioritize non-functional requirements over functional ones",
+      "To maximize the system's coding standards"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q80. Đáp án A: Giá trị lớn nhất của Ma trận truy vết (Traceability matrix) là đảm bảo rằng mọi yêu cầu đều được liên kết chặt chẽ đến các phần thiết kế, kiểm thử và tài liệu triển khai tương ứng."
+  },
+  {
+    "Id": 200,
+    "Text": "In the specification of a use case, conditions that have the potential to prevent a use case from succeeding are called:",
+    "Options": [
+      "exceptions",
+      "alternative flows",
+      "secondary scenarios",
+      "backup flows"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q81. Đáp án A: Trong đặc tả Use case, các điều kiện có khả năng ngăn cản Use case hoàn thành thành công được gọi là các ngoại lệ (exceptions)."
+  },
+  {
+    "Id": 201,
+    "Text": "How should the names of use cases be written?",
+    "Options": [
+      "A noun allowed by a verb",
+      "A verb followed by an object",
+      "A random combination of words",
+      "A description phrase"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q82. Đáp án B: Tên của Use case luôn luôn phải được viết theo cấu trúc: Động từ + Tân ngữ (A verb followed by an object) - ví dụ: &quot;Request a chemical&quot;, &quot;Write a check&quot;."
+  },
+  {
+    "Id": 202,
+    "Text": "Which of the following statement is TRUE about Use Cases?",
+    "Options": [
+      "Use Cases are static and do not evolve throughout the software development process.",
+      "Use case diagrams are the primary method to document requirements",
+      "Use Cases are not used in capturing user requirements",
+      "Use Cases describe the interactions between the system and external entities."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q83. Đáp án D: Nhận định đúng về Use Cases là chúng dùng để mô tả các luồng tương tác giữa hệ thống và các thực thể/người dùng bên ngoài hệ thống.\nTuyệt vời! Chúng ta cùng đi nốt chặng đường cuối cùng với các câu hỏi còn lại trong file &quot;Tổng hợp SWR.docx&quot; nhé. Việc nắm vững những câu này sẽ giúp bạn có cái nhìn cực kỳ bao quát về môn học này đấy.\nDưới đây là phần giải thích chi tiết cho các câu từ 84 đến 120:\nPhần 5: Agile, Mô hình hóa và Các công cụ thực tiễn"
+  },
+  {
+    "Id": 203,
+    "Text": "What is the role of user stories in Agile requirements management?",
+    "Options": [
+      "To provide concise, actionable descriptions of features from the user perspective",
+      "To replace the Vision and Scope document",
+      "To prioritize non-functional requirements",
+      "To maximize the system's architecture"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Câu 84. Đáp án A: Trong quản lý yêu cầu Agile, các User stories (Câu chuyện người dùng) đóng vai trò cung cấp những mô tả ngắn gọn, súc tích và có thể thực thi được về các tính năng, đứng từ góc nhìn của người dùng."
+  },
+  {
+    "Id": 204,
+    "Text": "What is the value of prototyping during requirements elicitation?",
+    "Options": [
+      "It provides a visual representation to clarify ambiguous requirements and gather stakeholder feedback",
+      "It eliminates the need for acceptance criteria",
+      "It skips non-functional requirements",
+      "It focuses on coding rather than design"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q85. Đáp án A: Giá trị lớn nhất của việc làm prototype (bản mẫu) khi lấy yêu cầu là nó cung cấp một hình ảnh trực quan (visual representation) để làm rõ các yêu cầu còn mơ hồ và thu thập phản hồi của stakeholder dễ dàng hơn."
+  },
+  {
+    "Id": 205,
+    "Text": "How does prototyping mitigate risks in requirements engineering?",
+    "Options": [
+      "By providing stakeholders with a visual representation to validate ambiguous requirements",
+      "By maximizing system requirements clarity",
+      "By focusing on coding rather than design",
+      "By skipping the requirements validation phase"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q86. Đáp án A: Prototyping giúp giảm thiểu rủi ro (mitigate risks) thông qua việc cho stakeholder xem trực tiếp hình ảnh trực quan để họ xác nhận (validate) những yêu cầu khó hiểu."
+  },
+  {
+    "Id": 206,
+    "Text": "Which of the following statements accurately describes a business rule? Select two.",
+    "Options": [
+      "A business rule is a statement that defines or constrains some aspect of the business to control or influence its behavior",
+      "Business rules are only relevant for heavily rules-driven systems and can be ignored in simpler systems",
+      "Classifying business rules helps in understanding how they might be applied in a software application, such as using constraints to enforce certain conditions",
+      "A business rule is the same as a system requirement, focusing solely on the technical implementation details"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q87. Đáp án A, C: Quy tắc kinh doanh (Business rule) là những phát biểu nhằm định nghĩa hoặc ràng buộc một khía cạnh nào đó của doanh nghiệp. Việc phân loại chúng giúp team dev hiểu cách áp dụng chúng vào phần mềm (ví dụ: dùng constraint để ép buộc các điều kiện)."
+  },
+  {
+    "Id": 207,
+    "Text": "Which of the following is NOT included in a software requirements specification (SRS) template?",
+    "Options": [
+      "Quality Attributes",
+      "External interface",
+      "Data requirements",
+      "System features"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q88. Đáp án D: Theo đáp án của bộ đề này, &quot;System features&quot; (Các tính năng hệ thống) được chọn là phần KHÔNG nằm trong template chuẩn của SRS đang được đề cập."
+  },
+  {
+    "Id": 208,
+    "Text": "Why do we have to label the requirement in a software requirements specification (SRS)?",
+    "Options": [
+      "It allows us to refer to specific requirements in change request, modification history, cross-reference, or traceability matrix",
+      "It enables reusing the requirements in multiple projects",
+      "It indicates collaboration between team members when they discuss requirements",
+      "It makes the SRS look more professional"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q89. Đáp án A: Việc đánh nhãn (label) cho yêu cầu trong SRS rất quan trọng vì nó cho phép chúng ta dễ dàng tham chiếu đến từng yêu cầu cụ thể khi có yêu cầu thay đổi (change request), hoặc khi tra cứu trong ma trận truy vết (traceability matrix)."
+  },
+  {
+    "Id": 209,
+    "Text": "Consider the following statement: “A requirement statement must be Correct and Feasible”. What type of requirement is it?",
+    "Options": [
+      "Correct and Feasible",
+      "Unambiguous and Testable",
+      "Unambiguous and Non-Testable",
+      "Ambiguous and Non-Testable"
+    ],
+    "CorrectAnswers": [
+      "D"
+    ],
+    "Explanation": "Q92. Đáp án A: Phát biểu &quot;Một yêu cầu phải Correct (chính xác) và Feasible (khả thi)&quot; chính là đang mô tả trực tiếp hai thuộc tính này của một yêu cầu tốt."
+  },
+  {
+    "Id": 210,
+    "Text": "When considering requirements representation, which of the following statements are correct? Select two.",
+    "Options": [
+      "Business process flows can be represented with data flow diagrams or Swimlane diagrams that show flows and responses",
+      "Use any one type of model to avoid confusion and ensure clarity through the development process",
+      "Complex logic can be effectively represented using decision tables or decision trees, which show possible outcomes or rule functions requirements",
+      "Data definition should be studied using state-transition diagrams or storyboard models"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q93. Đáp án A, C: Luồng quy trình kinh doanh (business process flows) có thể biểu diễn bằng sơ đồ luồng dữ liệu (DFD) hoặc sơ đồ Swimlane. Còn các logic phức tạp thì nên dùng bảng quyết định (decision tables) hoặc cây quyết định (decision trees)."
+  },
+  {
+    "Id": 211,
+    "Text": "In a Swimlane diagram, process steps are shown as:",
+    "Options": [
+      "rectangles",
+      "arrows connecting pairs of rectangles",
+      "diamonds",
+      "ovals"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q94. Đáp án A: Trong biểu đồ Swimlane, các bước của quy trình (process steps) luôn được vẽ bằng các hình chữ nhật (rectangles)."
+  },
+  {
+    "Id": 212,
+    "Text": "How can business analysts effectively analyze the voice of the customer in textual documents?",
+    "Options": [
+      "By identifying key terms and challenges defined by customers, prioritizing them by cost",
+      "By identifying keywords such as nouns, verbs, and conditional statements that can be mapped to corresponding analysis models",
+      "By ignoring minor complaints and focusing only on core features",
+      "By mapping verb elements provided by customers into processes, activities, and use cases in the analysis models"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B"
+    ],
+    "Explanation": "Q95. Đáp án B, D: Để phân tích &quot;tiếng nói của khách hàng&quot; qua văn bản, BA nên xác định các từ khóa (như danh từ, động từ) và ánh xạ (mapping) các động từ đó vào các quy trình, hoạt động hoặc Use cases trong mô hình phân tích."
+  },
+  {
+    "Id": 213,
+    "Text": "Entries in the data dictionary represent the following types of data elements: (choose 3 correct answers)",
+    "Options": [
+      "Primitive",
+      "Structure",
+      "Repeating group",
+      "View"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q96. Đáp án A, B, C: Các mục trong Từ điển dữ liệu (Data dictionary) đại diện cho các kiểu phần tử dữ liệu: Nguyên thủy (Primitive), Cấu trúc (Structure), và Nhóm lặp (Repeating group)."
+  },
+  {
+    "Id": 214,
+    "Text": "Which of the following is NOT a component of an Entity Relationship Diagram (ERD)?",
+    "Options": [
+      "Entity",
+      "Relationship",
+      "Association",
+      "Cardinality",
+      "Attribute"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q97. Đáp án C: Trong sơ đồ Thực thể - Liên kết (ERD), &quot;Association&quot; (Sự liên kết) không phải là thuật ngữ chuẩn (nó thuộc về UML Class Diagram). ERD chỉ bao gồm Entity (Thực thể), Relationship (Mối quan hệ), Attribute (Thuộc tính) và Cardinality (Bản số)."
+  },
+  {
+    "Id": 215,
+    "Text": "Which of the following statements are correct about ERD?",
+    "Options": [
+      "All instances of an entity will share the same attributes",
+      "The cardinality, or multiplicity, of each association is shown with a number or text on the lines that connect entities and relationships",
+      "Each entity is described by two or more states",
+      "The modern ERD presentation, with entity-relationship boxes, acts as a database schema"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q98. Đáp án A, B: Nhận định đúng về ERD là tất cả các thể hiện của một thực thể sẽ có chung các thuộc tính (A), và bản số (cardinality) được thể hiện bằng chữ hoặc số trên đường nối (B)."
+  },
+  {
+    "Id": 216,
+    "Text": "What is Planguage?",
+    "Options": [
+      "It is a programming language",
+      "It is a language with which a set of keywords that permits precise statements of quality attributes and other project goals",
+      "It is a planning language used in project management",
+      "It is a language to express non-functional requirements"
+    ],
+    "CorrectAnswers": [
+      "B",
+      "D"
+    ],
+    "Explanation": "Q100. Đáp án B: Planguage là một ngôn ngữ chứa tập hợp các từ khóa giúp phát biểu cực kỳ chính xác về các thuộc tính chất lượng (quality attributes) và mục tiêu dự án."
+  },
+  {
+    "Id": 217,
+    "Text": "Which one of the following is a non-functional requirement?",
+    "Options": [
+      "Priority",
+      "Order processing",
+      "Maintainability",
+      "Security",
+      "Robustness"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q101. Đáp án C, D, E: Maintainability (Tính dễ bảo trì), Security (Bảo mật), và Robustness (Tính mạnh mẽ/chống lỗi) đều là các yêu cầu phi chức năng (Non-functional requirements)."
+  },
+  {
+    "Id": 218,
+    "Text": "Builds up and adds new features to this sample incrementally, and finally releases the full deliverable product based on:",
+    "Options": [
+      "Hookup",
+      "Throwaway prototype",
+      "Evolutionary prototype",
+      "Pilot implementation"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q102. Đáp án C: Dạng prototype được đắp thêm tính năng liên tục (incrementally) cho đến khi biến thành sản phẩm cuối cùng gọi là Bản mẫu tiến hóa (Evolutionary prototype)."
+  },
+  {
+    "Id": 219,
+    "Text": "Which of the following is NOT a purpose of creating a mock-up?",
+    "Options": [
+      "To test user interface design",
+      "To test architectural feasibility",
+      "To allow users to judge the overall workflow and requirements",
+      "To gather feedback on screen layouts"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B"
+    ],
+    "Explanation": "Q103. Đáp án B: Mock-up (bản phác thảo giao diện tĩnh) dùng để test UI và luồng công việc, KHÔNG dùng để kiểm tra tính khả thi của kiến trúc phần mềm (To test architectural feasibility)."
+  },
+  {
+    "Id": 220,
+    "Text": "If you prototype the whole solution rather than only the most uncertain, high-risk, or complex portions, your:",
+    "Options": [
+      "testing excessive part in prototypes",
+      "distraction by design",
+      "pressure to release the prototype",
+      "unrealistic performance expectations"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q104. Đáp án B: Nếu bạn làm prototype cho toàn bộ hệ thống thay vì chỉ tập trung vào phần rủi ro cao, bạn sẽ bị mất tập trung do sa đà vào việc thiết kế (distraction by design)."
+  },
+  {
+    "Id": 221,
+    "Text": "The four capitalized letters in the MoSCoW prioritization technique stand for:",
+    "Options": [
+      "Must, Should, Could, Won't",
+      "Must, Should, Count, Will",
+      "Must, Should, Can, Will",
+      "Must, Shall, Could, Won't"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q105. Đáp án A: Bốn chữ cái viết hoa trong kỹ thuật ưu tiên MoSCoW là viết tắt của: Must (Phải có), Should (Nên có), Could (Có thể có), và Won't (Sẽ không có).\nPhần 6: Tái sử dụng, Đánh giá dự án và Quản lý sự thay đổi"
+  },
+  {
+    "Id": 222,
+    "Text": "Which prioritization technique involves sorting requirements from best to worst, or high to low?",
+    "Options": [
+      "MoSCoW",
+      "Timeboxing",
+      "Pairwise comparison and rank ordering",
+      "Kano model",
+      "Baselines"
+    ],
+    "CorrectAnswers": [
+      "C",
+      "D",
+      "E"
+    ],
+    "Explanation": "Câu 106. Đáp án C: Kỹ thuật so sánh theo cặp và xếp hạng (Pairwise comparison and rank ordering) là phương pháp yêu cầu bạn sắp xếp các yêu cầu từ tốt nhất đến tệ nhất, hoặc từ cao xuống thấp."
+  },
+  {
+    "Id": 223,
+    "Text": "Which approach to reviewing requirements involves the author describing a deliverable and stakeholders commenting on it?",
+    "Options": [
+      "Peer deskcheck approach",
+      "Passaround approach",
+      "Walkthrough approach",
+      "Inspection approach"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q107. Đáp án C: Kỹ thuật Walkthrough (đi dạo/xem lướt) là cách đánh giá mà tác giả sẽ trình bày/mô tả tài liệu của mình, còn các bên liên quan ngồi nghe và đưa ra bình luận."
+  },
+  {
+    "Id": 224,
+    "Text": "What is Extent of Reuse?",
+    "Options": [
+      "You might reuse an existing requirement statement directly",
+      "It is simply a copy-and-paste of a previous requirement information",
+      "For many requirements, reuse consists of taking a pattern or concept from another specification",
+      "Reusing code components directly"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q109. Đáp án A, B, C: Mức độ tái sử dụng (Extent of Reuse) bao gồm việc sử dụng lại trực tiếp một câu yêu cầu có sẵn (A), copy-paste thông tin yêu cầu cũ (B), hoặc lấy một concept/pattern từ tài liệu khác (C)."
+  },
+  {
+    "Id": 225,
+    "Text": "The benefits of effective requirements reuse include: (choose 3 correct answers)",
+    "Options": [
+      "faster delivery",
+      "lower development costs",
+      "reduced rework",
+      "fewer test cases"
+    ],
+    "CorrectAnswers": [
+      "B"
+    ],
+    "Explanation": "Q110. Đáp án A, B, C: Tái sử dụng yêu cầu hiệu quả mang lại lợi ích: Giao hàng nhanh hơn (faster delivery), giảm chi phí phát triển (lower development costs), và giảm thiểu việc phải làm lại (reduced rework)."
+  },
+  {
+    "Id": 226,
+    "Text": "What is an enhancement project?",
+    "Options": [
+      "It is a project in which new capabilities are added to an existing system.",
+      "It is a project that replaces an existing application with a new custom built system, commercial off-the-shelf system, or a hybrid of those.",
+      "It is a project which costs less than planned.",
+      "It is a project which generates more revenues."
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q112. Đáp án A: Dự án nâng cấp (Enhancement project) là dự án mà các khả năng/tính năng mới được thêm vào một hệ thống đã có sẵn."
+  },
+  {
+    "Id": 227,
+    "Text": "Which statement sure describes the flexibility of a COTS package?",
+    "Options": [
+      "COTS packages always require significant customization",
+      "Some COTS packages can be used out of the box with little to no modification",
+      "COTS packages provide unlimited flexibility to meet all business requirements",
+      "All COTS packages require integration with other systems"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q113. Đáp án B: Điểm linh hoạt của gói phần mềm thương mại (COTS package) là một số gói có thể mua về dùng luôn (out of the box) mà hầu như không cần tùy biến gì thêm."
+  },
+  {
+    "Id": 228,
+    "Text": "What is a requirements baseline?",
+    "Options": [
+      "Constraints on the development process of the system",
+      "A specification of features to be implemented, description of how the system should behave, or description of user stories",
+      "A set of requirements that stakeholders have agreed to, often defining the contents of a specific planned release or development iteration",
+      "A temporary list of user requirements during elicitation"
+    ],
+    "CorrectAnswers": [
+      "C"
+    ],
+    "Explanation": "Q115. Đáp án C: Đường cơ sở yêu cầu (Requirements baseline) là một tập hợp các yêu cầu đã được các bên liên quan đồng ý chốt lại, thường đại diện cho phạm vi của một đợt release cụ thể."
+  },
+  {
+    "Id": 229,
+    "Text": "Which of the following is NOT about change management on agile projects?",
+    "Options": [
+      "Agile processes harness change for the customer's competitive advantage.",
+      "Agile projects manage change by maintaining a specific backlog of work items to be done.",
+      "Agile processes manage change by monitoring risks and addressing them according to priority.",
+      "Agile methods vary as to their philosophy on this point; there is no single &quot;correct&quot; approach."
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q116. Đáp án C: Nhận định KHÔNG đúng về quản lý thay đổi trong Agile là &quot;Quản lý thay đổi bằng cách theo dõi rủi ro&quot; (Agile processes manage change by monitoring risks...). Thực tế, Agile quản lý thay đổi thông qua Product Backlog và tận dụng sự thay đổi để tạo lợi thế."
+  },
+  {
+    "Id": 230,
+    "Text": "What is the primary mean for baselining requirements?",
+    "Options": [
+      "To prevent any changes from being made to project requirements",
+      "To document project assumptions",
+      "To manage project team members",
+      "To improve the quality of your process, check maintenance costs, and facilitate reuse"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "C"
+    ],
+    "Explanation": "Q117. Đáp án D: Mục đích chính của việc chốt Baseline yêu cầu là để cải thiện chất lượng quy trình, kiểm tra chi phí bảo trì và tạo điều kiện thuận lợi cho việc tái sử dụng yêu cầu sau này."
+  },
+  {
+    "Id": 231,
+    "Text": "In the context of requirements tracking, what is a traceability matrix used for? (Choose 2 answers)",
+    "Options": [
+      "To track project progress in real time",
+      "To generate new requirements automatically",
+      "To map requirements to other system elements like design and code",
+      "To identify missing or unnecessary requirements"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q118. Đáp án C, D: Ma trận truy vết (Traceability matrix) dùng để ánh xạ các yêu cầu với thiết kế/code (C), và đồng thời giúp phát hiện ra các yêu cầu bị thiếu hoặc không cần thiết (D)."
+  },
+  {
+    "Id": 232,
+    "Text": "Which of the following is an example of risk avoidance strategy?",
+    "Options": [
+      "Performing risk control activities to manage top-priority risks",
+      "Documenting potential risks without any action",
+      "Not engaging in the risky activity at all",
+      "Ignoring minor risks and focusing only on major risks"
+    ],
+    "CorrectAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Explanation": "Q119. Đáp án C: Tránh né rủi ro (Risk avoidance) là chiến lược mà bạn chọn CÁCH KHÔNG THỰC HIỆN hành động chứa rủi ro đó nữa (Not engaging in the risky activity at all)."
+  },
+  {
+    "Id": 233,
+    "Text": "Which statement best describes the purpose of an Epic in an Agile project?",
+    "Options": [
+      "To define detailed requirements and specifications for a project",
+      "To represent a high-level user story that can be broken down into smaller, more detailed user stories",
+      "To assign tasks to team members for implementation",
+      "To prioritize project deliverables"
+    ],
+    "CorrectAnswers": [
+      "A"
+    ],
+    "Explanation": "Q120. Đáp án B: Trong dự án Agile, Epic đại diện cho một câu chuyện người dùng (user story) ở mức cao (high-level), mang tính vĩ mô, và sau đó sẽ được chia nhỏ thành các user story chi tiết hơn để code."
+  }
+]
