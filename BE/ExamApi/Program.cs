@@ -45,7 +45,7 @@ using (var scope = app.Services.CreateScope())
 
     if (!db.Questions.Any(q => q.SubjectId == swtSubject.Id))
     {
-        var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "app", "exam-app", "src", "data", "questions.json");
+        var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "questions.json");
         if (File.Exists(jsonPath))
         {
             var json = File.ReadAllText(jsonPath);
