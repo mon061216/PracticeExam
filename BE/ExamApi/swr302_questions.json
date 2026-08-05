@@ -40,11 +40,11 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q3. Đáp án D\nGiải thích: &quot;Expectation Gap&quot; (Khoảng trống kỳ vọng) dùng để chỉ sự sai lệch giữa những gì khách hàng mong đợi sản phẩm sẽ làm được và những gì đội ngũ phát triển thực sự dự định xây dựng."
+    "Explanation": "Q3. Đáp án D\nGiải thích: \"Expectation Gap\" (Khoảng trống kỳ vọng) dùng để chỉ sự sai lệch giữa những gì khách hàng mong đợi sản phẩm sẽ làm được và những gì đội ngũ phát triển thực sự dự định xây dựng."
   },
   {
     "Id": 4,
-    "Text": "Which of the following roles is considered a &quot;customer&quot; for a software product?",
+    "Text": "Which of the following roles is considered a \"customer\" for a software product?",
     "Options": [
       "Legal staff",
       "Compliance auditors",
@@ -55,7 +55,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q4. Đáp án C\nGiải thích: Executive sponsor (Nhà tài trợ dự án/Ban giám đốc) là người trực tiếp trả tiền và bảo trợ cho dự án, nên được coi là &quot;khách hàng&quot;. Các vai trò như pháp chế (Legal staff) hay kiểm toán (Auditors) chỉ là các bên liên quan (Stakeholders)."
+    "Explanation": "Q4. Đáp án C\nGiải thích: Executive sponsor (Nhà tài trợ dự án/Ban giám đốc) là người trực tiếp trả tiền và bảo trợ cho dự án, nên được coi là \"khách hàng\". Các vai trò như pháp chế (Legal staff) hay kiểm toán (Auditors) chỉ là các bên liên quan (Stakeholders)."
   },
   {
     "Id": 5,
@@ -74,7 +74,7 @@
   },
   {
     "Id": 6,
-    "Text": "What is a key action in the &quot;Analysis&quot; subdiscipline of requirements development?",
+    "Text": "What is a key action in the \"Analysis\" subdiscipline of requirements development?",
     "Options": [
       "Discovering requirements.",
       "Documenting assumptions",
@@ -84,7 +84,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q6. Đáp án C\nGiải thích: Trong bước Phân tích (Analysis), hành động quan trọng nhất là &quot;phân rã&quot; (decompose) các yêu cầu ở mức cao (High-level) thành các chi tiết nhỏ hơn, cụ thể hơn để team dev có thể thực hiện."
+    "Explanation": "Q6. Đáp án C\nGiải thích: Trong bước Phân tích (Analysis), hành động quan trọng nhất là \"phân rã\" (decompose) các yêu cầu ở mức cao (High-level) thành các chi tiết nhỏ hơn, cụ thể hơn để team dev có thể thực hiện."
   },
   {
     "Id": 7,
@@ -113,7 +113,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q8. Đáp án C\nGiải thích: Vai trò chính của BA là làm &quot;cầu nối&quot; (Bridging the gap) giữa những người có nhu cầu kinh doanh (stakeholders) và những người xây dựng hệ thống (developers), đảm bảo hai bên hiểu nhau."
+    "Explanation": "Q8. Đáp án C\nGiải thích: Vai trò chính của BA là làm \"cầu nối\" (Bridging the gap) giữa những người có nhu cầu kinh doanh (stakeholders) và những người xây dựng hệ thống (developers), đảm bảo hai bên hiểu nhau."
   },
   {
     "Id": 9,
@@ -171,7 +171,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q12. Đáp án D\nGiải thích: Xác định rõ phạm vi (Scope) ngay từ đầu giúp thiết lập giới hạn cho dự án, từ đó ngăn chặn tình trạng &quot;scope creep&quot; (dự án phình to mất kiểm soát vì bị thêm yêu cầu liên tục) và giúp team giữ được sự tập trung."
+    "Explanation": "Q12. Đáp án D\nGiải thích: Xác định rõ phạm vi (Scope) ngay từ đầu giúp thiết lập giới hạn cho dự án, từ đó ngăn chặn tình trạng \"scope creep\" (dự án phình to mất kiểm soát vì bị thêm yêu cầu liên tục) và giúp team giữ được sự tập trung."
   },
   {
     "Id": 13,
@@ -189,7 +189,7 @@
   },
   {
     "Id": 14,
-    "Text": "When resolving conflicts between &quot;Development and customers,&quot; how to resolve?",
+    "Text": "When resolving conflicts between \"Development and customers,\" how to resolve?",
     "Options": [
       "Development always gets preference due to technical expertise.",
       "Customers always get preference to ensure satisfaction.",
@@ -217,7 +217,7 @@
   },
   {
     "Id": 16,
-    "Text": "Consider the use case diagram for the Chemical Tracking System. How does the &quot;extend&quot; relationship between &quot;Request a Chemical&quot; and &quot;Search Vendor Catalogs&quot; affect the system's functionality?",
+    "Text": "Consider the use case diagram for the Chemical Tracking System. How does the \"extend\" relationship between \"Request a Chemical\" and \"Search Vendor Catalogs\" affect the system's functionality?",
     "Options": [
       "It allows “Request a Chemical” to function independently without any alternative flows.",
       "It integrates “Search Vendor Catalogs” into the normal flow of “Request a Chemical.”",
@@ -227,7 +227,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q16. Đáp án C\nGiải thích: Mối quan hệ &quot;extend&quot; trong Use Case thể hiện một luồng hành động thay thế mang tính &quot;tùy chọn&quot; (optional). Nghĩa là chức năng Search Vendor Catalogs có thể được gọi hoặc không khi thực hiện Request a Chemical."
+    "Explanation": "Q16. Đáp án C\nGiải thích: Mối quan hệ \"extend\" trong Use Case thể hiện một luồng hành động thay thế mang tính \"tùy chọn\" (optional). Nghĩa là chức năng Search Vendor Catalogs có thể được gọi hoặc không khi thực hiện Request a Chemical."
   },
   {
     "Id": 17,
@@ -299,7 +299,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q21 (Q1 Phần 2). Đáp án B\nGiải thích: &quot;Scope Creep&quot; là sự phình to yêu cầu từ phía khách hàng hoặc do quản lý kém. Còn &quot;Gold Plating&quot; là khi chính đội ngũ phát triển (dev) tự ý thêm vào các tính năng &quot;màu mè&quot; không cần thiết mà khách hàng không hề yêu cầu."
+    "Explanation": "Q21 (Q1 Phần 2). Đáp án B\nGiải thích: \"Scope Creep\" là sự phình to yêu cầu từ phía khách hàng hoặc do quản lý kém. Còn \"Gold Plating\" là khi chính đội ngũ phát triển (dev) tự ý thêm vào các tính năng \"màu mè\" không cần thiết mà khách hàng không hề yêu cầu."
   },
   {
     "Id": 22,
@@ -313,7 +313,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q22 (Q2 Phần 2). Đáp án D\nGiải thích: Nhận định D sai vì Quality attributes (Thuộc tính chất lượng / Yêu cầu phi chức năng) mô tả các tiêu chuẩn về hiệu năng, bảo mật, độ tin cậy... chứ không mô tả &quot;hành vi chức năng&quot; (functional behaviors) của hệ thống."
+    "Explanation": "Q22 (Q2 Phần 2). Đáp án D\nGiải thích: Nhận định D sai vì Quality attributes (Thuộc tính chất lượng / Yêu cầu phi chức năng) mô tả các tiêu chuẩn về hiệu năng, bảo mật, độ tin cậy... chứ không mô tả \"hành vi chức năng\" (functional behaviors) của hệ thống."
   },
   {
     "Id": 23,
@@ -354,7 +354,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q25 (Q6 Phần 2). Đáp án B\nGiải thích: Quá trình chuyển hóa các &quot;nhu cầu&quot; thô của khách hàng (customer needs) thành các &quot;yêu cầu phần mềm&quot; rõ ràng có cấu trúc chính là bước Phân tích (Analysis)."
+    "Explanation": "Q25 (Q6 Phần 2). Đáp án B\nGiải thích: Quá trình chuyển hóa các \"nhu cầu\" thô của khách hàng (customer needs) thành các \"yêu cầu phần mềm\" rõ ràng có cấu trúc chính là bước Phân tích (Analysis)."
   },
   {
     "Id": 26,
@@ -368,7 +368,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q26 (Q7 Phần 2). Đáp án B\nGiải thích: Project Manager (Quản lý dự án) là người chịu trách nhiệm chính trong việc truyền đạt các thông tin về tiến độ, lịch trình, và tình trạng của dự án đến mọi người. BA chỉ truyền đạt thông tin về &quot;Yêu cầu&quot; (Requirements)."
+    "Explanation": "Q26 (Q7 Phần 2). Đáp án B\nGiải thích: Project Manager (Quản lý dự án) là người chịu trách nhiệm chính trong việc truyền đạt các thông tin về tiến độ, lịch trình, và tình trạng của dự án đến mọi người. BA chỉ truyền đạt thông tin về \"Yêu cầu\" (Requirements)."
   },
   {
     "Id": 27,
@@ -383,11 +383,11 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q27 (Q9 Phần 2). Đáp án D\nGiải thích: BA có nhiệm vụ thu thập (Elicit), phân tích (Analyze), ghi chép (Document) và truyền đạt (Communicate). Việc &quot;Đảm bảo chất lượng yêu cầu&quot; (Assure) thường cần sự phối hợp đánh giá của QA hoặc cả team, không phải là nhiệm vụ độc lập của BA."
+    "Explanation": "Q27 (Q9 Phần 2). Đáp án D\nGiải thích: BA có nhiệm vụ thu thập (Elicit), phân tích (Analyze), ghi chép (Document) và truyền đạt (Communicate). Việc \"Đảm bảo chất lượng yêu cầu\" (Assure) thường cần sự phối hợp đánh giá của QA hoặc cả team, không phải là nhiệm vụ độc lập của BA."
   },
   {
     "Id": 28,
-    "Text": "What is the relationship between &quot;product vision&quot; and &quot;project scope&quot;?",
+    "Text": "What is the relationship between \"product vision\" and \"project scope\"?",
     "Options": [
       "Product vision and project scope are interchangeable terms",
       "Product vision describes the ultimate product, while project scope identifies the portion of that vision to be addressed by the current project.",
@@ -397,11 +397,11 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q28 (Q11 Phần 2). Đáp án B\nGiải thích: Product vision (Tầm nhìn sản phẩm) mô tả sản phẩm hoàn hảo ở tương lai xa. Còn Project scope (Phạm vi dự án) chỉ xác định ranh giới những gì sẽ được làm trong giới hạn của &quot;dự án hiện tại&quot; (một phần của vision)."
+    "Explanation": "Q28 (Q11 Phần 2). Đáp án B\nGiải thích: Product vision (Tầm nhìn sản phẩm) mô tả sản phẩm hoàn hảo ở tương lai xa. Còn Project scope (Phạm vi dự án) chỉ xác định ranh giới những gì sẽ được làm trong giới hạn của \"dự án hiện tại\" (một phần của vision)."
   },
   {
     "Id": 29,
-    "Text": "What is the main purpose of defining &quot;Scope and limitations&quot; in a software project?",
+    "Text": "What is the main purpose of defining \"Scope and limitations\" in a software project?",
     "Options": [
       "To provide a detailed breakdown of all tasks for developers",
       "To identify all potential users and their individual preferences.",
@@ -411,7 +411,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q29 (Q12 Phần 2). Đáp án C\nGiải thích: Nêu rõ &quot;Scope and limitations&quot; (Phạm vi và giới hạn) giúp thiết lập kỳ vọng thực tế cho các bên liên quan bằng cách nói thẳng những gì hệ thống SẼ LÀM và KHÔNG LÀM, tránh tranh cãi về sau."
+    "Explanation": "Q29 (Q12 Phần 2). Đáp án C\nGiải thích: Nêu rõ \"Scope and limitations\" (Phạm vi và giới hạn) giúp thiết lập kỳ vọng thực tế cho các bên liên quan bằng cách nói thẳng những gì hệ thống SẼ LÀM và KHÔNG LÀM, tránh tranh cãi về sau."
   },
   {
     "Id": 30,
@@ -425,7 +425,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q30 (Q15 Phần 2). Đáp án C\nGiải thích: Việc thiết lập kỳ vọng cho Product Champion mang lại nhiều lợi ích về quy trình, nhưng nó không thể &quot;đảm bảo&quot; (guarantee) dự án sẽ hoàn thành đúng ngân sách, vì ngân sách bị ảnh hưởng bởi vô số yếu tố kỹ thuật và con người khác."
+    "Explanation": "Q30 (Q15 Phần 2). Đáp án C\nGiải thích: Việc thiết lập kỳ vọng cho Product Champion mang lại nhiều lợi ích về quy trình, nhưng nó không thể \"đảm bảo\" (guarantee) dự án sẽ hoàn thành đúng ngân sách, vì ngân sách bị ảnh hưởng bởi vô số yếu tố kỹ thuật và con người khác."
   },
   {
     "Id": 31,
@@ -482,7 +482,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q34 (Q21 Phần 2). Đáp án D\nGiải thích: User là một cá nhân (hoặc hệ thống) bằng xương bằng thịt đang dùng phần mềm. Còn Actor trong Use Case là một khái niệm &quot;trừu tượng&quot; đại diện cho một vai trò (ví dụ: Admin, Guest) mà người dùng đảm nhận."
+    "Explanation": "Q34 (Q21 Phần 2). Đáp án D\nGiải thích: User là một cá nhân (hoặc hệ thống) bằng xương bằng thịt đang dùng phần mềm. Còn Actor trong Use Case là một khái niệm \"trừu tượng\" đại diện cho một vai trò (ví dụ: Admin, Guest) mà người dùng đảm nhận."
   },
   {
     "Id": 35,
@@ -510,7 +510,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q36 (Q24 Phần 2). Đáp án A\nGiải thích: Câu &quot;Mọi đơn hàng đều có phí vận chuyển&quot; là một sự thật hiển nhiên/điều kiện luôn đúng trong hoạt động kinh doanh của công ty, do đó nó được xếp loại là Fact (Sự thật/Sự kiện)."
+    "Explanation": "Q36 (Q24 Phần 2). Đáp án A\nGiải thích: Câu \"Mọi đơn hàng đều có phí vận chuyển\" là một sự thật hiển nhiên/điều kiện luôn đúng trong hoạt động kinh doanh của công ty, do đó nó được xếp loại là Fact (Sự thật/Sự kiện)."
   },
   {
     "Id": 37,
@@ -524,7 +524,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q37 (Q25 Phần 2). Đáp án D\nGiải thích: Theo phân loại Business Rules, chúng ta có các loại: Facts, Constraints, Action Enablers, Inferences, Computations. Không có khái niệm nào là &quot;Operational Rules&quot;."
+    "Explanation": "Q37 (Q25 Phần 2). Đáp án D\nGiải thích: Theo phân loại Business Rules, chúng ta có các loại: Facts, Constraints, Action Enablers, Inferences, Computations. Không có khái niệm nào là \"Operational Rules\"."
   },
   {
     "Id": 38,
@@ -555,11 +555,11 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q39 (Q29 Phần 2). Đáp án D\nGiải thích: Tài liệu SRS được viết để team dự án (PM, Dev, Tester, Người viết docs) đọc. Các &quot;nhà sản xuất phần cứng&quot; (Hardware Manufacturers) không liên quan và không phải là đối tượng đọc tài liệu của phần mềm."
+    "Explanation": "Q39 (Q29 Phần 2). Đáp án D\nGiải thích: Tài liệu SRS được viết để team dự án (PM, Dev, Tester, Người viết docs) đọc. Các \"nhà sản xuất phần cứng\" (Hardware Manufacturers) không liên quan và không phải là đối tượng đọc tài liệu của phần mềm."
   },
   {
     "Id": 40,
-    "Text": "How can you explain the statement &quot;Implicit requirements can also be unknown unknowns&quot;?",
+    "Text": "How can you explain the statement \"Implicit requirements can also be unknown unknowns\"?",
     "Options": [
       "During the SRS process, customers should always be required to spell out their unknown unknowns.",
       "An unknown unknown cannot be known and therefore we can not make them explicit requirements.",
@@ -569,7 +569,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q40 (Q30 Phần 2). Đáp án C\nGiải thích: &quot;Yêu cầu ngầm&quot; (Implicit requirements) thường trở thành &quot;Unknown unknowns&quot; (Những thứ chưa biết mà ta không biết là mình chưa biết) vì khách hàng coi nó là điều hiển nhiên nên không nói ra, và BA cũng không nhận ra để mà hỏi."
+    "Explanation": "Q40 (Q30 Phần 2). Đáp án C\nGiải thích: \"Yêu cầu ngầm\" (Implicit requirements) thường trở thành \"Unknown unknowns\" (Những thứ chưa biết mà ta không biết là mình chưa biết) vì khách hàng coi nó là điều hiển nhiên nên không nói ra, và BA cũng không nhận ra để mà hỏi."
   },
   {
     "Id": 41,
@@ -583,7 +583,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q41 (Q31 Phần 2). Đáp án B\nGiải thích: Dùng &quot;câu chủ động&quot; (Active voice) khi viết yêu cầu giúp xác định rõ Ai (Chủ thể/Hệ thống) thực hiện Hành động gì, làm cho yêu cầu cực kỳ rõ ràng và tránh hiểu lầm."
+    "Explanation": "Q41 (Q31 Phần 2). Đáp án B\nGiải thích: Dùng \"câu chủ động\" (Active voice) khi viết yêu cầu giúp xác định rõ Ai (Chủ thể/Hệ thống) thực hiện Hành động gì, làm cho yêu cầu cực kỳ rõ ràng và tránh hiểu lầm."
   },
   {
     "Id": 42,
@@ -639,7 +639,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q45 (Q35 Phần 2). Đáp án D\nGiải thích: Các quá trình (process) trong sơ đồ luồng dữ liệu (DFD) nên được đặt tên bằng một cấu trúc Động từ + Tân ngữ ngắn gọn (Ví dụ: &quot;Calculate Total&quot;, &quot;Print Report&quot;)."
+    "Explanation": "Q45 (Q35 Phần 2). Đáp án D\nGiải thích: Các quá trình (process) trong sơ đồ luồng dữ liệu (DFD) nên được đặt tên bằng một cấu trúc Động từ + Tân ngữ ngắn gọn (Ví dụ: \"Calculate Total\", \"Print Report\")."
   },
   {
     "Id": 46,
@@ -673,7 +673,7 @@
   },
   {
     "Id": 48,
-    "Text": "What does the &quot;STRETCH&quot; keyword in Planguage represent?",
+    "Text": "What does the \"STRETCH\" keyword in Planguage represent?",
     "Options": [
       "The ideal performance level",
       "A benchmark for testing",
@@ -683,7 +683,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q48 (Q39 Phần 2). Đáp án C\nGiải thích: Trong cú pháp viết yêu cầu chất lượng (Planguage), &quot;STRETCH&quot; định nghĩa một mức hiệu suất mục tiêu lý tưởng và mong muốn đạt được, cao hơn mức độ tối thiểu bắt buộc."
+    "Explanation": "Q48 (Q39 Phần 2). Đáp án C\nGiải thích: Trong cú pháp viết yêu cầu chất lượng (Planguage), \"STRETCH\" định nghĩa một mức hiệu suất mục tiêu lý tưởng và mong muốn đạt được, cao hơn mức độ tối thiểu bắt buộc."
   },
   {
     "Id": 49,
@@ -739,7 +739,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q44. Đáp án C: &quot;Evolutionary prototype&quot; (Bản mẫu tiến hóa) là dạng bản mẫu được đắp thêm tính năng liên tục qua các vòng lặp cho đến khi nó trở thành sản phẩm cuối cùng có thể release."
+    "Explanation": "Q44. Đáp án C: \"Evolutionary prototype\" (Bản mẫu tiến hóa) là dạng bản mẫu được đắp thêm tính năng liên tục qua các vòng lặp cho đến khi nó trở thành sản phẩm cuối cùng có thể release."
   },
   {
     "Id": 53,
@@ -781,7 +781,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q47. Đáp án D: Validation là quá trình kiểm tra xem bạn đã viết &quot;đúng yêu cầu chưa&quot; (truy xuất ngược về business objectives). Việc &quot;cho phép team xây dựng một giải pháp chính xác&quot; là kết quả của toàn bộ quá trình phát triển, không phải định nghĩa cốt lõi của validation."
+    "Explanation": "Q47. Đáp án D: Validation là quá trình kiểm tra xem bạn đã viết \"đúng yêu cầu chưa\" (truy xuất ngược về business objectives). Việc \"cho phép team xây dựng một giải pháp chính xác\" là kết quả của toàn bộ quá trình phát triển, không phải định nghĩa cốt lõi của validation."
   },
   {
     "Id": 56,
@@ -795,7 +795,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q48. Đáp án B: &quot;Reuse frequency&quot; (Tần suất tái sử dụng) không được xem là một khía cạnh (dimension) tiêu chuẩn của việc tái sử dụng yêu cầu khi chuyển từ dự án này sang dự án khác."
+    "Explanation": "Q48. Đáp án B: \"Reuse frequency\" (Tần suất tái sử dụng) không được xem là một khía cạnh (dimension) tiêu chuẩn của việc tái sử dụng yêu cầu khi chuyển từ dự án này sang dự án khác."
   },
   {
     "Id": 57,
@@ -837,7 +837,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q51. Đáp án B: &quot;On-premises deployment&quot; (triển khai tại máy chủ nội bộ) hoàn toàn trái ngược với bản chất của SaaS (Phần mềm dạng Dịch vụ - thường lưu trữ tập trung trên cloud và dùng qua internet)."
+    "Explanation": "Q51. Đáp án B: \"On-premises deployment\" (triển khai tại máy chủ nội bộ) hoàn toàn trái ngược với bản chất của SaaS (Phần mềm dạng Dịch vụ - thường lưu trữ tập trung trên cloud và dùng qua internet)."
   },
   {
     "Id": 60,
@@ -956,7 +956,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q59. Đáp án B: Trong phương pháp Agile, &quot;Expect stability&quot; (Kỳ vọng sự ổn định) là một nhận định sai, vì Agile luôn chào đón và thích ứng với sự thay đổi của yêu cầu.\nPhần 2: Ôn tập các khái niệm (Từ Q1 đến Q40 của khối tiếp theo)\n(Lưu ý: Bỏ qua 1 đoạn câu hỏi mồ côi không có số thứ tự trong file của bạn để đảm bảo số đếm liên mạch)"
+    "Explanation": "Q59. Đáp án B: Trong phương pháp Agile, \"Expect stability\" (Kỳ vọng sự ổn định) là một nhận định sai, vì Agile luôn chào đón và thích ứng với sự thay đổi của yêu cầu.\nPhần 2: Ôn tập các khái niệm (Từ Q1 đến Q40 của khối tiếp theo)\n(Lưu ý: Bỏ qua 1 đoạn câu hỏi mồ côi không có số thứ tự trong file của bạn để đảm bảo số đếm liên mạch)"
   },
   {
     "Id": 68,
@@ -1014,7 +1014,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q5. Đáp án A: &quot;Chọn mô hình phát triển phần mềm&quot; (SDLC) là công việc của quản lý dự án, không nằm trong quy trình phát triển yêu cầu (Requirements development process)."
+    "Explanation": "Q5. Đáp án A: \"Chọn mô hình phát triển phần mềm\" (SDLC) là công việc của quản lý dự án, không nằm trong quy trình phát triển yêu cầu (Requirements development process)."
   },
   {
     "Id": 72,
@@ -1030,7 +1030,7 @@
       "C",
       "D"
     ],
-    "Explanation": "Q6. Đáp án A, C, D: Các &quot;best practices&quot; trong phân tích yêu cầu bao gồm việc mô hình hóa môi trường, tạo prototypes để xác nhận tính năng, và tránh sa đà vào thiết kế UI/kiến trúc từ quá sớm."
+    "Explanation": "Q6. Đáp án A, C, D: Các \"best practices\" trong phân tích yêu cầu bao gồm việc mô hình hóa môi trường, tạo prototypes để xác nhận tính năng, và tránh sa đà vào thiết kế UI/kiến trúc từ quá sớm."
   },
   {
     "Id": 73,
@@ -1119,7 +1119,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q13. Đáp án B: &quot;Product champion&quot; là người đại diện được chỉ định cho một lớp người dùng cụ thể, chuyên cung cấp yêu cầu cho nhóm mà họ đại diện."
+    "Explanation": "Q13. Đáp án B: \"Product champion\" là người đại diện được chỉ định cho một lớp người dùng cụ thể, chuyên cung cấp yêu cầu cho nhóm mà họ đại diện."
   },
   {
     "Id": 79,
@@ -1160,7 +1160,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q16. Đáp án A: Phương pháp thực tế nhất để đảm bảo các tài liệu luôn sẵn sàng cho việc xác nhận độc lập (IV&amp;V) là tạo ra một danh sách kiểm tra (checklist) các tài liệu và hệ thống cần thiết."
+    "Explanation": "Q16. Đáp án A: Phương pháp thực tế nhất để đảm bảo các tài liệu luôn sẵn sàng cho việc xác nhận độc lập (IV&V) là tạo ra một danh sách kiểm tra (checklist) các tài liệu và hệ thống cần thiết."
   },
   {
     "Id": 82,
@@ -1219,31 +1219,31 @@
   },
   {
     "Id": 86,
-    "Text": "Consider the use case diagram for the Chemical Tracking System. How does the &quot;extend&quot; relationship between\n&quot;Request a Chemical&quot; and &quot;Search Vendor Catalogs' affect the system's functionality?\n[IMAGE_PLACEHOLDER]",
+    "Text": "Consider the use case diagram for the Chemical Tracking System. How does the \"extend\" relationship between\n\"Request a Chemical\" and \"Search Vendor Catalogs' affect the system's functionality?\n[IMAGE_PLACEHOLDER]",
     "Options": [
-      "It allows &quot;Request a Chemical&quot; to function independently without any alternative flows.",
-      "It integrates &quot;Search Vendor Catalogs&quot; into the normal flow of 'Request a Chemical.&quot;",
+      "It allows \"Request a Chemical\" to function independently without any alternative flows.",
+      "It integrates \"Search Vendor Catalogs\" into the normal flow of 'Request a Chemical.\"",
       "It provides an optional alternative flow for requesting chemicals from a vendor.",
-      "It duplicates the steps of &quot;Search Vendor Catalogs* within &quot;Request a Chemical.&quot;"
+      "It duplicates the steps of \"Search Vendor Catalogs* within \"Request a Chemical.\""
     ],
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q21. Đáp án C: Quan hệ &quot;extend&quot; trong Use case cho biết &quot;Search Vendor Catalogs&quot; là một luồng hành động thay thế mang tính tùy chọn (optional) cho luồng mặc định &quot;Request a Chemical&quot;."
+    "Explanation": "Q21. Đáp án C: Quan hệ \"extend\" trong Use case cho biết \"Search Vendor Catalogs\" là một luồng hành động thay thế mang tính tùy chọn (optional) cho luồng mặc định \"Request a Chemical\"."
   },
   {
     "Id": 87,
     "Text": "What is the most popular form of user stories?",
     "Options": [
-      "As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;.",
-      "As a &lt;type of user&gt;, I want &lt;some goal&gt;,",
-      "As a &lt;type of user&gt;, I need &lt;some need&gt; so that &lt;some reason&gt;.",
-      "As a &lt;type of user&gt;, I want &lt;some goal&gt; to &lt;some purpose&gt;."
+      "As a <type of user>, I want <some goal> so that <some reason>.",
+      "As a <type of user>, I want <some goal>,",
+      "As a <type of user>, I need <some need> so that <some reason>.",
+      "As a <type of user>, I want <some goal> to <some purpose>."
     ],
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q22. Đáp án A: Cấu trúc chuẩn và phổ biến nhất của User story là: &quot;As a , I want so that &quot;."
+    "Explanation": "Q22. Đáp án A: Cấu trúc chuẩn và phổ biến nhất của User story là: \"As a , I want so that \"."
   },
   {
     "Id": 88,
@@ -1271,7 +1271,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q26. Đáp án D: &quot;Operational Rules&quot; (Quy tắc vận hành) không nằm trong hệ thống phân loại tiêu chuẩn của Business Rules."
+    "Explanation": "Q26. Đáp án D: \"Operational Rules\" (Quy tắc vận hành) không nằm trong hệ thống phân loại tiêu chuẩn của Business Rules."
   },
   {
     "Id": 90,
@@ -1350,7 +1350,7 @@
   },
   {
     "Id": 95,
-    "Text": "How can you explain the statement &quot;Implicit requirements can also be unknown unknowns&quot;?",
+    "Text": "How can you explain the statement \"Implicit requirements can also be unknown unknowns\"?",
     "Options": [
       "During the SRS process, customers should always be required to spell out their unknown unknowns.",
       "An unknown unknown cannot be known and therefore we can not make them explicit requirements.",
@@ -1402,7 +1402,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q36. Đáp án B: Câu hỏi đầu tiên cần hỏi khi lấy yêu cầu về báo cáo (reporting) từ khách hàng là: &quot;Hiện tại các anh/chị đang sử dụng những báo cáo nào?&quot; (What reports are currently used?)."
+    "Explanation": "Q36. Đáp án B: Câu hỏi đầu tiên cần hỏi khi lấy yêu cầu về báo cáo (reporting) từ khách hàng là: \"Hiện tại các anh/chị đang sử dụng những báo cáo nào?\" (What reports are currently used?)."
   },
   {
     "Id": 99,
@@ -1488,7 +1488,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q44. Đáp án C: Nhận định sai về Throwaway prototype (bản mẫu dùng một lần) là gọi nó là &quot;releasable prototype&quot; (có thể phát hành). Đặc tính của nó là làm nháp để hiểu yêu cầu rồi bỏ đi chứ không dùng làm sản phẩm cuối."
+    "Explanation": "Q44. Đáp án C: Nhận định sai về Throwaway prototype (bản mẫu dùng một lần) là gọi nó là \"releasable prototype\" (có thể phát hành). Đặc tính của nó là làm nháp để hiểu yêu cầu rồi bỏ đi chứ không dùng làm sản phẩm cuối."
   },
   {
     "Id": 105,
@@ -1503,7 +1503,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q45. Đáp án D: Phương pháp phân bổ $100 (100-dollar test) là một kỹ thuật ưu tiên, nhưng phương án &quot;$1000&quot; là sai tên gọi."
+    "Explanation": "Q45. Đáp án D: Phương pháp phân bổ $100 (100-dollar test) là một kỹ thuật ưu tiên, nhưng phương án \"$1000\" là sai tên gọi."
   },
   {
     "Id": 106,
@@ -1531,7 +1531,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q47. Đáp án A: Quá trình Validation (Xác nhận) tập trung vào việc đánh giá xem bạn đã viết &quot;đúng yêu cầu chưa&quot; (the right requirements - có giải quyết đúng vấn đề kinh doanh không)."
+    "Explanation": "Q47. Đáp án A: Quá trình Validation (Xác nhận) tập trung vào việc đánh giá xem bạn đã viết \"đúng yêu cầu chưa\" (the right requirements - có giải quyết đúng vấn đề kinh doanh không)."
   },
   {
     "Id": 108,
@@ -1601,7 +1601,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q52. Đáp án A: Nhận định sai về dự án Agile là &quot;Lập trình viên ít tương tác với khách hàng sau khi bắt đầu lập trình&quot;. Ngược lại, Agile đòi hỏi sự tương tác và phản hồi liên tục với khách hàng."
+    "Explanation": "Q52. Đáp án A: Nhận định sai về dự án Agile là \"Lập trình viên ít tương tác với khách hàng sau khi bắt đầu lập trình\". Ngược lại, Agile đòi hỏi sự tương tác và phản hồi liên tục với khách hàng."
   },
   {
     "Id": 113,
@@ -1615,7 +1615,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q53. Đáp án A: &quot;Xây dựng hệ thống bằng nhân sự nội bộ&quot; (build systems by using your own staff) là phát triển tùy chỉnh, không phải đặc điểm của giải pháp mua sẵn (packaged solution)."
+    "Explanation": "Q53. Đáp án A: \"Xây dựng hệ thống bằng nhân sự nội bộ\" (build systems by using your own staff) là phát triển tùy chỉnh, không phải đặc điểm của giải pháp mua sẵn (packaged solution)."
   },
   {
     "Id": 114,
@@ -1628,7 +1628,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q54. Đáp án A: Việc &quot;tận dụng các công cụ offline&quot; không phải là đặc trưng hay vấn đề trọng tâm khi nhắc đến các dự án thuê ngoài (outsourced projects)."
+    "Explanation": "Q54. Đáp án A: Việc \"tận dụng các công cụ offline\" không phải là đặc trưng hay vấn đề trọng tâm khi nhắc đến các dự án thuê ngoài (outsourced projects)."
   },
   {
     "Id": 115,
@@ -1718,15 +1718,15 @@
     "Id": 122,
     "Text": "Which JSTL tag is used to format numbers according to locales?",
     "Options": [
-      "&lt;fmt:parseNumber&gt;",
-      "&lt;fmt:setNumber&gt;",
-      "&lt;fmt:formatNumber&gt;",
-      "&lt;fmt:setLocale&gt;"
+      "<fmt:parseNumber>",
+      "<fmt:setNumber>",
+      "<fmt:formatNumber>",
+      "<fmt:setLocale>"
     ],
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Câu 1. Đáp án C: Thẻ &lt;fmt:formatNumber&gt; trong JSTL được sử dụng để định dạng các con số theo tiêu chuẩn của từng quốc gia/khu vực (locales)."
+    "Explanation": "Câu 1. Đáp án C: Thẻ <fmt:formatNumber> trong JSTL được sử dụng để định dạng các con số theo tiêu chuẩn của từng quốc gia/khu vực (locales)."
   },
   {
     "Id": 123,
@@ -1902,7 +1902,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q13. Đáp án C: User (người dùng) chỉ là một tập con (subset), chứ KHÔNG PHẢI là &quot;tập cha&quot; (superset) của stakeholders (các bên liên quan)."
+    "Explanation": "Q13. Đáp án C: User (người dùng) chỉ là một tập con (subset), chứ KHÔNG PHẢI là \"tập cha\" (superset) của stakeholders (các bên liên quan)."
   },
   {
     "Id": 135,
@@ -1935,7 +1935,7 @@
   },
   {
     "Id": 137,
-    "Text": "&quot;Organize and share notes&quot; is an activity that belongs to?\n![Chemical Tracking System Use Case](/images/swr302_q16.png)",
+    "Text": "\"Organize and share notes\" is an activity that belongs to?\n![Chemical Tracking System Use Case](/images/swr302_q16.png)",
     "Options": [
       "Preparing for elicitation",
       "Performing elicitation activities",
@@ -1945,7 +1945,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q16. Đáp án C: &quot;Sắp xếp và chia sẻ ghi chú&quot; là hành động được thực hiện ở bước theo dõi sau khi đã thu thập yêu cầu (Following up after elicitation)."
+    "Explanation": "Q16. Đáp án C: \"Sắp xếp và chia sẻ ghi chú\" là hành động được thực hiện ở bước theo dõi sau khi đã thu thập yêu cầu (Following up after elicitation)."
   },
   {
     "Id": 138,
@@ -1959,7 +1959,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q17. Đáp án C: Khi muốn khai thác thông tin về các trường hợp ngoại lệ (exceptions) trong một quy trình, câu hỏi tốt nhất là &quot;Điều gì sẽ xảy ra khi có lỗi?&quot; (What happens when an error occurs?)."
+    "Explanation": "Q17. Đáp án C: Khi muốn khai thác thông tin về các trường hợp ngoại lệ (exceptions) trong một quy trình, câu hỏi tốt nhất là \"Điều gì sẽ xảy ra khi có lỗi?\" (What happens when an error occurs?)."
   },
   {
     "Id": 139,
@@ -2003,7 +2003,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q21. Đáp án A, C: Trong Use Case, &quot;Preconditions&quot; là điều kiện tiên quyết phải đạt được trước khi chạy, còn &quot;Postconditions&quot; mô tả trạng thái của hệ thống sau khi Use Case chạy thành công."
+    "Explanation": "Q21. Đáp án A, C: Trong Use Case, \"Preconditions\" là điều kiện tiên quyết phải đạt được trước khi chạy, còn \"Postconditions\" mô tả trạng thái của hệ thống sau khi Use Case chạy thành công."
   },
   {
     "Id": 142,
@@ -2022,7 +2022,7 @@
   },
   {
     "Id": 143,
-    "Text": "In the Chemical Tracking System project, what is the relationship between use case: &quot;Pay a bill&quot; and use case: &quot;Write a check&quot;?",
+    "Text": "In the Chemical Tracking System project, what is the relationship between use case: \"Pay a bill\" and use case: \"Write a check\"?",
     "Options": [
       "include",
       "extend",
@@ -2032,7 +2032,7 @@
       "B",
       "D"
     ],
-    "Explanation": "Q23. Đáp án B: Quan hệ &quot;extend&quot; (Mở rộng). Việc &quot;Viết séc&quot; (Write a check) có thể là một luồng phụ/luồng tùy chọn để thanh toán hóa đơn (Pay a bill)."
+    "Explanation": "Q23. Đáp án B: Quan hệ \"extend\" (Mở rộng). Việc \"Viết séc\" (Write a check) có thể là một luồng phụ/luồng tùy chọn để thanh toán hóa đơn (Pay a bill)."
   },
   {
     "Id": 144,
@@ -2047,7 +2047,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q24. Đáp án D: &quot;Nếu một khách hàng tiềm năng không phản hồi trong 30 ngày, họ sẽ bị đánh dấu là cold lead&quot;. Đây là một sự suy luận (Inferences) rút ra từ hành vi của người dùng."
+    "Explanation": "Q24. Đáp án D: \"Nếu một khách hàng tiềm năng không phản hồi trong 30 ngày, họ sẽ bị đánh dấu là cold lead\". Đây là một sự suy luận (Inferences) rút ra từ hành vi của người dùng."
   },
   {
     "Id": 145,
@@ -2067,7 +2067,7 @@
     "Id": 146,
     "Text": "Which of the following are common places and ways to look for business rules? Choose 3 correct answers.",
     "Options": [
-      "&quot;Common knowledge&quot; from the organization, often collected from individuals who have worked with the business for a long time and know the details of how it operates",
+      "\"Common knowledge\" from the organization, often collected from individuals who have worked with the business for a long time and know the details of how it operates",
       "Legacy systems that embed business rules in their requirements and code.",
       "Analysis of existing documentation, including requirements specifications from earlier projects, regulations, industry standards, corporate policy documents, contracts, and business plans",
       "Business laws"
@@ -2076,7 +2076,7 @@
       "A",
       "C"
     ],
-    "Explanation": "Q26. Đáp án A, B, C: Bạn có thể tìm thấy Business rules từ &quot;kiến thức chung&quot; của nhân viên lâu năm, từ các hệ thống cũ (legacy systems), và từ các tài liệu/chính sách hiện có."
+    "Explanation": "Q26. Đáp án A, B, C: Bạn có thể tìm thấy Business rules từ \"kiến thức chung\" của nhân viên lâu năm, từ các hệ thống cũ (legacy systems), và từ các tài liệu/chính sách hiện có."
   },
   {
     "Id": 147,
@@ -2197,7 +2197,7 @@
       "A",
       "B"
     ],
-    "Explanation": "Q34. Đáp án B: Biểu đồ Swimlane (đường bơi) nhằm mục đích trực quan hóa các bước trong một quy trình kinh doanh, chia thành các &quot;làn&quot; đại diện cho các hệ thống hoặc tác nhân khác nhau."
+    "Explanation": "Q34. Đáp án B: Biểu đồ Swimlane (đường bơi) nhằm mục đích trực quan hóa các bước trong một quy trình kinh doanh, chia thành các \"làn\" đại diện cho các hệ thống hoặc tác nhân khác nhau."
   },
   {
     "Id": 155,
@@ -2267,7 +2267,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q39. Đáp án C: Trong ngôn ngữ viết yêu cầu Planguage, từ khóa &quot;GOAL&quot; xác định mục tiêu hoặc mức độ đạt được tối thiểu có thể chấp nhận được của một yêu cầu."
+    "Explanation": "Q39. Đáp án C: Trong ngôn ngữ viết yêu cầu Planguage, từ khóa \"GOAL\" xác định mục tiêu hoặc mức độ đạt được tối thiểu có thể chấp nhận được của một yêu cầu."
   },
   {
     "Id": 160,
@@ -2295,7 +2295,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q41. Đáp án C: &quot;Efficiency&quot; (Tính hiệu quả) được coi là một thuộc tính chất lượng nội bộ (internal quality attribute) vì nó liên quan đến cách hệ thống sử dụng tài nguyên bên trong (như CPU, RAM)."
+    "Explanation": "Q41. Đáp án C: \"Efficiency\" (Tính hiệu quả) được coi là một thuộc tính chất lượng nội bộ (internal quality attribute) vì nó liên quan đến cách hệ thống sử dụng tài nguyên bên trong (như CPU, RAM)."
   },
   {
     "Id": 162,
@@ -2323,11 +2323,11 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q43. Đáp án B: Bạn không thể hy vọng một prototype (vốn chỉ là mô hình trực quan) có thể hoàn toàn thay thế được &quot;Written requirements&quot; (Tài liệu yêu cầu được viết chi tiết)."
+    "Explanation": "Q43. Đáp án B: Bạn không thể hy vọng một prototype (vốn chỉ là mô hình trực quan) có thể hoàn toàn thay thế được \"Written requirements\" (Tài liệu yêu cầu được viết chi tiết)."
   },
   {
     "Id": 164,
-    "Text": "Which of the following statements best describes a &quot;horizontal prototype&quot; in the context of software development?",
+    "Text": "Which of the following statements best describes a \"horizontal prototype\" in the context of software development?",
     "Options": [
       "A horizontal prototype focuses on the user interface, allowing exploration of specific behaviors without diving into detailed functionality or architectural layers",
       "A horizontal prototype fully implements all layers of the system, from the user interface to the backend services",
@@ -2337,7 +2337,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q44. Đáp án A: &quot;Horizontal prototype&quot; (Bản mẫu ngang) chỉ tập trung vào lớp giao diện người dùng (UI) bề nổi, cho phép khám phá hành vi mà không đi sâu vào chi tiết kỹ thuật bên dưới."
+    "Explanation": "Q44. Đáp án A: \"Horizontal prototype\" (Bản mẫu ngang) chỉ tập trung vào lớp giao diện người dùng (UI) bề nổi, cho phép khám phá hành vi mà không đi sâu vào chi tiết kỹ thuật bên dưới."
   },
   {
     "Id": 165,
@@ -2437,11 +2437,11 @@
       "B",
       "C"
     ],
-    "Explanation": "Q51. Đáp án A, B, C: Trong phát triển phần mềm, &quot;yêu cầu&quot; đóng vai trò định hướng trực tiếp cho việc lập kế hoạch (Project planning), thiết kế &amp; lập trình (Design and coding), và các hoạt động kiểm thử (Testing activities)."
+    "Explanation": "Q51. Đáp án A, B, C: Trong phát triển phần mềm, \"yêu cầu\" đóng vai trò định hướng trực tiếp cho việc lập kế hoạch (Project planning), thiết kế & lập trình (Design and coding), và các hoạt động kiểm thử (Testing activities)."
   },
   {
     "Id": 172,
-    "Text": "&quot;Story point&quot; is used to measure which one below?",
+    "Text": "\"Story point\" is used to measure which one below?",
     "Options": [
       "User story",
       "Code",
@@ -2453,7 +2453,7 @@
       "B",
       "C"
     ],
-    "Explanation": "Q52. Đáp án A: &quot;Story point&quot; là đơn vị đo lường phổ biến được dùng trong Agile để ước lượng độ phức tạp/khối lượng công việc của một User story.\nPhần 4: Quản lý thay đổi và Thực tiễn nâng cao (Câu 53 - 83)\n(Lưu ý: Mình giữ nguyên đánh số theo đúng tài liệu của bạn, bao gồm cả việc đề bị nhảy số, ví dụ không có câu 54)."
+    "Explanation": "Q52. Đáp án A: \"Story point\" là đơn vị đo lường phổ biến được dùng trong Agile để ước lượng độ phức tạp/khối lượng công việc của một User story.\nPhần 4: Quản lý thay đổi và Thực tiễn nâng cao (Câu 53 - 83)\n(Lưu ý: Mình giữ nguyên đánh số theo đúng tài liệu của bạn, bao gồm cả việc đề bị nhảy số, ví dụ không có câu 54)."
   },
   {
     "Id": 173,
@@ -2610,7 +2610,7 @@
     "CorrectAnswers": [
       "B"
     ],
-    "Explanation": "Q64. Đáp án A, B, C: Theo danh sách &quot;Quyền lợi của khách hàng&quot;, họ có quyền mong đợi BA phải tìm hiểu về nghiệp vụ của họ (A), mô tả được tính dễ sử dụng (B), và nhận được hệ thống đáp ứng đúng chức năng (C)."
+    "Explanation": "Q64. Đáp án A, B, C: Theo danh sách \"Quyền lợi của khách hàng\", họ có quyền mong đợi BA phải tìm hiểu về nghiệp vụ của họ (A), mô tả được tính dễ sử dụng (B), và nhận được hệ thống đáp ứng đúng chức năng (C)."
   },
   {
     "Id": 184,
@@ -2624,7 +2624,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q65. Đáp án C: Việc &quot;kịp thời thông báo các thay đổi về yêu cầu&quot; (Promptly communicate changes) là quyền lợi/nghĩa vụ khác, không nằm trong danh sách chuẩn của &quot;Software Bill of Rights Requirements&quot;."
+    "Explanation": "Q65. Đáp án C: Việc \"kịp thời thông báo các thay đổi về yêu cầu\" (Promptly communicate changes) là quyền lợi/nghĩa vụ khác, không nằm trong danh sách chuẩn của \"Software Bill of Rights Requirements\"."
   },
   {
     "Id": 185,
@@ -2726,7 +2726,7 @@
       "B",
       "C"
     ],
-    "Explanation": "Q72. Đáp án C: &quot;Scope creep&quot; (Trượt phạm vi) là thuật ngữ chỉ tình trạng phạm vi dự án cứ liên tục phình to ra một cách mất kiểm soát trong quá trình phát triển."
+    "Explanation": "Q72. Đáp án C: \"Scope creep\" (Trượt phạm vi) là thuật ngữ chỉ tình trạng phạm vi dự án cứ liên tục phình to ra một cách mất kiểm soát trong quá trình phát triển."
   },
   {
     "Id": 192,
@@ -2786,7 +2786,7 @@
   },
   {
     "Id": 196,
-    "Text": "&quot;The user must be able to sort the project list in forward and reverse alphabetical order&quot; is an example of:",
+    "Text": "\"The user must be able to sort the project list in forward and reverse alphabetical order\" is an example of:",
     "Options": [
       "business requirement",
       "functional requirement",
@@ -2796,7 +2796,7 @@
     "CorrectAnswers": [
       "C"
     ],
-    "Explanation": "Q77. Đáp án B: Yêu cầu &quot;Người dùng phải có khả năng sắp xếp danh sách...&quot; là mô tả một hành vi cụ thể mà hệ thống phải đáp ứng, do đó nó là Functional requirement (yêu cầu chức năng)."
+    "Explanation": "Q77. Đáp án B: Yêu cầu \"Người dùng phải có khả năng sắp xếp danh sách...\" là mô tả một hành vi cụ thể mà hệ thống phải đáp ứng, do đó nó là Functional requirement (yêu cầu chức năng)."
   },
   {
     "Id": 197,
@@ -2867,7 +2867,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q82. Đáp án B: Tên của Use case luôn luôn phải được viết theo cấu trúc: Động từ + Tân ngữ (A verb followed by an object) - ví dụ: &quot;Request a chemical&quot;, &quot;Write a check&quot;."
+    "Explanation": "Q82. Đáp án B: Tên của Use case luôn luôn phải được viết theo cấu trúc: Động từ + Tân ngữ (A verb followed by an object) - ví dụ: \"Request a chemical\", \"Write a check\"."
   },
   {
     "Id": 202,
@@ -2881,7 +2881,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q83. Đáp án D: Nhận định đúng về Use Cases là chúng dùng để mô tả các luồng tương tác giữa hệ thống và các thực thể/người dùng bên ngoài hệ thống.\nTuyệt vời! Chúng ta cùng đi nốt chặng đường cuối cùng với các câu hỏi còn lại trong file &quot;Tổng hợp SWR.docx&quot; nhé. Việc nắm vững những câu này sẽ giúp bạn có cái nhìn cực kỳ bao quát về môn học này đấy.\nDưới đây là phần giải thích chi tiết cho các câu từ 84 đến 120:\nPhần 5: Agile, Mô hình hóa và Các công cụ thực tiễn"
+    "Explanation": "Q83. Đáp án D: Nhận định đúng về Use Cases là chúng dùng để mô tả các luồng tương tác giữa hệ thống và các thực thể/người dùng bên ngoài hệ thống.\nTuyệt vời! Chúng ta cùng đi nốt chặng đường cuối cùng với các câu hỏi còn lại trong file \"Tổng hợp SWR.docx\" nhé. Việc nắm vững những câu này sẽ giúp bạn có cái nhìn cực kỳ bao quát về môn học này đấy.\nDưới đây là phần giải thích chi tiết cho các câu từ 84 đến 120:\nPhần 5: Agile, Mô hình hóa và Các công cụ thực tiễn"
   },
   {
     "Id": 203,
@@ -2951,7 +2951,7 @@
     "CorrectAnswers": [
       "A"
     ],
-    "Explanation": "Q88. Đáp án D: Theo đáp án của bộ đề này, &quot;System features&quot; (Các tính năng hệ thống) được chọn là phần KHÔNG nằm trong template chuẩn của SRS đang được đề cập."
+    "Explanation": "Q88. Đáp án D: Theo đáp án của bộ đề này, \"System features\" (Các tính năng hệ thống) được chọn là phần KHÔNG nằm trong template chuẩn của SRS đang được đề cập."
   },
   {
     "Id": 208,
@@ -2980,7 +2980,7 @@
     "CorrectAnswers": [
       "D"
     ],
-    "Explanation": "Q92. Đáp án A: Phát biểu &quot;Một yêu cầu phải Correct (chính xác) và Feasible (khả thi)&quot; chính là đang mô tả trực tiếp hai thuộc tính này của một yêu cầu tốt."
+    "Explanation": "Q92. Đáp án A: Phát biểu \"Một yêu cầu phải Correct (chính xác) và Feasible (khả thi)\" chính là đang mô tả trực tiếp hai thuộc tính này của một yêu cầu tốt."
   },
   {
     "Id": 210,
@@ -3023,7 +3023,7 @@
       "A",
       "B"
     ],
-    "Explanation": "Q95. Đáp án B, D: Để phân tích &quot;tiếng nói của khách hàng&quot; qua văn bản, BA nên xác định các từ khóa (như danh từ, động từ) và ánh xạ (mapping) các động từ đó vào các quy trình, hoạt động hoặc Use cases trong mô hình phân tích."
+    "Explanation": "Q95. Đáp án B, D: Để phân tích \"tiếng nói của khách hàng\" qua văn bản, BA nên xác định các từ khóa (như danh từ, động từ) và ánh xạ (mapping) các động từ đó vào các quy trình, hoạt động hoặc Use cases trong mô hình phân tích."
   },
   {
     "Id": 213,
@@ -3053,7 +3053,7 @@
       "A",
       "C"
     ],
-    "Explanation": "Q97. Đáp án C: Trong sơ đồ Thực thể - Liên kết (ERD), &quot;Association&quot; (Sự liên kết) không phải là thuật ngữ chuẩn (nó thuộc về UML Class Diagram). ERD chỉ bao gồm Entity (Thực thể), Relationship (Mối quan hệ), Attribute (Thuộc tính) và Cardinality (Bản số)."
+    "Explanation": "Q97. Đáp án C: Trong sơ đồ Thực thể - Liên kết (ERD), \"Association\" (Sự liên kết) không phải là thuật ngữ chuẩn (nó thuộc về UML Class Diagram). ERD chỉ bao gồm Entity (Thực thể), Relationship (Mối quan hệ), Attribute (Thuộc tính) và Cardinality (Bản số)."
   },
   {
     "Id": 215,
@@ -3266,14 +3266,14 @@
       "Agile processes harness change for the customer's competitive advantage.",
       "Agile projects manage change by maintaining a specific backlog of work items to be done.",
       "Agile processes manage change by monitoring risks and addressing them according to priority.",
-      "Agile methods vary as to their philosophy on this point; there is no single &quot;correct&quot; approach."
+      "Agile methods vary as to their philosophy on this point; there is no single \"correct\" approach."
     ],
     "CorrectAnswers": [
       "A",
       "B",
       "C"
     ],
-    "Explanation": "Q116. Đáp án C: Nhận định KHÔNG đúng về quản lý thay đổi trong Agile là &quot;Quản lý thay đổi bằng cách theo dõi rủi ro&quot; (Agile processes manage change by monitoring risks...). Thực tế, Agile quản lý thay đổi thông qua Product Backlog và tận dụng sự thay đổi để tạo lợi thế."
+    "Explanation": "Q116. Đáp án C: Nhận định KHÔNG đúng về quản lý thay đổi trong Agile là \"Quản lý thay đổi bằng cách theo dõi rủi ro\" (Agile processes manage change by monitoring risks...). Thực tế, Agile quản lý thay đổi thông qua Product Backlog và tận dụng sự thay đổi để tạo lợi thế."
   },
   {
     "Id": 230,
