@@ -4,7 +4,7 @@
   /* Warm and nature green theme */
   --primary: #3A8B3D; /* Nature green */
   --primary-hover: #2E7031;
-  --secondary: #FDE8CD; /* Warm soft beige/orange */
+  --secondary: #E0F2FE; /* Soft light blue for focus */
   --background: #FCF9F2; /* Warm off-white */
   --surface: #ffffff;
   --text-main: #3E3A39; /* Warm dark gray */
@@ -158,7 +158,7 @@ body {
 
 .option.selected {
   border-color: var(--primary);
-  background: #eff6ff;
+  background: #DCFCE7; /* Visible soft green */
 }
 
 .option.correct {
