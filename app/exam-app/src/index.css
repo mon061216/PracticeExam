@@ -177,12 +177,24 @@ body {
 }
 
 /* Explanation */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .explanation {
   margin-top: 1.5rem;
   padding: 1rem;
   background: #f8fafc;
   border-left: 4px solid var(--primary);
   border-radius: 4px;
+  animation: slideDown 0.3s ease-out forwards;
 }
 
 /* Utility */
@@ -355,3 +367,36 @@ kbd {
   text-align: center;
   display: inline-block;
 }
+
+/* C# Code Block & Syntax Styling */
+.code-block {
+  background: #1e1e2e;
+  color: #cdd6f4;
+  padding: 0.85rem 1.1rem;
+  border-radius: 8px;
+  font-family: 'Consolas', 'Fira Code', 'Cascadia Code', 'Courier New', monospace;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  overflow-x: auto;
+  margin: 0.6rem 0;
+  border: 1px solid #313244;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.code-block code {
+  font-family: inherit;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.inline-code {
+  background: #f1f5f9;
+  color: #2563eb;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  font-family: 'Consolas', 'Fira Code', monospace;
+  font-size: 0.9em;
+  border: 1px solid #cbd5e1;
+  font-weight: 500;
+}
+

@@ -22,6 +22,7 @@ namespace ExamApi.Controllers
         {
             return await _context.Questions
                 .Where(q => q.SubjectId == subjectId)
+                .OrderBy(q => q.Id)
                 .ToListAsync();
         }
     }

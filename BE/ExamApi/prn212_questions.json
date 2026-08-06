@@ -1,0 +1,2739 @@
+[
+  {
+    "id": 1,
+    "text": "What will be the output of the following C# program?\nenum Role { Admin = 1, Guest = 2 }\nstatic void Main()\n{\n    var json = JsonSerializer.Serialize(Role.Admin, new JsonSerializerOptions\n    {\n        Converters = { new JsonStringEnumConverter() }\n    });\n    Console.WriteLine(json);",
+    "options": [
+      "A. 1",
+      "B. \"Admin\"",
+      "C. \"1\"",
+      "D. \"ADMIN\""
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết:\nEnum trong C# bản chất được lưu dưới dạng số nguyên (integer). Mặc định, khi tuần tự hóa (serialize) một Enum sang JSON, thư viện sẽ xuất ra số nguyên tương ứng.\nPhân tích các đáp án:\nA (1): Sai. Đây sẽ là kết quả nếu chúng ta KHÔNG truyền JsonStringEnumConverter vào cấu hình.\nB (\"Admin\"): Đúng. Lớp JsonStringEnumConverter thay đổi cách serialize Enum từ giá trị số (integer) sang chuỗi tên (string name) của nó.\nC (\"1\"): Sai. Quá trình serialize sẽ in thẳng ra số 1 chứ không ép số thành chuỗi số \"1\" có ngoặc kép.\nD (\"ADMIN\"): Sai. Bộ chuyển đổi mặc định giữ nguyên định dạng phân biệt hoa thường (case-sensitive) của code gốc (Admin)."
+  },
+  {
+    "id": 2,
+    "text": "In JSON syntax, arrays are enclosed in:",
+    "options": [
+      "A. Square brackets",
+      "B. Curly braces",
+      "C. Parentheses",
+      "D. Angle brackets"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: JSON có 2 cấu trúc dữ liệu chính: Mảng (danh sách các phần tử) và Đối tượng (tập hợp các cặp key-value).\nPhân tích các đáp án:\nA (Square brackets []): Đúng. Theo cú pháp chuẩn của JSON, các mảng (arrays) luôn được đặt trong dấu ngoặc vuông []. Ví dụ: [1, 2, 3].\nB (Curly braces {}): Sai. Dấu ngoặc nhọn được dùng để định nghĩa một Đối tượng (JSON Object). Ví dụ: {\"name\": \"John\"}.\nC (Parentheses ()): Sai. Dấu ngoặc đơn không tồn tại trong cú pháp cấu trúc của JSON.\nD (Angle brackets <>): Sai. Dấu ngoặc nhọn góc thường được dùng trong các ngôn ngữ đánh dấu như XML hoặc HTML."
+  },
+  {
+    "id": 3,
+    "text": "Which of the following is a valid JSON structure?",
+    "options": [
+      "A. {\"name\": \"John\", \"age\": 30}",
+      "B. {\"name\": \"John\", age: 30}",
+      "C. (\"name\" \"John\", age: 30)",
+      "D. (\"name\" \"John\", \"age\" 30)"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: Quy tắc cơ bản nhất của JSON là tất cả các \"khóa\" (keys) đều BẮT BUỘC phải là chuỗi (string) và phải được bọc trong dấu ngoặc kép \" \". Các \"giá trị\" (values) nếu là chuỗi cũng phải bọc ngoặc kép, nhưng nếu là số (number) hoặc boolean (true/false) thì không cần.\nPhân tích các đáp án:\nA: Đúng. JSON yêu cầu tất cả các khóa (keys) và giá trị chuỗi (string values) phải được bọc trong dấu ngoặc kép \"\". (Giá trị 30 là số nên viết trần là đúng).\nB ({\"name\": \"John\", age: 30}): Sai. Khóa age không được bọc trong dấu ngoặc kép. (Lỗi này hay gặp do lập trình viên quen viết JavaScript Object, nhưng với chuẩn JSON thuần thì là sai cú pháp).\nC & D: Sai hoàn toàn. JSON object phải được bọc bằng ngoặc nhọn {}, không phải ngoặc đơn (). Đồng thời ngăn cách key-value phải là dấu hai chấm :."
+  },
+  {
+    "id": 4,
+    "text": "Which attribute can be used to control the serialization behavior of a property in .NET JSON serialization?",
+    "options": [
+      "A. [JsonFormatter]",
+      "B. [JsonProperty]",
+      "C. [Serializable]",
+      "D. [JsonIgnoreSerialization]"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: Attribute (thuộc tính) trong C# được đặt ngay trên các property của class (ví dụ [JsonProperty] public int Id {get; set;}) để ra lệnh cho thư viện JSON biết phải đổi tên cột, bỏ qua cột, hoặc định dạng cột đó như thế nào khi chuyển đổi.\nPhân tích các đáp án:\nA ([JsonFormatter]): Sai. Không tồn tại attribute này trong các thư viện JSON chuẩn của .NET.\nB ([JsonProperty]): Đúng. Đây là attribute phổ biến (đặc biệt trong Newtonsoft.Json) được sử dụng để điều khiển cách một property cụ thể được serialize/deserialize.\nC ([Serializable]): Sai. Attribute này thuộc về cơ chế Binary/XML Serialization cũ của hệ thống .NET, không dùng để can thiệp vào định dạng JSON.\nD ([JsonIgnoreSerialization]): Sai. Nếu muốn bỏ qua không serialize một property, attribute chuẩn phải tên là [JsonIgnore]."
+  },
+  {
+    "id": 5,
+    "text": "Which control is used to arrange child elements sequentially in either a horizontal or vertical direction?",
+    "options": [
+      "A. DockPanel",
+      "B. StackPanel",
+      "C. Grid",
+      "D. ViewBox"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: Trong WPF, \"Layout Panel\" là các thẻ bao bọc bên ngoài để tự động sắp xếp vị trí cho các control con bên trong (như Button, TextBox) mà không cần bạn phải tự tọa độ X/Y thủ công.\nPhân tích các đáp án:\nA (DockPanel): Sai. Panel này dùng để \"neo\" các phần tử con dính sát vào các mép (Trái, Phải, Trên, Dưới) của cửa sổ.\nB (StackPanel): Đúng. Trong WPF, StackPanel được thiết kế để sắp xếp các phần tử con nối tiếp nhau theo chiều ngang hoặc chiều dọc.\nC (Grid): Sai. Grid hoạt động như một bảng tính Excel, nó chia không gian ra thành nhiều Hàng (Row) và Cột (Column). Bạn phải chỉ định rõ phần tử con nằm ở ô nào.\nD (ViewBox): Sai. ViewBox không dùng để sắp xếp nhiều phần tử. Công dụng của nó là phóng to / thu nhỏ (scale) một phần tử con duy nhất để lấp đầy khoảng trống."
+  },
+  {
+    "id": 6,
+    "text": "Which property of the Application class allows you to specify a XAML file as the entry point for the application?",
+    "options": [
+      "A. StartupObject",
+      "B. EntryPoint",
+      "C. MainFile",
+      "D. StartupUri"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: Một ứng dụng WPF có thể có hàng chục cửa sổ (Window). File cấu hình chung App.xaml chịu trách nhiệm khai báo xem khi người dùng nháy đúp mở app, cửa sổ nào sẽ hiện lên đầu tiên.\nPhân tích các đáp án:\nA (StartupObject) & B (EntryPoint): Sai. StartupObject là khái niệm nằm trong file project .csproj dùng để chỉ định class chứa hàm Main, không phải thuộc tính XAML.\nC (MainFile): Sai. Đây là một thuộc tính bịa ra.\nD (StartupUri): Đúng. StartupUri là thuộc tính trong file App.xaml dùng để chỉ định giao diện cửa sổ nào sẽ được khởi chạy đầu tiên khi mở ứng dụng. Ví dụ: StartupUri=\"MainWindow.xaml\"."
+  },
+  {
+    "id": 7,
+    "text": "What does WPF stand for?",
+    "options": [
+      "A. Windows Programming Framework",
+      "B. Windows Presentation Foundation",
+      "C. Windows Processing Foundation",
+      "D. Windows Platform Foundation"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB là đáp án đúng. \"Presentation\" mang ý nghĩa là \"Trình diễn/Hiển thị\", thể hiện định hướng của framework này là cung cấp khả năng đồ họa, UI, và media phong phú, thay thế cho công nghệ Windows Forms cũ kĩ. Các đáp án A, C, D chỉ là các cụm từ sai được chế ra để bẫy người học."
+  },
+  {
+    "id": 8,
+    "text": "Which control is used to display data in a table format in WPF?",
+    "options": [
+      "A. ListBox",
+      "B. DataGrid",
+      "C. TextBox",
+      "D. ComboBox"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: Tùy vào cấu trúc dữ liệu muốn hiển thị (danh sách đơn giản, bảng biểu, cây thư mục...) mà lập trình viên phải chọn Control tương ứng.\nPhân tích các đáp án:\nA (ListBox): Sai. ListBox chỉ hiển thị dữ liệu thành một danh sách đơn giản một cột kéo dài từ trên xuống (giống như danh sách bài hát).\nB (DataGrid): Đúng. DataGrid là control chuyên dụng dùng để hiển thị dữ liệu dưới dạng lưới (bảng) gồm các hàng và cột.\nC (TextBox): Sai. Đây chỉ là ô để người dùng nhập/sửa văn bản thông thường.\nD (ComboBox): Sai. Đây là ô danh sách xổ xuống (dropdown) để người dùng chọn một mục."
+  },
+  {
+    "id": 9,
+    "text": "A DataGrid automatically generates columns when:",
+    "options": [
+      "A. AutoGenerateColumns=\"True\" and ItemsSource is set",
+      "B. Binding mode is OneWayToSource",
+      "C. RowTemplate is supplied",
+      "D. It is placed inside a Canvas"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: Thay vì phải code bằng tay định nghĩa từng cột (Cột Tên, Cột Tuổi, Cột Địa chỉ...), DataGrid có một cơ chế thông minh tự động đọc các thuộc tính (properties) của đối tượng C# để tự sinh ra số cột tương ứng.\nPhân tích các đáp án:\nA: Đúng. DataGrid sẽ tự động đọc các thuộc tính của object để tạo cột khi bạn bật cờ AutoGenerateColumns=\"True\" và gán nguồn dữ liệu vào ItemsSource.\nB (Binding mode is OneWayToSource): Sai. Chế độ Binding chỉ quyết định hướng đồng bộ dữ liệu (từ View về Model hay ngược lại), không liên quan đến việc sinh giao diện cột.\nC (RowTemplate is supplied): Sai. Thuộc tính này để custom lại giao diện cho các HÀNG (Row), không liên quan đến tự tạo CỘT (Column).\nD (It is placed inside a Canvas): Sai. Vị trí đặt DataGrid trong Layout Panel nào không hề ảnh hưởng đến khả năng xử lý dữ liệu nội bộ của nó."
+  },
+  {
+    "id": 10,
+    "text": "The Builder pattern involves which THREE participants? [Chọn nhiều đáp án]",
+    "options": [
+      "A. Director",
+      "B. Product",
+      "C. ConcreteBuilder",
+      "D. Facade"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Kiến thức nền tảng cần biết: Mẫu thiết kế Builder sinh ra để giải quyết bài toán khởi tạo một Object quá phức tạp (có hàng chục tham số, cần lắp ráp qua nhiều bước tuần tự).\nPhân tích các đáp án:\nA (Director - Người chỉ đạo): Đúng. Đối tượng chỉ đạo (Director). Đây là class đóng vai trò điều phối, nó biết rõ thứ tự các bước cần phải gọi để hoàn thành sản phẩm.\nB (Product - Sản phẩm): Đúng. Đối tượng cụ thể được xây dựng (Product). Đây là kết quả cuối cùng (ví dụ: Một chiếc xe hơi, một ngôi nhà).\nC (ConcreteBuilder - Người thợ cụ thể): Đúng. Lớp triển khai các bước xây dựng (ConcreteBuilder). Đây là class trực tiếp thực thi các hàm gán giá trị (như XayMong(), XayTuong()).\nD (Facade): Sai. Facade là tên của một Design Pattern khác thuộc nhóm Cấu trúc (Structural), công dụng của nó là tạo ra một Interface đơn giản giấu đi sự phức tạp của cả một hệ thống lớn. Nó không đóng vai trò gì bên trong mẫu Builder cả."
+  },
+  {
+    "id": 11,
+    "text": "In which design pattern does an object notify other objects about state changes, allowing them to react accordingly?",
+    "options": [
+      "A. Observer",
+      "B. Chain of Responsibility",
+      "C. State",
+      "D. Strategy"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng: Mẫu Observer (Quan sát) thiết lập mối quan hệ 1-nhiều. Cơ chế hoạt động dựa trên \"đăng ký - lắng nghe\" (Publish - Subscribe).\n Phân tích:\n A (Observer): Đúng. Khi một đối tượng (Subject) thay đổi trạng thái, nó sẽ tự động gửi thông báo đến tất cả các đối tượng đang theo dõi nó (Observers).\n B (Chain of Responsibility): Sai. Mẫu này truyền một yêu cầu qua một *chuỗi* các đối tượng xử lý, không phải là cơ chế thông báo trạng thái.\n C (State): Sai. Mẫu này cho phép đối tượng thay đổi hành vi khi trạng thái nội bộ của chính nó thay đổi.\n D (Strategy): Sai. Mẫu này dùng để đóng gói các thuật toán (như cách sắp xếp, cách tính toán) để có thể thay đổi linh hoạt lúc chạy."
+  },
+  {
+    "id": 12,
+    "text": "In the Factory Method pattern, object creation is:",
+    "options": [
+      "A. Hard-coded in the client",
+      "B. Deferred to subclasses at runtime",
+      "C. Achieved through reflection only",
+      "D. Performed by the CLR JIT compiler"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Kiến thức nền tảng: Factory Method định nghĩa một interface/abstract class để tạo đối tượng, nhưng giao phó việc quyết định khởi tạo lớp nào cho các lớp con.\n Phân tích:\n A (Hard-coded in the client): Sai. Đây chính là \"anti-pattern\" (cách code tệ) mà Factory Method muốn khắc phục. Việc hard-code (dùng từ khóa `new` trực tiếp) làm code bị đóng cứng.\n B (Deferred to subclasses): Đúng. Việc tạo đối tượng được hoãn lại (deferred) và nhường cho các lớp con (subclasses) quyết định lúc chạy.\n C (Achieved through reflection only): Sai. Factory Method dùng tính đa hình (kế thừa, override), không bắt buộc phải dùng Reflection.\n D (Performed by the CLR JIT compiler): Sai. Trình biên dịch JIT dịch mã trung gian sang mã máy, không liên quan đến Design Pattern."
+  },
+  {
+    "id": 13,
+    "text": "Why should we use Design Patterns?",
+    "options": [
+      "A. To write complex and inefficient code",
+      "B. To improve code reusability, maintainability, and scalability",
+      "C. To avoid using frameworks or libraries",
+      "D. To remove the need for OOP principles"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\n A (To write complex code): Sai. Design Patterns sinh ra để giải quyết vấn đề tinh gọn, không phải để làm code rối rắm thêm.\n B: Đúng. Đây là những giải pháp đã được chứng minh giúp mã nguồn dễ đọc, dễ bảo trì, tái sử dụng tốt và dễ dàng mở rộng.\n C (To avoid frameworks): Sai. Frameworks hiện đại (như .NET) chính là tập hợp của rất nhiều Design Patterns.\n D (To remove OOP): Sai. Design Patterns sinh ra dựa trên chính các nguyên lý của lập trình hướng đối tượng (OOP)."
+  },
+  {
+    "id": 14,
+    "text": "What is a static local function in C#?",
+    "options": [
+      "A. A function that cannot access instance variables of the enclosing method",
+      "B. A function that is only accessible to other classes",
+      "C. A method that can access non-static fields",
+      "D. A function that can only be defined globally"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng: Local function là hàm được viết bên trong một hàm khác. Nếu không có chữ `static`, nó có thể dùng \"ké\" biến của hàm bên ngoài (closure).\n Phân tích:\n A: Đúng. Từ khóa `static` đảm bảo hàm này bị cô lập, không vô tình \"bắt\" (capture) hoặc sử dụng các biến cục bộ/trạng thái của phương thức chứa nó, giúp tiết kiệm bộ nhớ.\n B (Accessible to other classes): Sai. Hàm cục bộ (local) thì chỉ có hàm chứa nó mới gọi được.\n C (Can access non-static fields): Sai. Hàm static không thể truy cập các thành phần non-static.\n D (Globally defined): Sai. Nó được định nghĩa cục bộ, không phải toàn cục."
+  },
+  {
+    "id": 15,
+    "text": "Which of the following is a value type in C#? (ảnh bị thiếu/không rõ đề bài — giữ lại phần chọn đáp án)",
+    "options": [
+      "A. Class",
+      "B. Interface",
+      "C. Enum",
+      "D. Delegate"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Kiến thức nền tảng: C# chia kiểu dữ liệu làm 2 loại: Tham chiếu (Reference Type - lưu trên Heap) và Tham trị (Value Type - lưu trên Stack). Các kiểu Struct và Enum là Tham trị.\n Phân tích:\n A (Class), B (Interface), D (Delegate): Đều sai, đây là các kiểu Tham chiếu (Reference Types).\n C (Enum): Đúng. Enum bản chất được cấu tạo từ các kiểu số nguyên (như `int`), nên nó là kiểu tham trị (Value Type)."
+  },
+  {
+    "id": 16,
+    "text": "Which class is primarily used for input and output operations in C#?",
+    "options": [
+      "A. FileIO",
+      "B. Console",
+      "C. SystemIO",
+      "D. InputOutput"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\n A (FileIO), C (SystemIO), D (InputOutput): Sai. Đây là những cái tên không tồn tại với tư cách là một lớp (class) mặc định của C#. (Có namespace `System.IO` nhưng không có class `SystemIO` hay `FileIO`).\n B (Console): Đúng. Lớp này cung cấp các hàm quen thuộc như `Read()`, `ReadLine()`, `Write()`, `WriteLine()` để xử lý I/O trên dòng lệnh."
+  },
+  {
+    "id": 17,
+    "text": "What is the purpose of string interpolation in C#?",
+    "options": [
+      "A. To format strings using the '+' operator",
+      "B. To embed expressions inside string literals",
+      "C. To concatenate multiple strings",
+      "D. To split strings into substrings"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Kiến thức nền tảng: String interpolation là cú pháp dùng dấu `$` đặt trước chuỗi.\n Phân tích:\n A (Format strings using '+'): Sai. Toán tử `+` là phép cộng/nối chuỗi (concatenation) truyền thống, không phải interpolation.\n B: Đúng. Cho phép nhúng trực tiếp biến hoặc biểu thức vào bên trong chuỗi thông qua cặp ngoặc nhọn `{}` thay vì dùng toán tử `+`, giúp code gọn hơn.\n C, D: Sai. Ghép nối và cắt chuỗi không phải là bản chất của nội suy chuỗi (interpolation)."
+  },
+  {
+    "id": 18,
+    "text": "What are reference returns in .NET?",
+    "options": [
+      "A. Methods that return references to objects",
+      "B. Methods that return values directly",
+      "C. Constants used to reference memory locations",
+      "D. Pointers used in low-level programming languages"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng: Thông thường khi `return variable;`, C# trả về *bản sao* giá trị của biến đó. Reference return (dùng từ khóa `ref return`) trả về chính *vùng nhớ* (địa chỉ) của biến.\n Phân tích:\n A: Đúng. Trả về tham chiếu (reference) đến một vùng nhớ, cho phép thao tác trực tiếp lên biến/phần tử mảng gốc thay vì bản sao.\n B: Sai. Trả về giá trị trực tiếp là cách `return` thông thường.\n C, D: Sai. Không liên quan đến hằng số (constants) hay con trỏ (pointers) trong code unmanaged (unsafe)."
+  },
+  {
+    "id": 19,
+    "text": "Which of the following is TRUE about JSON serialization in .NET?",
+    "options": [
+      "A. It can serialize both public and private fields",
+      "B. It is commonly used for web APIs",
+      "C. It requires the use of the XmlSerializer class",
+      "D. It only works with string data"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\n A (Serialize private fields): Sai. Mặc định `JsonSerializer` chỉ serialize các thuộc tính (properties) `public`. Không tự động serialize các trường `private`.\n B: Đúng. JSON là định dạng tiêu chuẩn nhẹ nhàng, được dùng phổ biến nhất để trao đổi dữ liệu giữa Web API và Client.\n C (Requires XmlSerializer): Sai. Xử lý JSON thì dùng `JsonSerializer`, `XmlSerializer` là để xử lý định dạng XML.\n D (Only works with string data): Sai. Nó chuyển đổi qua lại giữa chuỗi JSON và các đối tượng (objects) phức tạp."
+  },
+  {
+    "id": 20,
+    "text": "What is thread starvation in concurrency programming?",
+    "options": [
+      "A. Threads are executed sequentially",
+      "B. No coordination between threads",
+      "C. A thread does not get access to the shared resource it needs to progress",
+      "D. Multiple cores are not utilized efficiently"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Kiến thức nền tảng: \"Đói luồng\" (Starvation) là hiện tượng khi một luồng (thread) có độ ưu tiên thấp mãi mãi không được hệ điều hành cấp phát thời gian CPU hoặc tài nguyên.\n Phân tích:\n A, B, D: Đều không mô tả đúng định nghĩa.\n C: Đúng. Luồng liên tục bị từ chối cấp quyền truy cập tài nguyên do các luồng ưu tiên cao hơn độc chiếm tài nguyên đó."
+  },
+  {
+    "id": 21,
+    "text": "Which panel in WPF stacks content vertically or horizontally as dictated by the Orientation property?",
+    "options": [
+      "A. Canvas",
+      "B. DockPanel",
+      "C. Grid",
+      "D. StackPanel"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\n A (Canvas): Sai. Đặt vị trí tự do theo tọa độ tuyệt đối (X, Y).\n B (DockPanel): Sai. Neo các phần tử vào lề.\n C (Grid): Sai. Chia layout theo hàng và cột.\n D (StackPanel): Đúng. Thuộc tính `Orientation` quyết định các phần tử sẽ xếp theo chiều dọc hay ngang."
+  },
+  {
+    "id": 22,
+    "text": "What happens when two threads access shared data simultaneously?",
+    "options": [
+      "A. No effect",
+      "B. Compilation error",
+      "C. Race condition",
+      "D. Memory leak"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Kiến thức nền tảng: Khi đa luồng cùng thao tác lên một biến dùng chung mà không có khóa (`lock`), kết quả cuối cùng phụ thuộc vào việc luồng nào chạy xong trước, dẫn đến dữ liệu bị sai lệch. Hiện tượng này gọi là \"Điều kiện tương tranh\" (Race condition).\n Phân tích:\n A (No effect): Sai. Nếu có thao tác ghi, chắc chắn sẽ lỗi.\n B (Compilation error): Sai. Lỗi này chỉ xảy ra lúc chạy (runtime), trình biên dịch không thể bắt được lỗi này.\n C: Đúng.\n D (Memory leak): Sai. Rò rỉ bộ nhớ là do cấp phát mà quên thu hồi, không phải do xung đột đa luồng."
+  },
+  {
+    "id": 23,
+    "text": "Which of the following correctly describes the Database First Model?",
+    "options": [
+      "A. Design the database from C# source code",
+      "B. Generate code from an existing database",
+      "C. Create the database directly from the Visual Studio interface",
+      "D. Not related to databases"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\n A (Design database from C#): Sai. Đây là mô tả của cách tiếp cận \"Code First\".\n B: Đúng. Database First đi từ việc có sẵn một cơ sở dữ liệu, sau đó dùng công cụ tự động phát sinh (scaffold) ra các lớp Entity và DbContext trong C#.\n C, D: Sai hoàn toàn."
+  },
+  {
+    "id": 24,
+    "text": "How can you add a new record using Entity Framework Core?",
+    "options": [
+      "A. Add the entity to the DbSet and call SaveChanges",
+      "B. Directly execute a raw SQL query",
+      "C. Insert via stored procedures",
+      "D. Use SQL Server Management Studio"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\n A: Đúng. EF Core hoạt động trên bộ nhớ trước, nên bạn phải dùng `DbSet.Add()` để đưa đối tượng vào trạng thái \"Added\", rồi gọi `SaveChanges()` để đẩy câu SQL INSERT xuống DB.\n B (Directly execute raw SQL): Sai. Dù EF Core có hỗ trợ SQL thuần, nhưng cách thêm mới bản ghi tiêu chuẩn và đúng chuẩn ORM nhất là qua DbSet.\n C, D: Sai. Thêm qua Stored Procedure hay SSMS nằm ngoài quy trình thao tác cơ bản của EF Core trong C#."
+  },
+  {
+    "id": 25,
+    "text": "Which class in Entity Framework Core represents a table in the database?",
+    "options": [
+      "A. DbTable",
+      "B. DbModel",
+      "C. DbContext",
+      "D. DbSet"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\n A (DbTable), B (DbModel): Sai. Không tồn tại các class này trong EF Core.\n C (DbContext): Sai. Lớp này đại diện cho toàn bộ *Phiên làm việc* (Session) kết nối với toàn bộ cơ sở dữ liệu, không phải một bảng đơn lẻ.\n D (DbSet): Đúng. Thuộc tính `DbSet<T>` tương ứng (map) với các bảng dữ liệu bên trong database."
+  },
+  {
+    "id": 26,
+    "text": "What is meant by “materialization” in EF Core?",
+    "options": [
+      "A. Caching query results",
+      "B. Serializing objects to XML",
+      "C. Converting database rows into entity objects",
+      "D. Encrypting data before storage"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Kiến thức nền tảng: \"Vật chất hóa\" (Materialization) là thuật ngữ chỉ bước cuối cùng khi truy vấn. Database trả về dữ liệu dạng dòng/cột thô (raw data), EF Core phải đọc chúng và đóng gói (tạo mới) thành các class C#.\n Phân tích:\n A (Caching query results): Sai. Đây là cơ chế Tracking/Caching, không phải Materialization.\n B, D: Đều không liên quan đến EF Core.\n C: Đúng. Chuyển dữ liệu dòng (row) thô thành các đối tượng (entity objects) trong bộ nhớ C#."
+  },
+  {
+    "id": 27,
+    "text": "Which method of the DbSet class is used to retrieve a single entity from the database that matches a specified condition, or a default value if no such entity is found?",
+    "options": [
+      "A. Find",
+      "B. FirstOrDefault",
+      "C. SingleOrDefault",
+      "D. Where"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\n A (Find): Sai. `Find` chuyên dùng để tìm kiếm theo Khóa chính (Primary Key), nếu không thấy cũng trả về null, nhưng không nhận tham số điều kiện linh hoạt (như biểu thức Lambda).\n B: Đúng. `FirstOrDefault` tìm phần tử đầu tiên khớp điều kiện, nếu không có sẽ an toàn trả về `null` (default).\n C (SingleOrDefault): Có ý nghĩa tương tự, nhưng sẽ NÉM LỖI (Exception) nếu CSDL trả về nhiều hơn 1 bản ghi khớp điều kiện.\n D (Where): Sai. Trả về một danh sách (IQueryable), không phải đối tượng đơn lẻ (single entity)."
+  },
+  {
+    "id": 28,
+    "text": "Which code snippet demonstrates abstraction using an abstract class? (đề có code dài — giữ tên lựa chọn, nội dung xem lại từ ảnh nếu cần)",
+    "options": [
+      "A. abstract class Shape\n{\n    public abstract void Draw();\n}\nclass Circle : Shape\n{\n    public override void Draw()\n    {\n        Console.WriteLine(\"Drawing a circle\");\n    }\n}\nclass Program\n{\n    static void Main(string[] args)\n    {\n        Shape shape = new Circle();\n        shape.Draw();",
+      "B. abstract class Shape\n{\n    public void Draw()\n    {\n        Console.WriteLine(\"Drawing shape\");\n    }\n}\nclass Program\n{\n    static void Main(string[] args)\n    {\n        Shape shape = new Circle();\n        shape.Draw();",
+      "C. class Shape\n{\n    public virtual void Draw()\n    {\n        Console.WriteLine(\"Drawing shape\");\n    }\n}\nclass Program\n{\n    static void Main(string[] args)\n    {\n        Shape shape = new Circle();\n        shape.Draw();",
+      "D. class Circle\n{\n    public void Draw()\n    {\n        Console.WriteLine(\"Drawing a circle\");\n    }\n}\nclass Program\n{\n    static void Main(string[] args)\n    {\n        Shape shape = new Circle();\n        shape.Draw();\n    }\n}"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\n A: Đúng. Định nghĩa `abstract class Shape` với phương thức trừu tượng `public abstract void Draw();`. Lớp con bắt buộc phải dùng từ khóa `override` để triển khai nội dung. Đạt chuẩn tính trừu tượng.\n B: Sai. Có từ khóa `abstract class` nhưng phương thức bên trong lại viết thân hàm luôn (`{ Console.WriteLine... }`), thiếu chữ `abstract` ở hàm.\n C: Sai. Lớp `Shape` khai báo bình thường, phương thức `virtual` là đa hình (Polymorphism), không ép buộc tính trừu tượng mạnh mẽ như `abstract`.\n D: Sai. Chỉ là kế thừa bình thường, không có từ khóa `abstract`."
+  },
+  {
+    "id": 29,
+    "text": "What are auto-implemented properties in C#?",
+    "options": [
+      "A. Properties where the compiler automatically creates a private backing field",
+      "B. Methods that automatically return property values",
+      "C. Fields that require explicit getter and setter definitions",
+      "D. Variables accessible only within the same class"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng: Khi bạn viết `public int Age { get; set; }`, trình biên dịch sẽ \"âm thầm\" sinh ra một biến ngầm (như `private int _age;`) để chứa dữ liệu. Bạn không cần phải tự khai báo.\n Phân tích:\n A: Đúng. Trình biên dịch (compiler) tự động tạo ra biến ngầm (backing field).\n B, C, D: Đều mô tả sai cơ chế hoạt động của auto-property."
+  },
+  {
+    "id": 30,
+    "text": "What is the purpose of the is operator in C#?",
+    "options": [
+      "A. Check if an object is compatible with a given type",
+      "B. Convert an object to a given type",
+      "C. Declare a static member",
+      "D. Create a new instance of a class"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\n A: Đúng. Trả về giá trị true/false để xem object có thuộc hoặc kế thừa từ một kiểu (type) nào đó không. Ví dụ: `if (person is Employee)`.\n B (Convert an object): Sai. Ép kiểu an toàn (convert/cast) là nhiệm vụ của toán tử `as` hoặc dấu ép kiểu `(Type)`.\n C, D: Sai chức năng hoàn toàn."
+  },
+  {
+    "id": 31,
+    "text": "What happens if a class inherits from multiple classes in C#?",
+    "options": [
+      "A. Access members of all base classes",
+      "B. Compile-time error (C# does not support direct multiple inheritance)",
+      "C. Override all methods",
+      "D. Cannot create an instance"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Kiến thức nền tảng: Để giải quyết \"Bài toán kim cương\" (Diamond problem - bị xung đột hàm khi cha A và cha B có chung 1 hàm), C# cấm đa kế thừa đối với Lớp (Class). Chỉ cho phép đa kế thừa với Interface.\n Phân tích:\n A, C, D: Sai vì C# sẽ không cho phép đoạn code biên dịch thành công.\n B: Đúng. Báo lỗi ngay lúc biên dịch (Compile-time error)."
+  },
+  {
+    "id": 32,
+    "text": "Which of the following is the correct way to create a new file using the File class?",
+    "options": [
+      "A. File.WriteAllText(\"example.txt\", \"Hello, World!\");",
+      "B. File.Create(\"example.txt\", \"Hello, World!\");",
+      "C. File.CreateNew(\"example.txt\", \"Hello, World!\");",
+      "D. File.Open(\"example.txt\", FileMode.Open);"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\n A: Đúng. Lệnh này tiện lợi nhất: vừa tạo file (nếu chưa có), ghi đè (nếu đã có), vừa ghi nội dung chuỗi vào file rồi tự đóng kết nối.\n B (File.Create): Sai cú pháp. Hàm `File.Create()` trả về một `FileStream` và chỉ nhận tham số đường dẫn, không nhận chuỗi text trực tiếp.\n C (File.CreateNew): Sai. Không tồn tại hàm `CreateNew` tĩnh trong lớp `File`.\n D (File.Open): Sai. Đây là thao tác mở file, không đi kèm việc truyền chuỗi dữ liệu."
+  },
+  {
+    "id": 33,
+    "text": "Which of the following is NOT part of the System.IO namespace?",
+    "options": [
+      "A. File",
+      "B. Directory",
+      "C. HttpClient",
+      "D. StreamReader"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\n A (File), B (Directory), D (StreamReader): Đây đều là các lớp cốt lõi của IO (Input/Output), chuyên thao tác thư mục, tệp tin vật lý.\n C: Đúng. `HttpClient` nằm trong namespace `System.Net.Http`, chuyên xử lý giao tiếp mạng, gọi API HTTP, không dính dáng đến file tĩnh trên ổ cứng."
+  },
+  {
+    "id": 34,
+    "text": "What is the value of fs.Position immediately after opening an existing file with FileMode.Open?",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. File length",
+      "D. Undefined"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Kiến thức nền tảng: Khi đọc file bằng Stream (luồng byte), con trỏ chuột luồng (Position) giống hệt như con trỏ nhấp nháy trên Word. Vừa mở file ra, nó mặc định nằm ở đầu tệp.\n Phân tích:\n A: Đúng. Vị trí byte đầu tiên là `0`.\n B, C, D: Sai. Nó chỉ chạy đến File length (cuối tệp) nếu bạn mở bằng `FileMode.Append` (để ghi tiếp dữ liệu)."
+  },
+  {
+    "id": 35,
+    "text": "Which class allows access to directory creation time?",
+    "options": [
+      "A. Directory",
+      "B. DirectoryHelper",
+      "C. DirectoryInfo",
+      "D. DirectoryManager"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Kiến thức nền tảng: Lớp `Directory` là tĩnh (gọi 1 lần, dùng chung), còn `DirectoryInfo` sinh ra đối tượng đại diện cho một thư mục cụ thể, mang theo rất nhiều metadata.\n Phân tích:\n C: Đúng. Cung cấp các thuộc tính lấy metadata như `CreationTime`, `LastAccessTime`."
+  },
+  {
+    "id": 36,
+    "text": "What is the select clause used for in a query expression?",
+    "options": [
+      "A. Project the result into a new form",
+      "B. Filter elements based on a condition",
+      "C. Sort elements ascending",
+      "D. Group elements based on a condition"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\n A: Đúng. Trong LINQ, `select` làm nhiệm vụ \"chiếu\" (Projection), biến đổi cấu trúc đối tượng (ví dụ: từ `Student` bự chỉ rút gọn lấy `Student.Name` và gói thành đối tượng ẩn danh).\n B (Filter): Sai. Lọc là nhiệm vụ của `where`.\n C (Sort): Sai. Sắp xếp là nhiệm vụ của `orderby`.\n D (Group): Sai. Gom nhóm là của `group ... by`."
+  },
+  {
+    "id": 37,
+    "text": "What does Delegate.Combine(Delegate, Delegate) do?",
+    "options": [
+      "A. Removes one delegate from another",
+      "B. Creates a static method delegate",
+      "C. Concatenates the invocation lists of two delegates",
+      "D. Returns the target class of a delegate"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Biểu thức lambda num => num % 2 == 0 kiểm tra chia hết cho 2 (kiểm tra số chẵn). Truyền số 4 vào, biểu thức 4 % 2 == 0 là đúng, trả về True."
+  },
+  {
+    "id": 38,
+    "text": "Which of the following is a valid lambda expression?",
+    "options": [
+      "A. (x, y) => x + y",
+      "B. x plus y",
+      "C. add(x, y)",
+      "D. x =>> y"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Dùng Query Syntax (from ... where ... select). Cú pháp này giống SQL truyền thống.\nB: Dùng Method Syntax (.Where()). Cú pháp này tận dụng Extension Method và biểu thức Lambda.\nCả A và B đều hoạt động tốt và là kiến thức bắt buộc của LINQ. C sai vì Select dùng để chiếu, không dùng để lọc. D sai vì thiếu điều kiện (nhưng lại đặt biến tên là evenNumbers)."
+  },
+  {
+    "id": 39,
+    "text": "Which delegate type represents a method that takes no parameters and returns void?",
+    "options": [
+      "A. Action",
+      "B. Func",
+      "C. Predicate",
+      "D. EventHandler"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Bản chất Delegate đóng vai trò như một Kiểu dữ liệu (Type). Bạn cứ khai báo nó ở tham số hàm như bình thường (void DoWork(Action callback)), sau đó truyền hàm của bạn vào y như truyền một biến."
+  },
+  {
+    "id": 40,
+    "text": "Which of the following represents the Action delegate type with one parameter and no return value?",
+    "options": [
+      "A. Action<>",
+      "B. Action<T>",
+      "C. Action<T, TResult>",
+      "D. Action<T, T>"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Để sắp xếp tăng dần, ta gọi .OrderBy(). Nếu muốn giảm dần thì dùng .OrderByDescending()."
+  },
+  {
+    "id": 41,
+    "text": "Which of the following is NOT a valid example of using a generic class in C#?",
+    "options": [
+      "A. List<int> myList = new List<int>();",
+      "B. Dictionary<TKey, TValue> myDict = new Dictionary<TKey, TValue>();",
+      "C. Stack<T> myStack = new Stack<T>();",
+      "D. ArrayList<string> myArray = new ArrayList<int>();"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Ràng buộc (Constraint, từ khóa where) đóng vai trò như một màng lọc, giới hạn danh sách các kiểu dữ liệu hợp lệ mà lập trình viên được phép truyền vào chỗ chữ <T>."
+  },
+  {
+    "id": 42,
+    "text": "What is the benefit of using List<T> over ArrayList?",
+    "options": [
+      "A. Compile-time type checking",
+      "B. Boxing and unboxing",
+      "C. Lack of type safety",
+      "D. Dynamic typing"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Các Collection đời cũ (trước Generic) gom mọi thứ thành kiểu object tối cao. Việc này gây ra quá trình Boxing/Unboxing làm app chạy chậm (giảm performance) và dễ gây lỗi ép sai kiểu (thiếu type safety). Generic ra đời khắc phục hoàn toàn hai nhược điểm này."
+  },
+  {
+    "id": 43,
+    "text": "What is the purpose of using generic methods in C#?",
+    "options": [
+      "A. Restrict types that can be used",
+      "B. Allow the method to accept different types dynamically",
+      "C. Improve performance by eliminating boxing/unboxing",
+      "D. Make the method more readable and maintainable"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Nhờ Generic, bạn chỉ viết 1 logic chung (T), dùng lại nhiều lần (reusability), tránh lỗi kiểu (type safety) và tốc độ nhanh hơn (performance)."
+  },
+  {
+    "id": 44,
+    "text": "What is the constraint where T : new() used for?",
+    "options": [
+      "A. T must have a public parameterless constructor",
+      "B. T must be a reference type",
+      "C. T must be a value type",
+      "D. T must implement an interface"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Khởi tạo List<int> chuẩn xác, sử dụng cú pháp Collection Initializer (ngoặc nhọn) để đút nhanh các số 1,2,3,4 vào danh sách. B, C, D khai báo sai cấu trúc ngoặc < > hoặc new."
+  },
+  {
+    "id": 45,
+    "text": "What is the purpose of the struct constraint in the following generic class?\nclass Program\n{\n    public static void Main()\n    {\n        var container = new NumericContainer<int> { Number = 42 };\n        Console.WriteLine(container.Number);\n    }\n}\npublic class NumericContainer<T> where T : struct\n{\n    public T Number { get; set; }",
+    "options": [
+      "A. It ensures that T can only be a reference type.",
+      "B. It ensures that T can only be a value type.",
+      "C. It allows T to be any type, including struct.",
+      "D. It restricts T to classes that implement INumeric."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Cú pháp định nghĩa class là đặt tham số Generic <T> sát cạnh tên class."
+  },
+  {
+    "id": 46,
+    "text": "Which release first dropped the “Core” branding and adopted the single name “.NET”?",
+    "options": [
+      "A. .NET 2.2",
+      "B. .NET 3.1",
+      "C. .NET 4",
+      "D. .NET 5"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Đây là lệnh terminal chuẩn. Ví dụ: dotnet add package Newtonsoft.Json."
+  },
+  {
+    "id": 47,
+    "text": "What is the main purpose of the NuGet package in .NET?",
+    "options": [
+      "A. Store user credentials",
+      "B. Package and distribute libraries/dependencies",
+      "C. Debug and deploy applications",
+      "D. Convert C# into machine language"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. JIT (Biên dịch đúng lúc) được kích hoạt bởi máy ảo vào khoảnh khắc chương trình bắt đầu chạy. Nhiệm vụ của nó là dịch các đoạn mã IL trung gian sang thẳng ngôn ngữ nhị phân (máy) để máy tính hiểu và thực thi lập tức."
+  },
+  {
+    "id": 48,
+    "text": "What is the Core CLR?",
+    "options": [
+      "A. CLR for .NET Framework",
+      "B. Runtime for ASP.NET Core applications",
+      "C. Replacement for traditional .NET Framework runtime, optimized for performance and cross-platform support",
+      "D. Tool used for compiling C# into machine code"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. CoreCLR được đập đi xây lại từ đầu, nhẹ, tối ưu và cho phép mã C# chạy trơn tru trên cả Linux và Mac thay vì độc quyền trên Windows như trước."
+  },
+  {
+    "id": 49,
+    "text": "What is a primary feature of the .NET Framework architecture?",
+    "options": [
+      "A. Only designed for mobile platforms",
+      "B. Includes the CLR for code execution",
+      "C. Lacks a Base Class Library (BCL)",
+      "D. Supports only one programming language"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Lần biên dịch tĩnh (khi ấn nút Build trên máy lập trình viên) sẽ không sinh ra mã máy ngay, mà dịch code C# thành IL (Intermediate Language). Bước dịch thành mã máy dành cho JIT xử lý sau."
+  },
+  {
+    "id": 50,
+    "text": "What is the output of the .NET compilation process called?",
+    "options": [
+      "A. Bytecode",
+      "B. Source code",
+      "C. Assembly",
+      "D. Machine code"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Đây là tính năng đột phá và điểm phân biệt lớn nhất làm thay đổi lịch sử phát triển phần mềm của Microsoft: .NET Core là Đa nền tảng (Cross-platform)."
+  },
+  {
+    "id": 51,
+    "text": "What does the Serialize(Object, Type, JsonSerializerOptions) method do?",
+    "options": [
+      "A. Writes JSON to a file",
+      "B. Reads JSON into an object",
+      "C. Converts an object to a JSON string",
+      "D. Reads JSON from a string"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích Phương thức Serialize của JsonSerializer có nhiệm vụ chuyển đổi một đối tượng (object) trong C# thành chuỗi định dạng JSON. \nA (Writes JSON to a file) sai vì hàm này chỉ sinh ra chuỗi, việc ghi ra file bạn phải tự làm bằng luồng (Stream).\nB và D sai vì thao tác \"đọc\" (từ JSON về Object) là nhiệm vụ của hàm Deserialize."
+  },
+  {
+    "id": 52,
+    "text": "Which method of the JsonSerializer class is used to serialize an object into a JSON string?",
+    "options": [
+      "A. Deserialize",
+      "B. Parse",
+      "C. Serialize",
+      "D. ToString"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích Tương tự câu trên, Serialize là phương thức chuẩn của JsonSerializer để thực hiện thao tác này. Deserialize (A) dùng để giải mã ngược lại. Parse (B) thường dùng chuyển chuỗi thành số, và ToString (D) mặc định chỉ in ra tên class."
+  },
+  {
+    "id": 53,
+    "text": "The Data Contract Serializer can output:",
+    "options": [
+      "A. Only binary",
+      "B. Binary and XML",
+      "C. XML and JSON",
+      "D. YAML"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích Trong hệ sinh thái .NET (đặc biệt là công nghệ WCF cũ), DataContractSerializer sinh ra để mặc định xuất định dạng XML. Tuy nhiên, thông qua DataContractJsonSerializer, nó cũng hỗ trợ xuất định dạng JSON. Nó không thiết kế riêng cho Binary (A, B) hay YAML (D)."
+  },
+  {
+    "id": 54,
+    "text": "What does XML stand for?",
+    "options": [
+      "A. Extra Markup Language",
+      "B. Extended Markup Language",
+      "C. Extensible Markup Language",
+      "D. External Markup Language"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích XML là ngôn ngữ đánh dấu mở rộng (Extensible), được thiết kế để lưu trữ và truyền tải dữ liệu có cấu trúc. Từ \"Extensible\" nghĩa là bạn có thể tự do tự định nghĩa ra các thẻ (tags) của riêng mình (ví dụ: <SinhVien>...</SinhVien>), khác với HTML có tập hợp thẻ cố định."
+  },
+  {
+    "id": 55,
+    "text": "(WPF/DataGrid) Code question: var selected = (string)MyDataGrid.SelectedItems; ...",
+    "options": [
+      "A. MessageBox shows first selected item",
+      "B. MessageBox shows all selected items concatenated",
+      "C. Compilation Error",
+      "D. Runtime Exception"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích Thuộc tính SelectedItems (có chữ 's') của DataGrid trả về một collection (danh sách các đối tượng được chọn). Việc bạn ép kiểu (cast) trực tiếp một \"danh sách\" thành một chuỗi (string) là sai lệch cấu trúc dữ liệu hoàn toàn. Trình biên dịch không cấm bạn ép kiểu, nhưng khi chương trình chạy (runtime), nó sẽ văng lỗi InvalidCastException."
+  },
+  {
+    "id": 56,
+    "text": "Which XAML attribute specifies the related code-behind file for a WPF window or page?",
+    "options": [
+      "A. x:Code",
+      "B. x:Class",
+      "C. xmlns",
+      "D. x:Null"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Thuộc tính x:Class ở thẻ root trong file XAML được dùng để liên kết giao diện (UI) với class xử lý logic (code-behind) viết bằng C#. xmlns (C) dùng để khai báo không gian tên (namespace) của XML, không phải để liên kết file code."
+  },
+  {
+    "id": 57,
+    "text": "Which of the following is NOT a feature of WPF compared to Windows Forms?",
+    "options": [
+      "A. Vector-based rendering",
+      "B. 2D/3D graphics, animation, multimedia",
+      "C. Separation of UI and logic using XAML/code-behind",
+      "D. Mandatory use of unmanaged C++ for UI rendering"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích WPF là một framework đồ họa hiện đại của .NET. Nó hoàn toàn dùng mã quản lý (managed code - C#/XAML) và sử dụng DirectX để tăng tốc phần cứng, hoàn toàn KHÔNG bắt buộc bạn phải code bằng C++ không quản lý (unmanaged) để vẽ giao diện. Các đáp án A, B, C đều là những thế mạnh vượt trội của WPF so với WinForms."
+  },
+  {
+    "id": 58,
+    "text": "Which code demonstrates creating a WPF application using .NET CLI?",
+    "options": [
+      "A. dotnet new wpf -n MyWpfApp ...",
+      "B. dotnet new console -n MyWpfApp ...",
+      "C. dotnet create wpf -n MyWpfApp ...",
+      "D. dotnet new wpfapp -name MyWpfApp ..."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Trong .NET Core/5+, công cụ dòng lệnh (CLI) sử dụng lệnh dotnet new [tên_template] để tạo dự án. Template cho WPF là wpf. Đáp án B tạo ứng dụng console, C sai cú pháp (create không phải lệnh chuẩn), D sai tên template."
+  },
+  {
+    "id": 59,
+    "text": "What is a design pattern?",
+    "options": [
+      "A. A reusable solution to common software design problems",
+      "B. A set of programming languages",
+      "C. A specific framework",
+      "D. An algorithm for solving runtime exceptions"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Mẫu thiết kế (Design pattern) không phải là một đoạn code cụ thể hay framework (B, C), cũng không phải là thuật toán (D). Nó là một \"giải pháp tổng thể\" mang tính lý thuyết, có thể áp dụng đi áp dụng lại cho các vấn đề thường gặp trong thiết kế cấu trúc phần mềm."
+  },
+  {
+    "id": 60,
+    "text": "Which of the following is a Behavioral Design Pattern (GoF)?",
+    "options": [
+      "A. Adapter",
+      "B. Observer",
+      "C. Abstract Factory",
+      "D. Builder"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Mẫu Observer thuộc nhóm Hành vi (Behavioral) vì nó giải quyết cách các đối tượng \"giao tiếp\" và phản ứng với nhau. Adapter (A) thuộc nhóm Cấu trúc (Structural). Abstract Factory (C) và Builder (D) thuộc nhóm Khởi tạo (Creational)."
+  },
+  {
+    "id": 61,
+    "text": "What is the main advantage of the Factory Method Pattern?",
+    "options": [
+      "A. Ensures only one instance exists",
+      "B. Hides object creation logic and lets subclasses decide which class to instantiate",
+      "C. Creates an entire family of related objects",
+      "D. Constructs complex objects step by step"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Chữ \"Factory\" (Nhà máy) nói lên tất cả: thay vì bạn tự \"lắp ráp\" (dùng new) một đối tượng ở khắp nơi trong code, bạn giao việc đó cho Nhà máy. Việc này đóng gói logic khởi tạo, che giấu sự phức tạp, và cho phép các lớp con linh hoạt đổi kiểu đối tượng sẽ tạo ra. A là đặc điểm của Singleton. D là đặc điểm của Builder."
+  },
+  {
+    "id": 62,
+    "text": "When a value type is passed as an argument to a method in C#, it is:",
+    "options": [
+      "A. Passed by value",
+      "B. Passed by reference",
+      "C. Passed by copy",
+      "D. Passed by pointer"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Trong C#, mặc định các kiểu tham trị (như int, double, struct) khi truyền vào một hàm sẽ được copy ra một bản sao (passed by value). Mọi thay đổi bên trong hàm chỉ tác động lên bản sao đó, không làm thay đổi biến gốc bên ngoài, trừ khi bạn cố tình dùng từ khóa ref hoặc out."
+  },
+  {
+    "id": 63,
+    "text": "What is the output of the following C# code?\nusing System;\nclass Program\n{\n    static ref int GetRef(int[] arr, int x)\n    {\n        return ref arr[x];\n    }\n    static void Main()\n    {\n        int[] numbers = { 2, 4, 6, 8 };\n        ref int refValue = ref GetRef(numbers, 2);\n        refValue = 10;\n        Console.WriteLine(string.Join(\", \", numbers));",
+    "options": [
+      "A. 2, 4, 10, 8",
+      "B. 10, 4, 6, 8",
+      "C. 2, 10, 6, 8",
+      "D. Compilation error"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Hàm GetRef trả về tham chiếu (reference) đến phần tử số 3 của mảng (index = 2, là số 6). Biến refValue đang nắm giữ trực tiếp ô nhớ của số 6 đó. Khi gán refValue = 10, số 6 trong mảng gốc lập tức bị ghi đè thành số 10. Mảng lúc này trở thành 2, 4, 10, 8."
+  },
+  {
+    "id": 64,
+    "text": "What feature does the tuple syntax in C# provide?",
+    "options": [
+      "A. Define method without parameters",
+      "B. Return multiple values from a method",
+      "C. Alternative to inheritance",
+      "D. Mechanism for defining generic collections"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Trước đây, để trả về nhiều giá trị, ta phải dùng từ khóa out hoặc tạo một class/struct mới rườm rà. Tuple (ví dụ: return (name, age);) cung cấp cú pháp cực kì nhẹ và gọn để đóng gói và trả về nhiều giá trị khác kiểu nhau trong một phương thức."
+  },
+  {
+    "id": 65,
+    "text": "Which keyword enables runtime type binding in C#?",
+    "options": [
+      "A. var",
+      "B. dynamic",
+      "C. auto",
+      "D. implicit"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Khi khai báo dynamic x = 5;, trình biên dịch (compiler) nhắm mắt làm ngơ, không thèm kiểm tra lỗi (type checking). Nó dời mọi việc xác định kiểu đến tận lúc chương trình chạy (runtime). (Khác với var, var vẫn bắt buộc phải tự suy luận ra kiểu ngay lúc biên dịch)."
+  },
+  {
+    "id": 66,
+    "text": "Which panel in WPF arranges content within a series of cells (tabular grid)?",
+    "options": [
+      "A. Canvas",
+      "B. DockPanel",
+      "C. Grid",
+      "D. StackPanel"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích Giống như một bảng tính Excel hoặc HTML Table, Grid trong WPF chia không gian thành các hàng (Rows) và cột (Columns)."
+  },
+  {
+    "id": 67,
+    "text": "Which of the following best describes thread scheduling in a preemptive multitasking system?",
+    "options": [
+      "A. OS allocates CPU time based on time-slicing",
+      "B. Threads run sequentially in creation order",
+      "C. App manually determines thread priorities",
+      "D. All threads run simultaneously without interruption"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích \"Preemptive\" (Ưu tiên/Đánh chặn) nghĩa là hệ điều hành có quyền lực tối cao. Nó chia nhỏ thời gian CPU (time-slicing) ra làm nhiều lát mỏng và luân phiên phân phát cho các luồng (thread). Nó có quyền tạm dừng một luồng đang chạy để nhường CPU cho luồng khác mà không cần luồng kia đồng ý."
+  },
+  {
+    "id": 68,
+    "text": "What will be the output?\nvar id1 = Thread.CurrentThread.ManagedThreadId;\nvar id2 = Thread.CurrentThread.ManagedThreadId;\nConsole.Write(id1 == id2);",
+    "options": [
+      "A. True",
+      "B. False",
+      "C. Throws",
+      "D. Unpredictable"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Hai dòng mã khai báo id1 và id2 nằm liền nhau, chúng chạy tuần tự trên cùng một luồng duy nhất của ứng dụng lúc đó. Do đó ManagedThreadId trả về cùng một mã số nguyên, so sánh bằng nhau ra True."
+  },
+  {
+    "id": 69,
+    "text": "In Database-First scaffolding, --output-dir Models …",
+    "options": [
+      "A. Generates DbContext only",
+      "B. Places entity classes into the Models folder",
+      "C. Deletes existing models",
+      "D. Adds migrations automatically"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Lệnh scaffold dịch ngược từ Database sinh ra code C#. Cờ (flag) --output-dir Models chỉ đơn giản là ra lệnh cho hệ thống: \"Hãy bỏ tất cả các file code Entity vừa sinh ra vào thư mục tên là Models nhé\"."
+  },
+  {
+    "id": 70,
+    "text": "What is the role of DbSet in EF Core?",
+    "options": [
+      "A. Represent an entity as a database table",
+      "B. Perform migrations",
+      "C. Connect to DB using a provider",
+      "D. Execute raw SQL queries"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Trong C#, DbSet<Product> chính là đại diện phần mềm cho cái bảng Products dưới CSDL. Mọi thao tác thêm (Add), xóa (Remove), hay truy vấn (LINQ) lên DbSet sẽ được EF Core dịch thành lệnh SQL thao tác lên bảng đó."
+  },
+  {
+    "id": 71,
+    "text": "Which method is used to save changes to the database in EF Core?",
+    "options": [
+      "A. DbContext.Save()",
+      "B. DbContext.SaveChanges()",
+      "C. DbContext.Commit()",
+      "D. DbContext.SaveAll()"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Các thao tác như .Add() hay .Remove() chỉ đánh dấu thay đổi trên RAM. Lệnh SaveChanges() (hoặc bất đồng bộ SaveChangesAsync()) là nút bấm kích hoạt việc đóng gói toàn bộ các thay đổi đó thành SQL (Insert, Update, Delete) rồi bắn thẳng xuống Database."
+  },
+  {
+    "id": 72,
+    "text": "During forward engineering, Add-Migration InitialCreate generates:",
+    "options": [
+      "A. SQL schema script only",
+      "B. .edmx XML file",
+      "C. C# migration class plus snapshot",
+      "D. JSON configuration"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích Khi chạy lệnh tạo Migration, EF Core sẽ sinh ra:\nMột file class C# chứa 2 hàm Up() và Down() mô tả các lệnh tạo bảng.\nMột file ModelSnapshot lưu lại ảnh chụp cấu trúc Entity hiện tại để làm mốc đối chiếu cho các lần Migration sau."
+  },
+  {
+    "id": 73,
+    "text": "Which code demonstrates creating a database using the Code First model in EF Core?",
+    "options": [
+      "A. public class ApplicationDbContext : DbContext\n{\n    public DbSet<Product> Products { get; set; }\n    protected override void OnConfiguring(DbContextOptionsBuilder options)\n    {\n        options.UseSqlServer(\"YourConnectionString\");",
+      "B. public class DbContext\n{\n    public DbSet<Product> Products { get; set; }",
+      "C. public DbContext OptionsBuilder => new DbContext();",
+      "D. public class ApplicationDbContext\n{\n    public DbSet<string> Products { get; set; }\n}"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Đoạn code A là chuẩn nhất vì nó kế thừa đúng lớp cơ sở DbContext, có khai báo các bảng qua thuộc tính DbSet<Product>, và có ghi đè hàm OnConfiguring để nạp chuỗi kết nối (connection string) đến SQL Server. B thiếu cấu hình kết nối, D dùng sai kiểu (DbSet<string> là vô lý)."
+  },
+  {
+    "id": 74,
+    "text": "Which code snippet demonstrates creating a text file using StreamWriter? [Chọn nhiều đáp án]",
+    "options": [
+      "A. using (StreamWriter writer = new StreamWriter(\"example.txt\"))\n{\n    writer.WriteLine(\"Hello, World!\");",
+      "B. using (StreamWriter writer = new StreamWriter(\"example.txt\", true))\n{\n    writer.Write(\"Hello, World!\");",
+      "C. using (StreamWriter writer = new StreamWriter(\"example.txt\", false))\n{\n    writer.WriteLine(\"Hello, World!\");",
+      "D. using (StreamWriter writer = new StreamWriter(\"example.txt\", false))\n{\n    writer.WriteAll(\"Hello, World!\");\n}"
+    ],
+    "correctAnswers": [
+      "A",
+      "C"
+    ],
+    "explanation": "Phân tích Hàm khởi tạo của StreamWriter nhận tham số đường dẫn và cờ append (kiểu bool).\nA không truyền append, mặc định là false (tạo mới/ghi đè). \nC truyền thẳng false, ý nghĩa giống hệt A. \nB dùng true, lệnh này sẽ bảo toàn file cũ và nối đuôi thêm nội dung vào dưới cùng. D sai cú pháp (không có hàm WriteAll)."
+  },
+  {
+    "id": 75,
+    "text": "What is a static class in C#?",
+    "options": [
+      "A. Cannot be instantiated and can only contain static members",
+      "B. Accessible from any assembly",
+      "C. Accessible only within same namespace",
+      "D. Automatically generated by compiler"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Class static sinh ra để chứa các hàm/công cụ tiện ích dùng chung toàn cục (ví dụ lớp Math của C#). Vì nó dùng chung, bạn không thể tạo đối tượng (không thể new Math()). Mọi thuộc tính, phương thức bên trong nó cũng bắt buộc phải đi kèm từ khóa static."
+  },
+  {
+    "id": 76,
+    "text": "Which statement about static variables is true?",
+    "options": [
+      "A. Automatically initialized to default values",
+      "B. Only accessed within the same method",
+      "C. Stored on the heap",
+      "D. Cannot be modified after assignment"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Biến tĩnh (static) hay biến cấp độ lớp (field) thông thường, nếu bạn khai báo mà không gán giá trị (vd: static int count;), bộ dọn rác (CLR) sẽ tự động gán cho nó giá trị mặc định lúc runtime (số thì là 0, đối tượng thì là null)."
+  },
+  {
+    "id": 77,
+    "text": "Which statement about static constructors is true?",
+    "options": [
+      "A. Called explicitly by developer",
+      "B. Automatically called when an instance of a class is created (đề gốc có thể chưa chuẩn — bạn đối chiếu lại nếu cần)",
+      "C. Used to initialize instance variables",
+      "D. A class can have multiple static constructors with different signatures"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Constructor tĩnh rất đặc biệt. Bạn không thể truyền tham số cho nó, cũng không được gọi nó bằng tay. Hệ thống .NET (CLR) sẽ âm thầm gọi nó duy nhất 1 lần ngay trước khoảnh khắc bạn tạo object đầu tiên của class đó, hoặc khi bạn truy cập vào biến tĩnh đầu tiên."
+  },
+  {
+    "id": 78,
+    "text": "What is the purpose of the FileStream class in C#?",
+    "options": [
+      "A. Manipulate files through an interface",
+      "B. Read from and write to file streams",
+      "C. Provide access to directories",
+      "D. Perform encoding operations"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích FileStream cung cấp kết nối (luồng - stream) sâu sát nhất tới file trên ổ cứng. Nó làm việc bằng các mảng byte thô ráp, cho phép đọc/ghi dữ liệu liên tục hoặc nhảy (seek) đến một vị trí bất kỳ trong file."
+  },
+  {
+    "id": 79,
+    "text": "Which class in System.IO allows you to work with files directly?",
+    "options": [
+      "A. Directory",
+      "B. FileInfo",
+      "C. File",
+      "D. Stream"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích Lớp tĩnh File cung cấp các hàm \"ăn liền\" siêu tiện lợi không cần khởi tạo như: File.Exists(), File.Copy(), File.Delete(), File.ReadAllText() để tác động trực tiếp và nhanh gọn lên tệp tin."
+  },
+  {
+    "id": 80,
+    "text": "Which code demonstrates the use of FileStream for reading a file?",
+    "options": [
+      "A. using (FileStream fs = new FileStream(\"example.txt\", FileMode.Open))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Read(bytes, 0, (int)fs.Length);",
+      "B. using (FileStream fs = new FileStream(\"example.txt\", FileMode.Create))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Read(bytes, 0, (int)fs.Length);",
+      "C. using (FileStream fs = new FileStream(\"example.txt\", FileMode.OpenOrCreate))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Write(bytes, 0, (int)fs.Length);",
+      "D. using (FileStream fs = new FileStream(\"example.txt\", FileMode.CreateNew))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Seek(0, SeekOrigin.Begin);\n}"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích\nA đúng vì mở file với chế độ FileMode.Open, khởi tạo mảng bytes đủ chứa dung lượng file, và gọi fs.Read() để hút byte từ ổ cứng vào mảng đó. \nB dùng FileMode.Create (Tạo mới tinh, mất dữ liệu cũ), vô lý khi muốn ĐỌC. C mở để đọc nhưng lại gọi fs.Write(). D mở tạo mới và Seek, không có thao tác đọc."
+  },
+  {
+    "id": 81,
+    "text": "Which statements about StreamReader/StreamWriter are TRUE? [Chọn nhiều đáp án]",
+    "options": [
+      "A. StreamReader converts bytes to chars using an encoding",
+      "B. StreamWriter can only write to text files",
+      "C. Both are in System.IO",
+      "D. StreamWriter converts chars to bytes"
+    ],
+    "correctAnswers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Phân tích\nHai lớp này đều nằm trong namespace System.IO (C đúng). \nCon người không đọc được mảng byte, máy tính không hiểu văn bản. StreamReader bọc ngoài luồng byte, dịch (decode) byte thành kí tự chữ (A đúng). Ngược lại, StreamWriter dịch chữ thành mảng byte để lưu xuống ổ (D đúng). \nB sai vì nó có thể bọc bất kỳ Stream nào (VD: NetworkStream để gửi chữ qua mạng, hoặc MemoryStream ghi ra RAM), không chỉ giới hạn ở text file."
+  },
+  {
+    "id": 82,
+    "text": "What is the purpose of a delegate in defining an event?",
+    "options": [
+      "A. Defines the event signature and type",
+      "B. Handles the event",
+      "C. Triggers the event",
+      "D. Subscribes to the event"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Event là một cái loa thông báo, nhưng thông báo tin nhắn dạng gì? Delegate chính là \"khuôn mẫu\" (signature). Nếu Delegate quy định void (string msg), thì bất cứ hàm nào muốn đăng ký lắng nghe (subscribe) cái loa Event đó cũng bắt buộc phải nhận vào 1 string và trả về void."
+  },
+  {
+    "id": 83,
+    "text": "Which code snippet demonstrates the use of a Func delegate?",
+    "options": [
+      "A. Func<int, int, int> add = (a, b) => a + b;\nConsole.WriteLine(add(5, 3));",
+      "B. Func<string> greet = () => \"Hello\";\nConsole.WriteLine(greet);",
+      "C. Func<int, string, string> concatenate = (a, b) => b + a;\nConsole.WriteLine(concatenate(3, \"Number: \"));",
+      "D. Func<int, string> output = (x) => x.ToString();"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Func luôn có kiểu trả về (nằm ở tham số generic cuối cùng). Func<int, int, int> khai báo một biến add nhận 2 số nguyên, trả ra 1 số nguyên. Cú pháp gán lambda (a, b) => a + b vừa khớp hoàn hảo với khuôn mẫu này."
+  },
+  {
+    "id": 84,
+    "text": "What is an Event in C#?",
+    "options": [
+      "A. A method with parameters",
+      "B. Mechanism for a class to notify others when something occurs",
+      "C. Thread-safe delegate execution mechanism",
+      "D. Key-value data structure"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Event (Sự kiện) bản chất là mô hình xuất bản - theo dõi. Khi trạng thái class thay đổi (vd: Nút bấm bị nhấn), nó kích hoạt Event để gửi tín hiệu đánh thức tất cả các hàm của những class khác đang \"nghe ngóng\" sự kiện đó."
+  },
+  {
+    "id": 85,
+    "text": "Which interface is commonly returned by LINQ to Objects queries?",
+    "options": [
+      "A. IEnumerable<T>",
+      "B. IQueryable<T>",
+      "C. IComparable<T>",
+      "D. ICollection<T>"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích LINQ to Objects (thao tác dữ liệu trên mảng, List... trên RAM) mặc định trả về tập dữ liệu dưới dạng IEnumerable<T>. Bạn có thể duyệt qua nó bằng vòng lặp foreach. (Nếu là EF Core thao tác với Database thì thường trả về IQueryable<T>)."
+  },
+  {
+    "id": 86,
+    "text": "How can you subscribe to an event in C#?",
+    "options": [
+      "A. Using the event keyword",
+      "B. Invoking the event delegate",
+      "C. Assigning a method to the event delegate",
+      "D. Implementing the event handler interface"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích Trong C#, đăng ký sự kiện chính là việc bạn gắn một hàm (method) của mình vào cái danh sách chứa của Delegate thông qua toán tử += (ví dụ: button.Click += MyFunction;)."
+  },
+  {
+    "id": 87,
+    "text": "Given: public class Repository<T> where T : class, new() — which types can be used as T?\npublic class Repository<T> where T : class, new() \n{ O references\npublic T CreateInstance(){\nreturn new T();",
+    "options": [
+      "A. int",
+      "B. string",
+      "C. enum",
+      "D. double"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích\nRàng buộc class ép T phải là Tham chiếu. int, double, enum (A, C, D) đều là Tham trị (struct) nên bị loại ngay. \nChỉ còn string là kiểu Tham chiếu. (Thực tế, string không có hàm tạo không tham số new(), nên nếu truyền thật vào code sẽ báo lỗi, nhưng xét theo phương pháp loại trừ trắc nghiệm thì đây là lựa chọn duy nhất thuộc nhóm class)."
+  },
+  {
+    "id": 88,
+    "text": "Which interface enables foreach-style iteration over a collection in C#?",
+    "options": [
+      "A. IList<T>",
+      "B. IComparable<T>",
+      "C. IDictionary<TKey, TValue>",
+      "D. IEnumerable<T>"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích Từ khóa foreach của C# bản chất chỉ là lớp vỏ ngôn ngữ (syntactic sugar). Bên dưới, nó dựa dẫm hoàn toàn vào interface IEnumerable. Bất cứ class danh sách nào (như List, Array) muốn cho phép dùng foreach thì bắt buộc phải kế thừa IEnumerable để cung cấp cho vòng lặp công cụ IEnumerator duyệt qua từng dòng."
+  },
+  {
+    "id": 89,
+    "text": "Thread-safe collection classes in .NET are typically found in which namespace?",
+    "options": [
+      "A. System.Collections.Concurrent",
+      "B. System.Collections.Specialized",
+      "C. System.Collections.Threading",
+      "D. System.Threading"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích Concurrent mang nghĩa là \"đồng thời/tương tranh\". Nếu bạn dùng List bình thường trong môi trường đa luồng (multi-thread), ứng dụng dễ bị crash do tranh chấp bộ nhớ. Namespace này sinh ra các collection xịn xò (như ConcurrentDictionary, ConcurrentBag) chuyên tự động dùng lock bên trong để xử lý xung đột cực kì an toàn."
+  },
+  {
+    "id": 90,
+    "text": "Which namespace is used for generics in .NET?",
+    "options": [
+      "A. System.IO",
+      "B. System.Collections.Generic",
+      "C. System.Linq",
+      "D. System.Net"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Namespace System.Collections.Generic là trái tim của cấu trúc dữ liệu C# hiện đại, chứa toàn bộ các lớp mạnh về kiểu (strongly-typed) như List<T>, Dictionary<TKey, TValue>, Queue<T>."
+  },
+  {
+    "id": 91,
+    "text": "Which statement is true about generic classes in C#?",
+    "options": [
+      "A. Cannot be instantiated",
+      "B. Allow placeholder types",
+      "C. Used only for numerical types",
+      "D. Can only be used with value types"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích Generic class định nghĩa mã nguồn nhưng dùng các \"chữ cái giữ chỗ\" (placeholder, thường là chữ T). Khi nào bạn gọi class ra xài, bạn mới nhét kiểu thực sự vào chỗ trống đó (như <int>, <Student>), giúp code thích nghi linh hoạt."
+  },
+  {
+    "id": 92,
+    "text": "What is the first version of .NET (unified platform that succeeded .NET Core)?",
+    "options": [
+      "A. .NET 1.0",
+      "B. .NET 3.0",
+      "C. .NET 5.0",
+      "D. .NET 3.1"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích (Đã giải thích ở"
+  },
+  {
+    "id": 93,
+    "text": "Which accurately describes the compilation process in .NET?",
+    "options": [
+      "A. Convert source code to machine code directly",
+      "B. Convert machine code to source code",
+      "C. Convert source code into intermediate language (IL/CIL)",
+      "D. Compress source code for distribution"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "text": "Which command checks installed .NET SDKs?",
+    "options": [
+      "A. dotnet check-sdk",
+      "B. dotnet verify",
+      "C. dotnet --list-sdks",
+      "D. dotnet sdks"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "text": "Which component of Core CLR manages memory allocation/deallocation?",
+    "options": [
+      "A. JIT compiler",
+      "B. Garbage collector",
+      "C. Base class library",
+      "D. Metadata reader"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "text": "What is Serialization in .NET?",
+    "options": [
+      "A. The process of converting an object into a format that can be easily stored or transmitted.",
+      "B. The process of converting a class into a method.",
+      "C. The process of deleting objects in memory.",
+      "D. The process of compiling an application for deployment."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Tuần tự hóa (Serialization) là quá trình chuyển đổi một đối tượng đang sống trong bộ nhớ RAM thành một luồng byte, chuỗi JSON hoặc XML để lưu xuống ổ đĩa hoặc truyền qua mạng internet. \nB (Converting class to method) và C (Deleting objects) hoàn toàn sai định nghĩa. D (Compiling) là quá trình biên dịch mã nguồn thành mã máy/mã trung gian, không liên quan đến object data."
+  },
+  {
+    "id": 97,
+    "text": "Which .NET class is commonly used for binary serialization?",
+    "options": [
+      "A. XmlSerializer",
+      "B. BinaryFormatter",
+      "C. DataContractSerializer",
+      "D. JsonSerializer"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. BinaryFormatter là lớp kinh điển dùng để chuyển đổi object thành định dạng nhị phân. (Lưu ý thực tế: Microsoft hiện đã khuyến cáo không dùng lớp này vì lý do bảo mật, nhưng trong lý thuyết thi cử thì nó vẫn là đáp án chuẩn). \nA, C, D là các lớp dùng cho định dạng XML và JSON."
+  },
+  {
+    "id": 98,
+    "text": "Which of the following demonstrates how to serialize an object to JSON in .NET?",
+    "options": [
+      "A. var person = new Person { Name = \"John\", Age = 30 };\nstring json = JsonConvert.SerializeObject(person);\nConsole.WriteLine(json);",
+      "B. var person = new Person { Name = \"John\", Age = 30 };\nstring json = JsonWriter.Serialize(person);\nConsole.WriteLine(json);",
+      "C. var person = new Person { Name = \"John\", Age = 30 };\nstring json = person.ToString();\nConsole.WriteLine(json);",
+      "D. var person = new Person { Name = \"John\", Age = 30 };\nstring json = person.Serialize();\nConsole.WriteLine(json);"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Đây là cú pháp kinh điển của thư viện phổ biến nhất Newtonsoft.Json dùng để chuyển object person thành chuỗi JSON. \nB (JsonWriter.Serialize) là hàm bịa ra. C (ToString()) chỉ in ra tên không gian tên và tên lớp chứ không in ra cấu trúc dữ liệu. D (person.Serialize()) sai vì class Person mặc định không có sẵn hàm này."
+  },
+  {
+    "id": 99,
+    "text": "Which namespace contains the JsonSerializer class in .NET?",
+    "options": [
+      "A. System.IO",
+      "B. System.Net",
+      "C. System.Json",
+      "D. System.Text.Json"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. Bắt đầu từ .NET Core 3.0, Microsoft đã tích hợp sẵn không gian tên System.Text.Json chứa lớp JsonSerializer để xử lý JSON với hiệu năng cực cao. Các đáp án A, B, C không chứa lớp này."
+  },
+  {
+    "id": 100,
+    "text": "Which layout panel in WPF automatically arranges its child controls in a single line, either horizontally or vertically?",
+    "options": [
+      "A. StackPanel",
+      "B. Grid",
+      "C. Canvas",
+      "D. DockPanel"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Giống như việc bạn xếp những cuốn sách chồng lên nhau, StackPanel xếp các phần tử con thành một dòng duy nhất theo chiều dọc hoặc ngang. \nGrid (B) chia ô như bảng tính. Canvas (C) tọa độ tự do X, Y. DockPanel (D) neo dính các cạnh."
+  },
+  {
+    "id": 101,
+    "text": "What is Windows Presentation Foundation (WPF)?",
+    "options": [
+      "A. A framework for building Windows desktop applications with rich user interfaces.",
+      "B. A framework for creating web applications.",
+      "C. A programming language for building mobile applications.",
+      "D. A tool for designing REST APIs in .NET."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. WPF là công nghệ chuyên dụng của .NET để xây dựng giao diện ứng dụng Desktop trên Windows đồ họa cao. \nWPF không dùng cho Web (B), Mobile (C), hay API (D)."
+  },
+  {
+    "id": 102,
+    "text": "Which layout panel in WPF allows you to create a flexible grid of rows and columns to arrange controls?",
+    "options": [
+      "A. StackPanel",
+      "B. Grid",
+      "C. Canvas",
+      "D. DockPanel"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Grid hỗ trợ định nghĩa các Hàng (RowDefinitions) và Cột (ColumnDefinitions) để chia giao diện thành một lưới linh hoạt."
+  },
+  {
+    "id": 103,
+    "text": "Which property of the ContentControl class (or Control) is used to get or set the content of a control?",
+    "options": [
+      "A. Content",
+      "B. Text",
+      "C. Value",
+      "D. Data"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Mọi control kế thừa từ ContentControl (như Button, Label) đều dùng thuộc tính Content để chứa dữ liệu (có thể là chữ, hình ảnh, hoặc một UI khác). \nText (B) thường thuộc về TextBox hoặc TextBlock."
+  },
+  {
+    "id": 104,
+    "text": "Which component in WPF is commonly used to display a collection of data from Entity Framework Core?",
+    "options": [
+      "A. TextBlock",
+      "B. Button",
+      "C. Grid",
+      "D. DataGrid"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. Dữ liệu từ EF Core (thường là nhiều dòng/bản ghi) được hiển thị tốt nhất qua DataGrid (bảng lưới). TextBlock (A) hay Button (B) chỉ hiển thị đơn trị."
+  },
+  {
+    "id": 105,
+    "text": "Which category of design patterns focuses on the creation of objects?",
+    "options": [
+      "A. Structural patterns",
+      "B. Behavioral patterns",
+      "C. Creational patterns",
+      "D. Architectural patterns"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Nhóm Khởi tạo (Creational) sinh ra chuyên để giải quyết các vấn đề liên quan đến việc khởi tạo object (ví dụ: giấu từ khóa new đi). \nStructural (A) lo về cấu trúc/lắp ráp. Behavioral (B) lo về hành vi/giao tiếp."
+  },
+  {
+    "id": 106,
+    "text": "Which design pattern allows you to add behavior to an individual object, dynamically, without affecting the behavior of other objects from the same class?",
+    "options": [
+      "A. Observer",
+      "B. Decorator",
+      "C. Command",
+      "D. State"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. \"Decorator\" (Trang trí) cho phép bạn \"bọc\" đối tượng hiện tại vào một lớp vỏ mới để thêm tính năng lúc chương trình đang chạy (dynamically) mà không cần phải sửa code của lớp gốc."
+  },
+  {
+    "id": 107,
+    "text": "Identify the correct implementation of the Singleton pattern in C#?",
+    "options": [
+      "A. public class Singleton\n{\n    private static Singleton instance = null;\n    private static readonly object lockObject = new object();\n    private Singleton() { }\n    public static Singleton Instance\n    {\n        get\n        {\n            lock (lockObject)\n            {\n                if (instance == null)\n                {\n                    instance = new Singleton();\n                }\n                return instance;",
+      "B. public class Singleton\n{\n    public Singleton() { }\n}"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Đáp án này thể hiện kỹ thuật Double-Check Locking. Nó có constructor private (để bên ngoài không được gọi new), có biến tĩnh instance, và có cơ chế lock cực kì quan trọng để đảm bảo an toàn khi có nhiều luồng (thread-safe) cùng cố gắng tạo instance. \nB sai hoàn toàn vì constructor là public, ai cũng có thể tạo bao nhiêu object tùy ý."
+  },
+  {
+    "id": 108,
+    "text": "Which design pattern promotes loose coupling between objects?",
+    "options": [
+      "A. Singleton",
+      "B. Observer",
+      "C. Adapter",
+      "D. Mediator"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. Mediator (Người hòa giải) định nghĩa một trạm trung chuyển trung gian. Thay vì các object giao tiếp chằng chịt trực tiếp với nhau, tất cả báo cáo cho Mediator. Điều này cắt đứt sự phụ thuộc cứng (tight coupling) giữa chúng."
+  },
+  {
+    "id": 109,
+    "text": "Which of the following representations denotes the binary number 1010 in C#?",
+    "options": [
+      "A. 0b1010",
+      "B. 0xA",
+      "C. 0B1010",
+      "D. 0x1010"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Từ C# 7.0, để viết số nhị phân trực tiếp trong code, bạn dùng tiền tố 0b (binary literal). Các tiền tố 0x là dành cho số thập lục phân (Hexadecimal)."
+  },
+  {
+    "id": 110,
+    "text": "What is a static local function in C#?",
+    "options": [
+      "A. A function that cannot access instance variables of the enclosing method.",
+      "B. A function that is only accessible to other classes.",
+      "C. A method that can access non-static fields.",
+      "D. A function that can only be defined globally."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Bằng cách thêm static, hàm nội bộ bị \"cách ly\" và không được phép động chạm (capture) vào biến của hàm bao ngoài nó, giúp compiler tối ưu hóa hiệu năng tốt hơn."
+  },
+  {
+    "id": 111,
+    "text": "Which of the following code snippets correctly demonstrates using a discard in C#?",
+    "options": [
+      "A. var (, lastName) = Tuple.Create(\"John\", \"Doe\"); Console.WriteLine($\"Last Name: {lastName}\");",
+      "B. var (_, lastName) = (\"John\", \"Doe\"); Console.WriteLine($\"Last Name: {lastName}\");",
+      "C. var (_, lastName) = (\"John\", \"Doe\"); Console.WriteLine($\"First Name: {_}\");",
+      "D. var (firstName, ) = (\"John\", \"Doe\"); Console.WriteLine($\"Last Name: {}\");"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. _ là ký tự discard. Nó nói với trình biên dịch: \"Tôi biết hàm này trả về 2 giá trị, nhưng tôi chỉ cần dùng giá trị thứ 2 (lastName), hãy ném giá trị đầu tiên (\"John\") đi và đừng tốn bộ nhớ lưu nó\". C và D sai cú pháp."
+  },
+  {
+    "id": 112,
+    "text": "How are arguments passed when using the params keyword in C#?",
+    "options": [
+      "A. The arguments are passed by value.",
+      "B. The arguments are passed by reference.",
+      "C. The arguments are passed by reference and the method can modify their values.",
+      "D. The arguments are passed in an array."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. Bạn có thể truyền tùy ý nhiều tham số (vd: T(1, 2, 3)), từ khóa params sẽ tự động đóng gói tất cả các đối số rời rạc đó thành một mảng (array) duy nhất để truyền vào hàm."
+  },
+  {
+    "id": 113,
+    "text": "When a value type is passed as an argument to a method in C#, it is:",
+    "options": [
+      "A. Passed by value",
+      "B. Passed by reference",
+      "C. Passed by copy",
+      "D. Passed by pointer"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Với Value Type (struct, int, bool...), C# tự động copy ra một giá trị mới (passed by value) khi đi qua cổng tham số của hàm. Điều này đảm bảo biến ngoài gốc không bị vô tình chỉnh sửa."
+  },
+  {
+    "id": 114,
+    "text": "What is the purpose of the ParameterizedThreadStart delegate in .NET?",
+    "options": [
+      "A. It represents a method that does not have any parameters and returns a value.",
+      "B. It represents a method that takes no arguments and does not return any value.",
+      "C. It represents a method that takes parameters and returns a value.",
+      "D. It represents a method that can be invoked asynchronously and accepts an object as a parameter."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. Nếu bạn muốn chạy một Thread mới và muốn truyền thêm dữ liệu cho Thread đó xử lý, bạn phải dùng delegate này để nó có thể nhận 1 tham số kiểu object."
+  },
+  {
+    "id": 115,
+    "text": "In a WPF application, where would you typically store the serialized XML data?",
+    "options": [
+      "A. In a file",
+      "B. In a database",
+      "C. In memory",
+      "D. In the application's resources"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Mục đích lớn nhất của việc Serialize data thành chuỗi (XML/JSON) là để lưu nó ra một tệp tin vật lý (file) trên ổ cứng, giúp phần mềm tắt đi mở lại không bị mất dữ liệu."
+  },
+  {
+    "id": 116,
+    "text": "What is thread starvation in concurrency programming?",
+    "options": [
+      "A. A situation where threads are executed sequentially.",
+      "B. A situation where there is no coordination between multiple threads.",
+      "C. A situation where a thread does not get access to the shared resource it needs to progress.",
+      "D. A situation where multiple cores are not utilized efficiently."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. \"Đói\" (Starvation) là khi một luồng bị chèn ép, liên tục bị các luồng ưu tiên cao cướp mất quyền CPU hoặc khóa tài nguyên, khiến nó bị treo và không hoàn thành được công việc."
+  },
+  {
+    "id": 117,
+    "text": "What is concurrency programming?",
+    "options": [
+      "A. Writing code that runs on a single processor core.",
+      "B. Writing code that runs on multiple processor cores simultaneously.",
+      "C. Writing code that only runs on a specific operating system.",
+      "D. Writing code that only runs on a single thread."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Trong khuôn khổ trắc nghiệm này, đáp án B mô tả việc viết mã tận dụng đa nhân (nhằm xử lý nhiều tác vụ đồng thời). (Strictly speaking, \"Concurrency\" khác \"Parallelism\", nhưng ở cấp độ câu hỏi này B là câu miêu tả hợp lý nhất)."
+  },
+  {
+    "id": 118,
+    "text": "What is the Database First Model in Entity Framework Core?",
+    "options": [
+      "A. A model where the database schema is created first, and then EF Core generates code based on it.",
+      "B. A model where code generates the database schema.",
+      "C. A model used exclusively for NoSQL databases.",
+      "D. A model that requires manual mapping of all database tables to classes."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Tên sao ý vậy: Database (CSDL) có trước (First), sau đó công cụ EF Core đảo ngược tự động phát sinh (scaffold) ra code C#. B là miêu tả của \"Code First\"."
+  },
+  {
+    "id": 119,
+    "text": "Which method is used to save changes to the database in EF Core?",
+    "options": [
+      "A. DbContext.Save()",
+      "B. DbContext.SaveChanges()",
+      "C. DbContext.Commit()",
+      "D. DbContext.SaveAll()"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Phương thức SaveChanges() gom tất cả các Tracking state (Added, Modified, Deleted) trên RAM rồi phiên dịch thành lệnh SQL chạy xuống DB. Không có phương thức Save(), Commit() hay SaveAll() mặc định trong EF Core."
+  },
+  {
+    "id": 120,
+    "text": "Which code snippet demonstrates a LINQ query using EF Core?",
+    "options": [
+      "A. var products = dbContext.Products.Where(p => p.Price > 100).ToList();",
+      "B. var products = dbContext.Products.Select(p => p.Price > 100).First();",
+      "C. var products = dbContext.Products.Query(p => p.Price > 100);",
+      "D. var products = Products.Where(p => p.Price > 100).Fetch();"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Hàm Where() của LINQ dùng để lọc, và ToList() là hàm ép EF Core \"chốt\" yêu cầu, sinh ra câu lệnh SELECT ... WHERE Price > 100 và đổ dữ liệu lấy được vào một List."
+  },
+  {
+    "id": 121,
+    "text": "What is the purpose of DbContext in Entity Framework Core?",
+    "options": [
+      "A. To define the structure of the database schema.",
+      "B. To map database tables to entity classes.",
+      "C. To load navigation properties lazily.",
+      "D. To establish a connection with the database. (Lưu ý: DbContext đóng vai trò cầu nối/quản lý phiên làm việc với CSDL)."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. DbContext là lõi quản lý phiên (Session). Nhiệm vụ cao cả nhất của nó là nhận cấu hình chuỗi kết nối và thiết lập đường ống giao tiếp với Hệ quản trị CSDL (SQL Server, MySQL...)."
+  },
+  {
+    "id": 122,
+    "text": "Which situations require the use of Database Migrations in EF Core? (Select multiple correct answers)",
+    "options": [
+      "A. When you need to create a new table in the database",
+      "B. When you need to change the structure of an existing table (e.g., add a new column)",
+      "C. When you need to seed initial data",
+      "D. When you need to optimize manual SQL queries"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Phân tích:\nA, B, C: Đúng. Migrations được sinh ra để theo dõi Lịch sử thay đổi. Mỗi khi bạn thêm bảng (A), sửa/xóa cột (B), hay muốn chèn sẵn dữ liệu mồi (Seed Data - C) từ Code xuống DB, bạn đều phải chạy Add-Migration."
+  },
+  {
+    "id": 123,
+    "text": "Which of the following statements about static constructors is true?",
+    "options": [
+      "A. Static constructors are called explicitly by the developer.",
+      "B. Static constructors are automatically called before the first instance is created or any static members are referenced.",
+      "C. Static constructors are used to initialize instance variables.",
+      "D. A class can have multiple static constructors with different signatures."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Bạn không thể chủ động gọi hàm tạo tĩnh. Hệ thống (.NET CLR) sẽ \"canh me\" và tự động gọi nó đúng 1 lần duy nhất ngay trước khi class bị chạm vào lần đầu tiên."
+  },
+  {
+    "id": 124,
+    "text": "What does the protected access modifier allow?",
+    "options": [
+      "A. Access only within the same class.",
+      "B. Access from the same class and derived classes.",
+      "C. Access within the same assembly only.",
+      "D. Access from any class in any assembly."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. protected là cấp độ bảo mật ở giữa private và public. Nó khóa kín đối với thế giới bên ngoài, nhưng mở cửa cho bản thân nó và các con của nó (những class kế thừa nó)."
+  },
+  {
+    "id": 125,
+    "text": "What happens if a class inherits from multiple classes in C#?",
+    "options": [
+      "A. The class will have access to members of all base classes.",
+      "B. The class will cause a compile-time error because C# does not support direct multiple inheritance.",
+      "C. The class will override all methods of the base classes.",
+      "D. The class will not be able to create an instance of itself."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Để tránh sự phức tạp nhập nhằng không đáng có, thiết kế gốc của C# nghiêm cấm việc 1 lớp có 2 người cha. Nếu vi phạm, lỗi sẽ báo đỏ lòm ngay khi bạn gõ code (compile-time)."
+  },
+  {
+    "id": 126,
+    "text": "Which code snippet demonstrates inheritance in C#?",
+    "options": [
+      "A. class Animal\n{\n    public void Speak() { Console.WriteLine(\"Animal speaks\"); }\n}\nclass Dog : Animal { }"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Cú pháp cơ bản của kế thừa: LớpCon : LớpCha. Ở đây Dog kế thừa từ Animal."
+  },
+  {
+    "id": 127,
+    "text": "Which of the following is used to read text files line by line in C#?",
+    "options": [
+      "A. StreamWriter",
+      "B. StreamReader",
+      "C. BinaryReader",
+      "D. FileInfo"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Trong lớp StreamReader cung cấp một phương thức tuyệt vời tên là ReadLine(). Mỗi lần gọi, nó sẽ đọc đến khi gặp ký tự xuống dòng (\\n), rất tiện cho việc đọc từng dòng text. BinaryReader chỉ đọc dạng nhị phân, StreamWriter là để ghi."
+  },
+  {
+    "id": 128,
+    "text": "Which method would you use to check if a directory exists using the Directory class?",
+    "options": [
+      "A. Exists()",
+      "B. CheckExists()",
+      "C. IsExist()",
+      "D. Check()"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Phương thức Directory.Exists(\"đường_dẫn\") trả về bool (true/false) để kiểm tra. Các hàm B, C, D không tồn tại."
+  },
+  {
+    "id": 129,
+    "text": "Which of the following classes in System.IO allows you to work with files directly?",
+    "options": [
+      "A. Directory",
+      "B. FileInfo",
+      "C. File",
+      "D. Stream"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Class tĩnh File cung cấp hàm ăn liền (static) để tác động trực tiếp lên tệp mà không cần tạo object. FileInfo cũng tác động lên file nhưng bắt buộc bạn phải gọi new FileInfo()."
+  },
+  {
+    "id": 130,
+    "text": "What is the purpose of the System.IO namespace in .NET?",
+    "options": [
+      "A. To provide classes for reading from and writing to files, streams, and directories.",
+      "B. To manage database connections and queries.",
+      "C. To handle UI-related functionality in applications.",
+      "D. To provide HTTP client functionality."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. IO (Input/Output) là không gian tên trung tâm quản lý mọi luồng vào/ra dữ liệu liên quan đến Tệp và Thư mục hệ thống."
+  },
+  {
+    "id": 131,
+    "text": "Which delegate type is used to represent a method that takes no parameters and returns void?",
+    "options": [
+      "A. Action",
+      "B. Func",
+      "C. Predicate",
+      "D. EventHandler"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. (Đã giải thích ở"
+  },
+  {
+    "id": 132,
+    "text": "What is the result of the following code?\nFunc<int, bool> isEven = num => num % 2 == 0;\nConsole.WriteLine(isEven(4));",
+    "options": [
+      "A. True",
+      "B. False",
+      "C. 4",
+      "D. Error"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "text": "Which code snippet demonstrates LINQ to Objects to query an array of integers? (Choose 02 answers)",
+    "options": [
+      "A. int[] numbers = { 1, 2, 3, 4, 5 };\nvar evenNumbers = from num in numbers\n                  where num % 2 == 0\n                  select num;\nforeach (var num in evenNumbers)\n{\n    Console.WriteLine(num);",
+      "B. int[] numbers = { 1, 2, 3, 4, 5 };\nvar evenNumbers = numbers.Where(num => num % 2 == 0);\nforeach (var num in evenNumbers)\n{\n    Console.WriteLine(num);",
+      "C. int[] numbers = { 1, 2, 3, 4, 5 };\nvar evenNumbers = numbers.Select(num => num % 2 == 0);\nforeach (var num in evenNumbers)\n{\n    Console.WriteLine(num);",
+      "D. int[] numbers = { 1, 2, 3, 4, 5 };\nvar evenNumbers = from num in numbers\n                  select num;\nforeach (var num in evenNumbers)\n{\n    Console.WriteLine(num);\n}"
+    ],
+    "correctAnswers": [
+      "A",
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "text": "How do you pass a delegate as a parameter to a method in .NET?",
+    "options": [
+      "A. Enclose the delegate in quotation marks and pass it as a string.",
+      "B. Declare the method parameter with the delegate type and pass the delegate instance.",
+      "C. Use a lambda expression to pass the delegate.",
+      "D. Delegates cannot be passed as parameters."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "text": "Which LINQ operator is used to sort a collection of integers in ascending order?",
+    "options": [
+      "A. Select",
+      "B. OrderBy",
+      "C. Where",
+      "D. GroupBy"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "text": "What is a constraint in Generics?",
+    "options": [
+      "A. It allows multiple type parameters in a generic class or method.",
+      "B. It restricts the types that can be used as arguments in a generic class or method.",
+      "C. It enables type casting automatically in generic classes or methods.",
+      "D. It prevents the use of value types in generic methods."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "text": "What is the main advantage of using the System.Collections.Generic namespace over System.Collections?",
+    "options": [
+      "A. Improved performance and type safety.",
+      "B. Smaller memory footprint.",
+      "C. Easier integration with third-party libraries.",
+      "D. Faster compilation process."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "text": "What are the benefits of using Generics?",
+    "options": [
+      "A. Improved code readability and dynamic runtime type checking.",
+      "B. Type safety, code reusability, and performance optimization.",
+      "C. Eliminates the need for type casting in non-generic methods.",
+      "D. Restricts the code to work with specific types only."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "text": "Which code snippet demonstrates the use of the List<T> collection?",
+    "options": [
+      "A. List<int> numbers = new List<int>{1, 2, 3, 4};\nforeach (int number in numbers)\n    Console.WriteLine(number);",
+      "B. List numbers = {1, 2, 3, 4};\nforeach (number in numbers)\n    Console.WriteLine(number);",
+      "C. List<string> numbers = new List{1, 2, 3, 4};\nforeach (int number in numbers)\n    Console.WriteLine(number);",
+      "D. List<int> numbers = List<int>;"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "text": "Identify the correct code that defines a generic class?",
+    "options": [
+      "A. class GenericClass<T>\n{\n    public T Value { get; set; }",
+      "B. class GenericClass\n{\n    public object Value { get; set; }",
+      "C. class GenericClass(int value)\n{\n    public int Value { get; set; }",
+      "D. class GenericClass<T, T>"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "text": "Which command is used to add a NuGet package reference to a dotnet project?",
+    "options": [
+      "A. dotnet add package",
+      "B. dotnet remove package",
+      "C. dotnet restore",
+      "D. dotnet pack"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "text": "What is the role of Just-In-Time (JIT) compilation in the .NET compilation process?",
+    "options": [
+      "A. It compiles the entire source code at once.",
+      "B. It converts the IL code into machine code at runtime.",
+      "C. It optimizes the source code for better performance.",
+      "D. It converts the machine code into IL code for distribution."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "text": "What is the CoreCLR?",
+    "options": [
+      "A. A common language runtime for .NET Framework.",
+      "B. A runtime environment for ASP.NET Core applications.",
+      "C. A replacement for the traditional .NET Framework runtime, optimized for performance and cross-platform capabilities.",
+      "D. A tool used for compiling C# code into machine code."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "text": "Which of the following accurately describes the compilation process in .NET application development?",
+    "options": [
+      "A. The process of converting high-level source code into machine code that can be executed by the computer directly.",
+      "B. The process of converting machine code into high-level source code for human readability.",
+      "C. The process of converting source code into an intermediate language (IL) called Common Intermediate Language (CIL).",
+      "D. The process of compressing the source code for distribution purposes."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "text": "What is the primary difference between .NET Framework and .NET Core?",
+    "options": [
+      "A. .NET Core is cross-platform, while .NET Framework is limited to Windows.",
+      "B. .NET Core only supports C# language, whereas .NET Framework supports multiple languages.",
+      "C. .NET Framework supports cross-platform development, while .NET Core is Windows-specific.",
+      "D. .NET Core is a lighter version of .NET Framework with fewer features."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "text": "Which namespace contains the XmlSerializer class in .NET?",
+    "options": [
+      "A. System.ComponentModel",
+      "B. System.IO",
+      "C. System.Xml",
+      "D. System.Xml.Serialization"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. Lớp XmlSerializer chuyên dùng để tuần tự hóa (serialize) đối tượng thành định dạng XML nằm trong không gian tên System.Xml.Serialization. \nA, B không liên quan đến XML. C (System.Xml) chứa các lớp thao tác XML cơ bản (như XmlDocument), nhưng lớp phục vụ riêng cho việc Serialization thì phải nằm trong không gian tên con Serialization."
+  },
+  {
+    "id": 147,
+    "text": "What is JsonSerializer used for in .NET?",
+    "options": [
+      "A. To serialize and deserialize JSON data",
+      "B. To manipulate XML data",
+      "C. To compress and decompress data",
+      "D. To interact with web APIs"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Lớp JsonSerializer (thuộc System.Text.Json) sinh ra với mục đích duy nhất là chuyển đổi qua lại giữa object C# và chuỗi định dạng JSON. \nB, C, D mô tả các chức năng hoàn toàn khác (XML, nén dữ liệu, gọi API)."
+  },
+  {
+    "id": 148,
+    "text": "What is Serialization in .NET? (Choose 03 answers)",
+    "options": [
+      "A. The process of converting an object into a binary format for storage or transmission.",
+      "B. The process of converting an object into XML format for storage or transmission.",
+      "C. The process of converting an object into a JSON format for storage or transmission.",
+      "D. The process of converting an object into a CSV format for storage or transmission."
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Phân tích:\nA, B, C: Đúng. Trong hệ sinh thái .NET, 3 định dạng tuần tự hóa phổ biến và được hỗ trợ thư viện mặc định mạnh mẽ nhất để lưu trữ hoặc truyền tải dữ liệu là Nhị phân (Binary), XML và JSON. \nD (CSV) là định dạng file text dạng bảng, không phải là chuẩn Serialization đối tượng phức tạp mặc định của hệ thống."
+  },
+  {
+    "id": 149,
+    "text": "Which of the following is NOT a common serialization format in .NET?",
+    "options": [
+      "A. XML",
+      "B. JSON",
+      "C. TXT",
+      "D. Binary"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Định dạng TXT (văn bản thuần túy) chỉ chứa chuỗi ký tự, không có quy tắc thẻ (tag) hay key-value để biểu diễn cấu trúc của một object (như mảng, đối tượng con). Do đó nó không phải định dạng tuần tự hóa."
+  },
+  {
+    "id": 150,
+    "text": "What is the main difference between DataContext and ItemsSource in WPF?",
+    "options": [
+      "A. DataContext applies to the entire UI hierarchy/element for general data binding, while ItemsSource is specific to collection controls (like ListBox, DataGrid) to bind a list of items.",
+      "B. DataContext is used only for Commands, while ItemsSource is used for Event triggers.",
+      "C. Both serve the exact same purpose.",
+      "D. DataContext applies only to ViewModel classes."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. DataContext được gán cho một container (như Window, Grid) để toàn bộ các control bên trong dùng chung một nguồn dữ liệu tổng. Còn ItemsSource là thuộc tính đặc thù chỉ các control dạng danh sách (như ListBox, DataGrid) mới có, dùng để nhận vào một mảng/list dữ liệu."
+  },
+  {
+    "id": 151,
+    "text": "Which command is used to create a new WPF application using dotnet CLI?",
+    "options": [
+      "A. dotnet new wpf",
+      "B. dotnet create wpf",
+      "C. dotnet init wpf",
+      "D. dotnet start wpf"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Lệnh chuẩn để sinh ra một template dự án WPF mới thông qua Command Line Interface của .NET là dotnet new wpf. \nB, C, D đều sai từ khóa lệnh cơ bản của CLI."
+  },
+  {
+    "id": 152,
+    "text": "What is Data Binding used for in WPF?",
+    "options": [
+      "A. Connecting UI elements to data sources automatically.",
+      "B. Connecting controls directly to a database.",
+      "C. Managing events in the application.",
+      "D. Creating new methods."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Data Binding là \"phép thuật\" của WPF giúp tự động đồng bộ dữ liệu giữa giao diện (UI) và code logic (ViewModel/Data Source) mà không cần bạn phải viết các lệnh gán thủ công."
+  },
+  {
+    "id": 153,
+    "text": "What is the purpose of Binding in WPF when displaying data from Entity Framework Core?",
+    "options": [
+      "A. To establish a connection between the database and the application.",
+      "B. To format and customize the appearance of data.",
+      "C. To retrieve data from the database.",
+      "D. To associate a control with a property in the data source."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. Khi bạn truy vấn một List đối tượng từ EF Core, bạn dùng Binding để chỉ định rõ: Ô TextBlock này sẽ hiển thị Property Name của đối tượng, còn ô TextBlock kia sẽ hiển thị Property Price. \nA, B, C là các công việc của DbContext, Converter, và LINQ, không phải của Binding."
+  },
+  {
+    "id": 154,
+    "text": "Which component of MVVM is responsible for exposing data and commands to the View?",
+    "options": [
+      "A. Model",
+      "B. View",
+      "C. ViewModel",
+      "D. Controller"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Trong mô hình MVVM, ViewModel là \"trái tim\" thao tác logic. Nó lấy dữ liệu từ Model, xào nấu lại, và bộc lộ (expose) các dữ liệu/Command ra để View (Giao diện) có thể Binding vào. \nD (Controller) thuộc mô hình MVC, không phải MVVM."
+  },
+  {
+    "id": 155,
+    "text": "Which code snippet demonstrates a Factory Method implementation in C#?",
+    "options": [
+      "A. public abstract class ShapeFactory\n{\n    public abstract IShape CreateShape();\n}\npublic class CircleFactory : ShapeFactory\n{\n    public override IShape CreateShape()\n    {\n        return new Circle();\n    }\n}\n```[cite: 1]",
+      "B. public interface IShape { }\npublic class Circle : IShape { }\n```[cite: 1]",
+      "C. public abstract class ShapeFactory\n{\n    public IShape CreateShape()\n    {\n        return new Circle();\n    }\n}\n```[cite: 1]",
+      "D. public class ShapeFactory\n{\n    public object CreateShape()\n    {\n        return null;\n    }\n}\n```[cite: 1]"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Định nghĩa lớp trừu tượng ShapeFactory chứa hàm CreateShape(). Lớp con CircleFactory kế thừa và ghi đè (override) hàm đó để tự quyết định việc new Circle(). Đây là bản chất \"nhường quyền khởi tạo cho lớp con\" của Factory Method."
+  },
+  {
+    "id": 156,
+    "text": "What is the primary purpose of the Factory Pattern?",
+    "options": [
+      "A. To create objects without specifying their exact classes.",
+      "B. To enforce the use of specific object types.",
+      "C. To avoid object creation in runtime.",
+      "D. To replace constructors in object-oriented programming."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Factory Pattern giấu đi logic gọi từ khóa new. Người dùng (Client) chỉ cần xin Factory một \"Hình học\", Factory sẽ tự quyết định trả về \"Hình Tròn\" hay \"Hình Vuông\" mà Client không cần biết chính xác tên class cụ thể."
+  },
+  {
+    "id": 157,
+    "text": "Which design pattern ensures that a class has only one instance?",
+    "options": [
+      "A. Factory Method",
+      "B. Singleton",
+      "C. Builder",
+      "D. Prototype"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Chữ \"Single\" có nghĩa là độc nhất. Mẫu thiết kế này đảm bảo một class chỉ tồn tại duy nhất một phiên bản (instance) trên toàn hệ thống."
+  },
+  {
+    "id": 158,
+    "text": "What are the primary categories or groups of Design Patterns?",
+    "options": [
+      "A. Structural, Behavioral, and Architectural",
+      "B. Creational, Structural, and Behavioral",
+      "C. Creational, Architectural, and Behavioral",
+      "D. Singleton, Factory, and Observer"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Nhóm Gang of Four (GoF) chia 23 mẫu thiết kế kinh điển thành 3 nhóm: Khởi tạo (Creational), Cấu trúc (Structural), và Hành vi (Behavioral)."
+  },
+  {
+    "id": 159,
+    "text": "What is boxing in C#?",
+    "options": [
+      "A. Converting a reference type to a value type.",
+      "B. Converting a value type to a reference type.",
+      "C. Creating a new instance of a class.",
+      "D. Handling exceptions in a try-catch block."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Boxing là thao tác lấy một kiểu tham trị (như int lưu trên Stack) và bọc nó vào một đối tượng kiểu tham chiếu (lưu trên Heap, ví dụ biến kiểu object). (Quá trình ngược lại gọi là Unboxing)."
+  },
+  {
+    "id": 160,
+    "text": "What feature does the tuple syntax in C# provide?",
+    "options": [
+      "A. The ability to define a method without parameters.",
+      "B. A way to return multiple values from a method.",
+      "C. An alternative to class inheritance.",
+      "D. A mechanism for defining generic collections."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Tuple giúp đóng gói 2, 3 hay nhiều giá trị lại với nhau siêu nhanh gọn để làm giá trị trả về cho hàm (ví dụ: return (true, \"Thành công\");) mà không cần tạo class mới."
+  },
+  {
+    "id": 161,
+    "text": "What is the purpose of string interpolation in C#?",
+    "options": [
+      "A. To format strings using the '+' operator.",
+      "B. To embed expressions inside string literals.",
+      "C. To concatenate multiple strings.",
+      "D. To split strings into substrings."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Bằng cú pháp $\"{biến}\", bạn có thể nhúng trực tiếp biến hoặc tính toán (expression) vào thẳng chuỗi một cách trực quan, không cần cộng chuỗi lằng nhằng."
+  },
+  {
+    "id": 162,
+    "text": "What is the function of the dynamic type in C#?",
+    "options": [
+      "A. The type is determined at compile time.",
+      "B. The type is determined at runtime.",
+      "C. It is used for declaring constants.",
+      "D. It is used for declaring enumerations."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Từ khóa dynamic báo cho compiler biết: \"Đừng kiểm tra lỗi kiểu dữ liệu lúc biên dịch nữa, cứ để chương trình chạy đi (runtime) rồi hẵng xác định xem nó là kiểu gì\"."
+  },
+  {
+    "id": 163,
+    "text": "What is the purpose of the params keyword in C#?",
+    "options": [
+      "A. It allows a method to return multiple values.",
+      "B. It restricts arguments to be passed by reference.",
+      "C. It allows passing a variable number of arguments to a method.",
+      "D. It is used for initializing local variables."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Đặt params trước tham số mảng (vd: params int[] nums) cho phép người dùng truyền vào số lượng đối số tùy ý (từ 0 đến vô hạn) ngăn cách bằng dấu phẩy."
+  },
+  {
+    "id": 164,
+    "text": "What is deadlock in concurrency programming?",
+    "options": [
+      "A. A situation where two or more processes/threads are blocked and neither can proceed.",
+      "B. A method for managing user sessions.",
+      "C. A protocol for network communication.",
+      "D. A way to handle database operations."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. \"Deadlock\" (Bế tắc) giống như kẹt xe ngã tư: Luồng 1 chờ Luồng 2 nhả tài nguyên, nhưng Luồng 2 lại đang chờ Luồng 1 nhả tài nguyên. Kết quả là cả 2 đứng nhìn nhau vĩnh viễn."
+  },
+  {
+    "id": 165,
+    "text": "What does the Window class in WPF represent?",
+    "options": [
+      "A. A single window owned by the Application-derived class.",
+      "B. A control for user input.",
+      "C. A layout panel.",
+      "D. A media element."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Khởi tạo một đối tượng Window sẽ tạo ra một cửa sổ độc lập trên màn hình desktop, và nó chịu sự quản lý chung của đối tượng Application của WPF."
+  },
+  {
+    "id": 166,
+    "text": "What does ORM stand for?",
+    "options": [
+      "A. Object-Relational Management",
+      "B. Object-Relational Mapping",
+      "C. Object-Resource Management",
+      "D. Object-Resource Mapping"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Ánh xạ (Mapping) Đối tượng (Object - code C#) với cơ sở dữ liệu Quan hệ (Relational - SQL Server)."
+  },
+  {
+    "id": 167,
+    "text": "What is the purpose of the FirstOrDefault method in a LINQ query?",
+    "options": [
+      "A. To return the first element of a sequence or a default value if no element is found.",
+      "B. To return the last element of a sequence.",
+      "C. To count the elements in a sequence.",
+      "D. To sort the elements in a sequence."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Nó lôi ra phần tử đầu tiên khớp điều kiện. Chữ OrDefault cực kì quan trọng vì nó giúp chương trình không bị văng Exception (lỗi) nếu mảng rỗng, mà chỉ nhẹ nhàng trả về null."
+  },
+  {
+    "id": 168,
+    "text": "Which process model allows developers to create entity classes and then generate the database schema?",
+    "options": [
+      "A. Database First",
+      "B. Model First",
+      "C. Code First",
+      "D. Object First"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Lập trình viên viết Code C# (các class, DbContext) trước (First). Dựa vào bộ code đó, EF sinh ra Database. Đó là \"Code First\"."
+  },
+  {
+    "id": 169,
+    "text": "Which command is used to reverse engineer a database schema into code-first entity classes using EF Core?",
+    "options": [
+      "A. dotnet ef migrations add",
+      "B. dotnet ef dbcontext scaffold",
+      "C. dotnet ef database update",
+      "D. dotnet ef model create"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Quá trình \"đảo ngược\" (từ DB có sẵn sinh ra code) trong CLI được kích hoạt bằng từ khóa scaffold."
+  },
+  {
+    "id": 170,
+    "text": "To use EF Core with a SQL Server database, which packages need to be installed? (Select multiple correct answers)",
+    "options": [
+      "A. Microsoft.EntityFrameworkCore.SqlServer",
+      "B. Microsoft.EntityFrameworkCore.Tools",
+      "C. Microsoft.EntityFrameworkCore.Design",
+      "D. Microsoft.EntityFrameworkCore.Relational"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Phân tích:\nA, B, C: Đúng. Để thiết lập hoàn chỉnh bạn cần: .SqlServer để cấp driver kết nối DB; .Tools để gõ lệnh trong Console; và .Design để EF Core có khả năng đọc code lúc design-time để sinh ra Migration."
+  },
+  {
+    "id": 171,
+    "text": "Which method of the DbSet class is used to retrieve a single entity from the database that matches a condition, or a default value if no such entity is found?",
+    "options": [
+      "A. Find",
+      "B. FirstOrDefault",
+      "C. SingleOrDefault",
+      "D. Where"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích: (Giống hệt câu 22)."
+  },
+  {
+    "id": 172,
+    "text": "Which code demonstrates creating a database context using the Code First model in EF Core?",
+    "options": [
+      "A. public class ApplicationDbContext : DbContext\n{\n    public DbSet<Product> Products { get; set; }\n    protected override void OnConfiguring(DbContextOptionsBuilder options)\n    {\n        options.UseSqlServer(\"YourConnectionString\");\n    }\n}\n```[cite: 1]",
+      "B. public class DbContext\n{\n    public DbSet<Product> Products { get; set; }\n}\n```[cite: 1]",
+      "C. public DbContext OptionsBuilder => new DbContext();\n```[cite: 1]",
+      "D. public class ApplicationDbContext\n{\n    public DbSet<string> Products { get; set; }\n}\n```[cite: 1]"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Nó kế thừa DbContext, khai báo DbSet<Product>, và có khối OnConfiguring để nạp chuỗi kết nối (connection string) kết nối đến SQL Server. Đây là khuôn mẫu tiêu chuẩn."
+  },
+  {
+    "id": 173,
+    "text": "What is the purpose of 'init-only' properties in C#?",
+    "options": [
+      "A. To allow properties to be set only during object initialization.",
+      "B. To allow properties to be changed at any time.",
+      "C. To declare a static property.",
+      "D. To create a new instance of a class."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Dùng từ khóa init thay vì set (ví dụ public string Name { get; init; }). Khi đó, bạn chỉ được phép gán giá trị cho Name vào khoảnh khắc tạo ra nó (new Object { Name = \"ABC\" }). Vừa tạo xong, thuộc tính này lập tức bị khóa lại thành read-only."
+  },
+  {
+    "id": 174,
+    "text": "How does method overriding work in polymorphism?",
+    "options": [
+      "A. By defining a new method in a derived class that has a different name than the base class method.",
+      "B. By providing a new implementation of a virtual method in the derived class using the override keyword.",
+      "C. By replacing the base class method in the derived class without the override keyword.",
+      "D. By defining a method in the derived class that accepts a different number of parameters."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Tính đa hình thể hiện ở việc: Lớp cha đánh dấu hàm là virtual (cho phép đè), lớp con kế thừa và dùng từ khóa override để định nghĩa lại nội dung (implementation) theo cách của riêng nó."
+  },
+  {
+    "id": 175,
+    "text": "What is the purpose of the is operator in C#?",
+    "options": [
+      "A. To check if an object is compatible with a given type.",
+      "B. To convert an object to a given type.",
+      "C. To declare a static member.",
+      "D. To create a new instance of a class."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Toán tử is trả về giá trị boolean (true/false) để kiểm tra xem một object có thuộc hoặc có thể ép kiểu an toàn sang type được chỉ định hay không."
+  },
+  {
+    "id": 176,
+    "text": "What is the purpose of the virtual keyword in C#?",
+    "options": [
+      "A. To declare a method that can be overridden in a derived class.",
+      "B. To create a new instance of a class.",
+      "C. To prevent a method from being overridden.",
+      "D. To declare a static method."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Gắn virtual vào một phương thức đồng nghĩa với việc bạn cấp quyền cho các lớp con được phép thay đổi nội dung (ghi đè - override) phương thức đó nếu chúng muốn. (Nếu không có virtual, lớp con không thể override)."
+  },
+  {
+    "id": 177,
+    "text": "Which class in the System.IO namespace is used to open, read, and write to files at a low-level stream byte basis?",
+    "options": [
+      "A. FileStream",
+      "B. File",
+      "C. FileInfo",
+      "D. Directory"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. FileStream là luồng cấp thấp (low-level), tương tác trực tiếp với file trên đĩa cứng thông qua các mảng byte thô."
+  },
+  {
+    "id": 178,
+    "text": "What is the purpose of StreamReader class in C#?",
+    "options": [
+      "A. To read characters from a byte stream / text file.",
+      "B. To write data to a file.",
+      "C. To interact with a database.",
+      "D. To create and manage directories."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. StreamReader bọc lấy một luồng byte (như FileStream) và làm nhiệm vụ giải mã (decoding) các byte đó thành các ký tự, chuỗi văn bản để con người đọc được."
+  },
+  {
+    "id": 179,
+    "text": "Which code snippet demonstrates using DirectoryInfo to create a directory?",
+    "options": [
+      "A. DirectoryInfo directory = new DirectoryInfo(@\"C:\\example\\newfolder\");\ndirectory.Create();\n```[cite: 1]",
+      "B. DirectoryInfo directory = new DirectoryInfo(@\"C:\\example\");\ndirectory.MakeDirectory(\"newfolder\");\n```[cite: 1]",
+      "C. DirectoryInfo directory = new DirectoryInfo(@\"C:\\example\\newfolder\");\ndirectory.CreateFile();\n```[cite: 1]",
+      "D. DirectoryInfo directory = new DirectoryInfo(@\"C:\\example\");\ndirectory.CreateSubdirectory(\"newfolder\");\n```[cite: 1]"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Đầu tiên khởi tạo new DirectoryInfo(\"đường_dẫn\"), sau đó gọi phương thức .Create() của đối tượng đó để ra lệnh cho hệ điều hành tạo thư mục. B, C, D dùng sai tên hàm."
+  },
+  {
+    "id": 180,
+    "text": "Which code demonstrates the use of FileStream for reading a file?",
+    "options": [
+      "A. using (FileStream fs = new FileStream(\"example.txt\", FileMode.Open))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Read(bytes, 0, (int)fs.Length);\n}\n```[cite: 1]",
+      "B. using (FileStream fs = new FileStream(\"example.txt\", FileMode.Create))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Read(bytes, 0, (int)fs.Length);\n}\n```[cite: 1]",
+      "C. using (FileStream fs = new FileStream(\"example.txt\", FileMode.OpenOrCreate))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Write(bytes, 0, (int)fs.Length);\n}\n```[cite: 1]",
+      "D. using (FileStream fs = new FileStream(\"example.txt\", FileMode.CreateNew))\n{\n    byte[] bytes = new byte[fs.Length];\n    fs.Seek(0, SeekOrigin.Begin);\n}\n```[cite: 1]"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Mở file bằng quyền FileMode.Open (chỉ đọc), tạo mảng byte byte[], và thực thi lệnh .Read() để đổ dữ liệu vào mảng đó."
+  },
+  {
+    "id": 181,
+    "text": "Which of the following code snippets demonstrates the use of a Func delegate?",
+    "options": [
+      "A. Func<int, int, int> add = (a, b) => a + b; Console.WriteLine(add(5, 3));",
+      "B. Func<string> greet = () => \"Hello\"; Console.WriteLine(greet());",
+      "C. Func<int, string, string> concatenate = (a, b) => b + a; Console.WriteLine(concatenate(3, \"Number: \"));",
+      "D. Func<int, string> output = (x) => x.ToString();"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Func<int, int, int> khai báo hàm nhận 2 int, trả về 1 int. Khớp với biểu thức Lambda (a, b) => a + b. \nB sai vì Func<string> chỉ không nhận tham số, nhưng lambda lại không khớp. D sai vì thiếu dấu () chứa tham số."
+  },
+  {
+    "id": 182,
+    "text": "What does the Take operator do in IQueryable / LINQ?",
+    "options": [
+      "A. Returns a specified number of contiguous elements from the start of a sequence.",
+      "B. Returns a specified number of contiguous elements from the end of a sequence.",
+      "C. Filters the elements based on a condition.",
+      "D. Groups the elements based on a condition."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Lệnh Take(5) sẽ nhặt chính xác 5 phần tử đầu tiên đếm từ đầu mảng/danh sách. Dùng nhiều nhất trong tính năng phân trang (Pagination)."
+  },
+  {
+    "id": 183,
+    "text": "Which method of the Delegate class is used to combine multiple delegates into a single multicast delegate?",
+    "options": [
+      "A. Merge",
+      "B. Combine",
+      "C. Attach",
+      "D. Append"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Phương thức Delegate.Combine() có chức năng cộng gộp các delegate lại (tương tự chức năng của toán tử +=) để khi gọi, tất cả các hàm bị gộp sẽ chạy tuần tự."
+  },
+  {
+    "id": 184,
+    "text": "What is the purpose of a delegate in defining an event?",
+    "options": [
+      "A. It defines the event signature and type (contract for event handlers).",
+      "B. It handles the event when it occurs.",
+      "C. It triggers the event when invoked.",
+      "D. It subscribes to the event."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Delegate là \"bản hợp đồng\". Nó quy định rõ hàm nhận sự kiện phải có cấu trúc tham số (signature) và kiểu trả về như thế nào."
+  },
+  {
+    "id": 185,
+    "text": "How can you subscribe to an event in C#?",
+    "options": [
+      "A. Using the += operator to attach an event handler method.",
+      "B. Invoking the event delegate directly.",
+      "C. Assigning a method with = operator (overwriting existing listeners).",
+      "D. Implementing the event handler interface."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. C# sử dụng toán tử += (cộng bằng) để \"đăng ký/lắng nghe\" sự kiện. Toán tử -= để hủy đăng ký. Dùng dấu = sẽ xóa hết danh sách những người đăng ký trước đó, nên là sai (C)."
+  },
+  {
+    "id": 186,
+    "text": "Which of the following is an example of using multiple constraints on a type parameter in Generics?",
+    "options": [
+      "A. where T : struct, IDisposable (hoặc dạng tương đương chuẩn syntax)",
+      "B. where T : struct && class",
+      "C. where T : struct || class",
+      "D. where T : struct/non-nullable"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Khi có nhiều ràng buộc, cú pháp chuẩn của C# là liệt kê chúng và phân cách nhau bằng dấu phẩy ,. Chữ && hoặc || không được hỗ trợ trong cú pháp constraint."
+  },
+  {
+    "id": 187,
+    "text": "What is the constraint where T : class used for?",
+    "options": [
+      "A. To specify that T must be a reference type.",
+      "B. To specify that T must be a value type.",
+      "C. To specify that T must implement an interface.",
+      "D. To specify that T must have a parameterless constructor."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Phân tích:\nA: Đúng. Ràng buộc class ép buộc tham số kiểu T truyền vào bắt buộc phải thuộc nhóm kiểu Tham chiếu (Reference Type), ví dụ như class, interface, delegate."
+  },
+  {
+    "id": 188,
+    "text": "Which of the following is an example of a generic method in C#?",
+    "options": [
+      "A. public void Print(int value)",
+      "B. public void Print<T>(T value)",
+      "C. public void Print(object value)",
+      "D. public void Print(int value, string text)"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Dấu hiệu nhận biết Generic Method là cặp ngoặc nhọn <T> đặt ngay sau tên phương thức (ở đây là chữ Print)."
+  },
+  {
+    "id": 189,
+    "text": "What is the purpose of the System.Collections namespace in .NET?",
+    "options": [
+      "A. It provides classes for working with collections that are strongly typed.",
+      "B. It provides classes for working with legacy/non-generic collections (like ArrayList, Hashtable) that store items as object.",
+      "C. It is not a valid namespace in .NET.",
+      "D. It provides classes for working with both strongly typed and dynamically typed collections."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Đây là namespace cổ xưa (legacy) từ thời .NET 1.0. Các collection trong đây (ArrayList, Hashtable) lưu mọi thứ dưới định dạng kiểu mẹ là object, không an toàn về kiểu."
+  },
+  {
+    "id": 190,
+    "text": "What problem does boxing and unboxing operations in non-generic collections cause?",
+    "options": [
+      "A. Improved performance",
+      "B. Significant performance overhead",
+      "C. Enhanced type safety",
+      "D. Reduced memory usage"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Việc liên tục lấy 1 số nguyên (Stack), đóng gói nó thành object (Heap), rồi lúc lôi ra lại phải tháo gỡ (unboxing) tốn vô số chu kì CPU và làm RAM bị phân mảnh, gây sụt giảm hiệu năng (performance overhead) cực lớn."
+  },
+  {
+    "id": 191,
+    "text": "In which year was .NET Core first released (version 1.0)?",
+    "options": [
+      "A. 2014",
+      "B. 2015",
+      "C. 2016",
+      "D. 2017"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Phân tích:\nC: Đúng. Lịch sử của nền tảng đa nền tảng .NET Core bắt đầu với bản phát hành 1.0 vào tháng 6 năm 2016."
+  },
+  {
+    "id": 192,
+    "text": "What is the primary purpose of the \"dotnet CLI\"?",
+    "options": [
+      "A. It is a text editor for .NET applications.",
+      "B. It provides a command-line interface to build, run, test, and manage .NET applications.",
+      "C. It only installs .NET Framework updates.",
+      "D. It is used to debug applications without coding."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. CLI (Command-Line Interface) cho phép lập trình viên làm mọi thứ: tạo code (dotnet new), biên dịch (dotnet build), chạy (dotnet run) mà không cần IDE cồng kềnh."
+  },
+  {
+    "id": 193,
+    "text": "Which runtime does .NET Core use to run applications across multiple platforms?",
+    "options": [
+      "A. Common Language Runtime (CLR)",
+      "B. CoreCLR",
+      "C. JVM (Java Virtual Machine)",
+      "D. Mono"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Nếu .NET Framework cũ dùng CLR, thì .NET Core dùng CoreCLR. Đây là engine thực thi giúp C# chạy được trên Linux và macOS."
+  },
+  {
+    "id": 194,
+    "text": "Which of the following is NOT a key feature of CoreCLR?",
+    "options": [
+      "A. Cross-platform support",
+      "B. Just-In-Time (JIT) compilation",
+      "C. Garbage collection",
+      "D. Native support for Windows Presentation Foundation (WPF) UI rendering on Linux/macOS"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Phân tích:\nD: Đúng. WPF gọi sâu vào các API đồ họa (DirectX) của riêng Windows. Dù CoreCLR là đa nền tảng, nhưng WPF thì vĩnh viễn bị trói buộc với Windows, không thể chạy giao diện WPF trên Linux/Mac được."
+  },
+  {
+    "id": 195,
+    "text": "Which component of CoreCLR is responsible for managing memory allocation and deallocation?",
+    "options": [
+      "A. Just-In-Time (JIT) compiler",
+      "B. Garbage Collector (GC)",
+      "C. Base Class Library",
+      "D. Metadata Reader"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Phân tích:\nB: Đúng. Bộ thu gom rác (Garbage Collector) là anh lao công cần mẫn của hệ thống, cấp vùng nhớ (allocation) cho object sống, và quét dọn thu hồi (deallocation) vùng nhớ khi object hết hạn sử dụng."
+  }
+]

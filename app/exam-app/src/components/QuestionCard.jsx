@@ -1,3 +1,5 @@
+import FormattedContent from './FormattedContent';
+
 export default function QuestionCard({ 
   question, 
   index, 
@@ -25,8 +27,11 @@ export default function QuestionCard({
 
   return (
     <div className="card">
-      <h3 className="title" style={{ fontSize: '1.2rem', marginBottom: '1rem', whiteSpace: 'pre-wrap' }}>
-        Câu {index + 1}: {question.text}
+      <h3 className="title" style={{ fontSize: '1.2rem', marginBottom: '1rem' }}>
+        <span style={{ color: 'var(--primary)', fontWeight: 'bold', marginRight: '0.5rem' }}>
+          Câu {index + 1}:
+        </span>
+        <FormattedContent text={question.text} />
       </h3>
 
       {/* Special images for specific questions */}
@@ -69,7 +74,9 @@ export default function QuestionCard({
                   readOnly
                 />
               )}
-              <span>{opt}</span>
+              <div style={{ flex: 1 }}>
+                <FormattedContent text={opt} isOption={true} />
+              </div>
             </div>
           );
         })}
@@ -78,9 +85,12 @@ export default function QuestionCard({
       {showFeedback && question.explanation && (
         <div className="explanation">
           <strong>Giải thích:</strong>
-          <p style={{ whiteSpace: 'pre-wrap', marginTop: '0.5rem' }}>{question.explanation}</p>
+          <div style={{ marginTop: '0.5rem' }}>
+            <FormattedContent text={question.explanation} />
+          </div>
         </div>
       )}
     </div>
   );
 }
+
