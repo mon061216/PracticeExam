@@ -1,0 +1,1051 @@
+P1: Phần 1: Từ câu 1 đến câu 50
+P2: Câu
+P3: Đáp án
+P4: Câu
+P5: Đáp án
+P6: Câu
+P7: Đáp án
+P8: Câu
+P9: Đáp án
+P10: Câu
+P11: Đáp án
+P12: 1
+P13: C
+P15: 11
+P16: B
+P18: 21
+P19: A
+P21: 31
+P22: B
+P24: 41
+P25: D
+P27: 2
+P28: A
+P30: 12
+P31: C
+P33: 22
+P34: C
+P36: 32
+P37: A
+P39: 42
+P40: C
+P42: 3
+P43: E
+P45: 13
+P46: A
+P48: 23
+P49: D
+P51: 33
+P52: D
+P54: 43
+P55: D
+P57: 4
+P58: B
+P60: 14
+P61: A
+P63: 24
+P64: C
+P66: 34
+P67: B, C
+P69: 44
+P70: C
+P72: 5
+P73: D
+P75: 15
+P76: D
+P78: 25
+P79: D
+P81: 35
+P82: B
+P84: 45
+P85: B
+P87: 6
+P88: B
+P90: 16
+P91: B
+P93: 26
+P94: C
+P96: 36
+P97: C
+P99: 46
+P100: E
+P102: 7
+P103: B
+P105: 17
+P106: B
+P108: 27
+P109: A
+P111: 37
+P112: B
+P114: 47
+P115: B
+P117: 8
+P118: B
+P120: 18
+P121: D
+P123: 28
+P124: D
+P126: 38
+P127: A
+P129: 48
+P130: E
+P132: 9
+P133: B
+P135: 19
+P136: B
+P138: 29
+P139: A
+P141: 39
+P142: E
+P144: 49
+P145: C
+P147: 10
+P148: A
+P150: 20
+P151: A
+P153: 30
+P154: D
+P156: 40
+P157: C
+P159: 50
+P160: C
+P162: Phần 2: Từ câu 51 đến câu 99
+P163: Câu
+P164: Đáp án
+P165: Câu
+P166: Đáp án
+P167: Câu
+P168: Đáp án
+P169: Câu
+P170: Đáp án
+P171: Câu
+P172: Đáp án
+P173: 51
+P174: C
+P176: 61
+P177: D
+P179: 71
+P180: D
+P182: 81
+P183: A
+P185: 91
+P186: C
+P188: 52
+P189: A
+P191: 62
+P192: B
+P194: 72
+P195: A
+P197: 82
+P198: B
+P200: 92
+P201: A
+P203: 53
+P204: D
+P206: 63
+P207: D
+P209: 73
+P210: A, B, C, E, F
+P212: 83
+P213: A
+P215: 93
+P216: E
+P218: 54
+P219: A
+P221: 64
+P222: D
+P224: 74
+P225: A
+P227: 84
+P228: A
+P230: 94
+P231: A
+P233: 55
+P234: B
+P236: 65
+P237: B
+P239: 75
+P240: C
+P242: 85
+P243: C
+P245: 95
+P246: D
+P248: 56
+P249: C
+P251: 66
+P252: C
+P254: 76
+P255: A
+P257: 86
+P258: A
+P260: 96
+P261: B
+P263: 57
+P264: C
+P266: 67
+P267: D
+P269: 77
+P270: D
+P272: 87
+P273: C
+P275: 97
+P276: C
+P278: 58
+P279: A
+P281: 68
+P282: A, B, D
+P284: 78
+P285: A
+P287: 88
+P288: B
+P290: 98
+P291: C
+P293: 59
+P294: D
+P296: 69
+P297: B
+P299: 79
+P300: B
+P302: 89
+P303: A
+P305: 99
+P306: B
+P308: 60
+P309: A
+P311: 70
+P312: A
+P314: 80
+P315: A
+P317: 90
+P318: D
+P322: Phần 3: Từ câu 100 đến câu 126
+P323: Câu
+P324: Đáp án
+P325: Câu
+P326: Đáp án
+P327: Câu
+P328: Đáp án
+P329: 100
+P330: A
+P332: 109
+P333: B
+P335: 118
+P336: D
+P338: 101
+P339: B
+P341: 110
+P342: D
+P344: 119
+P345: B
+P347: 102
+P348: C
+P350: 111
+P351: B
+P353: 120
+P354: D
+P356: 103
+P357: B
+P359: 112
+P360: C
+P362: 121
+P363: B
+P365: 104
+P366: D
+P368: 113
+P369: B
+P371: 122
+P372: B
+P374: 105
+P375: C
+P377: 114
+P378: B
+P380: 123
+P381: C
+P383: 106
+P384: D
+P386: 115
+P387: A
+P389: 124
+P390: C
+P392: 107
+P393: D
+P395: 116
+P396: B
+P398: 125
+P399: D
+P401: 108
+P402: E
+P404: 117
+P405: B
+P407: 126
+P408: B
+P410: Phần 4: Danh sách 27 câu hỏi bổ sung cuối tài liệu
+P411: Câu
+P412: Đáp án
+P413: Câu
+P414: Đáp án
+P415: Câu
+P416: Đáp án
+P417: Câu
+P418: Đáp án
+P419: 1
+P420: D
+P422: 8
+P423: B
+P425: 15
+P426: D
+P428: 22
+P429: D
+P431: 2
+P432: D
+P434: 9
+P435: A
+P437: 16
+P438: B
+P440: 23
+P441: A
+P443: 3
+P444: E
+P446: 10
+P447: B
+P449: 17
+P450: B
+P452: 24
+P453: A
+P455: 4
+P456: E
+P458: 11
+P459: B
+P461: 18
+P462: B
+P464: 25
+P465: B
+P467: 5
+P468: A, B, C, E, F
+P470: 12
+P471: B
+P473: 19
+P474: C
+P476: 26
+P477: B
+P479: 6
+P480: B
+P482: 13
+P483: A
+P485: 20
+P486: D
+P488: 27
+P489: B
+P491: 7
+P492: A
+P494: 14
+P495: B
+P497: 21
+P498: C
+P502: Chào bạn, mình sẽ tiếp tục giải thích chi tiết và đúng chuẩn format cho 20 câu tiếp theo (từ Câu 21 đến Câu 40) dựa trên bộ tài liệu bạn cung cấp nhé.
+P504: Câu 21: Which of the following is the most accurate statement?
+P505: Đáp án đúng: A (Error can be reduced by designing surveys as well as well as possible within resource constraints.).
+P507: Vì sao đúng: Trong nghiên cứu, sai số (error) là điều không thể tránh khỏi hoàn toàn. Cách tiếp cận thực tế và khoa học nhất là cố gắng giảm thiểu sai số nhiều nhất có thể thông qua việc thiết kế khảo sát cẩn thận, dựa trên giới hạn về thời gian và ngân sách (resource constraints).
+P509: Vì sao sai: Việc yêu cầu sai số "phải giảm xuống bằng 0" (B) là điều không tưởng. Ngược lại, nói rằng "không thể tác động đến sai số" (C) hay "không bao giờ nên tin vào khảo sát" (D) là những góc nhìn quá bi quan và sai lệch về phương pháp nghiên cứu.
+P511: Tổng kết kiến thức: Nhà nghiên cứu UX giỏi không phải là người tạo ra một bản khảo sát hoàn hảo không tì vết, mà là người biết kiểm soát, dự đoán và tối ưu hóa các sai số trong phạm vi nguồn lực cho phép.
+P513: Câu 22: This is error that is introduced when your questions somehow don't actually get to the concept you're interested in.
+P514: Đáp án đúng: C (Measurement error).
+P516: Vì sao đúng: "Sai số đo lường" (Measurement error) xảy ra khi công cụ đo lường (ở đây là câu hỏi khảo sát) bị thiết kế sai, dẫn đến việc nó không phản ánh đúng khái niệm hoặc biến số mà bạn thực sự muốn tìm hiểu.
+P518: Vì sao sai: Coverage error (A) và Sampling error (B) liên quan đến việc chọn sai người tham gia. Nonresponse error (D) xảy ra khi những người không trả lời có đặc điểm khác biệt quan trọng so với những người chịu trả lời.
+P520: Tổng kết kiến thức: Nếu bạn muốn đo lường "sự trung thành với thương hiệu" nhưng câu hỏi lại chỉ đo lường "tần suất mua hàng", bạn đang mắc sai số đo lường.
+P522: Câu 23: This is the error that is introduced because the way you are asking questions is going to miss some big chunk of your population of interest.
+P523: Đáp án đúng: D (Sampling error / Coverage error).
+P525: Vì sao đúng: "Sai số bao phủ" (Coverage error) xuất hiện khi phương pháp phân phối khảo sát của bạn vô tình bỏ sót một bộ phận lớn trong quần thể mục tiêu. (Ví dụ: Bạn muốn khảo sát toàn bộ người dân, nhưng lại chỉ phát khảo sát qua Internet, như vậy bạn đã bỏ sót toàn bộ những người không dùng Internet).
+P527: Tổng kết kiến thức: Để tránh sai số bao phủ, khung chọn mẫu (sampling frame) của bạn phải càng sát với thực tế của quần thể mục tiêu (population) càng tốt.
+P529: Câu 24: Which of the following best describes the social desirability outcomes in interview-led survey modes?
+P530: Đáp án đúng: C (Results can be biased because people semi-consciously will try to look acceptable to the interviewer.).
+P532: Vì sao đúng: "Thiên kiến mong muốn xã hội" (Social desirability bias) là hiện tượng tâm lý khi người tham gia phỏng vấn (một cách vô thức hoặc bán ý thức) có xu hướng trả lời theo cách mà họ nghĩ là sẽ được xã hội hoặc người phỏng vấn đánh giá cao, thay vì nói ra sự thật.
+P534: Vì sao sai: Không phải vì họ muốn tỏ ra "dễ chịu/đồng ý" (A - đây là acquiescence bias), hay do người phỏng vấn cố tình né tránh (B).
+P536: Tổng kết kiến thức: Khi hỏi về các chủ đề nhạy cảm (như thu nhập, thói quen xấu), người dùng thường có xu hướng nói dối để giữ thể diện. Khảo sát ẩn danh thường làm giảm thiên kiến này tốt hơn phỏng vấn trực tiếp.
+P538: Câu 25: This term describes the total set of people you want to be able to represent with your survey.
+P539: Đáp án đúng: D (Population).
+P541: Vì sao đúng: "Quần thể" (Population) là tập hợp toàn bộ tất cả những cá nhân mang đặc điểm mà bạn đang muốn nghiên cứu và rút ra kết luận.
+P543: Vì sao sai: "Sample" (Mẫu - A) chỉ là một nhóm nhỏ được rút ra từ Quần thể để làm khảo sát. "Respondents" (Người phản hồi - C) là những người trong Mẫu thực sự hoàn thành khảo sát.
+P545: Tổng kết kiến thức: Mục tiêu tối thượng của thống kê là dùng dữ liệu của một nhóm nhỏ (Sample) để đưa ra dự đoán chính xác cho toàn bộ nhóm lớn (Population).
+P547: Câu 26: What is one quality that distinguishes a semi-structured interview from other kinds of interviews?
+P548: Đáp án đúng: C (While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script.).
+P550: Vì sao đúng: Phỏng vấn "bán cấu trúc" (semi-structured) có một kịch bản/dàn ý định hướng (protocol) nhưng điểm đặc biệt nhất là nó cho phép người phỏng vấn linh hoạt đi chệch khỏi kịch bản (go off-script) để đào sâu vào những câu trả lời thú vị phát sinh.
+P552: Vì sao sai: Không có quy tắc nào bắt buộc phải chia đôi 50% câu hỏi đóng và 50% câu hỏi mở (A, B) hay chia đều thời gian nói chuyện (D).
+P554: Tổng kết kiến thức: Đây là phương pháp phổ biến nhất trong UX. Nó mang lại sự cân bằng hoàn hảo: đủ cấu trúc để không đi lạc đề, nhưng cũng đủ tự do để khám phá ra những insight bất ngờ.
+P556: Câu 27: What is an affinity note?
+P557: Đáp án đúng: A (A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant to the user needs assessment.).
+P559: Vì sao đúng: "Affinity note" (Ghi chú tương đồng) là những mảnh giấy nhớ (sticky notes) chứa các trích dẫn, quan sát hoặc dữ liệu quan trọng được bóc tách ra từ bản ghi âm/ghi chép phỏng vấn để phục vụ cho quá trình phân tích nhu cầu người dùng.
+P561: Tổng kết kiến thức: Một affinity note tiêu chuẩn phải ngắn gọn, chỉ chứa DUY NHẤT một ý (one idea per note) và có đánh dấu nguồn (đến từ người dùng nào) để dễ dàng gom nhóm sau này.
+P563: Câu 28: What should you do when you create clusters in an affinity wall?
+P564: Đáp án đúng: D (Be willing to move notes and re-form clusters.).
+P566: Vì sao đúng: Quá trình xây dựng "Bức tường tương đồng" (Affinity wall) là một quá trình liên tục tiến hóa. Khi có thêm dữ liệu hoặc góc nhìn mới, bạn phải luôn sẵn sàng xé các giấy nhớ ra khỏi nhóm hiện tại, di chuyển chúng và tái cấu trúc lại các cụm (clusters) sao cho hợp lý nhất.
+P568: Vì sao sai: Quan điểm cho rằng "đã tạo nhóm là không thể hoàn tác" (A) hay "gom tất cả các ghi chú có chung một từ vào một nhóm" (C - phân tích theo từ vựng máy móc thay vì ý nghĩa) là những cách làm hoàn toàn sai lầm.
+P570: Tổng kết kiến thức: Phân tích định tính không có đáp án đúng sai tuyệt đối từ đầu. Sự linh hoạt trong việc sắp xếp lại dữ liệu giúp bạn nhìn thấy những khuôn mẫu ẩn sâu.
+P572: Câu 29: Which of the following should you NOT do when trying to establish rapport with an interview participant?
+P573: Đáp án đúng: A (Talk about what other participants have been saying).
+P575: Vì sao đúng: Việc kể lể cho người tham gia nghe về ý kiến của những người khác trước họ là điều TỐI KỴ. Nó không chỉ vi phạm bảo mật thông tin mà còn tạo ra hiệu ứng mỏ neo (anchoring), khiến người dùng hiện tại có xu hướng trả lời hùa theo số đông thay vì nêu ý kiến thật của họ.
+P577: Vì sao sai (Vì là các việc NÊN làm): Trò chuyện phím (B), Lắng nghe phản hồi (C) và Có tư duy học hỏi (D) là những kỹ năng cốt lõi để xây dựng mối quan hệ (rapport) tốt.
+P579: Câu 30: What does it mean to balance abstraction and precision in an affinity wall cluster summary?
+P580: Đáp án đúng: D (The summary should abstract away from specific details to capture the core idea, while remaining precise enough to be actionable.).
+P582: Vì sao đúng: Khi tóm tắt một nhóm các ý tưởng (cluster), bạn phải loại bỏ các chi tiết vụn vặt để nắm bắt được "ý tưởng cốt lõi" (abstraction), nhưng đồng thời vẫn phải giữ lại đủ thông tin thực tế để team thiết kế có thể sử dụng nó làm cơ sở tạo ra tính năng (actionable precision).
+P584: Tổng kết kiến thức: Một tóm tắt quá trừu tượng (Ví dụ: "Người dùng thích tiện lợi") sẽ trở nên vô dụng vì không ai biết phải làm gì tiếp theo. Tóm tắt tốt phải kết hợp cả hai yếu tố (Ví dụ: "Người dùng cần cách lưu thông tin thanh toán để mua hàng nhanh hơn trong 1 chạm").
+P586: Câu 31: Which of the following is a good open-ended question to ask in a semi-structured interview?
+P587: Đáp án đúng: B (Can you tell me about the most recent time when you used a GPS device?).
+P589: Vì sao đúng: Câu hỏi này áp dụng Kỹ thuật Sự cố Tới hạn (Critical Incident Technique). Việc yêu cầu người dùng nhớ lại "lần gần nhất" giúp đưa họ trở lại ngữ cảnh thực tế, từ đó họ sẽ cung cấp những câu chuyện chi tiết và chính xác thay vì nói những quan điểm sáo rỗng.
+P591: Vì sao sai: Hỏi số lần (A) là câu hỏi định lượng. Hỏi giao diện có tệ không (C) là câu hỏi đóng và mang tính định hướng. Hỏi "Tại sao không dùng..." (D) mang tính chất phán xét, khiến người dùng phải bào chữa.
+P593: Tổng kết kiến thức: Đừng hỏi người dùng về những hành vi chung chung (Ví dụ: "Bạn thường dùng app như thế nào?"). Hãy luôn neo họ vào một sự kiện cụ thể trong quá khứ.
+P595: Câu 32: Which of the following is the best-scoped question for a small user needs assessment project?
+P596: Đáp án đúng: A (What kinds of problems do users face when using Microsoft Word's spell-checking feature?).
+P598: Vì sao đúng: Một dự án "nhỏ" cần có phạm vi (scope) vừa đủ sâu nhưng không quá rộng. Tập trung vào tính năng "kiểm tra lỗi chính tả của Word" (A) là một phạm vi lý tưởng để nghiên cứu sâu.
+P600: Vì sao sai: Hỏi về toàn bộ sản phẩm của Microsoft (B) hay toàn bộ phần mềm Word (C) là quá sức đối với một dự án nhỏ. Ngược lại, chỉ hỏi về việc "sửa 1 lỗi" (D) lại quá hẹp và vặt vãnh.
+P602: Tổng kết kiến thức: Chọn đúng quy mô nghiên cứu giúp tối ưu hóa thời gian và nguồn lực. Câu hỏi nghiên cứu tốt phải nằm ở điểm giao thoa giữa "đủ quan trọng để nghiên cứu" và "đủ nhỏ để hoàn thành".
+P604: Câu 33: This specialization focuses on deeply understanding a particular group's culture and practices. Which of the following is NOT such a specialization?
+P605: Đáp án đúng: D (Socio-technical extraction).
+P607: Vì sao đúng: "Socio-technical extraction" là một thuật ngữ hoàn toàn được bịa ra, không tồn tại trong lĩnh vực nghiên cứu UX hay nhân học.
+P609: Vì sao sai: Nghiên cứu dân tộc học (Ethnographic research - A), Phỏng vấn ngữ cảnh (Contextual inquiry - B) và Đánh giá nhu cầu người dùng (User needs assessment - C) đều là những phương pháp thực tế và lâu đời dùng để tìm hiểu văn hóa và hành vi của một nhóm đối tượng.
+P611: Câu 34: What alternative approaches can you use to engage people in research results? (pick all that apply)
+P612: Đáp án đúng: B, C.
+P614: Vì sao đúng: Để thu hút sự chú ý của các bên liên quan (stakeholders) vào kết quả nghiên cứu, những phương pháp mang tính tương tác cao như: mời họ tham gia trực tiếp vào buổi test/phân tích (B) và cho họ xem video ghi lại các khoảnh khắc quan trọng của người dùng (C) mang lại hiệu quả truyền đạt sự thấu cảm cao nhất.
+P616: Vì sao sai: Các báo cáo quá dài dòng (A) hay email toàn gạch đầu dòng (D) thường khiến người đọc buồn ngủ và nhanh chóng bị bỏ qua.
+P618: Câu 35: Which of the following is the MOST IMPORTANT consideration in picking what type of question type to use?
+P619: Đáp án đúng: B (The type of analysis you plan on doing).
+P621: Vì sao đúng: Hình thức phân tích dữ liệu bạn định dùng (thống kê toán học, vẽ biểu đồ, hay phân tích ngôn ngữ) quyết định trực tiếp đến loại câu hỏi (đóng, mở, thang đo) mà bạn phải thiết kế. Nếu bạn cần tính điểm trung bình, bạn bắt buộc phải dùng câu hỏi có thang đo số, không thể dùng câu hỏi mở.
+P623: Tổng kết kiến thức: Hãy luôn thiết kế bảng khảo sát từ dưới lên: Nghĩ xem bạn cần biểu đồ/số liệu cuối cùng trông như thế nào, rồi mới viết câu hỏi để thu thập dữ liệu khớp với định dạng đó.
+P625: Câu 36: Which of the following best describes the question stem?
+P626: Đáp án đúng: C (It's the query that operationalizes the concept of interest and prompts a response.).
+P628: Vì sao đúng: "Phần thân câu hỏi" (Question stem) là phần chữ thực sự đóng vai trò đặt câu hỏi. Nó chuyển đổi (operationalizes) khái niệm nghiên cứu thành một truy vấn cụ thể và kích thích người dùng đưa ra câu trả lời.
+P630: Vì sao sai: Hướng dẫn cách trả lời (A) là "instructions", tập hợp các đáp án (B) là "response options", chuỗi câu hỏi tạo thành thang đo (D) là "scale".
+P632: Câu 37: Which of the following is NOT a best practice in writing nominal closed-ended questions?
+P633: Đáp án đúng: B (Use "select all that apply" responses rather than forced choices).
+P635: Vì sao đúng: Việc sử dụng định dạng "chọn tất cả các đáp án đúng" (select all that apply) thực chất KHÔNG phải là một thực hành tốt. Nó tạo ra dữ liệu rác vì người dùng có xu hướng chỉ chọn những mục đầu tiên họ thấy (thiên kiến ưng thuận). Thay vào đó, "forced choices" (buộc người dùng phải chọn Có/Không cho TỪNG mục một) mang lại dữ liệu chính xác và tập trung hơn nhiều.
+P637: Tổng kết kiến thức: Dù "select all that apply" giúp form trông ngắn hơn, nhưng nó phá hỏng chất lượng dữ liệu. Hãy ưu tiên thiết kế câu hỏi buộc người dùng phải suy nghĩ cho từng phương án.
+P639: Câu 38: Which of the following statement about open-ended questions is most FALSE?
+P640: Đáp án đúng: A (They are the easiest type of question to analyze.).
+P642: Vì sao đúng: Câu nói "Câu hỏi mở là loại dễ phân tích nhất" là hoàn toàn SAI LẦM. Thực tế, câu hỏi mở thu về hàng khối văn bản thô, đòi hỏi nhà nghiên cứu phải đọc, gắn thẻ (coding) và gom nhóm thủ công từng câu một. Nó tốn thời gian và công sức hơn rất nhiều so với việc để máy tính tự tính tỷ lệ phần trăm cho câu hỏi đóng.
+P644: Vì sao sai: B, C, D đều là những nhận định chuẩn xác về câu hỏi mở. Đặc biệt là C: tỷ lệ người dùng bỏ qua (skip) câu hỏi mở luôn cao nhất vì lười gõ phím.
+P646: Câu 39: Which of the following are the hallmarks of good research questions?
+P647: Đáp án đúng: E (I, III, IV, and V).
+P649: Vì sao đúng: Một câu hỏi nghiên cứu nền tảng tốt phải thỏa mãn 4 tiêu chí cốt lõi: Tính rõ ràng (I), Khả năng có thể trả lời được thông qua dữ liệu (III), Đạt chuẩn đạo đức (IV), và Có tầm quan trọng/ý nghĩa thực tiễn (V).
+P651: Vì sao sai: "Tính nhất quán" (Consistency - II) là tiêu chí đánh giá độ tin cậy của công cụ đo lường (reliability), không phải là đặc trưng của một câu hỏi nghiên cứu vĩ mô.
+P653: Câu 40: Under what circumstances is remote testing appropriate?
+P654: Đáp án đúng: A (I, II, III).
+P656: Vì sao đúng: Theo tài liệu gốc, kiểm thử từ xa (remote testing) thích hợp nhất khi: Bạn khó tiếp cận trực tiếp với sản phẩm (I), Cần nguồn người tham gia đa dạng về vị trí địa lý (II), và Giới hạn về mặt thời gian/ngân sách (III).
+P658: Vì sao sai: Mệnh đề IV (Yêu cầu chia sẻ nhiều Thông tin Nhận dạng Cá nhân - PII) khiến kiểm thử từ xa trở nên cực kỳ nguy hiểm và rủi ro về mặt bảo mật. Do đó nó không phải là tình huống thích hợp để dùng remote testing.
+P659: Tuyệt vời, bạn theo dõi quá chuẩn luôn! Mình sẽ hoàn thành 10 câu cuối cùng (từ Câu 41 đến Câu 50) của phần đầu tiên theo đúng format chi tiết này nhé.
+P661: Câu 41: Which of the following is the MOST TRUE statement about how people remember things?
+P662: Đáp án đúng: D (Memory fades over time, and often doesn't capture routine actions.).
+P664: Vì sao đúng: Trí nhớ của con người rất mỏng manh, nó phai nhạt dần theo thời gian và đặc biệt "mù mờ" đối với các hành động lặp đi lặp lại thường ngày (routine actions) vì não bộ thường chuyển chúng sang chế độ tự động (autopilot) để tiết kiệm năng lượng.
+P666: Vì sao sai: Mọi người thường KHÔNG nhớ đủ tốt hành vi trong quá khứ của mình để trả lời khảo sát chính xác tuyệt đối (A). Việc cố tình "gợi nhớ" (B) đôi khi lại tạo ra ký ức giả do hiệu ứng mớm lời.
+P668: Tổng kết kiến thức: Trong UX Research, dữ liệu tự báo cáo (như hỏi: "Tuần trước bạn mở app mấy lần?") thường sai lệch rất nhiều so với sự thật. Đừng bắt người dùng vắt óc nhớ lại, hãy dùng dữ liệu hệ thống (analytics) để đo lường hành vi trong quá khứ.
+P670: Câu 42: Which of the following is NOT a method one would use to understand why people are using a product at certain times?
+P671: Đáp án đúng: C (Concept Testing).
+P673: Vì sao đúng: Kiểm thử khái niệm (Concept Testing) được sử dụng ở giai đoạn khởi tạo để đánh giá xem một "ý tưởng/sản phẩm mới" có khả thi và được người dùng đón nhận hay không. Nó không dùng để phân tích xem "tại sao người dùng lại sử dụng một sản phẩm (đã có) vào một thời điểm cụ thể".
+P675: Vì sao sai: Khảo sát (A), Phân tích luồng click (B) hay Phỏng vấn (D) đều là những phương pháp đắc lực để tìm hiểu động cơ và bối cảnh thời gian khi sử dụng ứng dụng.
+P677: Tổng kết kiến thức: Chọn đúng phương pháp nghiên cứu là chìa khóa. Concept Testing trả lời cho câu hỏi "Họ có thích ý tưởng này không?", chứ không trả lời "Khi nào thì họ dùng nó?".
+P679: Câu 43: Which of the following is NOT one of the qualities of well-designed tasks for use in a user test?
+P680: Đáp án đúng: D (Gives the user step-by-step instructions).
+P682: Vì sao đúng: Cung cấp cho người dùng "hướng dẫn từng bước" là điều TỐI KỴ trong kiểm thử tính khả dụng. Nếu bạn chỉ cho họ tường tận cách làm, buổi test sẽ biến thành buổi kiểm tra xem người dùng có biết đọc và làm theo lệnh hay không, chứ không còn kiểm tra thiết kế của bạn có trực quan hay không.
+P684: Vì sao sai (Vì là đặc điểm ĐÚNG của task tốt): Task phải thực tế (A), kết quả phải xác minh được là thành công hay thất bại (B), và không được mớm lời (C).
+P686: Tổng kết kiến thức: Task chuẩn phải nói về "Mục tiêu" chứ không nói về "Hành động". (Ví dụ: "Hãy tìm mua một đôi giày size 42", thay vì "Hãy click vào Menu, chọn Giày, chọn size 42 và bấm Đặt hàng").
+P688: Câu 44: You are testing the Nomaza.com website. All of your test participants will be using the same computer, which is located in your usability lab. Which of the following is not something you ought to worry about when preparing for each test session?
+P689: Đáp án đúng: C (testing participants' laptops to make sure their default browser is capable of displaying Nomaza.com).
+P691: Vì sao đúng: Dữ kiện đề bài cho biết "tất cả người tham gia sẽ dùng ĐỒNG LOẠT MỘT MÁY TÍNH được đặt sẵn trong phòng lab của bạn". Do đó, bạn hoàn toàn không cần phải lo lắng hay kiểm tra laptop cá nhân của họ làm gì.
+P693: Vì sao sai (Vì là những việc BẮT BUỘC phải làm): Bạn phải xóa cache trình duyệt (A) và dọn sạch dữ liệu cũ (B) để người đến sau không bị lộ kết quả của người đi trước; đồng thời phải đảm bảo mọi tài khoản test đều có cấu hình giống hệt nhau (D).
+P695: Tổng kết kiến thức: Môi trường test trong phòng lab phải được "reset" hoàn toàn sau mỗi lượt tham gia để đảm bảo tính công bằng và tránh sai số đo lường.
+P697: Câu 45: Formal research methods are always preferable to informal methods for doing formative research.
+P698: Đáp án đúng: B (False).
+P700: Vì sao đúng: Các phương pháp nghiên cứu chính thức (formal) không phải "lúc nào cũng" (always) tốt hơn các phương pháp phi chính thức (informal) trong giai đoạn nghiên cứu định dạng (formative research). Nghiên cứu phi chính thức (như quan sát tự nhiên, trò chuyện chớp nhoáng) thường nhanh chóng, ít tốn kém và mang lại cảm nhận thô, chân thực nhất trong giai đoạn đầu dự án.
+P702: Tổng kết kiến thức: Đừng để sự hoàn hảo cản bước tiến độ. Trong quy trình UX linh hoạt (Agile), "Nghiên cứu du kích" (Guerrilla research) đôi khi cứu sống cả dự án vì bạn có được feedback của người dùng ngay trong ngày thay vì đợi hàng tháng để lập kế hoạch nghiên cứu chính thức.
+P704: Câu 46: The design process is highly iterative. Which of the following are iterative loops that a designer might do in the course of a project?
+P705: Đáp án đúng: E (All of the others).
+P707: Vì sao đúng: Quy trình thiết kế có tính "lặp đi lặp lại" (iterative) cực kỳ cao. Bất cứ lúc nào phát hiện ra vấn đề, bạn đều có thể quay ngược lại bước trước đó:
+P709: (A) Từ khâu Lên ý tưởng (ideation) quay lại Cấu trúc vấn đề (problem framing) vì thấy sai hướng.
+P711: (B, C) Từ khâu viết Kịch bản (scenarios) quay lại Lên ý tưởng hoặc Cấu trúc vấn đề.
+P713: (D) Từ khâu Làm nguyên mẫu (prototyping) đập đi làm lại khâu Lên ý tưởng.
+P715: Tổng kết kiến thức: Design Thinking không phải là một đường thẳng tắp từ A đến Z. Nó là một mớ bòng bong của sự vòng lặp để liên tục sai, liên tục sửa và tinh chỉnh sản phẩm cho đến khi hoàn hảo.
+P717: Câu 47: When designing the set of tasks you will use in a test, it is a good idea to:
+P718: Đáp án đúng: B (Order them from easiest to hardest, so that your participants feel more comfortable).
+P720: Vì sao đúng: Sắp xếp tác vụ từ Dễ đến Khó là quy tắc vàng trong kiểm thử. Những task đầu tiên dễ dàng sẽ giúp người dùng (vốn đang căng thẳng vì bị quan sát) có được "chiến thắng nhỏ", từ đó xây dựng sự tự tin và cởi mở hơn để đương đầu với các task phức tạp phía sau.
+P722: Vì sao sai: Đưa phần khó lên đầu (A) sẽ làm họ nản chí, hoảng loạn và có thể từ chối làm tiếp. Yêu cầu làm các task giống hệt nhau liên tục (C) gây nhàm chán. Test mọi ngóc ngách của ứng dụng (D) là bất khả thi và gây quá tải nhận thức.
+P724: Câu 48: Which of the following is NOT a key design skill?
+P725: Đáp án đúng: E (To write a business plan for selling the technology designers created).
+P727: Vì sao đúng: "Viết kế hoạch kinh doanh để bán công nghệ" là kỹ năng của Giám đốc kinh doanh, Chuyên gia tài chính hoặc Doanh nhân khởi nghiệp, hoàn toàn nằm ngoài bộ kỹ năng cốt lõi của một Nhà thiết kế (Designer).
+P729: Vì sao sai (Vì là các kỹ năng ĐÚNG của UX Designer): Tái định dạng vấn đề (A), Tạo ra hàng loạt giải pháp sáng tạo (B), Đánh giá sự đánh đổi (C), và Làm prototype để test (D).
+P731: Tổng kết kiến thức: Designer đóng vai trò là "Luật sư bào chữa cho Người dùng", nhiệm vụ chính là giải quyết vấn đề của con người, không phải là lên chiến lược thương mại hóa sản phẩm.
+P733: Câu 49: What's the problem with the following task description? "Go to coursera.org. Hover over the button 'Explore', then click 'Explore all of Coursera'. Scroll until you find the link to 'User Experience (UX) Research and Design' Specialization. Click on it. On the resulting page, find the first course and enroll in it."
+P734: Đáp án đúng: C (It 'leads the witness').
+P736: Vì sao đúng: Yêu cầu này đang mắc lỗi "Mớm cung" (leads the witness) quá nặng nề. Nó chỉ đích danh từng nút phải rê chuột, từng link phải cuộn xuống tìm và bắt click vào đâu.
+P738: Vì sao sai: Nó hoàn toàn thực tế (A), có thể xác minh được kết quả (B) và thực sự là cách ghi danh đúng (D). Nhưng vấn đề là nó phá hỏng hoàn toàn mục đích của UX test.
+P740: Tổng kết kiến thức: (Giống như câu 43). Thay vì mớm lời chi tiết, task này chỉ nên viết là: "Hãy tìm và đăng ký một khóa học bất kỳ về UX Research trên Coursera".
+P742: Câu 50: Which of the following best describes the role of a participant in a user test?
+P743: Đáp án đúng: C (They are partners with the researchers administering the test, working together to find flaws in the system design.).
+P745: Vì sao đúng: Người tham gia nên được xem là những "đối tác" (partners) bình đẳng của nhà nghiên cứu. Cả hai đang cùng chung một chiến tuyến: cố gắng tìm ra những điểm ngớ ngẩn, bất cập trong thiết kế của hệ thống.
+P747: Vì sao sai: Họ KHÔNG BỊ ĐÁNH GIÁ NĂNG LỰC (A - đây là hệ thống bị đánh giá). Họ có quyền dừng bài test bất cứ lúc nào nếu thấy mệt, không bị ép buộc (B). Việc để họ hoàn toàn mù tịt về mục tiêu (D) đôi khi không cần thiết, họ cần hiểu bối cảnh để cung cấp feedback đúng trọng tâm.
+P749: Tổng kết kiến thức: Tôn trọng người tham gia và giải tỏa áp lực tâm lý cho họ bằng câu thần chú: "Ở đây không có câu trả lời sai, người sai duy nhất là những người đã thiết kế ra cái hệ thống khó hiểu này".
+P751: Câu 51: Which of the following would you typically not include in a debrief interview?
+P752: Đáp án đúng: C (Demographic questions like age, gender, and education level).
+P754: Vì sao C đúng: Các câu hỏi về nhân khẩu học (tuổi, giới tính, học vấn) thường được thu thập từ trước thông qua biểu mẫu sàng lọc (screener) hoặc bảng câu hỏi trước thử nghiệm (pre-test questionnaire). Việc hỏi lại trong buổi debrief (phỏng vấn sau thử nghiệm) là làm lãng phí thời gian quý báu.
+P756: Vì sao các đáp án khác sai:
+P758: A, B, D: Xem xét các vấn đề gặp phải (A), hỏi về cảm nhận tổng quan/so sánh (B), và câu hỏi chốt lại để thu thập thêm ý kiến (D) đều là những thành phần cốt lõi của một buổi debrief nhằm đào sâu vào trải nghiệm của người dùng.
+P760: Tổng kết kiến thức (Debrief Interview): Phỏng vấn sau thử nghiệm (debrief) tập trung vào việc tìm hiểu "tại sao" đằng sau các hành động của người dùng trong quá trình test, khám phá cảm xúc và đánh giá của họ về sản phẩm, không dùng để thu thập dữ liệu hành chính/nhân khẩu học.
+P762: Câu 52: Sketching is used both for generating and for communicating ideas
+P763: Đáp án đúng: A (True).
+P765: Vì sao A đúng: Phác thảo (sketching) là công cụ có hai tác dụng chính: giúp nhà thiết kế động não, tạo ra ý tưởng mới (generating) và dùng chính những bản vẽ đó để truyền đạt, thảo luận ý tưởng với các thành viên khác trong đội (communicating).
+P767: Vì sao B sai: Chọn False là phủ nhận vai trò nền tảng của sketching trong quy trình làm việc của UX/UI.
+P769: Tổng kết kiến thức (Sketching trong UX): Sketching không đòi hỏi kỹ năng hội họa xuất sắc. Nó là phương pháp nhanh chóng, chi phí thấp để tư duy trực quan và đồng bộ hóa góc nhìn giữa các bên liên quan trước khi đi sâu vào thiết kế chi tiết.
+P771: Câu 53: When is it most appropriate to conduct remote moderated testing?
+P772: Đáp án đúng: D (I, III, IV).
+P774: Vì sao D đúng: Kiểm thử từ xa có điều phối (remote moderated testing) phù hợp khi:
+P776: (I) Cần hướng dẫn lại hoặc thảo luận sâu với người dùng.
+P778: (III) Khó tìm được người tham gia ngay tại địa phương (lab).
+P780: (IV) Muốn quan sát môi trường kỹ thuật số thực tế của người dùng (digital contexts).
+P782: Vì sao các đáp án khác sai:
+P784: Mệnh đề (II) "Người dùng có thể hoàn thành tác vụ mà không cần hướng dẫn" là đặc điểm lý tưởng của Unmoderated testing (Kiểm thử không điều phối). Do (II) sai nên các đáp án A, C và E (chứa II hoặc V-tất cả) đều sai.
+P786: Tổng kết kiến thức (Remote Moderated Testing): Phương pháp này kết hợp lợi thế về mặt địa lý của remote testing với khả năng đào sâu tâm lý, tương tác trực tiếp của moderated testing, thích hợp cho các sản phẩm phức tạp.
+P788: Câu 54: Which of the following is the MOST TRUE statement?
+P789: Đáp án đúng: A (It can be hard to operationalize abstract concepts in a way that every respondent understands.).
+P791: Vì sao A đúng: Trong nghiên cứu, việc chuyển đổi (operationalize) các khái niệm trừu tượng (như sự tin tưởng, sự hài lòng) thành các câu hỏi khảo sát cụ thể mà mọi người dùng đều hiểu theo cùng một nghĩa là một thử thách rất lớn.
+P793: Vì sao các đáp án khác sai:
+P795: B: Cách tốt nhất để bắt đầu khảo sát là xác định mục tiêu nghiên cứu, không phải cắm đầu vào viết câu hỏi ngay.
+P797: C: Con người thường không nhất quán trong cách họ trả lời các câu hỏi qua thời gian, trí nhớ và cảm xúc của họ thay đổi.
+P799: D: Pre-testing (kiểm thử trước bản khảo sát) là bước cực kỳ quan trọng và luôn đáng giá thời gian bỏ ra để phát hiện lỗi.
+P801: Tổng kết kiến thức (Operationalization trong Khảo sát): Thiết kế khảo sát đòi hỏi sự cẩn trọng ngôn từ. Một khái niệm mập mờ sẽ dẫn đến dữ liệu rác (garbage in, garbage out).
+P803: Câu 55: Factors that capture the ways in which you expect your users to differ can be expressed as:
+P804: Đáp án đúng: B (Diversity criteria).
+P806: Vì sao B đúng: "Diversity criteria" (Tiêu chí đa dạng) là các yếu tố (như độ tuổi, mức độ rành công nghệ, nghề nghiệp) giúp đảm bảo mẫu người tham gia phản ánh đúng sự khác biệt, đa dạng của tập người dùng mục tiêu.
+P808: Vì sao các đáp án khác sai:
+P810: A (Recruiting criteria): Là tiêu chí bắt buộc để sàng lọc (vd: phải đang dùng app X).
+P812: C (Success criteria): Dùng để đo lường xem một tác vụ có thành công hay không.
+P814: D (Tasks): Là những nhiệm vụ người dùng phải làm trong buổi test.
+P816: Tổng kết kiến thức (Tiêu chí tuyển dụng người dùng): Cần phân biệt rõ giữa ranh giới "ai được phép tham gia" (Recruiting criteria) và "cần tỷ lệ các nhóm người thế nào cho cân bằng" (Diversity criteria) khi tìm kiếm người tham gia nghiên cứu.
+P818: Câu 56: Which of the following is LEAST true about extrinsic, or material, incentives?
+P819: Đáp án đúng: C (The more money you offer, the more likely people are to participate.).
+P821: Vì sao C đúng (Least true - Ít đúng nhất): Thực tế nghiên cứu chỉ ra rằng việc tăng số tiền thưởng không tỷ lệ thuận với tỷ lệ tham gia. Quá nhiều tiền có thể gây tác dụng ngược (thu hút người săn tiền thưởng thay vì người dùng thật) hoặc không làm tăng thêm động lực.
+P823: Vì sao các đáp án khác sai (Vì chúng là những phát biểu đúng):
+P825: A: Việc coi phần thưởng như một "món quà" (gift) tạo ra tâm lý có qua có lại tốt hơn là coi nó như tiền công.
+P827: B: Tặng quà trước (before) thường tạo cảm giác mắc nợ (reciprocity), khiến họ dễ đồng ý làm khảo sát hơn.
+P829: D: Các hình thức xổ số (lotteries) thường kém hiệu quả hơn là những phần thưởng nhỏ nhưng chắc chắn nhận được.
+P831: Tổng kết kiến thức (Động lực và Phần thưởng): Tâm lý học hành vi trong nghiên cứu cho thấy phần thưởng nhỏ, được trao trước và dưới dạng quà tặng mang lại chất lượng và tỷ lệ phản hồi khảo sát tốt nhất.
+P833: Câu 57: Which of the following is the best definition of a probability sample?
+P834: Đáp án đúng: C (Every member of your population has some chance to be selected for the survey.).
+P836: Vì sao C đúng: Cốt lõi của chọn mẫu xác suất (probability sample) là mọi thành viên trong quần thể (population) đều có một cơ hội (xác suất) khác 0 để được chọn vào mẫu nghiên cứu.
+P838: Vì sao các đáp án khác sai:
+P840: A: Sai ở chữ "Almost every" (Hầu như mọi). Phải là tuyệt đối mọi thành viên đều có cơ hội.
+P842: B: Đây là mô tả của mẫu tự chọn (self-selection/convenience sample), dẫn đến sai lệch dữ liệu nghiêm trọng.
+P844: D: Mời toàn bộ quần thể được gọi là Tổng điều tra (Census), không còn là lấy mẫu (Sample) nữa.
+P846: Tổng kết kiến thức (Lấy mẫu xác suất): Đây là phương pháp lấy mẫu mang tính khoa học cao nhất, cho phép chúng ta dùng số liệu của một nhóm nhỏ để suy luận thống kê chính xác cho toàn bộ quần thể lớn.
+P848: Câu 58: What type of question is the following survey question? (1. Extremely like -> 5. Extremely dislike)
+P849: Đáp án đúng: A (Bipolar ordinal).
+P851: Vì sao A đúng:
+P853: Bipolar (Lưỡng cực): Thang đo trải dài giữa hai thái cực đối lập nhau ("like" và "dislike") và đi qua một điểm trung lập ở giữa ("Neither...").
+P855: Ordinal (Thứ bậc): Các lựa chọn có một trật tự, cấp độ rõ ràng từ cao xuống thấp.
+P857: Vì sao các đáp án khác sai:
+P859: B (Unipolar ordinal): Unipolar (Đơn cực) chỉ đo cường độ của một trạng thái (vd: Từ "Không vui" đến "Rất vui").
+P861: C (Nominal): Là biến định danh, không có thứ tự (vd: Nam, Nữ, Xanh, Đỏ).
+P863: D (Open-ended): Là câu hỏi mở dạng điền chữ, không có sẵn đáp án.
+P865: Tổng kết kiến thức (Thang đo khảo sát): Phân biệt Bipolar và Unipolar giúp thiết kế câu hỏi khảo sát chính xác hơn; Bipolar dùng để xem thái độ nghiêng về phe nào, Unipolar dùng để đo xem người dùng sở hữu bao nhiêu phần của một đặc tính.
+P867: Câu 59: _______ refers to whether users can easily figure out whether the tool helped to move them closer to their goals.
+P868: Đáp án đúng: D (The Gulf of Evaluation).
+P870: Vì sao D đúng: "Vực thẳm đánh giá" (Gulf of Evaluation) mô tả khoảng cách nhận thức khi người dùng cố gắng giải nghĩa các phản hồi của hệ thống để xem hành động vừa rồi của họ có thành công và đạt được mục tiêu hay chưa.
+P872: Vì sao các đáp án khác sai:
+P874: C (The Gulf of Execution): "Vực thẳm thực thi" là khoảng cách khi người dùng không biết phải làm thế nào (bấm vào đâu, dùng công cụ gì) để thực hiện mục tiêu trên hệ thống.
+P876: A & B: Đây là các thuật ngữ bẫy, không nằm trong mô hình tương tác nổi tiếng của Don Norman.
+P878: Tổng kết kiến thức (Mô hình Don Norman): Tương tác người-máy luôn có 2 vực thẳm: Thực thi (Làm sao để ra lệnh cho máy?) và Đánh giá (Máy đang báo cái gì, mình đã làm đúng chưa?). UX tốt là phải thu hẹp cả hai vực thẳm này.
+P880: Câu 60: Technical determinists believe that the properties of technologies almost necessitate certain kinds of consequences.
+P881: Đáp án đúng: A (True).
+P883: Vì sao A đúng: "Thuyết quyết định công nghệ" (Technological determinism) là một góc nhìn xã hội học cho rằng công nghệ tự thân nó mang những đặc tính sẽ tất yếu định hình, thay đổi hoặc quyết định các hậu quả, hành vi và cấu trúc xã hội.
+P885: Vì sao B sai: Chọn False là phủ nhận trực tiếp định nghĩa cốt lõi của thuyết này.
+P887: Tổng kết kiến thức (Technological determinism): Đây là một lăng kính triết học trong thiết kế. Những người theo thuyết này tin rằng bản thân thiết kế công nghệ (ví dụ: thuật toán MXH) chắc chắn sẽ ép người dùng hình thành các thói quen nhất định (như lướt vô thức), dù họ có muốn hay không.
+P889: Câu 61: Which of the following is NOT a reason to randomize your response categories in a nominal survey question?
+P890: Đáp án đúng: D (Cognitive burden).
+P892: Vì sao D đúng: "Gánh nặng nhận thức" (Cognitive burden) không phải là lý do để xáo trộn (randomize) các lựa chọn đáp án. Thực tế, việc xáo trộn đôi khi còn làm tăng gánh nặng nhận thức vì người dùng phải mất công đọc và tìm lại đáp án họ muốn trong một danh sách không theo trật tự logic.
+P894: Vì sao các đáp án khác sai: Việc xáo trộn được thiết kế chính xác là để loại bỏ các thiên kiến tâm lý (biases) của người trả lời, bao gồm:
+P896: A (Anchoring - Hiệu ứng mỏ neo): Bị ảnh hưởng quá mức bởi thông tin đầu tiên đọc được.
+P898: B (Primacy - Ưu tiên cái đầu): Xu hướng chọn ngay đáp án đầu tiên cho nhanh.
+P900: C (Recency - Ưu tiên cái cuối): Xu hướng chỉ nhớ và chọn đáp án cuối cùng vừa đọc xong.
+P902: Tổng kết kiến thức (Thiên kiến thứ tự trong khảo sát): Vị trí của đáp án ảnh hưởng rất lớn đến xác suất nó được chọn (Order effects). Xáo trộn ngẫu nhiên là thủ thuật cơ bản để dữ liệu thu về khách quan hơn.
+P904: Câu 62: The role of UX research is primarily to evaluate programs (good or wrong) it is...
+P905: Đáp án đúng: B (False).
+P907: Vì sao B đúng: Vai trò của Nghiên cứu UX (UX research) KHÔNG CHỈ là để "đánh giá" (evaluate) xem một chương trình/sản phẩm đã làm tốt hay tệ.
+P909: Tổng kết kiến thức (Vai trò của UX Research): UX Research diễn ra ở mọi giai đoạn của dự án. Ở giai đoạn đầu, nó mang tính khám phá (formative research) để tìm hiểu vấn đề và nhu cầu người dùng. Ở giai đoạn cuối, nó mới mang tính đánh giá (summative/evaluative research) để kiểm thử giải pháp. Do đó, nói nó "chủ yếu chỉ để đánh giá" là sai.
+P911: Câu 63: Which of the following is the MOST TRUE about social exchange theory?
+P912: Đáp án đúng: D (People use trust as a basis to make a cost/benefit guess on the value of a social exchange.).
+P914: Vì sao D đúng: Thuyết trao đổi xã hội (Social exchange theory) trong bối cảnh khảo sát cho rằng: Người dùng luôn cân nhắc chi phí (thời gian, công sức) và lợi ích (quà tặng, đóng góp xã hội) trước khi tham gia. Vì họ không thể biết chắc chắn lợi ích thực sự là gì, họ sẽ dùng niềm tin (trust) đối với người/tổ chức nghiên cứu làm cơ sở để phỏng đoán xem cuộc trao đổi này có đáng giá hay không.
+P916: Vì sao các đáp án khác sai:
+P918: A & B: Con người xem xét cả chi phí, rủi ro và lợi ích tổng thể, không chỉ tập trung vào giá trị kinh tế (economic value) hay rủi ro (risk).
+P920: C: Con người không "rất tệ" trong việc phỏng đoán, họ chỉ sử dụng các "lối tắt tâm lý" (như niềm tin) để đưa ra quyết định nhanh chóng.
+P922: Tổng kết kiến thức (Social Exchange Theory): Để mời được người dùng tham gia nghiên cứu, nhà thiết kế phải xây dựng được sự tin tưởng (qua email chuyên nghiệp, minh bạch thông tin), từ đó tăng nhận thức của họ về lợi ích và giảm nhận thức về chi phí/rủi ro.
+P924: Câu 64: Which of the following does NOT impact the likelihood that something in long-term memory will be recalled?
+P925: Đáp án đúng: D (Accuracy of information).
+P927: Vì sao D đúng: "Độ chính xác của thông tin" (Accuracy of information) không hề ảnh hưởng đến việc bạn có nhớ ra nó hay không. Trí nhớ dài hạn của con người rất hay đánh lừa chúng ta; bạn hoàn toàn có thể nhớ rất rõ và rất dai một sự kiện... không hề có thật hoặc bị sai lệch (hiệu ứng trí nhớ giả).
+P929: Vì sao các đáp án khác sai: Trí nhớ dài hạn được củng cố và dễ gọi lại (recall) dựa trên 3 yếu tố cốt lõi:
+P931: A (Strength of association): Sự liên kết càng mạnh (càng ấn tượng) thì càng dễ nhớ.
+P933: B (Frequency of use): Càng lặp lại/nhớ lại nhiều lần thì đường mòn thần kinh càng vững.
+P935: C (Recency of use): Sự việc mới xảy ra gần đây sẽ dễ nhớ hơn.
+P937: Tổng kết kiến thức (Trí nhớ dài hạn): Khi thiết kế giao diện, đừng mong đợi người dùng nhớ chính xác cách sử dụng nếu họ ít dùng (tần suất thấp) hoặc đã lâu không dùng (độ gần đây thấp). Hãy dùng nguyên tắc "Nhận diện thay vì Ghi nhớ" (Recognition over recall).
+P939: Câu 65: A single designer can usually conduct a test of a lo-fi prototype by themselves.
+P940: Đáp án đúng: B (False).
+P942: Vì sao B đúng: Để kiểm thử một nguyên mẫu giấy (lo-fi prototype), một người thiết kế đơn độc (single designer) thường không thể kham nổi khối lượng công việc.
+P944: Tổng kết kiến thức (Kiểm thử Lo-fi Prototype): Việc test nguyên mẫu giấy thực tế rất cồng kềnh. Nó cần ít nhất 2 người: Một người làm Người điều phối (Facilitator/Moderator) để trò chuyện và giao task cho người dùng; người thứ hai đóng vai Máy tính (The Computer / Wizard of Oz) để rút giấy, đổi màn hình, tráo các mảnh ghép giao diện dựa trên vị trí người dùng vừa "bấm" ngón tay vào.
+P946: Câu 66: Which of the following is not part of a typical UX design process?
+P947: Đáp án đúng: C (Establishing the sale price for a product).
+P949: Vì sao C đúng: "Thiết lập giá bán cho sản phẩm" là nhiệm vụ của bộ phận Kinh doanh, Tài chính hoặc Marketing, hoàn toàn nằm ngoài quy trình Thiết kế Trải nghiệm Người dùng (UX).
+P951: Vì sao các đáp án khác sai: Hiểu vấn đề (A), tạo ra các giải pháp khả thi (B), và đánh giá nguyên mẫu để tìm lỗi (D) là 3 trụ cột chính xác của quy trình Design Thinking trong UX.
+P953: Tổng kết kiến thức (Quy trình UX): UX xoay quanh người dùng và cách họ tương tác với giải pháp, không xoay quanh các mô hình tài chính hay định giá thương mại.
+P955: Câu 67: Which of the following should you aim for when arranging interviews?
+P956: Đáp án đúng: D (I, II and III).
+P958: Vì sao D đúng: Khi sắp xếp một buổi phỏng vấn tìm hiểu nhu cầu (như Contextual Inquiry), bạn cần đạt được cả 3 yếu tố để có dữ liệu thực tế nhất:
+P960: (I) Đúng người (Người dùng hoặc khách hàng tiềm năng).
+P962: (II) Đúng nơi (Tại chính môi trường mà họ sẽ sử dụng sản phẩm).
+P964: (III) Đúng lúc (Vào đúng khoảng thời gian mà họ thường thực hiện tác vụ đó).
+P966: Tổng kết kiến thức (Contextual Inquiry - Phỏng vấn ngữ cảnh): Bối cảnh (không gian, thời gian, tiếng ồn, áp lực) ảnh hưởng cực lớn đến cách người dùng sử dụng ứng dụng. Mang họ vào phòng lab vô trùng sẽ làm mất đi các dữ liệu quý giá này.
+P968: Câu 68: What deliverables are typically used to tell user stories? (pick all that apply)
+P969: Đáp án đúng: A, B, D (Personas, Scenarios, Customer Journey Maps).
+P971: Vì sao A, B, D đúng: Cả ba công cụ này đều là các sản phẩm đầu ra (deliverables) dùng để "kể chuyện" và trực quan hóa dữ liệu nghiên cứu để các bên liên quan dễ đồng cảm:
+P973: A (Personas): Kể câu chuyện về "Ai" là người dùng.
+P975: B (Scenarios): Kể câu chuyện về "Bối cảnh và Hành động" của người dùng.
+P977: D (Journey Maps): Kể câu chuyện về "Hành trình cảm xúc và các điểm chạm" của họ theo thời gian.
+P979: Vì sao C sai: "Diary Study" (Nghiên cứu nhật ký) là một phương pháp nghiên cứu để thu thập dữ liệu thô, không phải là một công cụ/sản phẩm đầu ra dùng để kể chuyện cho stakeholder xem.
+P981: Tổng kết kiến thức (Storytelling trong UX): Kể chuyện là kỹ năng quan trọng để truyền đạt sự đồng cảm (empathy). Các deliverables như Persona và Journey Map là vũ khí đắc lực để biến số liệu khô khan thành những câu chuyện sống động.
+P983: Câu 69: [Bị che khuất] means you should focus on the [Bị che khuất] aspect of a product.
+P984: Đáp án đúng: B (False).
+P986: Vì sao B đúng: Tuy tài liệu gốc bị che khuất văn bản, nhưng theo logic của các bộ đề UX, bất cứ phát biểu nào mang tính "cực đoan" kiểu như "bạn [CHỈ] nên tập trung vào khía cạnh [X] của một sản phẩm" đều là sai.
+P988: Tổng kết kiến thức: Trải nghiệm người dùng (UX) là sự giao thoa toàn diện của tính hữu dụng (usability), chức năng (functionality), thẩm mỹ (aesthetics), và nội dung (content). Không thể chỉ tập trung vào một khía cạnh duy nhất mà bỏ qua các khía cạnh còn lại.
+P990: Câu 70: Which of the following tasks is most representative of the kind of work involved in qualitative research?
+P991: Đáp án đúng: A (Conducting interviews about how people use Excel spreadsheets).
+P993: Vì sao A đúng: Nghiên cứu định tính (Qualitative research) tập trung vào việc thu thập dữ liệu phi số liệu, giải thích nguyên nhân "Tại sao" và "Như thế nào". Việc "Thực hiện phỏng vấn" để nghe người dùng mô tả cách họ dùng Excel là ví dụ kinh điển của định tính.
+P995: Vì sao các đáp án khác sai:
+P997: B & D: Phân tích dữ liệu thống kê (B) hay chạy thử nghiệm A/B (D) là để tìm ra con số "Bao nhiêu", thuộc về Nghiên cứu định lượng (Quantitative research).
+P999: C: Viết phần mềm phân loại (C) là công việc của kỹ sư lập trình/AI, không phải là tác vụ nghiên cứu UX cốt lõi.
+P1001: Tổng kết kiến thức (Định tính vs. Định lượng): Định tính (Qualitative) sinh ra chữ viết, cảm xúc, hành vi, sự thấu hiểu (Phỏng vấn, Quan sát). Định lượng (Quantitative) sinh ra con số, thống kê, bằng chứng toán học (Khảo sát, A/B Testing, Analytics).
+P1002: Chào bạn, mình sẽ tiếp tục phân tích chi tiết cho 10 câu tiếp theo (từ câu 71 đến câu 80) dựa trên bộ tài liệu bạn đã cung cấp.
+P1004: Câu 71: Effective ways of delivering findings to stakeholders include:
+P1005: Đáp án đúng: D (I, III, IV).
+P1007: Vì sao D đúng: Để báo cáo kết quả nghiên cứu một cách hiệu quả và thuyết phục cho các bên liên quan (stakeholders), bạn nên:
+P1009: (I) Kể các giai thoại/câu chuyện ngắn gọn về những khoảnh khắc quan trọng (Anecdotes).
+P1011: (III) Mời họ tham gia trực tiếp vào các buổi test hoặc buổi phân tích dữ liệu để họ tự trải nghiệm.
+P1013: (IV) Dùng các trích dẫn trực tiếp (Quotes) hoặc video cắt ra từ buổi test để tăng tính chân thực.
+P1015: Vì sao các đáp án khác sai:
+P1017: (II) "Kể lại toàn bộ những gì đã diễn ra trong từng buổi test" là một cách làm tồi tệ. Nó chứa quá nhiều thông tin rác, làm người nghe mệt mỏi và mất đi sự tập trung vào những vấn đề chính yếu.
+P1019: Tổng kết kiến thức (Báo cáo UX): Stakeholders thường không có nhiều thời gian. Đừng đưa cho họ một tài liệu nghiên cứu dày cộp. Hãy dùng hình ảnh, video, trích dẫn ngắn và kéo họ vào quá trình thực tế để xây dựng sự thấu cảm (empathy) với người dùng.
+P1021: Câu 72: Clear "tests" that determine whether someone is "in" or "out" of the target population for a user test are:
+P1022: Đáp án đúng: A (Recruiting criteria).
+P1024: Vì sao A đúng: "Tiêu chí tuyển dụng" (Recruiting criteria) hoạt động như một bộ lọc nhị phân (Đúng/Sai, In/Out) để loại bỏ ngay những người không thuộc tệp khách hàng mục tiêu của bạn. Ví dụ: "Bạn phải đang sở hữu một chiếc ô tô".
+P1026: Vì sao các đáp án khác sai:
+P1028: B (Diversity criteria): Tiêu chí đa dạng không loại người, mà dùng để cân bằng nhóm đã lọt qua vòng "Recruiting" (vd: Trong số người có ô tô, tôi cần 50% nam và 50% nữ).
+P1030: C & D: User tests và Tasks là những gì diễn ra sau khi đã tuyển được người.
+P1032: Tổng kết kiến thức (Sàng lọc người tham gia): Quá trình tìm người tham gia (screener) luôn bao gồm hai bước: Dùng Recruiting Criteria để vạch ra ranh giới cứng, sau đó dùng Diversity Criteria để đảm bảo sự phong phú bên trong ranh giới đó.
+P1034: Câu 73: What elements should a script include for a remote moderated test? (choose 5 answers)
+P1035: Đáp án đúng: A, B, C, E, F.
+P1037: Vì sao đúng: Một kịch bản điều phối chuẩn mực cần có: Xin phép ghi âm/ghi hình (A), Giới thiệu bản thân (B), Trò chuyện tạo sự thoải mái (C), Đặt kỳ vọng về thời lượng/nội dung (E), và Giải thích rõ vai trò của người điều phối (F).
+P1039: Vì sao D sai: "Hướng dẫn chính xác cách hoàn thành tác vụ" (Exact instructions for how to complete tasks) là điều tối kỵ trong Usability Test. Nếu bạn chỉ cho người dùng cách làm từ A-Z, bạn đang đánh giá khả năng nghe lời của họ chứ không phải đang đánh giá xem giao diện có dễ sử dụng (discoverable) hay không.
+P1041: Tổng kết kiến thức (Kịch bản Test): Người điều phối chỉ đưa ra mục tiêu (Ví dụ: "Hãy tìm cách mua một chiếc áo màu đỏ"), tuyệt đối không đưa ra các bước thao tác cụ thể (Ví dụ: "Hãy bấm vào nút Menu, chọn Áo, chọn màu Đỏ").
+P1043: Câu 74: PART 1: Wireframes. In order to respond to a user testing task, we check map...
+P1044: Đáp án đúng: A.
+P1046: (Lưu ý: Do ảnh trong tài liệu bị che khuất văn bản chi tiết, đáp án A được ghi nhận là đáp án đúng về trình tự sắp xếp các Wireframe để phản hồi một tác vụ của người dùng).
+P1048: Tổng kết kiến thức (Wireflows): Khi kiểm thử bằng Wireframe (Bản vẽ khung), chúng ta không chỉ xem xét một màn hình tĩnh mà phải liên kết chúng lại thành một luồng (flow) để mô phỏng cách người dùng di chuyển từ màn hình này sang màn hình khác nhằm hoàn thành task.
+P1050: Câu 75: Which of the following is NOT an element of a typical scenario?
+P1051: Đáp án đúng: C (Location).
+P1053: Vì sao C đúng: Trong một số khung lý thuyết xây dựng kịch bản thiết kế (Scenario), "Địa điểm" (Location) chỉ là một phần thuộc về bối cảnh (Context) và không phải là một thành tố cấu trúc bắt buộc phải có để hình thành nên cốt truyện cốt lõi.
+P1055: Vì sao các đáp án khác sai: Một kịch bản điển hình bắt buộc phải có:
+P1057: A (Agent): Nhân vật/Người dùng.
+P1059: D (Goals): Mục tiêu họ muốn đạt được.
+P1061: B & E (Actions & Events): Các hành động họ thực hiện và các sự kiện diễn ra để dẫn đến kết quả.
+P1063: Tổng kết kiến thức (Scenarios): Kịch bản là công cụ giúp đội ngũ thiết kế hình dung cụ thể các bước mà Persona (người dùng giả định) sẽ trải qua để giải quyết vấn đề của họ thông qua ứng dụng.
+P1065: Câu 76: What does the System Usability Scale measure?
+P1066: Đáp án đúng: A (Perceived usability).
+P1068: Vì sao A đúng: SUS (System Usability Scale) là một bảng khảo sát 10 câu hỏi tiêu chuẩn dùng để đo lường "Tính khả dụng được cảm nhận" (Perceived usability) từ góc nhìn chủ quan của người dùng sau khi họ dùng thử hệ thống.
+P1070: Vì sao các đáp án khác sai:
+P1072: B & C: Số task hoàn thành và Tần suất lỗi là các thước đo mang tính khách quan (objective metrics), được ghi nhận bằng cách quan sát hoặc phần mềm tracking, không phải bằng bảng hỏi SUS.
+P1074: D: Việc tìm ra lỗi vi phạm nguyên tắc thiết kế là kết quả của phương pháp Đánh giá Chuyên gia (Heuristic Evaluation), không liên quan đến SUS.
+P1076: Tổng kết kiến thức (Thang đo SUS): SUS là công cụ phổ biến nhất thế giới để định lượng hóa cảm nhận của người dùng về độ dễ dùng. Tuy nhiên, điểm SUS cao chỉ phản ánh cảm giác của người dùng, không đồng nghĩa với việc hệ thống không có lỗi kĩ thuật ẩn bên trong.
+P1078: Câu 77: Which of the following is a BAD question to ask during a user needs assessment interview?
+P1079: Đáp án đúng: D (Was it because you didn't know about the "undo" feature that you were unable to complete the task?).
+P1081: Vì sao D đúng: Đây là một câu hỏi tồi tệ vì nó hội tụ mọi lỗi sai trong phỏng vấn:
+P1083: Đóng (Closed-ended): Ép người dùng trả lời Yes/No.
+P1085: Mớm lời (Leading): Tự đưa ra sẵn lý do cho người dùng.
+P1087: Phán xét (Judgmental): Đổ lỗi việc không hoàn thành task là do sự thiếu hiểu biết của người dùng, khiến họ phòng thủ hoặc tự ái.
+P1089: Vì sao các đáp án khác sai: Các đáp án A, B, C đều là những câu hỏi mở, khách quan, đào sâu bối cảnh và khuyến khích người dùng chia sẻ thêm (Tell me more, What functionality...).
+P1091: Tổng kết kiến thức (Nghệ thuật đặt câu hỏi): Trong UX, "Người dùng không bao giờ sai, chỉ có thiết kế sai". Việc đặt câu hỏi mang tính đổ lỗi cho năng lực của người dùng sẽ phá hủy hoàn toàn mối quan hệ (rapport) trong buổi phỏng vấn.
+P1093: Câu 78: Creation of many alternative solutions increases the quality of the final design
+P1094: Đáp án đúng: A (True).
+P1096: Vì sao A đúng: Quá trình tạo ra nhiều giải pháp thay thế (Ideation/Divergence) ép não bộ vượt qua những giải pháp đầu tiên, sáo rỗng và an toàn. Khi bạn có một "kho" nhiều ý tưởng khác biệt, khả năng chắt lọc và kết hợp ra được một bản thiết kế cuối cùng xuất sắc (Convergence) sẽ tăng lên đáng kể.
+P1098: Tổng kết kiến thức (Tư duy phân kì & Hội tụ): Trong Design Thinking, số lượng sinh ra chất lượng. Đừng vội vàng chốt ngay ý tưởng đầu tiên lóe lên trong đầu.
+P1100: Câu 79: What is the main problem with the following survey question? "How likely are you to participate in an online course in the future?"
+P1101: Đáp án đúng: B (The question stem doesn't include both poles of the scale.).
+P1103: Vì sao B đúng: Phần thân câu hỏi (question stem) chỉ hỏi "How likely..." (Bạn có khả năng... như thế nào), tức là chỉ đề cập đến chiều hướng tích cực. Trong khi đó, các đáp án bên dưới lại là thang đo lưỡng cực (bipolar) chứa cả "unlikely" (không có khả năng). Điều này tạo ra một thiên kiến nhẹ, hướng sự tập trung của não bộ vào vế "có khả năng". Cách viết đúng phải là: "How likely or unlikely are you to..." (Bạn có khả năng hay không có khả năng...).
+P1105: Vì sao các đáp án khác sai: Không có lỗi về việc thang đo không khớp (A), và đây rõ ràng là một biến cần dùng thang Bipolar để xem thái độ người dùng nghiêng về phe nào, nên không cần ép thành Unipolar (C).
+P1107: Tổng kết kiến thức (Thiết kế câu hỏi khách quan): Từ ngữ trong câu hỏi phải cân bằng hoàn toàn. Nếu đáp án cho phép người dùng ghét/từ chối, câu hỏi cũng phải nhắc đến trường hợp ghét/từ chối đó để không định hướng suy nghĩ của họ.
+P1109: Câu 80: What is the value of having an overarching question in an interview protocol?
+P1110: Đáp án đúng: A (It provides a focus for the interview that the interviewer keeps in mind throughout the interview.).
+P1112: Vì sao A đúng: "Câu hỏi bao quát" (overarching question) giống như kim chỉ nam của toàn bộ dự án nghiên cứu. Người phỏng vấn sẽ giữ câu hỏi này trong đầu suốt quá trình làm việc để đảm bảo họ không bị đi lạc đề khi bị cuốn vào các câu chuyện lan man của người dùng.
+P1114: Vì sao các đáp án khác sai: Câu hỏi bao quát thường rất vĩ mô (vd: "Tại sao giới trẻ lại bỏ dùng ứng dụng X?"). Do đó, người ta KHÔNG BAO GIỜ mang nó ra để hỏi trực tiếp người dùng làm câu mở đầu (C), câu chốt (B), hay câu tóm tắt (D) vì nó quá rộng và người dùng không thể tự trả lời được.
+P1116: Tổng kết kiến thức (Overarching Question): Câu hỏi này dành riêng cho nhóm Nghiên cứu tự nhìn nhận. Để trả lời được nó, bạn phải chia nhỏ nó ra thành hàng chục câu hỏi phụ vi mô trong kịch bản phỏng vấn.
+P1117: Câu 81: Which of the following is most accurate?
+P1118: Đáp án đúng: A (Phần này bị che khuất trong tài liệu gốc, nhưng dựa vào phương pháp loại trừ, A là đáp án chính xác).
+P1120: Vì sao các đáp án khác sai:
+P1122: B: Nói rằng "Khảo sát phần lớn đã bị loại bỏ trong nghiên cứu hiện đại" là hoàn toàn sai. Khảo sát vẫn là một công cụ cực kỳ phổ biến và mạnh mẽ.
+P1124: C: Nói rằng "Không bao giờ được kết hợp khảo sát với các phương pháp khác" cũng sai. Thực tế, nghiên cứu hỗn hợp (Mixed-methods) kết hợp cả định tính và định lượng mới mang lại kết quả toàn diện nhất.
+P1126: D: Khảo sát rất tệ trong việc đo lường "kết quả hành vi thực tế" (behavioral outcomes) vì con người thường nói một đằng làm một nẻo. Khảo sát chỉ tốt để đo lường thái độ và ý kiến.
+P1128: Tổng kết kiến thức (Sử dụng khảo sát): Khảo sát là công cụ thu thập dữ liệu tự báo cáo (self-reported data). Dù có sai số, nó vẫn là công cụ không thể thiếu khi cần thu thập dữ liệu trên diện rộng, đặc biệt khi kết hợp với các phương pháp khác như phỏng vấn hay phân tích hành vi.
+P1130: Câu 82: What heuristic does this violate? (Không có tùy chọn xóa hoặc sửa mục thời gian)
+P1131: Đáp án đúng: B (User control and freedom).
+P1133: Vì sao B đúng: Nguyên tắc "Kiểm soát và tự do của người dùng" (User control and freedom) quy định rằng người dùng thường xuyên chọn nhầm chức năng và họ cần một "lối thoát khẩn cấp" (như nút Undo, Xóa, Hủy) để thoát khỏi trạng thái đó một cách dễ dàng mà không phải trải qua quy trình phức tạp. Việc không cho phép xóa hay sửa mục nhập thời gian vi phạm trực tiếp nguyên tắc này.
+P1135: Vì sao các đáp án khác sai:
+P1137: A (Visibility of system status): Hệ thống vẫn hiển thị trạng thái (đã nhập gì) rõ ràng.
+P1139: C (Error prevention): Đây là lỗi sau khi hành động đã xảy ra và cần khắc phục, không phải là ngăn chặn lỗi trước khi nó xảy ra.
+P1141: D (Recognition vs recall): Không liên quan đến việc ghi nhớ thông tin.
+P1143: Tổng kết kiến thức (Heuristics của Nielsen): Người dùng luôn mắc sai lầm. Giao diện tốt phải cho phép họ dễ dàng quay lại (undo/redo) hoặc chỉnh sửa (edit/delete) những gì họ vừa tạo ra.
+P1145: Câu 83: It's possible to create a useful, functional interactive prototype with very simple tools, such as paper, post-it notes, and scotch tape
+P1146: Đáp án đúng: A (True).
+P1148: Vì sao A đúng: Hoàn toàn có thể tạo ra một nguyên mẫu có tính tương tác, hữu ích chỉ bằng giấy, giấy nhớ và băng dính. Kỹ thuật "Paper Prototyping" cho phép mô phỏng thao tác của người dùng (ví dụ: rút một tờ giấy ra để giả lập việc cuộn màn hình hoặc dán giấy nhớ để hiện pop-up).
+P1150: Tổng kết kiến thức (Lo-fi Prototyping): Không cần phần mềm đắt tiền hay kỹ năng code để bắt đầu kiểm thử. Những nguyên mẫu bằng giấy giúp team tiết kiệm chi phí, dễ dàng vứt bỏ nếu sai và thu thập được phản hồi chân thực nhất về luồng sử dụng (flow).
+P1152: Câu 84: Which of the following best describes why you might choose to use a panel for recruiting respondents?
+P1153: Đáp án đúng: A (To reduce recruitment costs).
+P1155: Vì sao A đúng: (Câu này có nội dung tương tự câu 19). Một "Panel" là danh sách những người đã đăng ký sẵn sàng tham gia các cuộc khảo sát. Việc sử dụng nhóm này giúp tiết kiệm đáng kể thời gian và chi phí tuyển dụng so với việc phải chạy quảng cáo hay đi tìm kiếm người mới từ đầu.
+P1157: Vì sao các đáp án khác sai: Việc dùng panel không đảm bảo 100% "tăng chất lượng" (C) hay "tránh được mẫu tự chọn/thuận tiện" (D) vì những người trong panel đôi khi làm khảo sát chỉ vì tiền thưởng.
+P1159: Tổng kết kiến thức (Sử dụng Panel): Panel là giải pháp cân bằng giữa ngân sách/thời gian và nhu cầu thu thập dữ liệu nhanh chóng, phù hợp cho các nghiên cứu có tính chu kỳ hoặc khi tài nguyên hạn hẹp.
+P1161: Câu 85: Conducting an actual semi-structured interview is most consistently like which of the following activities?
+P1162: Đáp án đúng: C (Playing jazz, because improvisation is required.).
+P1164: Vì sao C đúng: Phỏng vấn bán cấu trúc (semi-structured interview) giống như chơi nhạc Jazz. Cả hai đều có một dàn ý/nhịp điệu cơ bản (kịch bản phỏng vấn/bản nhạc gốc), nhưng giá trị thực sự nằm ở khả năng ngẫu hứng (improvisation) của người thực hiện để phiêu theo người dùng, đào sâu vào những góc cạnh thú vị bất chợt xuất hiện.
+P1166: Vì sao các đáp án khác sai: Lái xe, chơi golf hay chạy marathon không phản ánh được tính tương tác linh hoạt, sự ứng biến nghệ thuật và khả năng đi chệch khỏi kế hoạch ban đầu một cách có chủ đích như nhạc Jazz.
+P1168: Tổng kết kiến thức (Phỏng vấn bán cấu trúc): Đừng bám chặt vào kịch bản như một cái máy đọc chữ. Kịch bản chỉ là bản đồ định hướng, bạn phải biết khi nào nên bỏ bản đồ xuống để đi theo câu chuyện của người dùng.
+P1170: Câu 86: Which of the following is NOT a best practice for writing open-ended questions?
+P1171: Đáp án đúng: A (Use an open-ended question after every closed-ended question.).
+P1173: Vì sao A đúng: Việc bắt người dùng phải viết câu trả lời mở ngay sau mỗi câu hỏi đóng (kiểu như: "Tại sao bạn lại chọn đáp án trên?") là một cách làm tồi tệ vì nó tạo ra gánh nặng nhận thức và sự mệt mỏi cực lớn, khiến họ dễ bỏ ngang khảo sát.
+P1175: Vì sao các đáp án khác sai (Vì chúng LÀ các thực hành tốt):
+P1177: B: Dùng các câu hỏi gợi mở trung lập (neutral probes) giúp khuyến khích họ kể thêm mà không bị mớm lời.
+P1179: C: Cung cấp động lực (ví dụ: giải thích vì sao ý kiến của họ quan trọng) giúp họ có hứng thú viết.
+P1181: D: Chỉ rõ kiểu phản hồi bạn muốn (ví dụ: "Hãy mô tả 3 lý do...") giúp họ dễ định hình câu trả lời.
+P1183: Tổng kết kiến thức (Câu hỏi mở): Hãy dùng câu hỏi mở một cách dè dặt và chiến lược trong bảng khảo sát. Chỉ hỏi khi bạn thực sự cần sự diễn giải chi tiết mà câu hỏi đóng không thể mang lại.
+P1185: Câu 87: Which of the following is not a characteristic of hi-fi prototypes?
+P1186: Đáp án đúng: C (They are of limited usefulness for testing usability).
+P1188: Vì sao C đúng: Phát biểu cho rằng Hi-fi prototypes (nguyên mẫu độ trung thực cao) có "công dụng hạn chế để kiểm thử tính khả dụng" là hoàn toàn sai (Do đề bài hỏi "NOT"). Thực tế, Hi-fi prototypes có tính tương tác, hình ảnh giống hệt sản phẩm thật, nên chúng là công cụ tốt nhất và chi tiết nhất để test usability một cách toàn diện.
+P1190: Vì sao các đáp án khác sai (Vì chúng LÀ đặc điểm của Hi-fi prototype):
+P1192: A: Đòi hỏi rất nhiều nguồn lực, thời gian và công sức để tạo ra.
+P1194: B: Người tham gia test có thể tự dùng nó mà không cần người thiết kế ngồi cạnh hướng dẫn hay thao tác hộ (như lo-fi).
+P1196: D: Do có độ chi tiết cao, nó thường được dùng làm bản đặc tả (specs) để chuyển giao cho lập trình viên.
+P1198: Tổng kết kiến thức (Hi-fi Prototypes): Nguyên mẫu độ trung thực cao mang lại phản hồi chính xác nhất về trải nghiệm vi mô (micro-interactions) và tính khả dụng thực tế, nhưng đi kèm với chi phí đắt đỏ.
+P1200: Câu 88: Scope of the evaluation includes the most frequently used functions... Is this a good scope for a user test?
+P1201: Đáp án đúng: B (Yes, it has users test the core functions of the app).
+P1203: Vì sao B đúng: Một bài kiểm thử người dùng (user test) thường chỉ kéo dài 30-60 phút. Việc giới hạn phạm vi kiểm thử (scope) vào các chức năng cốt lõi và được sử dụng thường xuyên nhất là một chiến lược xuất sắc và khả thi.
+P1205: Vì sao các đáp án khác sai:
+P1207: A: Một bài test có thể bao gồm nhiều task, không bắt buộc chỉ có một task.
+P1209: C: Không bắt buộc phải so sánh hai hệ thống mới gọi là user test (đó là A/B testing).
+P1211: D: Cố gắng test mọi tác vụ trong một lần là bất khả thi, gây quá tải cho người dùng và người nghiên cứu.
+P1213: Tổng kết kiến thức (Phạm vi User Test): Đừng tham lam. Hãy ưu tiên kiểm tra những luồng (flows) mang lại giá trị lớn nhất cho người dùng hoặc những luồng đang có nguy cơ rủi ro cao nhất.
+P1215: Câu 89: Brainstorming, morphological analysis, and "the worst idea" are examples of what kind of technique?
+P1216: Đáp án đúng: A (Ideation).
+P1218: Vì sao A đúng: Tất cả các kỹ thuật này (Động não, Phân tích hình thái, và Tìm ý tưởng tồi tệ nhất) đều nhằm mục đích phá vỡ rào cản tư duy để tạo ra càng nhiều ý tưởng mới càng tốt. Đây chính là giai đoạn Hình thành ý tưởng (Ideation).
+P1220: Vì sao các đáp án khác sai:
+P1222: C (Convergence): Hội tụ là quá trình chọn lọc, thu hẹp các ý tưởng lại, trái ngược với Ideation (Phân kỳ).
+P1224: B: Prototyping là bước làm nguyên mẫu, diễn ra sau khi đã có ý tưởng.
+P1226: Tổng kết kiến thức (Ideation Techniques): Có rất nhiều công cụ để ép não bộ sáng tạo. Ví dụ, trò chơi "The worst idea" (Cố tình nghĩ ra giải pháp tệ nhất) giúp giải tỏa áp lực phải hoàn hảo, từ đó đôi khi lại mở ra những góc nhìn độc đáo.
+P1228: Câu 90: In which of the following contexts can you use qualitative data analysis?
+P1229: Đáp án đúng: D (I, II, and III).
+P1231: Vì sao D đúng: Phân tích dữ liệu định tính (Qualitative data analysis) áp dụng được cho cả 3 ngữ cảnh:
+P1233: (I) Hiểu sâu về nhu cầu, nỗi đau của người dùng.
+P1235: (II) Giải mã ý nghĩa của các dữ liệu phi số liệu (non-quantitative) như hình ảnh, lời nói, văn bản.
+P1237: (III) Cô đọng/tóm tắt các luồng thông tin phức tạp (từ những cuộc phỏng vấn dài thành các themes/insight ngắn gọn).
+P1239: Tổng kết kiến thức (Phân tích Định tính): Nếu định lượng giúp trả lời câu hỏi "Có bao nhiêu?", thì phân tích định tính là nghệ thuật gom nhóm, tìm ra các khuôn mẫu (patterns) trong sự hỗn loạn của ngôn ngữ để trả lời câu hỏi "Tại sao lại như vậy?".
+P1241: Câu 91: At what point in a product or service's life-cycle should one conduct a user needs assessment?
+P1242: Đáp án đúng: C (I and II).
+P1244: Vì sao C đúng: Đánh giá nhu cầu người dùng (User needs assessment) là bước tìm hiểu nền tảng để biết người dùng đang cần gì, gặp khó khăn gì. Do đó, nó phải được thực hiện (I) Trước khi thiết kế một sản phẩm mới, và (II) Trước khi xem xét thiết kế lại (re-design) một sản phẩm hiện có.
+P1246: Vì sao các đáp án khác sai: Mệnh đề (III) "Ngay trước khi phát hành một sản phẩm đã được thiết kế xong" là hoàn toàn sai. Việc tìm hiểu nhu cầu lúc này là quá muộn, vì sản phẩm đã làm xong. Lúc này người ta chỉ làm kiểm thử khả dụng (Usability testing) để tìm lỗi chứ không phải để tìm hiểu nhu cầu nữa.
+P1248: Tổng kết kiến thức (Thời điểm nghiên cứu nhu cầu): Nghiên cứu nhu cầu (Formative research) luôn nằm ở vạch xuất phát của quy trình UX. Nếu làm sai hoặc bỏ qua bước này, bạn có nguy cơ tạo ra một sản phẩm rất đẹp, rất dễ dùng nhưng... không ai cần đến.
+P1250: Câu 92: What can UX researchers do to minimize the impact of confirmation bias?
+P1251: Đáp án đúng: A (Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the test).
+P1253: Vì sao A đúng: Thiên kiến xác nhận (Confirmation bias) là xu hướng con người chỉ chú ý đến những thông tin ủng hộ cho niềm tin có sẵn của họ. Người thiết kế ra sản phẩm thường rất "yêu" đứa con tinh thần của mình, nên họ dễ dàng bỏ qua các lỗi mà người dùng gặp phải. Nhờ một "bên thứ ba trung lập" không liên quan đến dự án để điều phối buổi test sẽ loại bỏ hoàn toàn thiên kiến này.
+P1255: Vì sao các đáp án khác sai:
+P1257: B: Nhờ gia đình/bạn bè là sai lầm vì họ thường ngại làm mất lòng bạn nên sẽ khen nhiều hơn chê.
+P1259: C: Tin vào trực giác thay vì hệ thống khách quan là cốt lõi gây ra thiên kiến.
+P1261: D: Việc hỏi lặp lại 3 lần không giúp giảm thiên kiến, mà chỉ làm người dùng khó chịu.
+P1263: Tổng kết kiến thức (Thiên kiến xác nhận): "Đừng bao giờ tự chấm điểm bài thi của chính mình". Trong UX, sự khách quan là yếu tố sống còn để nhìn nhận đúng thực tế sản phẩm.
+P1265: Câu 93: When reporting an issue found through user testing you should report all of the following EXCEPT:
+P1266: Đáp án đúng: E (The names of the participants who encountered them).
+P1268: Vì sao E đúng: Trong bất kỳ báo cáo nghiên cứu nào, nguyên tắc đạo đức tối thượng là bảo vệ quyền riêng tư của người tham gia. Việc đưa danh tính thật (tên tuổi) của họ vào báo cáo vi phạm nghiêm trọng quy định về Dữ liệu Nhận dạng Cá nhân (PII).
+P1270: Vì sao các đáp án khác sai: Khi báo cáo một lỗi UX, bạn bắt buộc phải có: Mô tả rõ ràng vấn đề (D), Mức độ nghiêm trọng (B), Bằng chứng trích xuất từ buổi test (C), và Đề xuất cách khắc phục (A).
+P1272: Tổng kết kiến thức (Báo cáo lỗi UX & Đạo đức nghiên cứu): Chúng ta báo cáo hành vi và vấn đề, không báo cáo con người. Trong các tài liệu nội bộ, người tham gia thường được ẩn danh dưới dạng P1, P2 (Participant 1, 2) hoặc sử dụng tên giả.
+P1274: Câu 94: Granularity of the needed information is an important consideration when designing system inputs.
+P1275: Đáp án đúng: A (True).
+P1277: Vì sao A đúng: Mức độ chi tiết (Granularity) của thông tin đầu vào là một yếu tố thiết kế quan trọng. Tùy vào mục đích của hệ thống mà bạn yêu cầu người dùng nhập liệu ở mức độ nào. (Ví dụ: Bạn chỉ cần biết người dùng sinh năm nào để tính tuổi, hay bạn cần ngày/tháng/năm sinh chính xác để gửi quà sinh nhật?).
+P1279: Tổng kết kiến thức (Thiết kế Form nhập liệu): Yêu cầu thông tin với độ chi tiết quá mức cần thiết (high granularity) sẽ làm tăng gánh nặng nhập liệu và khiến người dùng bỏ ngang form. Thiết kế UX tốt chỉ đòi hỏi thông tin ở mức độ chi tiết vừa đủ dùng.
+P1281: Câu 95: By helping users form effective _____, we can help users to predict the results of actions they haven't yet performed using a system.
+P1282: Đáp án đúng: D (Conceptual models).
+P1284: Vì sao D đúng: "Mô hình khái niệm" (Conceptual models) là bản đồ tư duy trong đầu người dùng về cách một hệ thống hoạt động. Khi người dùng có một mô hình khái niệm chính xác (nhờ giao diện rõ ràng, gợi ý tốt), họ có thể dùng logic để suy luận và dự đoán được kết quả của những tính năng mà họ thậm chí chưa từng bấm vào.
+P1286: Vì sao các đáp án khác sai:
+P1288: C (Feedback): Phản hồi chỉ xảy ra sau khi hành động đã được thực hiện, không dùng để dự đoán trước.
+P1290: A (System images): Đây là hình ảnh hệ thống thực tế do nhà thiết kế tạo ra, người dùng dùng nó để xây dựng conceptual model của riêng họ.
+P1292: Tổng kết kiến thức (Conceptual Models): Hãy thiết kế giao diện sao cho nó trùng khớp với những khái niệm quen thuộc trong đời thực. Ví dụ: Biểu tượng "Thùng rác" giúp người dùng có ngay mô hình khái niệm rằng "kéo file vào đây là sẽ bị vứt đi".
+P1294: Câu 96: According to the original research on short-term memory, how many "items" can a person retain in short-term memory at one time?
+P1295: Đáp án đúng: B (About 7).
+P1297: Vì sao B đúng: Dựa trên nghiên cứu kinh điển của nhà tâm lý học George Miller (Định luật Miller năm 1956), trí nhớ ngắn hạn của một người trung bình chỉ có thể lưu giữ được khoảng 7 (cộng hoặc trừ 2) khối thông tin (items/chunks) cùng một lúc.
+P1299: Tổng kết kiến thức (Định luật Miller trong UX): Do giới hạn sinh học này, chúng ta không nên bắt người dùng phải nhớ quá nhiều thứ cùng lúc. Các thanh điều hướng (navigation bar) thường chỉ nên chứa 5-7 mục. Nếu có thông tin dài (như số điện thoại, số thẻ tín dụng), hãy chia nhỏ (chunking) chúng ra (ví dụ: 090-123-4567) để bộ não dễ xử lý hơn.
+P1301: Câu 97: Which of the following is an example of a good use of a post-test questionnaire?
+P1302: Đáp án đúng: C (Obtaining quantified measures of participants' subjective reactions to using a system).
+P1304: Vì sao C đúng: Bảng câu hỏi sau thử nghiệm (post-test questionnaire, ví dụ như thang đo SUS) là công cụ tuyệt vời nhất để thu thập các "số liệu định lượng hóa" (quantified measures) về phản ứng và cảm nhận chủ quan của người dùng đối với hệ thống.
+P1306: Vì sao các đáp án khác sai:
+P1308: A & B: Việc đặt câu hỏi mở hoặc đào sâu lý do "tại sao" phù hợp hơn cho buổi phỏng vấn trực tiếp (debrief interview), nơi bạn có thể linh hoạt tương tác.
+P1310: D: Việc đo lường thời gian hoàn thành task phải được người nghiên cứu bấm giờ hoặc hệ thống tự đếm trong quá trình diễn ra tác vụ, không phải bằng cách bắt người dùng tự nhớ và điền vào bảng khảo sát sau đó.
+P1312: Tổng kết kiến thức (Post-test Questionnaire): Đây là lúc bạn phát cho người dùng các bộ câu hỏi chuẩn hóa có thang điểm (như 1 đến 5 sao) để số hóa cảm xúc của họ, giúp bạn có những điểm số cụ thể để báo cáo và so sánh.
+P1314: Câu 98: Which of the following are techniques that might be used in qualitative data analysis?
+P1315: Đáp án đúng: C (I and III).
+P1317: Vì sao C đúng: Trong phân tích dữ liệu định tính (Qualitative data analysis), hai kỹ thuật cốt lõi là:
+P1319: (I) Clustering (Gom cụm): Nhóm các ghi chú/dữ liệu có nét tương đồng lại với nhau (như kỹ thuật Affinity Diagram).
+P1321: (III) Finding patterns (Tìm kiếm quy luật/khuôn mẫu): Rút ra những chủ đề hoặc hành vi lặp đi lặp lại từ các dữ liệu đã gom cụm.
+P1323: Vì sao mệnh đề II sai: Chạy mô hình hồi quy thống kê (statistical regression) liên quan đến các phép toán phức tạp trên các biến số học, đây là kỹ năng đặc thù của Phân tích Định lượng (Quantitative).
+P1325: Tổng kết kiến thức (Xử lý dữ liệu định tính): Dữ liệu định tính thường là một đống giấy nhớ (sticky notes) chứa chữ viết hoặc các đoạn băng ghi âm. Nhiệm vụ của nhà nghiên cứu là đọc, sắp xếp chúng thành từng nhóm ý nghĩa và tìm ra câu chuyện đằng sau đó.
+P1327: Câu 99: According to Wikipedia, a "direct manipulation interface" is one that features "continuous representation of objects of interest... The "continuous representation of objects of interest" is best aligned with which principle of good UI design?
+P1328: Đáp án đúng: B (Support recognition over recall).
+P1330: Vì sao B đúng: Giao diện thao tác trực tiếp (Direct manipulation) có đặc điểm là "hiển thị liên tục đối tượng đang được quan tâm". Việc luôn nhìn thấy đối tượng trên màn hình (như thư mục tài liệu luôn hiển thị trước mắt) giúp bộ não chỉ cần "nhận diện" (recognition) ra nó là xong, thay vì phải tốn công "ghi nhớ" (recall) xem đối tượng đó nằm ở đâu hay lệnh mở nó là gì bằng các dòng code gõ tay.
+P1332: Vì sao các đáp án khác sai:
+P1334: Dù giao diện thao tác trực tiếp cũng giúp ngăn chặn lỗi (A) hay hỗ trợ tự do (D), nhưng mệnh đề cụ thể "hiển thị liên tục đối tượng" thì gắn bó mật thiết nhất và trực tiếp nhất với nguyên tắc Nhận diện thay vì Ghi nhớ.
+P1336: Tổng kết kiến thức (Recognition vs. Recall): "Nhận diện" (như thi trắc nghiệm) luôn dễ hơn "Ghi nhớ" (như thi tự luận). Trong UI, việc hiển thị sẵn các nút bấm, icon, danh sách thả xuống là những cách để tối ưu hóa sự nhận diện.
+P1338: Câu 100: Which of the following questions is best answered by a quantitative research method?
+P1339: Đáp án đúng: A (What proportion of Gadget X users love Feature Y?).
+P1341: Vì sao A đúng: Nghiên cứu định lượng (Quantitative research) sinh ra để giải quyết các câu hỏi về lượng, như "Bao nhiêu người", "Tỷ lệ bao nhiêu". Câu hỏi "Tỷ lệ (proportion) người dùng Gadget X yêu thích tính năng Y là bao nhiêu?" hoàn toàn phù hợp để dùng bảng khảo sát quy mô lớn chạy ra số liệu phần trăm.
+P1343: Vì sao các đáp án khác sai:
+P1345: B: Hỏi về "Các cách khác nhau khiến người dùng bực mình" cần phương pháp Định tính (Phỏng vấn/Quan sát) để khai thác các câu chuyện và ngữ cảnh.
+P1347: C & D: Dự báo doanh thu kinh tế hoặc phân tích nguyên nhân - hệ quả của việc tăng tai nạn giao thông đòi hỏi các mô hình phân tích kinh doanh, khoa học dữ liệu hoặc dịch tễ học phức tạp, nằm ngoài phạm vi cốt lõi của nghiên cứu người dùng thông thường.
+P1349: Tổng kết kiến thức (Định lượng): Khi bạn cần các con số thống kê có ý nghĩa đại diện (như 75% người dùng click vào nút A) để chứng minh một xu hướng hay đưa ra quyết định kinh doanh, Định lượng là phương pháp phải dùng.
+P1350: Câu 101: What is a good way to establish rapport with an interview participant?
+P1351: Đáp án đúng: B (Make small talk at first).
+P1353: Vì sao B đúng: Xây dựng mối quan hệ (rapport) là bước tạo sự thoải mái và tin tưởng ban đầu. Việc "trò chuyện phím" (small talk) về thời tiết, đường đi hay một chủ đề nhẹ nhàng giúp người tham gia bớt căng thẳng trước khi bước vào các câu hỏi chính thức.
+P1355: Vì sao các đáp án khác sai:
+P1357: A: Kể về người khác sẽ làm lộ thông tin và khiến người tham gia bị nhiễu tâm lý.
+P1359: C & D: Lắng nghe và có tư duy học hỏi là thái độ cần thiết trong suốt buổi phỏng vấn, nhưng để "bắt đầu/thiết lập" (establish) sự thoải mái thì small talk mang lại hiệu quả trực tiếp nhất.
+P1361: Tổng kết kiến thức: Một người dùng căng thẳng sẽ không cung cấp dữ liệu tốt. Dành 3-5 phút đầu để phá băng (ice-breaking) là kỹ năng bắt buộc của người phỏng vấn UX.
+P1363: Câu 102: What is the main problem with the following interview question: "Tell me about what you were able to compile in Terminal. I know you had a hard time finding it."
+P1364: Đáp án đúng: C (It is judgmental — you are suggesting that the participant's lack of knowledge was a problem.).
+P1366: Vì sao C đúng: Câu nói "Tôi biết bạn đã rất chật vật để tìm nó" mang tính phán xét (judgmental). Nó ngầm định rằng người dùng kém cỏi hoặc thiếu kiến thức, khiến họ dễ rơi vào trạng thái phòng thủ, tự ái hoặc không muốn chia sẻ thêm.
+P1368: Vì sao các đáp án khác sai: Câu này không phải là câu hỏi đóng (Yes/No) và không hẳn là mớm lời (leading) về cách hệ thống hoạt động, mà vấn đề nghiêm trọng nhất của nó là thái độ trịch thượng.
+P1370: Tổng kết kiến thức: Trong kiểm thử UX, người thiết kế phải luôn nhấn mạnh "Chúng tôi đang kiểm tra hệ thống, không phải kiểm tra bạn". Bất kỳ câu từ nào chê bai năng lực của người dùng đều phá hủy môi trường nghiên cứu.
+P1372: Câu 103: What should you do during the Think Aloud protocol?
+P1373: Đáp án đúng: B (Prompt the user to convey their thinking out loud with short questions).
+P1375: Vì sao B đúng: Phương pháp "Nghĩ thành tiếng" (Think Aloud) yêu cầu người dùng liên tục nói ra những gì họ đang làm, đang nhìn và đang cảm thấy. Tuy nhiên, người dùng thường có xu hướng im lặng khi gặp khó khăn tập trung. Lúc này, bạn cần chủ động nhắc nhở bằng các câu hỏi ngắn (Ví dụ: "Bạn đang nghĩ gì vậy?") để họ tiếp tục nói.
+P1377: Vì sao các đáp án khác sai:
+P1379: A: Buổi test là để nghe suy nghĩ của người dùng, không phải của bạn.
+P1381: C: Bạn không bao giờ được phép nói cho họ biết họ làm đúng hay sai trong quá trình test.
+P1383: D: Ngồi im khi người dùng im lặng sẽ làm lãng phí thời gian và mất đi dữ liệu quý giá.
+P1385: Tổng kết kiến thức: Moderating (Điều phối) là một nghệ thuật. Bạn phải biết cách giữ im lặng khi người dùng thao tác tốt, và biết cách mồi câu nhẹ nhàng khi họ quên mất việc phải "nghĩ thành tiếng".
+P1387: Câu 104: Which of the following contexts can you use qualitative data analysis?
+P1388: Đáp án đúng: D (I and II).
+P1390: Vì sao D đúng: Phân tích dữ liệu định tính có hai mục đích cốt lõi: (I) Tìm ra các khuôn mẫu/quy luật (patterns) từ vô số các cuộc phỏng vấn; và (II) Cô đọng, tóm tắt các thông tin phức tạp thành những insight dễ hiểu.
+P1392: (Lưu ý: Trong tài liệu gốc, đáp án B và D có phần text lặp ý "I and II", nhưng theo format chuẩn của bộ đề, D được ghi nhận là đáp án đầy đủ nhất).
+P1394: Tổng kết kiến thức: Dữ liệu định tính luôn cồng kềnh (hàng chục trang transcript). Kỹ năng phân tích định tính là khả năng "lọc cặn", từ hàng ngàn chữ tìm ra 3-5 vấn đề cốt lõi nhất.
+P1396: Câu 105: Which of the following topics are NOT a common part of the introduction to an interview?
+P1397: Đáp án đúng: C (How many other interview participants there are).
+P1399: Vì sao C đúng: Trong phần mở đầu, bạn KHÔNG cần thiết phải nói cho người tham gia biết có bao nhiêu người khác cùng tham gia nghiên cứu này. Thông tin này không mang lại giá trị, thậm chí có thể khiến họ cảm thấy ý kiến của mình ít quan trọng nếu số lượng người quá đông.
+P1401: Vì sao các đáp án khác sai: Tính bảo mật thông tin (A), thời lượng dự kiến (B), và mục tiêu tổng quan (D) là những thông tin bắt buộc phải nói rõ ngay từ đầu để xin sự đồng thuận (consent).
+P1403: Tổng kết kiến thức: Phần Intro của một cuộc phỏng vấn là một "bản hợp đồng miệng" giữa người nghiên cứu và người dùng: Rõ ràng về mục đích, minh bạch về thời gian và cam kết về quyền riêng tư.
+P1405: Câu 106: Research at scale can be carried out during the following product development lifecycles:
+P1406: Đáp án đúng: D (All of the others).
+P1408: Vì sao D đúng: Nghiên cứu quy mô lớn (Research at scale - như khảo sát diện rộng, phân tích log, A/B testing) có thể và nên được thực hiện ở mọi giai đoạn:
+P1410: Discovery (Khám phá): Khảo sát thị trường để xem bao nhiêu người có nhu cầu.
+P1412: Design (Thiết kế): Kiểm thử tính khả dụng từ xa không điều phối (Unmoderated testing) với hàng trăm người.
+P1414: Optimization (Tối ưu hóa): Phân tích dữ liệu người dùng (Analytics) sau khi sản phẩm đã ra mắt.
+P1416: Tổng kết kiến thức: UX Research không chỉ diễn ra ở đầu dự án. Nó là một quá trình liên tục (iterative) bám sát vòng đời sản phẩm.
+P1418: Câu 107: To test a product with real users to see if they can use it to complete a task...
+P1419: Đáp án đúng: D (IV. Remote usability testing).
+P1421: Vì sao D đúng: Để kiểm tra xem người dùng thật có thể "hoàn thành một tác vụ" cụ thể nào đó hay không, phương pháp duy nhất và trực quan nhất là Kiểm thử tính khả dụng (Usability testing), trong đó "Remote usability testing" (Kiểm thử từ xa) là một biến thể phổ biến.
+P1423: Vì sao các đáp án khác sai:
+P1425: I (Surveys) & III (Interviews): Chỉ hỏi người dùng xem họ có làm được không, và con người thường nói dối hoặc đánh giá sai năng lực của mình.
+P1427: II (A/B testing): So sánh hai phiên bản chứ không tập trung vào việc quan sát quá trình họ hoàn thành tác vụ.
+P1429: Tổng kết kiến thức: "Đừng nghe những gì người dùng nói, hãy nhìn những gì họ làm". Để biết giao diện có dễ dùng không, bắt buộc phải giao task và quan sát hành vi thực tế của họ.
+P1431: Câu 108: Which new technology trends is forcing designers to expand their toolkit to non-visual systems?
+P1432: Đáp án đúng: E (None of the others).
+P1434: Vì sao E đúng: Câu hỏi đề cập đến các hệ thống "phi thị giác" (non-visual systems).
+P1436: Đáp án A (Màn hình đồng hồ, thiết bị nhúng) vẫn là màn hình (visual).
+P1438: Đáp án C (AI) không nhất thiết là phi thị giác.
+P1440: Đáp án D (AR/VR) là những công nghệ phụ thuộc cực mạnh vào thị giác (visual/spatial).
+P1442: Ghi chú: Các hệ thống "phi thị giác" thực sự phải là Giao diện Giọng nói (VUI - Voice User Interfaces như Siri, Alexa) hoặc Giao diện Xúc giác/Âm thanh. Do không có lựa chọn nào hoàn toàn đúng, E là đáp án chính xác nhất theo tài liệu.
+P1444: Tổng kết kiến thức: UX không chỉ là vẽ màn hình (UI). Kỷ nguyên mới đòi hỏi designer phải biết thiết kế kịch bản giao tiếp bằng giọng nói, thiết kế phản hồi rung haptic, và thiết kế trải nghiệm đa giác quan.
+P1446: Câu 109: _____ are those tests that typically compare two or more designs to see which one performs better on a specific metric.
+P1447: Đáp án đúng: B (A/B testing).
+P1449: Vì sao B đúng: Đây là định nghĩa sách giáo khoa của A/B Testing. Bạn tung ra 2 phiên bản (Ví dụ: Nút Đỏ vs Nút Xanh) cho 2 tệp người dùng ngẫu nhiên trên hệ thống thực, sau đó dùng các số liệu (metrics) như tỷ lệ click chuột (CTR) hoặc doanh thu để xem phiên bản nào "thắng".
+P1451: Vì sao các đáp án khác sai: Khảo sát, phỏng vấn hay Usability test không được thiết kế tối ưu cho việc đo lường hiệu suất đối đầu (head-to-head) dựa trên dữ liệu định lượng thời gian thực.
+P1453: Tổng kết kiến thức: A/B Testing là đỉnh cao của quá trình "Tối ưu hóa" (Optimization). Nó loại bỏ hoàn toàn ý kiến cá nhân của sếp hay của designer, thay vào đó để "dữ liệu lên tiếng".
+P1455: Câu 110: Which of the following is typically NOT TRUE of user testing?
+P1456: Đáp án đúng: A (You should not know who the test participants are, and they should not know who you are.).
+P1458: Vì sao A đúng: Nhận định này là SAI bét (NOT TRUE). Trong User Testing, bạn bắt buộc phải biết người tham gia là ai vì bạn đã bỏ công tuyển dụng họ qua bảng sàng lọc (screener) để đảm bảo họ đúng tệp khách hàng mục tiêu. Hơn nữa, bạn còn phải giới thiệu bản thân, trò chuyện để tạo sự thoải mái (rapport), nên không có chuyện "không ai biết ai".
+P1460: Vì sao các đáp án khác sai (Vì chúng là những câu mô tả ĐÚNG về user testing):
+P1462: B: Bạn phải quan sát trực tiếp họ thao tác.
+P1464: C: Người tham gia phải đại diện đúng cho tệp người dùng mục tiêu.
+P1466: D: Bạn phải giao cho họ các tác vụ cụ thể để thực hiện.
+P1468: Tổng kết kiến thức: User testing không phải là kiểm thử ẩn danh hoàn toàn (Blind testing) kiểu y tế. Mối quan hệ giữa người điều phối và người tham gia là chìa khóa để khai thác các vấn đề UX sâu sắc.
+P1469: Câu 111: True or False: If you ask a good question, everyone interpreting it will apply the exact same meaning to your terms.
+P1470: Đáp án đúng: B (False).
+P1472: Vì sao B đúng: Con người có nền tảng văn hóa, ngôn ngữ và nhận thức khác nhau. Dù bạn có đặt một câu hỏi "tốt" và rõ ràng đến đâu, vẫn luôn có rủi ro người trả lời hiểu sai hoặc diễn dịch các thuật ngữ theo cách riêng của họ.
+P1474: Tổng kết kiến thức (Thiết kế câu hỏi): Đây là lý do tại sao bước kiểm thử trước (pre-testing/pilot testing) bảng khảo sát lại cực kỳ quan trọng. Nó giúp bạn phát hiện ra những từ ngữ dễ gây hiểu lầm trước khi gửi cho hàng ngàn người.
+P1476: Câu 112: About how many "Key findings" should be included in a typical user test report?
+P1477: Đáp án đúng: C (5-10).
+P1479: Vì sao C đúng: Một báo cáo kiểm thử người dùng (user test report) hiệu quả nên tập trung vào 5 đến 10 phát hiện quan trọng nhất.
+P1481: Vì sao các đáp án khác sai:
+P1483: A (0-2): Quá ít, không cung cấp đủ giá trị cho thấy buổi test có hiệu quả.
+P1485: D (20-50): Quá nhiều, gây tình trạng quá tải thông tin (information overload) cho các bên liên quan, khiến họ không biết phải ưu tiên sửa lỗi nào trước.
+P1487: Tổng kết kiến thức (Báo cáo UX): Kỹ năng phân tích không chỉ là tìm ra lỗi, mà còn là biết cách ưu tiên (prioritize). Hãy chọn lọc những vấn đề có tác động lớn nhất đến trải nghiệm để đưa lên bản tóm tắt dành cho ban giám đốc (Executive Summary).
+P1489: Câu 113: When making a recommendation for how to address a problem, you should consider all of the following EXCEPT:
+P1490: Đáp án đúng: B (Declining to provide a recommendation, admitting you have no good ideas).
+P1492: Vì sao B đúng: Với tư cách là nhà nghiên cứu/thiết kế UX, khi phát hiện ra vấn đề, bạn không bao giờ được phép chỉ "báo cáo lỗi rồi từ chối đưa ra giải pháp vì không có ý tưởng nào".
+P1494: Vì sao các đáp án khác sai (Vì chúng LÀ những việc nên làm): Bạn có thể tham khảo đối thủ (A), đề xuất nghiên cứu sâu hơn nếu chưa rõ (C), hoặc đề xuất thiết kế lặp (D) để thử nghiệm các hướng đi.
+P1496: Tổng kết kiến thức: Dù không có giải pháp hoàn hảo ngay lập tức, bạn vẫn phải đưa ra một hướng tiếp cận (next steps) để giải quyết vấn đề, thể hiện tinh thần trách nhiệm với sản phẩm.
+P1498: Câu 114: Which of the following is NOT a way to increase the perceived benefit of participating in a survey?
+P1499: Đáp án đúng: B (Identify the trustworthiness of the sponsoring organization).
+P1501: Vì sao B đúng: Trong Thuyết trao đổi xã hội (Social Exchange Theory), việc làm nổi bật "sự đáng tin cậy của tổ chức" giúp làm giảm rủi ro (người dùng bớt sợ bị lừa đảo, lộ dữ liệu), chứ không phải làm tăng lợi ích (perceived benefit) trực tiếp mà họ nhận được.
+P1503: Vì sao các đáp án khác sai: Nói cho họ biết kết quả khảo sát dùng để làm gì (A) hoặc nhấn mạnh cơ hội có hạn (D) là những cách đánh vào tâm lý, làm tăng giá trị vô hình (lợi ích) của việc tham gia.
+P1505: Tổng kết kiến thức (Thiết kế Khảo sát): Để khuyến khích người dùng làm khảo sát, bạn phải tác động vào 3 yếu tố: Tăng phần thưởng/lợi ích, Giảm chi phí (như làm khảo sát ngắn lại), và Giảm rủi ro bằng cách xây dựng niềm tin.
+P1507: Câu 115: How can designers bridge the gap between formative research and design?
+P1508: Đáp án đúng: A (By envisioning how a technology might address the needs identified in formative work).
+P1510: Vì sao A đúng: Nghiên cứu định dạng (Formative research) giúp tìm ra nhu cầu và nỗi đau của người dùng. Cầu nối giữa đống dữ liệu nghiên cứu đó với bản thiết kế cuối cùng chính là "Sự hình dung" (Envisioning) - phác thảo các kịch bản, ý tưởng về cách công nghệ có thể giải quyết những nỗi đau đó.
+P1512: Tổng kết kiến thức: Dữ liệu nghiên cứu không tự nhiên biến thành giao diện. Người thiết kế phải trải qua bước chuyển hóa (Ideation, tạo Persona, Kịch bản) để chuyển dữ liệu thô thành các giải pháp thiết kế khả thi.
+P1514: Câu 116: Personas should not be based on generalizations of user characteristics derived from research. They instead focus on specific individuals who test the system.
+P1515: Đáp án đúng: B (False).
+P1517: Vì sao B đúng: Phát biểu này hoàn toàn sai ngược. Persona BẮT BUỘC phải là sự khái quát hóa (generalizations) các đặc điểm từ một nhóm lớn người dùng thực tế sau quá trình nghiên cứu. Persona KHÔNG BAO GIỜ là chân dung của một cá nhân cụ thể, đơn lẻ (như anh A hay chị B vừa tham gia test).
+P1519: Tổng kết kiến thức (Persona): Persona là một nguyên mẫu đại diện (archetype). Nó tập hợp các điểm chung về hành vi, mục tiêu của một nhóm người dùng lại thành một nhân vật hư cấu duy nhất để dễ đồng cảm.
+P1521: Câu 117: Personas are purely fictional characters.
+P1522: Đáp án đúng: B (False).
+P1524: Vì sao B đúng: Mặc dù cái tên, khuôn mặt và câu chuyện đời tư của Persona là do nhà thiết kế tự bịa ra (hư cấu), nhưng nó không phải là "hư cấu hoàn toàn" (purely fictional). Cốt lõi của nó (nhu cầu, nỗi đau, hành vi) phải được đúc kết từ dữ liệu thực tế của các nghiên cứu.
+P1526: Tổng kết kiến thức: Nếu bạn tạo ra một Persona chỉ dựa trên trí tưởng tượng trong phòng họp mà không đi phỏng vấn người thật, đó là "Bullshit Persona" - một công cụ vô dụng sẽ dẫn dự án đi sai hướng.
+P1528: Câu 118: Personas include different types of information, from demographics to motivations and sociocultural context. How should designers decide what information to include?
+P1529: Đáp án đúng: D (They should focus on information that contributes to the distinct needs and potential barriers to and motivations for use that each class of target users has in relation to the technology being developed).
+P1531: Vì sao D đúng: Bạn chỉ nên đưa vào Persona những thông tin có tác động trực tiếp đến cách người dùng sử dụng ứng dụng (nhu cầu, rào cản, động lực).
+P1533: Vì sao các đáp án khác sai: Việc nhồi nhét cho đầy đủ mọi thông tin (A) hay tập trung quá nhiều vào thông tin nhân khẩu học (như sở thích nuôi chó, mèo...) (C) là vô nghĩa nếu ứng dụng của bạn là phần mềm kế toán doanh nghiệp.
+P1535: Tổng kết kiến thức: Một Persona tốt là một Persona gọn gàng và sắc bén. Mọi chi tiết trong đó đều phải phục vụ cho việc ra quyết định thiết kế.
+P1537: Câu 119: Which of GUI principles are most useful for people with visual impairments?
+P1538: Đáp án đúng: B (False).
+P1540: (Lưu ý: Dựa trên tài liệu gốc, câu hỏi này bị lỗi đánh máy/OCR vì câu hỏi dạng chọn nhiều đáp án nhưng lại chỉ có lựa chọn True/False. Tuy nhiên, đáp án được ghi nhận theo bộ đề là B).
+P1542: Tổng kết kiến thức (Accessibility - Khả năng tiếp cận): Đối với người khiếm thị, các nguyên tắc thiết kế giao diện đồ họa (GUI) quan trọng nhất bao gồm: Độ tương phản màu sắc cao, hỗ trợ trình đọc màn hình (Screen readers), và khả năng phóng to chữ mà không vỡ bố cục.
+P1544: Câu 120: Nielsen makes several recommendations for Help and documentation. Which of the following is NOT one of them?
+P1545: Đáp án đúng: D (Help should be written from the system developers' point of view).
+P1547: Vì sao D đúng: Tài liệu hướng dẫn (Help and documentation) tuyệt đối không được viết theo góc nhìn và ngôn ngữ kỹ thuật của Lập trình viên (system developers). Nó phải được viết bằng ngôn ngữ đời thường, hướng đến mục tiêu của Người dùng.
+P1549: Vì sao các đáp án khác sai (Vì chúng LÀ các khuyến nghị chuẩn của Nielsen): Tài liệu hướng dẫn phải dễ tìm kiếm (B), tập trung vào nhiệm vụ của người dùng, và bao gồm các bước hướng dẫn cụ thể (step-by-step) (C).
+P1551: Tổng kết kiến thức (Heuristics số 10 - Help and documentation): Tốt nhất là hệ thống trực quan đến mức không cần hướng dẫn. Nhưng nếu phải có, tài liệu đó cần phải ngắn gọn, dễ tra cứu và nói ngôn ngữ của người dùng.
+P1553: Dưới đây là phần giải thích chi tiết cho các câu hỏi tiếp theo (từ câu 121 đến 126 và 5 câu đầu tiên trong phần câu hỏi bổ sung) dựa trên tài liệu "WDU (1).docx".
+P1555: Câu 121: In UX, "Design" is concerned only with the aesthetic (or visual appeal) aspects of products.
+P1556: Đáp án đúng: B (False).
+P1558: Vì sao B đúng: Thiết kế Trải nghiệm người dùng (UX Design) không chỉ đơn thuần là làm cho sản phẩm trông đẹp mắt (thẩm mỹ/aesthetic). UX bao hàm một phạm vi rộng lớn hơn rất nhiều, bao gồm tính khả dụng (usability), kiến trúc thông tin, nghiên cứu hành vi người dùng, và tương tác. Thiết kế giao diện trực quan (UI) chỉ là một phần nhỏ bên trong UX.
+P1560: Tổng kết kiến thức: Nếu một sản phẩm có vẻ ngoài tuyệt đẹp nhưng người dùng không thể tìm thấy nút thanh toán, thì đó là một thiết kế UX tồi. UX ưu tiên công năng và luồng trải nghiệm, sau đó mới đến vẻ đẹp bề ngoài.
+P1562: Câu 122: What is the limit for short term memory response?
+P1563: Đáp án đúng: B (100 milliseconds).
+P1565: Vì sao B đúng: Dựa trên các nguyên tắc kinh điển về thời gian phản hồi của hệ thống, 100 mili-giây (0.1 giây) là giới hạn để người dùng cảm thấy hệ thống đang phản hồi "ngay lập tức" (instantaneous) với các thao tác của họ. (Lưu ý: Mặc dù câu hỏi dùng từ "short term memory", nhưng thực chất nó đang hỏi về giới hạn thời gian phản hồi để không làm đứt gãy luồng suy nghĩ tức thời).
+P1567: Vì sao các đáp án khác sai: 1 giây là giới hạn để người dùng nhận thấy có độ trễ nhưng vẫn giữ được luồng suy nghĩ mà không bị mất tập trung. 10 mili-giây là quá ngắn, trong khi 1 phút là quá dài, hệ thống sẽ bị coi là treo.
+P1569: Tổng kết kiến thức: Khi thiết kế các hiệu ứng hover, click nút hoặc chuyển trang, hãy đảm bảo hệ thống phản hồi trong vòng 0.1 giây để tạo cảm giác mượt mà và trực tiếp.
+P1571: Câu 123: Which of the following is NOT a criteria of survey mode?
+P1572: Đáp án đúng: C (Sampling frame).
+P1574: Vì sao C đúng: "Khung lấy mẫu" (Sampling frame) là danh sách những người mà bạn sẽ rút ra để mời làm khảo sát (liên quan đến đối tượng nghiên cứu), nó KHÔNG phải là tiêu chí để đánh giá "Phương thức khảo sát" (Survey mode - ví dụ: khảo sát qua mạng, qua điện thoại, hay gửi thư tay).
+P1576: Vì sao các đáp án khác sai (Vì chúng LÀ tiêu chí đánh giá Survey mode): Khi chọn phương thức khảo sát, bạn phải cân nhắc Chi phí (A - Cost), Gánh nặng cho người trả lời (B - Respondent burden), và Tính linh hoạt của phương thức đó (D - Flexibility).
+P1578: Tổng kết kiến thức: Đừng nhầm lẫn giữa "Bạn sẽ hỏi ai?" (Sampling frame) và "Bạn sẽ dùng công cụ gì để hỏi họ?" (Survey mode).
+P1580: Câu 125: Which of the following is NOT among the metrics that represent Amazon's Mechanical Turk?
+P1581: Đáp án đúng: D ([Bị che khuất]).
+P1583: Vì sao D đúng: Dù phần đáp án bị che khuất trong tài liệu, chúng ta dùng phương pháp loại trừ. Amazon Mechanical Turk (MTurk) là một nền tảng thuê người làm các tác vụ nhỏ (như điền khảo sát). Các chỉ số (metrics) quan trọng trên nền tảng này chắc chắn bao gồm: Trả bao nhiêu tiền (A), Tỷ lệ hoàn thành tác vụ (B), và Tỷ lệ phản hồi (C). Do đó, phần bị che khuất là một chỉ số không liên quan.
+P1585: Tổng kết kiến thức: Khi sử dụng các nền tảng crowdsourcing như MTurk để tìm người dùng, nhà nghiên cứu phải chú ý đến chi phí và các chỉ số đo lường độ tin cậy của người làm thuê để tránh thu về dữ liệu rác.
+P1587: Câu 126: If you want to evaluate whether respondents are following instructions in a survey, what can you do?
+P1588: Đáp án đúng: B (II only).
+P1590: Vì sao B đúng: Để kiểm tra xem người tham gia khảo sát có thực sự đọc và làm theo hướng dẫn hay không (hay chỉ click bừa), bạn có thể chèn các câu hỏi yêu cầu họ "đọc câu hỏi chính xác như những gì được viết và làm theo trật tự" (Ask the questions exactly as they are written and in the order they are written). (Ví dụ: "Để chứng minh bạn đang đọc kỹ, hãy chọn đáp án số 3 cho câu hỏi này").
+P1592: Tổng kết kiến thức: Đây được gọi là "Attention checks" (Kiểm tra sự chú ý). Khảo sát từ xa thường gặp rủi ro người dùng làm ẩu lấy tiền, nên chèn các câu hỏi gài bẫy là cách để lọc bỏ những dữ liệu không trung thực.
+P1594: Câu 1 (Phần bổ sung): In a semi-structured interview, why would you want to avoid a question such as "Was it because you didn't know about the 'undo' feature that you were unable to complete the task?"
+P1595: Đáp án đúng: D (I, II and III).
+P1597: Vì sao D đúng: Câu hỏi này vi phạm mọi nguyên tắc phỏng vấn UX:
+P1599: (I) Mớm lời (Leading): Nó gợi ý sẵn một lý do ("bạn không biết nút undo") và ép người dùng vào tình huống phải chấp nhận nó.
+P1601: (II) Đóng (Closed-ended): Chỉ có thể trả lời Có hoặc Không.
+P1603: (III) Phán xét (Judgmental): Ngụ ý đổ lỗi việc task thất bại là do sự thiếu hiểu biết của người dùng.
+P1605: Tổng kết kiến thức: Thay vì hỏi như vậy, hãy hỏi mở và trung lập: "Điều gì đã khiến tác vụ này trở nên khó khăn với bạn?".
+P1607: Câu 2 (Phần bổ sung): What kinds of information might be part of qualitative data analysis?
+P1608: Đáp án đúng: D (I, II and III).
+P1610: Vì sao D đúng: Phân tích dữ liệu định tính (Qualitative data analysis) bao gồm việc xử lý mọi thông tin phi số học, cụ thể là:
+P1612: (I) Các trích dẫn trực tiếp từ lời nói của người dùng trong lúc phỏng vấn.
+P1614: (II) Các hành động hoặc sự kiện bạn quan sát được (ví dụ: họ cau mày, họ bấm nhầm nút).
+P1616: (III) Những sự thật được suy luận/rút ra từ các cuộc phỏng vấn đó (insight).
+P1618: Tổng kết kiến thức: Dữ liệu định tính rất phong phú, nó không chỉ là những gì người dùng nói (verbal), mà còn bao gồm cả ngôn ngữ cơ thể, cảm xúc và bối cảnh hành vi (non-verbal).
+P1620: Câu 3 (Phần bổ sung): What consideration is not important when deciding what platform or technology solution you will use for testing?
+P1621: Đáp án đúng: E (None of the above).
+P1623: Vì sao E đúng: Câu hỏi sử dụng phủ định kép. Nó hỏi yếu tố nào "không quan trọng". Đáp án E có nghĩa là "Không có yếu tố nào ở trên là không quan trọng", hay nói cách khác, TẤT CẢ các yếu tố từ I đến IV đều CỰC KỲ QUAN TRỌNG khi chọn nền tảng test:
+P1625: (I) Có thu thập được các số liệu (metrics) cần thiết không.
+P1627: (II) Có khả năng tiếp cận tập người dùng (panel access) không.
+P1629: (III) Tốc độ mạng yêu cầu là bao nhiêu.
+P1631: (IV) Có ghi hình màn hình, ghi âm được không.
+P1633: Câu 4 (Phần bổ sung): Which of the following are the hallmarks of good research questions?
+P1634: Đáp án đúng: E (I, III, IV, and V).
+P1636: Vì sao E đúng: Một câu hỏi nghiên cứu (research question) xuất sắc phải đạt được các tiêu chuẩn:
+P1638: (I) Clarity: Rõ ràng, không mập mờ.
+P1640: (III) Ability to be answered: Phải có khả năng trả lời được trong thực tế bằng các phương pháp nghiên cứu khả thi.
+P1642: (IV) Ethical excellence: Đảm bảo tính đạo đức, không xâm phạm nghiêm trọng đời tư.
+P1644: (V) Significance: Có ý nghĩa và mang lại giá trị cho dự án.
+P1646: Vì sao mệnh đề II sai: "Consistency" (Tính nhất quán) là tiêu chuẩn của dữ liệu thu về hoặc của thang đo, chứ không phải là đặc trưng của bản thân câu hỏi nghiên cứu ban đầu.
+P1648: Câu 5 (Phần bổ sung): What elements should a script include for a remote moderated test?
+P1649: Đáp án đúng: A, B, C, E, F.
+P1651: Vì sao đúng: Kịch bản cho một buổi test từ xa có điều phối cần thiết lập các yếu tố thủ tục và tâm lý: Xin sự đồng thuận (A), Giới thiệu (B), Phá băng tạo quan hệ (C), Đặt kỳ vọng thời gian (E), và Nêu rõ vai trò của các bên (F).
+P1653: Vì sao D sai: "Hướng dẫn chính xác cách hoàn thành tác vụ" (Exact instructions) sẽ làm hỏng mục đích của Usability Testing. Nếu bạn chỉ cho họ cách làm, bạn sẽ không bao giờ biết được thiết kế của mình có trực quan để người dùng tự khám phá hay không.
+P1654: Chào bạn, mình sẽ tiếp tục giải thích chi tiết cho các câu hỏi còn lại trong tài liệu, từ Câu 6 đến Câu 27 của phần câu hỏi bổ sung nhé.
+P1656: Câu 6 (Phần bổ sung): What technique can you use to learn about how large numbers of users navigate through an experience during the Optimization phase?
+P1657: Đáp án đúng: B (Analytics Review).
+P1659: Vì sao B đúng: Để tìm hiểu cách một số lượng rất lớn (large numbers) người dùng di chuyển qua hệ thống ở giai đoạn "Tối ưu hóa" (sau khi sản phẩm đã vận hành), phương pháp tốt nhất là Đánh giá số liệu phân tích (Analytics Review). Công cụ như Google Analytics sẽ cho bạn biết chính xác người dùng nhấp vào đâu, rớt ở trang nào với quy mô hàng triệu người.
+P1661: Vì sao các đáp án khác sai:
+P1663: C (A/B testing): Dùng để so sánh hai phiên bản cụ thể chứ không phải xem luồng điều hướng (navigate) chung.
+P1665: D (Remote usability testing): Dù làm từ xa, số lượng người tham gia vẫn rất nhỏ (vài người đến vài chục người), không thể đạt được quy mô "large numbers".
+P1667: Tổng kết kiến thức: Phân tích dữ liệu (Analytics) là "con mắt" của sản phẩm khi nó đã ra mắt thị trường. Nó cung cấp bằng chứng định lượng tuyệt đối về hành vi thực tế.
+P1669: Câu 7 (Phần bổ sung): True or False: Baseline statistics such as task completion rate, time spent on task, and/or error rates should be included in user test reports.
+P1670: Đáp án đúng: A (True).
+P1672: Vì sao A đúng: Các số liệu thống kê cơ bản (baseline statistics) như: Tỷ lệ hoàn thành tác vụ, Thời gian dành cho tác vụ, và Tỷ lệ mắc lỗi là những bằng chứng định lượng không thể thiếu trong báo cáo kiểm thử người dùng (user test reports). Chúng giúp đo lường mức độ hiệu quả và dễ dùng của hệ thống.
+P1674: Tổng kết kiến thức: Bên cạnh các insight bằng lời (định tính), số liệu (định lượng) giúp các nhà quản lý (stakeholders) dễ dàng hình dung mức độ nghiêm trọng của vấn đề để duyệt ngân sách chỉnh sửa.
+P1676: Câu 8 (Phần bổ sung): True or False: If you take good notes, there is no reason to capture a screen recording of user test sessions for later review.
+P1677: Đáp án đúng: B (False).
+P1679: Vì sao B đúng: Dù bạn có ghi chép (take notes) giỏi đến đâu, bạn vẫn có thể bỏ lỡ những cú nhấp chuột sai, những biểu cảm khuôn mặt nhỏ, hay những câu lẩm bẩm của người dùng. Việc quay lại màn hình và ghi âm (screen recording) luôn cần thiết để xem lại, trích xuất dẫn chứng (video clip) và để các thành viên khác trong team cùng phân tích.
+P1681: Câu 9 (Phần bổ sung): Personas represent target users and are, thus, primarily a distillation of the findings from formative work. Scenarios begin to move designers toward a design solution. How do scenarios do this?
+P1682: Đáp án đúng: A (By envisioning how a technology might address the needs identified in formative work).
+P1684: Vì sao A đúng: Nếu Persona (chân dung người dùng) giúp ta biết "Họ là ai?", thì Scenario (Kịch bản) là bước tiếp theo để "Hình dung" (envisioning) xem công nghệ/sản phẩm của chúng ta sẽ len lỏi vào cuộc sống của họ như thế nào để giải quyết các nhu cầu đã được tìm ra trước đó.
+P1686: Tổng kết kiến thức: Scenario không mô tả giao diện có bao nhiêu cái nút (tức là không "liệt kê tính năng" như đáp án B), mà nó kể một câu chuyện về ngữ cảnh sử dụng để hướng tới giải pháp.
+P1688: Câu 10, 13, 26, 27 (Nhóm câu hỏi về Kỹ năng vẽ/Phác thảo):
+P1689: Câu 10 & 27: Bạn phải vẽ giỏi mới dùng được Sketching trong UX? -> Đáp án: B (False).
+P1691: Câu 26: Cần kỹ năng hội họa xuất sắc để tạo Storyboards? -> Đáp án: B (False).
+P1693: Câu 13: Phác thảo dùng để tạo ý tưởng (generating) và truyền đạt ý tưởng (communicating)? -> Đáp án: A (True).
+P1695: Tổng kết kiến thức chung: Trong UX Design, vẽ (sketching/storyboarding) là một công cụ tư duy, không phải là một tác phẩm nghệ thuật. Bạn chỉ cần vẽ người que (stick figures) hoặc các khối hộp chữ nhật đủ để truyền tải ý tưởng và luồng tương tác là đã cực kỳ thành công.
+P1697: Câu 11 (Phần bổ sung): Affordances of user interface don't have much influence on how easily users learn to use the system.
+P1698: Đáp án đúng: B (False).
+P1700: Vì sao B đúng: Phát biểu này sai. "Affordances" (Tính gợi năng - ví dụ một nút bấm có đổ bóng trông như có thể bấm được xuống) có ảnh hưởng CỰC KỲ LỚN đến khả năng học hỏi (learnability) của người dùng. Giao diện có affordances tốt giúp người dùng tự hiểu cách dùng ngay từ lần đầu tiên mà không cần ai dạy.
+P1702: Câu 12 (Phần bổ sung): Personas are purely fictional characters.
+P1703: Đáp án đúng: B (False). (Câu này đã được giải thích ở phần trước). Persona phải dựa trên dữ liệu thật, không phải "hư cấu hoàn toàn" (purely fictional).
+P1705: Câu 14 (Phần bổ sung): Wizard of Oz prototypes are most useful for prototyping screen-based applications.
+P1706: Đáp án đúng: B (False).
+P1708: Vì sao B đúng: Kỹ thuật "Wizard of Oz" (Phù thủy xứ Oz - người thiết kế trốn sau rèm điều khiển hệ thống để đánh lừa người dùng rằng hệ thống là tự động) rất ít khi dùng cho các "ứng dụng dựa trên màn hình" (screen-based apps). Với app trên màn hình, người ta dùng clickable prototype (Figma, InVision).
+P1710: Tổng kết kiến thức: Wizard of Oz cực kỳ hữu ích cho các công nghệ chưa được xây dựng nhưng cần tương tác phức tạp như: Trợ lý giọng nói (AI/Voice), Chatbot nhận diện ngôn ngữ tự nhiên, hoặc các hệ thống nhận diện cử chỉ cơ thể.
+P1712: Câu 15 (Phần bổ sung): Nielsen provides several recommendations for help and documentation. Which of the following is NOT one of his recommendations?
+P1713: Đáp án đúng: D (Help should be written from the system developers' point of view).
+P1715: (Câu này lặp lại câu 120, tài liệu hướng dẫn KHÔNG được viết theo góc nhìn và ngôn ngữ của kỹ sư).
+P1717: Câu 16 (Phần bổ sung): In UX, "Design" is concerned only with the aesthetic (or beauty-related) aspects of products.
+P1718: Đáp án đúng: B (False).
+P1720: (Lặp lại câu 121, UX Design tập trung vào tính khả dụng, công năng và cấu trúc logic, không "chỉ" tập trung vào cái đẹp bề ngoài).
+P1722: Câu 17 (Phần bổ sung): For a system's response to user input to be perceived as "instantaneous" by the user, what is the maximum time that can elapse between the user's action and the system response?
+P1723: Đáp án đúng: B (100 milliseconds).
+P1725: (Lặp lại câu 122, thời gian phản hồi lý tưởng để tạo cảm giác "tức thì" là 100 mili-giây / 0.1 giây).
+P1727: Câu 18 (Phần bổ sung): When sketching to come up with different design solutions, you should stop the first time you run out of ideas.
+P1728: Đáp án đúng: B (False).
+P1730: (Lặp lại câu 9, khi cạn ý tưởng đầu tiên là lúc bộ não bắt đầu loại bỏ sự sáo rỗng để tiến vào vùng sáng tạo thực sự, tuyệt đối không được dừng lại).
+P1732: Câu 19 (Phần bổ sung): Which of the following is NOT a dimension of survey modes?
+P1733: Đáp án đúng: C (Sampling frame).
+P1735: (Lặp lại câu 123, Sampling frame - khung chọn mẫu là danh sách đối tượng nghiên cứu, không phải đặc điểm của phương pháp làm khảo sát).
+P1737: Câu 20 (Phần bổ sung): Which of the following are among key tasks that were identified? (Dựa trên bảng PART 1: Wireframes)
+P1738: Đáp án đúng: D (Check map, Help, Activate function "Robbery").
+P1740: Vì sao D đúng: Nhìn vào bảng dữ liệu trong hình ảnh của câu 20:
+P1742: Mục số 4 là "Check map".
+P1744: Mục số 8 là "Help".
+P1746: Mục số 11 là "Activate function 'Robbery'".
+P1748: Tất cả các thành phần ở đáp án D đều nằm rành rọt trong bảng thiết kế của ứng dụng này. (Các đáp án khác chứa những chức năng không có trong bảng như "Log Out" hoặc "Create a post").
+P1750: Câu 21 (Phần bổ sung): This example would most likely be an example of (choose the BEST response): (Dựa trên hình ảnh UI QUESTBOOK)
+P1751: Đáp án đúng: C (Hi-Fi Prototype).
+P1753: Vì sao C đúng: Quan sát hình ảnh, ta thấy giao diện ứng dụng QUESTBOOK đã được đổ màu, có background, có hình ảnh (characters), sử dụng font chữ định dạng rõ ràng và mô tả được luồng thao tác bằng mũi tên. Mức độ chi tiết này vượt xa Wireframes (bản vẽ khung xương trắng đen) hay Lo-Fi Prototype (bản nháp). Do đó, nó là một Nguyên mẫu độ trung thực cao (Hi-Fi Prototype).
+P1755: Câu 22 (Phần bổ sung): Which of the following is NOT something to think about if you are going to use Amazon's Mechanical Turk to recruit respondents?
+P1756: Đáp án đúng: D (Response rates for Turkers).
+P1758: (Lặp lại câu 125, "Tỷ lệ phản hồi" không phải là một số liệu phổ biến để đánh giá người làm thuê trên Mechanical Turk bằng các tiêu chí như tiền công, độ xác thực dữ liệu, hay tỷ lệ hoàn thành tác vụ).
+P1760: Câu 23 (Phần bổ sung): Which of the following are good guidelines for using an interview protocol?
+P1761: Đáp án đúng: A (I only).
+P1763: Vì sao A đúng: Kịch bản phỏng vấn (Interview protocol) nên được người phỏng vấn ghi nhớ trong đầu (I). Việc này giúp cuộc phỏng vấn diễn ra tự nhiên như một cuộc trò chuyện, tránh tình trạng bạn liên tục cúi xuống nhìn giấy như đang trả bài.
+P1765: Vì sao các mệnh đề khác sai:
+P1767: (II) Sai vì trong phỏng vấn thỉnh thoảng vẫn có thể hỏi câu hỏi đóng (yes/no) để xác nhận thông tin.
+P1769: (III) Sai vì phỏng vấn bán cấu trúc yêu cầu bạn phải linh hoạt thay đổi trật tự và từ ngữ câu hỏi tùy theo mạch kể của người dùng, không được đọc rập khuôn y như những gì đã viết.
+P1771: Câu 24 (Phần bổ sung): Scenarios help designers reflect on user needs, how technology might address those needs, and potential issues that might arise with the use of the envisioned technology.
+P1772: Đáp án đúng: A (True).
+P1774: Vì sao A đúng: Đây chính là mục đích lớn nhất của Kịch bản (Scenarios). Nó đặt người dùng vào một tình huống thực tế cụ thể, giúp nhà thiết kế soi chiếu lại nhu cầu, kiểm tra tính khả thi của công nghệ và lường trước những rủi ro trong ngữ cảnh đó.
+P1776: Câu 25 (Phần bổ sung): In order to have a mental model of a system that enable them to use that system effectively, users need to understand the technical underpinnings of that system.
+P1777: Đáp án đúng: B (False).
+P1779: (Lặp lại câu 4, Mô hình nhận thức (Mental model) là cách người dùng hiểu bề mặt tương tác của hệ thống, họ hoàn toàn KHÔNG cần phải hiểu cấu trúc kỹ thuật (technical underpinnings) bên dưới lớp code).

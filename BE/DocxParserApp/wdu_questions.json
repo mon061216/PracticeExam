@@ -1,0 +1,2092 @@
+[
+  {
+    "id": 1,
+    "text": "Which is not an output modality commonly used in today's interactive applications?",
+    "options": [
+      "A. Visual",
+      "B. Auditory",
+      "C. Olfactory",
+      "D. Tactile/Haptic"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Đáp án đúng: C."
+  },
+  {
+    "id": 2,
+    "text": "Evaluating a prototype on a desktop computer when the final system is meant to be used on a mobile phone in a noisy environment is an example of a lack of ecological validity.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Đáp án đúng: A."
+  },
+  {
+    "id": 3,
+    "text": "Why is it important to have a facilitator for a brainstorming session?",
+    "options": [
+      "A. To make sure people don't go on excessive tangents",
+      "B. To notice when session participants feel stuck or are in a dead end, and to re-energize the session by bringing up a new topic for brainstorming",
+      "C. To keep in check critiquing of ideas",
+      "D. To flag if participants end up diving too deeply into a single idea",
+      "E. All of the others"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Đáp án đúng: E."
+  },
+  {
+    "id": 4,
+    "text": "In order to have a mental model of a system that enables them to use that system effectively, users need to understand the technical underpinnings of that system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 5,
+    "text": "Which of the following represents the system's state?",
+    "options": [
+      "A. Information about the user's current location",
+      "B. Rules for operating on values",
+      "C. Rules for providing feedback to the user",
+      "D. Current values of all system inputs and variables, and rules for operating on those values"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Đáp án đúng: D."
+  },
+  {
+    "id": 6,
+    "text": "Excellent drawing skills are needed to create effective story boards.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 7,
+    "text": "Gulf of evaluation refers to which of the following?",
+    "options": [
+      "A. The user's ability to understand the system's output (e.g., the graphs that the system presents the user)",
+      "B. The ability of the user to tell if the system did what the user was trying to do",
+      "C. The user's ability to evaluate if the system is a good match for his/her needs.",
+      "D. The difference between user ratings of an app in the app store and the actual quality of the app"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 8,
+    "text": "While designers strive to set defaults for any design elements, it is not a big deal if they make mistakes, since users can just change them at any time.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 9,
+    "text": "When sketching to come up with different design solutions, you should stop the first time you run out of ideas.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 10,
+    "text": "A feature of an environment or system that its shape and appearance suggests to a person that a particular action could be taken is called:",
+    "options": [
+      "A. An affordance",
+      "B. A signal",
+      "C. A constraint",
+      "D. A signpost"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 10, 13, 26, 27 (Nhóm câu hỏi về Kỹ năng vẽ/Phác thảo):"
+  },
+  {
+    "id": 11,
+    "text": "A collection of associated concepts in long-term memory is called what?",
+    "options": [
+      "A. A thought",
+      "B. A schema",
+      "C. A rule",
+      "D. A gestalt"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 12,
+    "text": "________ means to make an idea feel real or concrete.",
+    "options": [
+      "A. Assessment",
+      "B. Communication",
+      "C. Reification",
+      "D. Reflection"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Đáp án đúng: C."
+  },
+  {
+    "id": 13,
+    "text": "A feature of an environment or system that communicates through verbiage or imagery what will happen if an action is taken is called:",
+    "options": [
+      "A. A signifier",
+      "B. A signal",
+      "C. Feedback",
+      "D. An icon"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 13: Phác thảo dùng để tạo ý tưởng (generating) và truyền đạt ý tưởng (communicating)? -> Đáp án: A (True).\nTổng kết kiến thức chung: Trong UX Design, vẽ (sketching/storyboarding) là một công cụ tư duy, không phải là một tác phẩm nghệ thuật. Bạn chỉ cần vẽ người que (stick figures) hoặc các khối hộp chữ nhật đủ để truyền tải ý tưởng và luồng tương tác là đã cực kỳ thành công."
+  },
+  {
+    "id": 14,
+    "text": "A recommended technique for supporting \"flexibility and efficiency of use\" is:",
+    "options": [
+      "A. The use of keyboard \"accelerator\" shortcuts",
+      "B. Make sure all commands are represented graphically on the screen",
+      "C. Streamline the design to minimize page load times",
+      "D. Eliminate as many commands as possible to prevent possible errors"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Đáp án đúng: A."
+  },
+  {
+    "id": 15,
+    "text": "Using obscure system codes or non-intuitive imagery to represent system features and/or feedback violates which heuristic?",
+    "options": [
+      "A. User control and freedom",
+      "B. Flexibility and efficiency of use",
+      "C. Aesthetic and minimalist design",
+      "D. Match between system and the real world"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Đáp án đúng: D."
+  },
+  {
+    "id": 16,
+    "text": "Which of the following is NOT an advantage of lo-fi prototyping?",
+    "options": [
+      "A. You can identify problems before investing significant resources in a design direction",
+      "B. You can work out aspects of graphic design such as fonts and color schemes, which have the greatest impact on usability",
+      "C. Stakeholders are more likely to give honest feedback if they perceive that design ideas are \"sketchy\" rather than \"finished\"",
+      "D. Lo-fi prototypes are easy to change, allowing you to iterate more rapidly than you could if you were creating more complex prototypes."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 17,
+    "text": "What term is used to describe the actual questions you ask people?",
+    "options": [
+      "A. Respondent",
+      "B. Instrument",
+      "C. Frame",
+      "D. Population"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 18,
+    "text": "Which of the following is NOT a way of reducing the burden on respondents to participate in your survey?",
+    "options": [
+      "A. Asking people who use a site's shopping cart how they feel about that experience.",
+      "B. Keep the survey as short as you can without compromising quality.",
+      "C. Reduce the complexity of questions by making them easy to understand.",
+      "D. Asking one group of respondents to forward the survey invite to their social networks."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Đáp án đúng: D."
+  },
+  {
+    "id": 19,
+    "text": "Which of the following best describes why you might choose to use a panel for recruiting respondents?",
+    "options": [
+      "A. To make sure you get people who are experienced in answering surveys",
+      "B. To reduce recruitment costs",
+      "C. To increase quality",
+      "D. To avoid having a convenience sample"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 20,
+    "text": "Which of the following is NOT a way to match your UX goals to survey methods?",
+    "options": [
+      "A. Launch an exploratory survey to determine UX goals.",
+      "B. Ask why you want to have the data.",
+      "C. Have a story for why surveys are the best way to meet this UX goal.",
+      "D. Define goals before choosing metrics."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Đáp án đúng: A."
+  },
+  {
+    "id": 21,
+    "text": "Which of the following is the most accurate statement?",
+    "options": [
+      "A. Error can be reduced by designing surveys as well as well as possible within resource constraints.",
+      "B. Error should be reduced to zero before launching a survey.",
+      "C. It's impossible to affect error one way or another.",
+      "D. Surveys should never be trusted because of how much error they involve."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 21: Which of the following is the most accurate statement?\nĐáp án đúng: A (Error can be reduced by designing surveys as well as well as possible within resource constraints.).\nVì sao đúng: Trong nghiên cứu, sai số (error) là điều không thể tránh khỏi hoàn toàn. Cách tiếp cận thực tế và khoa học nhất là cố gắng giảm thiểu sai số nhiều nhất có thể thông qua việc thiết kế khảo sát cẩn thận, dựa trên giới hạn về thời gian và ngân sách (resource constraints).\nVì sao sai: Việc yêu cầu sai số \"phải giảm xuống bằng 0\" (B) là điều không tưởng. Ngược lại, nói rằng \"không thể tác động đến sai số\" (C) hay \"không bao giờ nên tin vào khảo sát\" (D) là những góc nhìn quá bi quan và sai lệch về phương pháp nghiên cứu.\nTổng kết kiến thức: Nhà nghiên cứu UX giỏi không phải là người tạo ra một bản khảo sát hoàn hảo không tì vết, mà là người biết kiểm soát, dự đoán và tối ưu hóa các sai số trong phạm vi nguồn lực cho phép."
+  },
+  {
+    "id": 22,
+    "text": "This is error that is introduced when your questions somehow don't actually get to the concept you're interested in.",
+    "options": [
+      "A. Coverage error",
+      "B. Sampling Error",
+      "C. Measurement error",
+      "D. Nonresponse Error"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 22: This is error that is introduced when your questions somehow don't actually get to the concept you're interested in.\nĐáp án đúng: C (Measurement error).\nVì sao đúng: \"Sai số đo lường\" (Measurement error) xảy ra khi công cụ đo lường (ở đây là câu hỏi khảo sát) bị thiết kế sai, dẫn đến việc nó không phản ánh đúng khái niệm hoặc biến số mà bạn thực sự muốn tìm hiểu.\nVì sao sai: Coverage error (A) và Sampling error (B) liên quan đến việc chọn sai người tham gia. Nonresponse error (D) xảy ra khi những người không trả lời có đặc điểm khác biệt quan trọng so với những người chịu trả lời.\nTổng kết kiến thức: Nếu bạn muốn đo lường \"sự trung thành với thương hiệu\" nhưng câu hỏi lại chỉ đo lường \"tần suất mua hàng\", bạn đang mắc sai số đo lường."
+  },
+  {
+    "id": 23,
+    "text": "This is the error that is introduced because the way you are asking questions is going to miss some big chunk of your population of interest.",
+    "options": [
+      "A. Measurement error",
+      "B. Nonresponse error",
+      "C. Sampling frame",
+      "D. Sampling error / Coverage error"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 23: This is the error that is introduced because the way you are asking questions is going to miss some big chunk of your population of interest.\nĐáp án đúng: D (Sampling error / Coverage error).\nVì sao đúng: \"Sai số bao phủ\" (Coverage error) xuất hiện khi phương pháp phân phối khảo sát của bạn vô tình bỏ sót một bộ phận lớn trong quần thể mục tiêu. (Ví dụ: Bạn muốn khảo sát toàn bộ người dân, nhưng lại chỉ phát khảo sát qua Internet, như vậy bạn đã bỏ sót toàn bộ những người không dùng Internet).\nTổng kết kiến thức: Để tránh sai số bao phủ, khung chọn mẫu (sampling frame) của bạn phải càng sát với thực tế của quần thể mục tiêu (population) càng tốt."
+  },
+  {
+    "id": 24,
+    "text": "Which of the following best describes the social desirability outcomes in interview-led survey modes?",
+    "options": [
+      "A. Results can be biased because people want to be agreeable with an interviewer.",
+      "B. Results can be biased because interviewers will avoid questions that could be embarrassing.",
+      "C. Results can be biased because people semi-consciously will try to look acceptable to the interviewer.",
+      "D. Results can be biased because some interviewers are more able to get people to do surveys."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 24: Which of the following best describes the social desirability outcomes in interview-led survey modes?\nĐáp án đúng: C (Results can be biased because people semi-consciously will try to look acceptable to the interviewer.).\nVì sao đúng: \"Thiên kiến mong muốn xã hội\" (Social desirability bias) là hiện tượng tâm lý khi người tham gia phỏng vấn (một cách vô thức hoặc bán ý thức) có xu hướng trả lời theo cách mà họ nghĩ là sẽ được xã hội hoặc người phỏng vấn đánh giá cao, thay vì nói ra sự thật.\nVì sao sai: Không phải vì họ muốn tỏ ra \"dễ chịu/đồng ý\" (A - đây là acquiescence bias), hay do người phỏng vấn cố tình né tránh (B).\nTổng kết kiến thức: Khi hỏi về các chủ đề nhạy cảm (như thu nhập, thói quen xấu), người dùng thường có xu hướng nói dối để giữ thể diện. Khảo sát ẩn danh thường làm giảm thiên kiến này tốt hơn phỏng vấn trực tiếp."
+  },
+  {
+    "id": 25,
+    "text": "This term describes the total set of people you want to be able to represent with your survey.",
+    "options": [
+      "A. Sample",
+      "B. Response Rate",
+      "C. Respondents",
+      "D. Population"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 25: This term describes the total set of people you want to be able to represent with your survey.\nĐáp án đúng: D (Population).\nVì sao đúng: \"Quần thể\" (Population) là tập hợp toàn bộ tất cả những cá nhân mang đặc điểm mà bạn đang muốn nghiên cứu và rút ra kết luận.\nVì sao sai: \"Sample\" (Mẫu - A) chỉ là một nhóm nhỏ được rút ra từ Quần thể để làm khảo sát. \"Respondents\" (Người phản hồi - C) là những người trong Mẫu thực sự hoàn thành khảo sát.\nTổng kết kiến thức: Mục tiêu tối thượng của thống kê là dùng dữ liệu của một nhóm nhỏ (Sample) để đưa ra dự đoán chính xác cho toàn bộ nhóm lớn (Population)."
+  },
+  {
+    "id": 26,
+    "text": "What is one quality that distinguishes a semi-structured interview from other kinds of interviews?",
+    "options": [
+      "A. Half of the interview will be a questionnaire, the other half will be open-ended.",
+      "B. Half of the interview will be a questionnaire, the other half will be based on an interview protocol.",
+      "C. While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script.",
+      "D. The interviewer and the participant share the expected speaking time half of the time."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 26: What is one quality that distinguishes a semi-structured interview from other kinds of interviews?\nĐáp án đúng: C (While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script.).\nVì sao đúng: Phỏng vấn \"bán cấu trúc\" (semi-structured) có một kịch bản/dàn ý định hướng (protocol) nhưng điểm đặc biệt nhất là nó cho phép người phỏng vấn linh hoạt đi chệch khỏi kịch bản (go off-script) để đào sâu vào những câu trả lời thú vị phát sinh.\nVì sao sai: Không có quy tắc nào bắt buộc phải chia đôi 50% câu hỏi đóng và 50% câu hỏi mở (A, B) hay chia đều thời gian nói chuyện (D).\nTổng kết kiến thức: Đây là phương pháp phổ biến nhất trong UX. Nó mang lại sự cân bằng hoàn hảo: đủ cấu trúc để không đi lạc đề, nhưng cũng đủ tự do để khám phá ra những insight bất ngờ."
+  },
+  {
+    "id": 27,
+    "text": "What is an affinity note?",
+    "options": [
+      "A. A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant to the user needs assessment.",
+      "B. A comment you write during an interview that indicates a common, recurring theme.",
+      "C. A short summary that includes your analysis of a single interview.",
+      "D. A follow-up message from an interview participant that contains additional information."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 27: What is an affinity note?\nĐáp án đúng: A (A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant to the user needs assessment.).\nVì sao đúng: \"Affinity note\" (Ghi chú tương đồng) là những mảnh giấy nhớ (sticky notes) chứa các trích dẫn, quan sát hoặc dữ liệu quan trọng được bóc tách ra từ bản ghi âm/ghi chép phỏng vấn để phục vụ cho quá trình phân tích nhu cầu người dùng.\nTổng kết kiến thức: Một affinity note tiêu chuẩn phải ngắn gọn, chỉ chứa DUY NHẤT một ý (one idea per note) và có đánh dấu nguồn (đến từ người dùng nào) để dễ dàng gom nhóm sau này."
+  },
+  {
+    "id": 28,
+    "text": "What should you do when you create clusters in an affinity wall?",
+    "options": [
+      "A. Avoid mistakes, because once a cluster is formed, it cannot be undone.",
+      "B. Create clusters of more than seven affinity notes.",
+      "C. Put all notes that use the same word in a single cluster.",
+      "D. Be willing to move notes and re-form clusters."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 28: What should you do when you create clusters in an affinity wall?\nĐáp án đúng: D (Be willing to move notes and re-form clusters.).\nVì sao đúng: Quá trình xây dựng \"Bức tường tương đồng\" (Affinity wall) là một quá trình liên tục tiến hóa. Khi có thêm dữ liệu hoặc góc nhìn mới, bạn phải luôn sẵn sàng xé các giấy nhớ ra khỏi nhóm hiện tại, di chuyển chúng và tái cấu trúc lại các cụm (clusters) sao cho hợp lý nhất.\nVì sao sai: Quan điểm cho rằng \"đã tạo nhóm là không thể hoàn tác\" (A) hay \"gom tất cả các ghi chú có chung một từ vào một nhóm\" (C - phân tích theo từ vựng máy móc thay vì ý nghĩa) là những cách làm hoàn toàn sai lầm.\nTổng kết kiến thức: Phân tích định tính không có đáp án đúng sai tuyệt đối từ đầu. Sự linh hoạt trong việc sắp xếp lại dữ liệu giúp bạn nhìn thấy những khuôn mẫu ẩn sâu."
+  },
+  {
+    "id": 29,
+    "text": "Which of the following should you NOT do when trying to establish rapport with an interview participant?",
+    "options": [
+      "A. Talk about what other participants have been saying",
+      "B. Make small talk at first.",
+      "C. Listen and observe how they respond.",
+      "D. Adopt a learning mindset."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 29: Which of the following should you NOT do when trying to establish rapport with an interview participant?\nĐáp án đúng: A (Talk about what other participants have been saying).\nVì sao đúng: Việc kể lể cho người tham gia nghe về ý kiến của những người khác trước họ là điều TỐI KỴ. Nó không chỉ vi phạm bảo mật thông tin mà còn tạo ra hiệu ứng mỏ neo (anchoring), khiến người dùng hiện tại có xu hướng trả lời hùa theo số đông thay vì nêu ý kiến thật của họ.\nVì sao sai (Vì là các việc NÊN làm): Trò chuyện phím (B), Lắng nghe phản hồi (C) và Có tư duy học hỏi (D) là những kỹ năng cốt lõi để xây dựng mối quan hệ (rapport) tốt."
+  },
+  {
+    "id": 30,
+    "text": "What does it mean to balance abstraction and precision in an affinity wall cluster summary?",
+    "options": [
+      "A. The summary should be neither too long nor too short.",
+      "B. The summary should use some of the same vocabulary used in the notes in the cluster.",
+      "C. The summary should be applicable to most but not all of the notes in the cluster.",
+      "D. The summary should abstract away from specific details to capture the core idea, while remaining precise enough to be actionable."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 30: What does it mean to balance abstraction and precision in an affinity wall cluster summary?\nĐáp án đúng: D (The summary should abstract away from specific details to capture the core idea, while remaining precise enough to be actionable.).\nVì sao đúng: Khi tóm tắt một nhóm các ý tưởng (cluster), bạn phải loại bỏ các chi tiết vụn vặt để nắm bắt được \"ý tưởng cốt lõi\" (abstraction), nhưng đồng thời vẫn phải giữ lại đủ thông tin thực tế để team thiết kế có thể sử dụng nó làm cơ sở tạo ra tính năng (actionable precision).\nTổng kết kiến thức: Một tóm tắt quá trừu tượng (Ví dụ: \"Người dùng thích tiện lợi\") sẽ trở nên vô dụng vì không ai biết phải làm gì tiếp theo. Tóm tắt tốt phải kết hợp cả hai yếu tố (Ví dụ: \"Người dùng cần cách lưu thông tin thanh toán để mua hàng nhanh hơn trong 1 chạm\")."
+  },
+  {
+    "id": 31,
+    "text": "Which of the following is a good open-ended question to ask in a semi-structured interview?",
+    "options": [
+      "A. How many times a week do you use a GPS device recently?",
+      "B. Can you tell me about the most recent time when you used a GPS device?",
+      "C. Was the GPS interface poorly designed?",
+      "D. Why didn't you use the landmark feature on your GPS device?"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 31: Which of the following is a good open-ended question to ask in a semi-structured interview?\nĐáp án đúng: B (Can you tell me about the most recent time when you used a GPS device?).\nVì sao đúng: Câu hỏi này áp dụng Kỹ thuật Sự cố Tới hạn (Critical Incident Technique). Việc yêu cầu người dùng nhớ lại \"lần gần nhất\" giúp đưa họ trở lại ngữ cảnh thực tế, từ đó họ sẽ cung cấp những câu chuyện chi tiết và chính xác thay vì nói những quan điểm sáo rỗng.\nVì sao sai: Hỏi số lần (A) là câu hỏi định lượng. Hỏi giao diện có tệ không (C) là câu hỏi đóng và mang tính định hướng. Hỏi \"Tại sao không dùng...\" (D) mang tính chất phán xét, khiến người dùng phải bào chữa.\nTổng kết kiến thức: Đừng hỏi người dùng về những hành vi chung chung (Ví dụ: \"Bạn thường dùng app như thế nào?\"). Hãy luôn neo họ vào một sự kiện cụ thể trong quá khứ."
+  },
+  {
+    "id": 32,
+    "text": "Which of the following is the best-scoped question for a small user needs assessment project?",
+    "options": [
+      "A. What kinds of problems do users face when using Microsoft Word's spell-checking feature?",
+      "B. What kinds of problems do users face when using Microsoft products?",
+      "C. What kinds of problems do users face when using Microsoft Word?",
+      "D. What kinds of problems do users face when fixing a spelling error identified by Microsoft Word's spell-checking feature?"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 32: Which of the following is the best-scoped question for a small user needs assessment project?\nĐáp án đúng: A (What kinds of problems do users face when using Microsoft Word's spell-checking feature?).\nVì sao đúng: Một dự án \"nhỏ\" cần có phạm vi (scope) vừa đủ sâu nhưng không quá rộng. Tập trung vào tính năng \"kiểm tra lỗi chính tả của Word\" (A) là một phạm vi lý tưởng để nghiên cứu sâu.\nVì sao sai: Hỏi về toàn bộ sản phẩm của Microsoft (B) hay toàn bộ phần mềm Word (C) là quá sức đối với một dự án nhỏ. Ngược lại, chỉ hỏi về việc \"sửa 1 lỗi\" (D) lại quá hẹp và vặt vãnh.\nTổng kết kiến thức: Chọn đúng quy mô nghiên cứu giúp tối ưu hóa thời gian và nguồn lực. Câu hỏi nghiên cứu tốt phải nằm ở điểm giao thoa giữa \"đủ quan trọng để nghiên cứu\" và \"đủ nhỏ để hoàn thành\"."
+  },
+  {
+    "id": 33,
+    "text": "This specialization focuses on deeply understanding a particular group's culture and practices. Which of the following is NOT such a specialization?",
+    "options": [
+      "A. Ethnographic research",
+      "B. Contextual inquiry",
+      "C. User needs assessment",
+      "D. Socio-technical extraction"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 33: This specialization focuses on deeply understanding a particular group's culture and practices. Which of the following is NOT such a specialization?\nĐáp án đúng: D (Socio-technical extraction).\nVì sao đúng: \"Socio-technical extraction\" là một thuật ngữ hoàn toàn được bịa ra, không tồn tại trong lĩnh vực nghiên cứu UX hay nhân học.\nVì sao sai: Nghiên cứu dân tộc học (Ethnographic research - A), Phỏng vấn ngữ cảnh (Contextual inquiry - B) và Đánh giá nhu cầu người dùng (User needs assessment - C) đều là những phương pháp thực tế và lâu đời dùng để tìm hiểu văn hóa và hành vi của một nhóm đối tượng."
+  },
+  {
+    "id": 34,
+    "text": "What alternative approaches can you use to engage people in research results? (pick all that apply)",
+    "options": [
+      "A. Extensive report",
+      "B. Have stakeholders attend study sessions and participate in analyzing and interpreting data.",
+      "C. Create and show videos of critical moments during tests",
+      "D. Emails that include bullet point findings",
+      "E. Brief executive summary"
+    ],
+    "correctAnswers": [
+      "B",
+      "C"
+    ],
+    "explanation": "Câu 34: What alternative approaches can you use to engage people in research results? (pick all that apply)\nĐáp án đúng: B, C.\nVì sao đúng: Để thu hút sự chú ý của các bên liên quan (stakeholders) vào kết quả nghiên cứu, những phương pháp mang tính tương tác cao như: mời họ tham gia trực tiếp vào buổi test/phân tích (B) và cho họ xem video ghi lại các khoảnh khắc quan trọng của người dùng (C) mang lại hiệu quả truyền đạt sự thấu cảm cao nhất.\nVì sao sai: Các báo cáo quá dài dòng (A) hay email toàn gạch đầu dòng (D) thường khiến người đọc buồn ngủ và nhanh chóng bị bỏ qua."
+  },
+  {
+    "id": 35,
+    "text": "Which of the following is the MOST IMPORTANT consideration in picking what type of question type to use?",
+    "options": [
+      "A. The demographic makeup of your population",
+      "B. The type of analysis you plan on doing",
+      "C. The type of sampling you're using",
+      "D. The mode your survey will be delivered in"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 35: Which of the following is the MOST IMPORTANT consideration in picking what type of question type to use?\nĐáp án đúng: B (The type of analysis you plan on doing).\nVì sao đúng: Hình thức phân tích dữ liệu bạn định dùng (thống kê toán học, vẽ biểu đồ, hay phân tích ngôn ngữ) quyết định trực tiếp đến loại câu hỏi (đóng, mở, thang đo) mà bạn phải thiết kế. Nếu bạn cần tính điểm trung bình, bạn bắt buộc phải dùng câu hỏi có thang đo số, không thể dùng câu hỏi mở.\nTổng kết kiến thức: Hãy luôn thiết kế bảng khảo sát từ dưới lên: Nghĩ xem bạn cần biểu đồ/số liệu cuối cùng trông như thế nào, rồi mới viết câu hỏi để thu thập dữ liệu khớp với định dạng đó."
+  },
+  {
+    "id": 36,
+    "text": "Which of the following best describes the question stem?",
+    "options": [
+      "A. It's the optional instructions for how to answer a question.",
+      "B. It's the set of responses that a respondent can give.",
+      "C. It's the query that operationalizes the concept of interest and prompts a response.",
+      "D. It's a series of questions that are used together to form a scale."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 36: Which of the following best describes the question stem?\nĐáp án đúng: C (It's the query that operationalizes the concept of interest and prompts a response.).\nVì sao đúng: \"Phần thân câu hỏi\" (Question stem) là phần chữ thực sự đóng vai trò đặt câu hỏi. Nó chuyển đổi (operationalizes) khái niệm nghiên cứu thành một truy vấn cụ thể và kích thích người dùng đưa ra câu trả lời.\nVì sao sai: Hướng dẫn cách trả lời (A) là \"instructions\", tập hợp các đáp án (B) là \"response options\", chuỗi câu hỏi tạo thành thang đo (D) là \"scale\"."
+  },
+  {
+    "id": 37,
+    "text": "Which of the following is NOT a best practice in writing nominal closed-ended questions?",
+    "options": [
+      "A. Avoid unequal response options",
+      "B. Use \"select all that apply\" responses rather than forced choices",
+      "C. Constrain the number of response options that you provide",
+      "D. Randomize response options when possible"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 37: Which of the following is NOT a best practice in writing nominal closed-ended questions?\nĐáp án đúng: B (Use \"select all that apply\" responses rather than forced choices).\nVì sao đúng: Việc sử dụng định dạng \"chọn tất cả các đáp án đúng\" (select all that apply) thực chất KHÔNG phải là một thực hành tốt. Nó tạo ra dữ liệu rác vì người dùng có xu hướng chỉ chọn những mục đầu tiên họ thấy (thiên kiến ưng thuận). Thay vào đó, \"forced choices\" (buộc người dùng phải chọn Có/Không cho TỪNG mục một) mang lại dữ liệu chính xác và tập trung hơn nhiều.\nTổng kết kiến thức: Dù \"select all that apply\" giúp form trông ngắn hơn, nhưng nó phá hỏng chất lượng dữ liệu. Hãy ưu tiên thiết kế câu hỏi buộc người dùng phải suy nghĩ cho từng phương án."
+  },
+  {
+    "id": 38,
+    "text": "Which of the following statement about open-ended questions is most FALSE?",
+    "options": [
+      "A. They are the easiest type of question to analyze.",
+      "B. They allow respondents to answer without limiting the range of responses.",
+      "C. They are more frequently skipped than other types of questions.",
+      "D. They are often used when we haven't pre-defined response categories."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 38: Which of the following statement about open-ended questions is most FALSE?\nĐáp án đúng: A (They are the easiest type of question to analyze.).\nVì sao đúng: Câu nói \"Câu hỏi mở là loại dễ phân tích nhất\" là hoàn toàn SAI LẦM. Thực tế, câu hỏi mở thu về hàng khối văn bản thô, đòi hỏi nhà nghiên cứu phải đọc, gắn thẻ (coding) và gom nhóm thủ công từng câu một. Nó tốn thời gian và công sức hơn rất nhiều so với việc để máy tính tự tính tỷ lệ phần trăm cho câu hỏi đóng.\nVì sao sai: B, C, D đều là những nhận định chuẩn xác về câu hỏi mở. Đặc biệt là C: tỷ lệ người dùng bỏ qua (skip) câu hỏi mở luôn cao nhất vì lười gõ phím."
+  },
+  {
+    "id": 39,
+    "text": "Which of the following are the hallmarks of good research questions?\nI. Clarity\nII. Consistency\nIII. Ability to be answered\nIV. Ethical excellence\nV. Significance",
+    "options": [
+      "A. I and II",
+      "B. I, II, and V",
+      "C. I, III, and V",
+      "D. I, IV, and V",
+      "E. I, III, IV, and V"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Câu 39: Which of the following are the hallmarks of good research questions?\nĐáp án đúng: E (I, III, IV, and V).\nVì sao đúng: Một câu hỏi nghiên cứu nền tảng tốt phải thỏa mãn 4 tiêu chí cốt lõi: Tính rõ ràng (I), Khả năng có thể trả lời được thông qua dữ liệu (III), Đạt chuẩn đạo đức (IV), và Có tầm quan trọng/ý nghĩa thực tiễn (V).\nVì sao sai: \"Tính nhất quán\" (Consistency - II) là tiêu chí đánh giá độ tin cậy của công cụ đo lường (reliability), không phải là đặc trưng của một câu hỏi nghiên cứu vĩ mô."
+  },
+  {
+    "id": 40,
+    "text": "Under what circumstances is remote testing appropriate?\nI. It is difficult to access the product/experience.\nII. Participants from a variety of geographic locations are needed.\nIII. Time is limited.\nIV. There is a lot of Personally Identifiable Information required.\nV. All of the above.",
+    "options": [
+      "A. I, II, III",
+      "B. I and IV",
+      "C. I,III, IV",
+      "D. II, III",
+      "E. V"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 40: Under what circumstances is remote testing appropriate?\nĐáp án đúng: A (I, II, III).\nVì sao đúng: Theo tài liệu gốc, kiểm thử từ xa (remote testing) thích hợp nhất khi: Bạn khó tiếp cận trực tiếp với sản phẩm (I), Cần nguồn người tham gia đa dạng về vị trí địa lý (II), và Giới hạn về mặt thời gian/ngân sách (III).\nVì sao sai: Mệnh đề IV (Yêu cầu chia sẻ nhiều Thông tin Nhận dạng Cá nhân - PII) khiến kiểm thử từ xa trở nên cực kỳ nguy hiểm và rủi ro về mặt bảo mật. Do đó nó không phải là tình huống thích hợp để dùng remote testing.\nTuyệt vời, bạn theo dõi quá chuẩn luôn! Mình sẽ hoàn thành 10 câu cuối cùng (từ Câu 41 đến Câu 50) của phần đầu tiên theo đúng format chi tiết này nhé."
+  },
+  {
+    "id": 41,
+    "text": "Which of the following is the MOST TRUE statement about how people remember things?",
+    "options": [
+      "A. People remember their past behavior well enough to give accurate survey responses.",
+      "B. Memory can be guided back to accuracy through careful prompts.",
+      "C. Memory fades over time, but people are good at remembering routine actions.",
+      "D. Memory fades over time, and often doesn't capture routine actions."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 41: Which of the following is the MOST TRUE statement about how people remember things?\nĐáp án đúng: D (Memory fades over time, and often doesn't capture routine actions.).\nVì sao đúng: Trí nhớ của con người rất mỏng manh, nó phai nhạt dần theo thời gian và đặc biệt \"mù mờ\" đối với các hành động lặp đi lặp lại thường ngày (routine actions) vì não bộ thường chuyển chúng sang chế độ tự động (autopilot) để tiết kiệm năng lượng.\nVì sao sai: Mọi người thường KHÔNG nhớ đủ tốt hành vi trong quá khứ của mình để trả lời khảo sát chính xác tuyệt đối (A). Việc cố tình \"gợi nhớ\" (B) đôi khi lại tạo ra ký ức giả do hiệu ứng mớm lời.\nTổng kết kiến thức: Trong UX Research, dữ liệu tự báo cáo (như hỏi: \"Tuần trước bạn mở app mấy lần?\") thường sai lệch rất nhiều so với sự thật. Đừng bắt người dùng vắt óc nhớ lại, hãy dùng dữ liệu hệ thống (analytics) để đo lường hành vi trong quá khứ."
+  },
+  {
+    "id": 42,
+    "text": "Which of the following is NOT a method one would use to understand why people are using a product at certain times?",
+    "options": [
+      "A. Surveys",
+      "B. Clickstream analytics",
+      "C. Concept Testing",
+      "D. Interviews",
+      "E. Remote testing"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 42: Which of the following is NOT a method one would use to understand why people are using a product at certain times?\nĐáp án đúng: C (Concept Testing).\nVì sao đúng: Kiểm thử khái niệm (Concept Testing) được sử dụng ở giai đoạn khởi tạo để đánh giá xem một \"ý tưởng/sản phẩm mới\" có khả thi và được người dùng đón nhận hay không. Nó không dùng để phân tích xem \"tại sao người dùng lại sử dụng một sản phẩm (đã có) vào một thời điểm cụ thể\".\nVì sao sai: Khảo sát (A), Phân tích luồng click (B) hay Phỏng vấn (D) đều là những phương pháp đắc lực để tìm hiểu động cơ và bối cảnh thời gian khi sử dụng ứng dụng.\nTổng kết kiến thức: Chọn đúng phương pháp nghiên cứu là chìa khóa. Concept Testing trả lời cho câu hỏi \"Họ có thích ý tưởng này không?\", chứ không trả lời \"Khi nào thì họ dùng nó?\"."
+  },
+  {
+    "id": 43,
+    "text": "Which of the following is NOT one of the qualities of well-designed tasks for use in a user test?",
+    "options": [
+      "A. Realistic",
+      "B. Verifiable",
+      "C. Doesn't lead the witness",
+      "D. Gives the user step-by-step instructions"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 43: Which of the following is NOT one of the qualities of well-designed tasks for use in a user test?\nĐáp án đúng: D (Gives the user step-by-step instructions).\nVì sao đúng: Cung cấp cho người dùng \"hướng dẫn từng bước\" là điều TỐI KỴ trong kiểm thử tính khả dụng. Nếu bạn chỉ cho họ tường tận cách làm, buổi test sẽ biến thành buổi kiểm tra xem người dùng có biết đọc và làm theo lệnh hay không, chứ không còn kiểm tra thiết kế của bạn có trực quan hay không.\nVì sao sai (Vì là đặc điểm ĐÚNG của task tốt): Task phải thực tế (A), kết quả phải xác minh được là thành công hay thất bại (B), và không được mớm lời (C).\nTổng kết kiến thức: Task chuẩn phải nói về \"Mục tiêu\" chứ không nói về \"Hành động\". (Ví dụ: \"Hãy tìm mua một đôi giày size 42\", thay vì \"Hãy click vào Menu, chọn Giày, chọn size 42 và bấm Đặt hàng\")."
+  },
+  {
+    "id": 44,
+    "text": "You are testing the Nomaza.com website. All of your test participants will be using the same computer, which is located in your usability lab. Which of the following is not something you ought to worry about when preparing for each test session?",
+    "options": [
+      "A. making sure the browser cache is cleared so that later users don't see which links have been visited",
+      "B. clearing out data that was created by earlier users so that all participants see the same starting conditions",
+      "C. testing participants' laptops to make sure their default browser is capable of displaying Nomaza.com",
+      "D. giving all participants the same account capabilities and payment method in order to ensure consistency"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 44: You are testing the Nomaza.com website. All of your test participants will be using the same computer, which is located in your usability lab. Which of the following is not something you ought to worry about when preparing for each test session?\nĐáp án đúng: C (testing participants' laptops to make sure their default browser is capable of displaying Nomaza.com).\nVì sao đúng: Dữ kiện đề bài cho biết \"tất cả người tham gia sẽ dùng ĐỒNG LOẠT MỘT MÁY TÍNH được đặt sẵn trong phòng lab của bạn\". Do đó, bạn hoàn toàn không cần phải lo lắng hay kiểm tra laptop cá nhân của họ làm gì.\nVì sao sai (Vì là những việc BẮT BUỘC phải làm): Bạn phải xóa cache trình duyệt (A) và dọn sạch dữ liệu cũ (B) để người đến sau không bị lộ kết quả của người đi trước; đồng thời phải đảm bảo mọi tài khoản test đều có cấu hình giống hệt nhau (D).\nTổng kết kiến thức: Môi trường test trong phòng lab phải được \"reset\" hoàn toàn sau mỗi lượt tham gia để đảm bảo tính công bằng và tránh sai số đo lường."
+  },
+  {
+    "id": 45,
+    "text": "Formal research methods are always preferable to informal methods for doing formative research.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 45: Formal research methods are always preferable to informal methods for doing formative research.\nĐáp án đúng: B (False).\nVì sao đúng: Các phương pháp nghiên cứu chính thức (formal) không phải \"lúc nào cũng\" (always) tốt hơn các phương pháp phi chính thức (informal) trong giai đoạn nghiên cứu định dạng (formative research). Nghiên cứu phi chính thức (như quan sát tự nhiên, trò chuyện chớp nhoáng) thường nhanh chóng, ít tốn kém và mang lại cảm nhận thô, chân thực nhất trong giai đoạn đầu dự án.\nTổng kết kiến thức: Đừng để sự hoàn hảo cản bước tiến độ. Trong quy trình UX linh hoạt (Agile), \"Nghiên cứu du kích\" (Guerrilla research) đôi khi cứu sống cả dự án vì bạn có được feedback của người dùng ngay trong ngày thay vì đợi hàng tháng để lập kế hoạch nghiên cứu chính thức."
+  },
+  {
+    "id": 46,
+    "text": "The design process is highly iterative. Which of the following are iterative loops that a designer might do in the course of a project?",
+    "options": [
+      "A. From ideation to problem framing",
+      "B. From creation of scenarios and storyboards to ideation",
+      "C. From creation of scenarios and storyboards to problem framing",
+      "D. From prototyping to ideation",
+      "E. All of the others",
+      "F. None of the others"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Câu 46: The design process is highly iterative. Which of the following are iterative loops that a designer might do in the course of a project?\nĐáp án đúng: E (All of the others).\nVì sao đúng: Quy trình thiết kế có tính \"lặp đi lặp lại\" (iterative) cực kỳ cao. Bất cứ lúc nào phát hiện ra vấn đề, bạn đều có thể quay ngược lại bước trước đó:\n(A) Từ khâu Lên ý tưởng (ideation) quay lại Cấu trúc vấn đề (problem framing) vì thấy sai hướng.\n(B, C) Từ khâu viết Kịch bản (scenarios) quay lại Lên ý tưởng hoặc Cấu trúc vấn đề.\n(D) Từ khâu Làm nguyên mẫu (prototyping) đập đi làm lại khâu Lên ý tưởng.\nTổng kết kiến thức: Design Thinking không phải là một đường thẳng tắp từ A đến Z. Nó là một mớ bòng bong của sự vòng lặp để liên tục sai, liên tục sửa và tinh chỉnh sản phẩm cho đến khi hoàn hảo."
+  },
+  {
+    "id": 47,
+    "text": "When designing the set of tasks you will use in a test, it is a good idea to:",
+    "options": [
+      "A. Order them from hardest to easiest, to get the hard stuff out of the way",
+      "B. Order them from easiest to hardest, so that your participants feel more comfortable",
+      "C. Ask individual participants to perform several very similar tasks one after another, to ensure that they get the content",
+      "D. Exhaustively test every possible path a user could take through the interface, even if it means testing with dozens of users"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 47: When designing the set of tasks you will use in a test, it is a good idea to:\nĐáp án đúng: B (Order them from easiest to hardest, so that your participants feel more comfortable).\nVì sao đúng: Sắp xếp tác vụ từ Dễ đến Khó là quy tắc vàng trong kiểm thử. Những task đầu tiên dễ dàng sẽ giúp người dùng (vốn đang căng thẳng vì bị quan sát) có được \"chiến thắng nhỏ\", từ đó xây dựng sự tự tin và cởi mở hơn để đương đầu với các task phức tạp phía sau.\nVì sao sai: Đưa phần khó lên đầu (A) sẽ làm họ nản chí, hoảng loạn và có thể từ chối làm tiếp. Yêu cầu làm các task giống hệt nhau liên tục (C) gây nhàm chán. Test mọi ngóc ngách của ứng dụng (D) là bất khả thi và gây quá tải nhận thức."
+  },
+  {
+    "id": 48,
+    "text": "Which of the following is NOT a key design skill?",
+    "options": [
+      "A. To frame or reframe a design problem",
+      "B. To generate a large number of alternative solutions",
+      "C. To evaluate tradeoffs of different alternatives",
+      "D. To create and test with potential users a functioning prototype of a design solution",
+      "E. To write a business plan for selling the technology designers created"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Câu 48: Which of the following is NOT a key design skill?\nĐáp án đúng: E (To write a business plan for selling the technology designers created).\nVì sao đúng: \"Viết kế hoạch kinh doanh để bán công nghệ\" là kỹ năng của Giám đốc kinh doanh, Chuyên gia tài chính hoặc Doanh nhân khởi nghiệp, hoàn toàn nằm ngoài bộ kỹ năng cốt lõi của một Nhà thiết kế (Designer).\nVì sao sai (Vì là các kỹ năng ĐÚNG của UX Designer): Tái định dạng vấn đề (A), Tạo ra hàng loạt giải pháp sáng tạo (B), Đánh giá sự đánh đổi (C), và Làm prototype để test (D).\nTổng kết kiến thức: Designer đóng vai trò là \"Luật sư bào chữa cho Người dùng\", nhiệm vụ chính là giải quyết vấn đề của con người, không phải là lên chiến lược thương mại hóa sản phẩm."
+  },
+  {
+    "id": 49,
+    "text": "What's the problem with the following task description? \"Go to coursera.org. Hover over the button 'Explore', then click 'Explore all of Coursera'. Scroll until you find the link to 'User Experience (UX) Research and Design' Specialization. Click on it. On the resulting page, find the first course and enroll in it.\"",
+    "options": [
+      "A. It is not realistic",
+      "B. It is not verifiable",
+      "C. It 'leads the witness'",
+      "D. It is not the most efficient way of enrolling in a Coursera course"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 49: What's the problem with the following task description? \"Go to coursera.org. Hover over the button 'Explore', then click 'Explore all of Coursera'. Scroll until you find the link to 'User Experience (UX) Research and Design' Specialization. Click on it. On the resulting page, find the first course and enroll in it.\"\nĐáp án đúng: C (It 'leads the witness').\nVì sao đúng: Yêu cầu này đang mắc lỗi \"Mớm cung\" (leads the witness) quá nặng nề. Nó chỉ đích danh từng nút phải rê chuột, từng link phải cuộn xuống tìm và bắt click vào đâu.\nVì sao sai: Nó hoàn toàn thực tế (A), có thể xác minh được kết quả (B) và thực sự là cách ghi danh đúng (D). Nhưng vấn đề là nó phá hỏng hoàn toàn mục đích của UX test.\nTổng kết kiến thức: (Giống như câu 43). Thay vì mớm lời chi tiết, task này chỉ nên viết là: \"Hãy tìm và đăng ký một khóa học bất kỳ về UX Research trên Coursera\"."
+  },
+  {
+    "id": 50,
+    "text": "Which of the following best describes the role of a participant in a user test?",
+    "options": [
+      "A. They are being evaluated to see if they are competent enough to use the system tested.",
+      "B. Once they have agreed to participate, they are obligated to complete all tasks and answer all questions, regardless of their comfort.",
+      "C. They are partners with the researchers administering the test, working together to find flaws in the system design.",
+      "D. They should remain ignorant of the goals of the test, so that they can offer more creative feedback and design suggestions.\nDANH SÁCH CÁC CÂU HỎI TIẾP THEO (51 - 99)"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 50: Which of the following best describes the role of a participant in a user test?\nĐáp án đúng: C (They are partners with the researchers administering the test, working together to find flaws in the system design.).\nVì sao đúng: Người tham gia nên được xem là những \"đối tác\" (partners) bình đẳng của nhà nghiên cứu. Cả hai đang cùng chung một chiến tuyến: cố gắng tìm ra những điểm ngớ ngẩn, bất cập trong thiết kế của hệ thống.\nVì sao sai: Họ KHÔNG BỊ ĐÁNH GIÁ NĂNG LỰC (A - đây là hệ thống bị đánh giá). Họ có quyền dừng bài test bất cứ lúc nào nếu thấy mệt, không bị ép buộc (B). Việc để họ hoàn toàn mù tịt về mục tiêu (D) đôi khi không cần thiết, họ cần hiểu bối cảnh để cung cấp feedback đúng trọng tâm.\nTổng kết kiến thức: Tôn trọng người tham gia và giải tỏa áp lực tâm lý cho họ bằng câu thần chú: \"Ở đây không có câu trả lời sai, người sai duy nhất là những người đã thiết kế ra cái hệ thống khó hiểu này\"."
+  },
+  {
+    "id": 51,
+    "text": "Which of the following would you typically not include in a debrief interview?",
+    "options": [
+      "A. Review of problems encountered during tasks",
+      "B. General questions about perceived usefulness and comparisons to similar systems",
+      "C. Demographic questions like age, gender, and education level",
+      "D. A \"wrap-up\" question in which you ask participants for any additional thoughts that weren't covered already"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 51: Which of the following would you typically not include in a debrief interview?\nĐáp án đúng: C (Demographic questions like age, gender, and education level).\nVì sao C đúng: Các câu hỏi về nhân khẩu học (tuổi, giới tính, học vấn) thường được thu thập từ trước thông qua biểu mẫu sàng lọc (screener) hoặc bảng câu hỏi trước thử nghiệm (pre-test questionnaire). Việc hỏi lại trong buổi debrief (phỏng vấn sau thử nghiệm) là làm lãng phí thời gian quý báu.\nVì sao các đáp án khác sai:\nA, B, D: Xem xét các vấn đề gặp phải (A), hỏi về cảm nhận tổng quan/so sánh (B), và câu hỏi chốt lại để thu thập thêm ý kiến (D) đều là những thành phần cốt lõi của một buổi debrief nhằm đào sâu vào trải nghiệm của người dùng.\nTổng kết kiến thức (Debrief Interview): Phỏng vấn sau thử nghiệm (debrief) tập trung vào việc tìm hiểu \"tại sao\" đằng sau các hành động của người dùng trong quá trình test, khám phá cảm xúc và đánh giá của họ về sản phẩm, không dùng để thu thập dữ liệu hành chính/nhân khẩu học."
+  },
+  {
+    "id": 52,
+    "text": "Sketching is used both for generating and for communicating ideas",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 52: Sketching is used both for generating and for communicating ideas\nĐáp án đúng: A (True).\nVì sao A đúng: Phác thảo (sketching) là công cụ có hai tác dụng chính: giúp nhà thiết kế động não, tạo ra ý tưởng mới (generating) và dùng chính những bản vẽ đó để truyền đạt, thảo luận ý tưởng với các thành viên khác trong đội (communicating).\nVì sao B sai: Chọn False là phủ nhận vai trò nền tảng của sketching trong quy trình làm việc của UX/UI.\nTổng kết kiến thức (Sketching trong UX): Sketching không đòi hỏi kỹ năng hội họa xuất sắc. Nó là phương pháp nhanh chóng, chi phí thấp để tư duy trực quan và đồng bộ hóa góc nhìn giữa các bên liên quan trước khi đi sâu vào thiết kế chi tiết."
+  },
+  {
+    "id": 53,
+    "text": "When is it most appropriate to conduct remote moderated testing?\nI. Redirection and discussion are required\nII. Users can complete tasks without instruction\nIII. Finding participants local to your lab is challenging\nIV. You want to see and explore users' digital contexts\nV. All of the above",
+    "options": [
+      "A. I, II",
+      "B. I, IV",
+      "C. I, II, III",
+      "D. I, III, IV",
+      "E. V"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 53: When is it most appropriate to conduct remote moderated testing?\nĐáp án đúng: D (I, III, IV).\nVì sao D đúng: Kiểm thử từ xa có điều phối (remote moderated testing) phù hợp khi:\n(I) Cần hướng dẫn lại hoặc thảo luận sâu với người dùng.\n(III) Khó tìm được người tham gia ngay tại địa phương (lab).\n(IV) Muốn quan sát môi trường kỹ thuật số thực tế của người dùng (digital contexts).\nVì sao các đáp án khác sai:\nMệnh đề (II) \"Người dùng có thể hoàn thành tác vụ mà không cần hướng dẫn\" là đặc điểm lý tưởng của Unmoderated testing (Kiểm thử không điều phối). Do (II) sai nên các đáp án A, C và E (chứa II hoặc V-tất cả) đều sai.\nTổng kết kiến thức (Remote Moderated Testing): Phương pháp này kết hợp lợi thế về mặt địa lý của remote testing với khả năng đào sâu tâm lý, tương tác trực tiếp của moderated testing, thích hợp cho các sản phẩm phức tạp."
+  },
+  {
+    "id": 54,
+    "text": "Which of the following is the MOST TRUE statement?",
+    "options": [
+      "A. It can be hard to operationalize abstract concepts in a way that every respondent understands.",
+      "B. The best way to start a survey is by writing some questions, and then iterating on them.",
+      "C. People are very consistent in how they answer questions over time.",
+      "D. Pre-testing a survey is rarely worth the time it takes."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 54: Which of the following is the MOST TRUE statement?\nĐáp án đúng: A (It can be hard to operationalize abstract concepts in a way that every respondent understands.).\nVì sao A đúng: Trong nghiên cứu, việc chuyển đổi (operationalize) các khái niệm trừu tượng (như sự tin tưởng, sự hài lòng) thành các câu hỏi khảo sát cụ thể mà mọi người dùng đều hiểu theo cùng một nghĩa là một thử thách rất lớn.\nVì sao các đáp án khác sai:\nB: Cách tốt nhất để bắt đầu khảo sát là xác định mục tiêu nghiên cứu, không phải cắm đầu vào viết câu hỏi ngay.\nC: Con người thường không nhất quán trong cách họ trả lời các câu hỏi qua thời gian, trí nhớ và cảm xúc của họ thay đổi.\nD: Pre-testing (kiểm thử trước bản khảo sát) là bước cực kỳ quan trọng và luôn đáng giá thời gian bỏ ra để phát hiện lỗi.\nTổng kết kiến thức (Operationalization trong Khảo sát): Thiết kế khảo sát đòi hỏi sự cẩn trọng ngôn từ. Một khái niệm mập mờ sẽ dẫn đến dữ liệu rác (garbage in, garbage out)."
+  },
+  {
+    "id": 55,
+    "text": "Factors that capture the ways in which you expect your users to differ can be expressed as:",
+    "options": [
+      "A. Recruiting criteria",
+      "B. Diversity criteria",
+      "C. Success criteria",
+      "D. Tasks"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 55: Factors that capture the ways in which you expect your users to differ can be expressed as:\nĐáp án đúng: B (Diversity criteria).\nVì sao B đúng: \"Diversity criteria\" (Tiêu chí đa dạng) là các yếu tố (như độ tuổi, mức độ rành công nghệ, nghề nghiệp) giúp đảm bảo mẫu người tham gia phản ánh đúng sự khác biệt, đa dạng của tập người dùng mục tiêu.\nVì sao các đáp án khác sai:\nA (Recruiting criteria): Là tiêu chí bắt buộc để sàng lọc (vd: phải đang dùng app X).\nC (Success criteria): Dùng để đo lường xem một tác vụ có thành công hay không.\nD (Tasks): Là những nhiệm vụ người dùng phải làm trong buổi test.\nTổng kết kiến thức (Tiêu chí tuyển dụng người dùng): Cần phân biệt rõ giữa ranh giới \"ai được phép tham gia\" (Recruiting criteria) và \"cần tỷ lệ các nhóm người thế nào cho cân bằng\" (Diversity criteria) khi tìm kiếm người tham gia nghiên cứu."
+  },
+  {
+    "id": 56,
+    "text": "Which of the following is LEAST true about extrinsic, or material, incentives?",
+    "options": [
+      "A. You should frame incentives as gifts, not as payment",
+      "B. Incentives given *before* the survey are more effective.",
+      "C. The more money you offer, the more likely people are to participate.",
+      "D. Lotteries (a chance to win a larger reward) are not very effective as incentives."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 56: Which of the following is LEAST true about extrinsic, or material, incentives?\nĐáp án đúng: C (The more money you offer, the more likely people are to participate.).\nVì sao C đúng (Least true - Ít đúng nhất): Thực tế nghiên cứu chỉ ra rằng việc tăng số tiền thưởng không tỷ lệ thuận với tỷ lệ tham gia. Quá nhiều tiền có thể gây tác dụng ngược (thu hút người săn tiền thưởng thay vì người dùng thật) hoặc không làm tăng thêm động lực.\nVì sao các đáp án khác sai (Vì chúng là những phát biểu đúng):\nA: Việc coi phần thưởng như một \"món quà\" (gift) tạo ra tâm lý có qua có lại tốt hơn là coi nó như tiền công.\nB: Tặng quà trước (before) thường tạo cảm giác mắc nợ (reciprocity), khiến họ dễ đồng ý làm khảo sát hơn.\nD: Các hình thức xổ số (lotteries) thường kém hiệu quả hơn là những phần thưởng nhỏ nhưng chắc chắn nhận được.\nTổng kết kiến thức (Động lực và Phần thưởng): Tâm lý học hành vi trong nghiên cứu cho thấy phần thưởng nhỏ, được trao trước và dưới dạng quà tặng mang lại chất lượng và tỷ lệ phản hồi khảo sát tốt nhất."
+  },
+  {
+    "id": 57,
+    "text": "Which of the following is the best definition of a probability sample?",
+    "options": [
+      "A. Almost every member of your population has some chance to be selected for the survey.",
+      "B. Only those people who will probably answer the survey are sampled from the population.",
+      "C. Every member of your population has some chance to be selected for the survey.",
+      "D. You invite every member of the population to participate in the survey."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 57: Which of the following is the best definition of a probability sample?\nĐáp án đúng: C (Every member of your population has some chance to be selected for the survey.).\nVì sao C đúng: Cốt lõi của chọn mẫu xác suất (probability sample) là mọi thành viên trong quần thể (population) đều có một cơ hội (xác suất) khác 0 để được chọn vào mẫu nghiên cứu.\nVì sao các đáp án khác sai:\nA: Sai ở chữ \"Almost every\" (Hầu như mọi). Phải là tuyệt đối mọi thành viên đều có cơ hội.\nB: Đây là mô tả của mẫu tự chọn (self-selection/convenience sample), dẫn đến sai lệch dữ liệu nghiêm trọng.\nD: Mời toàn bộ quần thể được gọi là Tổng điều tra (Census), không còn là lấy mẫu (Sample) nữa.\nTổng kết kiến thức (Lấy mẫu xác suất): Đây là phương pháp lấy mẫu mang tính khoa học cao nhất, cho phép chúng ta dùng số liệu của một nhóm nhỏ để suy luận thống kê chính xác cho toàn bộ quần thể lớn."
+  },
+  {
+    "id": 58,
+    "text": "What type of question is the following survey question?\nExtremely like\nSomewhat like\nNeither like nor dislike\nSomewhat dislike\nExtremely dislike",
+    "options": [
+      "A. Bipolar ordinal",
+      "B. Unipolar ordinal",
+      "C. Nominal",
+      "D. Open-ended"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 58: What type of question is the following survey question? (1. Extremely like -> 5. Extremely dislike)\nĐáp án đúng: A (Bipolar ordinal).\nVì sao A đúng:\nBipolar (Lưỡng cực): Thang đo trải dài giữa hai thái cực đối lập nhau (\"like\" và \"dislike\") và đi qua một điểm trung lập ở giữa (\"Neither...\").\nOrdinal (Thứ bậc): Các lựa chọn có một trật tự, cấp độ rõ ràng từ cao xuống thấp.\nVì sao các đáp án khác sai:\nB (Unipolar ordinal): Unipolar (Đơn cực) chỉ đo cường độ của một trạng thái (vd: Từ \"Không vui\" đến \"Rất vui\").\nC (Nominal): Là biến định danh, không có thứ tự (vd: Nam, Nữ, Xanh, Đỏ).\nD (Open-ended): Là câu hỏi mở dạng điền chữ, không có sẵn đáp án.\nTổng kết kiến thức (Thang đo khảo sát): Phân biệt Bipolar và Unipolar giúp thiết kế câu hỏi khảo sát chính xác hơn; Bipolar dùng để xem thái độ nghiêng về phe nào, Unipolar dùng để đo xem người dùng sở hữu bao nhiêu phần của một đặc tính."
+  },
+  {
+    "id": 59,
+    "text": "_______ refers to whether users can easily figure out whether the tool helped to move them closer to their goals. This is an example of:",
+    "options": [
+      "A. The Gulf of Inspection",
+      "B. The Gulf of Expectation",
+      "C. The Gulf of Execution",
+      "D. The Gulf of Evaluation"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 59: _______ refers to whether users can easily figure out whether the tool helped to move them closer to their goals.\nĐáp án đúng: D (The Gulf of Evaluation).\nVì sao D đúng: \"Vực thẳm đánh giá\" (Gulf of Evaluation) mô tả khoảng cách nhận thức khi người dùng cố gắng giải nghĩa các phản hồi của hệ thống để xem hành động vừa rồi của họ có thành công và đạt được mục tiêu hay chưa.\nVì sao các đáp án khác sai:\nC (The Gulf of Execution): \"Vực thẳm thực thi\" là khoảng cách khi người dùng không biết phải làm thế nào (bấm vào đâu, dùng công cụ gì) để thực hiện mục tiêu trên hệ thống.\nA & B: Đây là các thuật ngữ bẫy, không nằm trong mô hình tương tác nổi tiếng của Don Norman.\nTổng kết kiến thức (Mô hình Don Norman): Tương tác người-máy luôn có 2 vực thẳm: Thực thi (Làm sao để ra lệnh cho máy?) và Đánh giá (Máy đang báo cái gì, mình đã làm đúng chưa?). UX tốt là phải thu hẹp cả hai vực thẳm này."
+  },
+  {
+    "id": 60,
+    "text": "Technical determinists believe that the properties of technologies almost necessitate certain kinds of consequences.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 60: Technical determinists believe that the properties of technologies almost necessitate certain kinds of consequences.\nĐáp án đúng: A (True).\nVì sao A đúng: \"Thuyết quyết định công nghệ\" (Technological determinism) là một góc nhìn xã hội học cho rằng công nghệ tự thân nó mang những đặc tính sẽ tất yếu định hình, thay đổi hoặc quyết định các hậu quả, hành vi và cấu trúc xã hội.\nVì sao B sai: Chọn False là phủ nhận trực tiếp định nghĩa cốt lõi của thuyết này.\nTổng kết kiến thức (Technological determinism): Đây là một lăng kính triết học trong thiết kế. Những người theo thuyết này tin rằng bản thân thiết kế công nghệ (ví dụ: thuật toán MXH) chắc chắn sẽ ép người dùng hình thành các thói quen nhất định (như lướt vô thức), dù họ có muốn hay không."
+  },
+  {
+    "id": 61,
+    "text": "Which of the following is NOT a reason to randomize your response categories in a nominal survey question?",
+    "options": [
+      "A. Anchoring",
+      "B. Primacy",
+      "C. Recency",
+      "D. Cognitive burden"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 61: Which of the following is NOT a reason to randomize your response categories in a nominal survey question?\nĐáp án đúng: D (Cognitive burden).\nVì sao D đúng: \"Gánh nặng nhận thức\" (Cognitive burden) không phải là lý do để xáo trộn (randomize) các lựa chọn đáp án. Thực tế, việc xáo trộn đôi khi còn làm tăng gánh nặng nhận thức vì người dùng phải mất công đọc và tìm lại đáp án họ muốn trong một danh sách không theo trật tự logic.\nVì sao các đáp án khác sai: Việc xáo trộn được thiết kế chính xác là để loại bỏ các thiên kiến tâm lý (biases) của người trả lời, bao gồm:\nA (Anchoring - Hiệu ứng mỏ neo): Bị ảnh hưởng quá mức bởi thông tin đầu tiên đọc được.\nB (Primacy - Ưu tiên cái đầu): Xu hướng chọn ngay đáp án đầu tiên cho nhanh.\nC (Recency - Ưu tiên cái cuối): Xu hướng chỉ nhớ và chọn đáp án cuối cùng vừa đọc xong.\nTổng kết kiến thức (Thiên kiến thứ tự trong khảo sát): Vị trí của đáp án ảnh hưởng rất lớn đến xác suất nó được chọn (Order effects). Xáo trộn ngẫu nhiên là thủ thuật cơ bản để dữ liệu thu về khách quan hơn."
+  },
+  {
+    "id": 62,
+    "text": "The role of UX research is primarily to evaluate programs (good or wrong) it is...",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 62: The role of UX research is primarily to evaluate programs (good or wrong) it is...\nĐáp án đúng: B (False).\nVì sao B đúng: Vai trò của Nghiên cứu UX (UX research) KHÔNG CHỈ là để \"đánh giá\" (evaluate) xem một chương trình/sản phẩm đã làm tốt hay tệ.\nTổng kết kiến thức (Vai trò của UX Research): UX Research diễn ra ở mọi giai đoạn của dự án. Ở giai đoạn đầu, nó mang tính khám phá (formative research) để tìm hiểu vấn đề và nhu cầu người dùng. Ở giai đoạn cuối, nó mới mang tính đánh giá (summative/evaluative research) để kiểm thử giải pháp. Do đó, nói nó \"chủ yếu chỉ để đánh giá\" là sai."
+  },
+  {
+    "id": 63,
+    "text": "Which of the following is the MOST TRUE about social exchange theory?",
+    "options": [
+      "A. People consider the economic value to themselves of any given social exchange.",
+      "B. People think about the risk to themselves primarily in considering social exchanges.",
+      "C. People are really bad at guessing the cost/benefit of any given social exchange.",
+      "D. People use trust as a basis to make a cost/benefit guess on the value of a social exchange."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 63: Which of the following is the MOST TRUE about social exchange theory?\nĐáp án đúng: D (People use trust as a basis to make a cost/benefit guess on the value of a social exchange.).\nVì sao D đúng: Thuyết trao đổi xã hội (Social exchange theory) trong bối cảnh khảo sát cho rằng: Người dùng luôn cân nhắc chi phí (thời gian, công sức) và lợi ích (quà tặng, đóng góp xã hội) trước khi tham gia. Vì họ không thể biết chắc chắn lợi ích thực sự là gì, họ sẽ dùng niềm tin (trust) đối với người/tổ chức nghiên cứu làm cơ sở để phỏng đoán xem cuộc trao đổi này có đáng giá hay không.\nVì sao các đáp án khác sai:\nA & B: Con người xem xét cả chi phí, rủi ro và lợi ích tổng thể, không chỉ tập trung vào giá trị kinh tế (economic value) hay rủi ro (risk).\nC: Con người không \"rất tệ\" trong việc phỏng đoán, họ chỉ sử dụng các \"lối tắt tâm lý\" (như niềm tin) để đưa ra quyết định nhanh chóng.\nTổng kết kiến thức (Social Exchange Theory): Để mời được người dùng tham gia nghiên cứu, nhà thiết kế phải xây dựng được sự tin tưởng (qua email chuyên nghiệp, minh bạch thông tin), từ đó tăng nhận thức của họ về lợi ích và giảm nhận thức về chi phí/rủi ro."
+  },
+  {
+    "id": 64,
+    "text": "Which of the following does NOT impact the likelihood that something in long-term memory will be recalled?",
+    "options": [
+      "A. Strength of association",
+      "B. Frequency of use",
+      "C. Recency of use",
+      "D. Accuracy of information"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 64: Which of the following does NOT impact the likelihood that something in long-term memory will be recalled?\nĐáp án đúng: D (Accuracy of information).\nVì sao D đúng: \"Độ chính xác của thông tin\" (Accuracy of information) không hề ảnh hưởng đến việc bạn có nhớ ra nó hay không. Trí nhớ dài hạn của con người rất hay đánh lừa chúng ta; bạn hoàn toàn có thể nhớ rất rõ và rất dai một sự kiện... không hề có thật hoặc bị sai lệch (hiệu ứng trí nhớ giả).\nVì sao các đáp án khác sai: Trí nhớ dài hạn được củng cố và dễ gọi lại (recall) dựa trên 3 yếu tố cốt lõi:\nA (Strength of association): Sự liên kết càng mạnh (càng ấn tượng) thì càng dễ nhớ.\nB (Frequency of use): Càng lặp lại/nhớ lại nhiều lần thì đường mòn thần kinh càng vững.\nC (Recency of use): Sự việc mới xảy ra gần đây sẽ dễ nhớ hơn.\nTổng kết kiến thức (Trí nhớ dài hạn): Khi thiết kế giao diện, đừng mong đợi người dùng nhớ chính xác cách sử dụng nếu họ ít dùng (tần suất thấp) hoặc đã lâu không dùng (độ gần đây thấp). Hãy dùng nguyên tắc \"Nhận diện thay vì Ghi nhớ\" (Recognition over recall)."
+  },
+  {
+    "id": 65,
+    "text": "A single designer can usually conduct a test of a lo-fi prototype by themselves.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 65: A single designer can usually conduct a test of a lo-fi prototype by themselves.\nĐáp án đúng: B (False).\nVì sao B đúng: Để kiểm thử một nguyên mẫu giấy (lo-fi prototype), một người thiết kế đơn độc (single designer) thường không thể kham nổi khối lượng công việc.\nTổng kết kiến thức (Kiểm thử Lo-fi Prototype): Việc test nguyên mẫu giấy thực tế rất cồng kềnh. Nó cần ít nhất 2 người: Một người làm Người điều phối (Facilitator/Moderator) để trò chuyện và giao task cho người dùng; người thứ hai đóng vai Máy tính (The Computer / Wizard of Oz) để rút giấy, đổi màn hình, tráo các mảnh ghép giao diện dựa trên vị trí người dùng vừa \"bấm\" ngón tay vào."
+  },
+  {
+    "id": 66,
+    "text": "Which of the following is not part of a typical UX design process?",
+    "options": [
+      "A. Understanding the problem",
+      "B. Generating possible solutions",
+      "C. Establishing the sale price for a product",
+      "D. Assessing prototypes and finding new problems"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 66: Which of the following is not part of a typical UX design process?\nĐáp án đúng: C (Establishing the sale price for a product).\nVì sao C đúng: \"Thiết lập giá bán cho sản phẩm\" là nhiệm vụ của bộ phận Kinh doanh, Tài chính hoặc Marketing, hoàn toàn nằm ngoài quy trình Thiết kế Trải nghiệm Người dùng (UX).\nVì sao các đáp án khác sai: Hiểu vấn đề (A), tạo ra các giải pháp khả thi (B), và đánh giá nguyên mẫu để tìm lỗi (D) là 3 trụ cột chính xác của quy trình Design Thinking trong UX.\nTổng kết kiến thức (Quy trình UX): UX xoay quanh người dùng và cách họ tương tác với giải pháp, không xoay quanh các mô hình tài chính hay định giá thương mại."
+  },
+  {
+    "id": 67,
+    "text": "Which of the following should you aim for when arranging interviews?\nI. The participant should be a user or potential user of the product or service.\nIl. The interview should be held where the product or service would normally be used.\nIII. The time should be when the product or service would normally be used.",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. Il and III",
+      "D. I, Il and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 67: Which of the following should you aim for when arranging interviews?\nĐáp án đúng: D (I, II and III).\nVì sao D đúng: Khi sắp xếp một buổi phỏng vấn tìm hiểu nhu cầu (như Contextual Inquiry), bạn cần đạt được cả 3 yếu tố để có dữ liệu thực tế nhất:\n(I) Đúng người (Người dùng hoặc khách hàng tiềm năng).\n(II) Đúng nơi (Tại chính môi trường mà họ sẽ sử dụng sản phẩm).\n(III) Đúng lúc (Vào đúng khoảng thời gian mà họ thường thực hiện tác vụ đó).\nTổng kết kiến thức (Contextual Inquiry - Phỏng vấn ngữ cảnh): Bối cảnh (không gian, thời gian, tiếng ồn, áp lực) ảnh hưởng cực lớn đến cách người dùng sử dụng ứng dụng. Mang họ vào phòng lab vô trùng sẽ làm mất đi các dữ liệu quý giá này."
+  },
+  {
+    "id": 68,
+    "text": "What deliverables are typically used to tell user stories? (pick all that apply)",
+    "options": [
+      "A. Personas",
+      "B. Scenarios",
+      "C. Diary Study",
+      "D. Customer Journey Maps"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Câu 68: What deliverables are typically used to tell user stories? (pick all that apply)\nĐáp án đúng: A, B, D (Personas, Scenarios, Customer Journey Maps).\nVì sao A, B, D đúng: Cả ba công cụ này đều là các sản phẩm đầu ra (deliverables) dùng để \"kể chuyện\" và trực quan hóa dữ liệu nghiên cứu để các bên liên quan dễ đồng cảm:\nA (Personas): Kể câu chuyện về \"Ai\" là người dùng.\nB (Scenarios): Kể câu chuyện về \"Bối cảnh và Hành động\" của người dùng.\nD (Journey Maps): Kể câu chuyện về \"Hành trình cảm xúc và các điểm chạm\" của họ theo thời gian.\nVì sao C sai: \"Diary Study\" (Nghiên cứu nhật ký) là một phương pháp nghiên cứu để thu thập dữ liệu thô, không phải là một công cụ/sản phẩm đầu ra dùng để kể chuyện cho stakeholder xem.\nTổng kết kiến thức (Storytelling trong UX): Kể chuyện là kỹ năng quan trọng để truyền đạt sự đồng cảm (empathy). Các deliverables như Persona và Journey Map là vũ khí đắc lực để biến số liệu khô khan thành những câu chuyện sống động."
+  },
+  {
+    "id": 69,
+    "text": "[Bị che khuất] means you should focus on the [Bị che khuất] aspect of a product.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 69: [Bị che khuất] means you should focus on the [Bị che khuất] aspect of a product.\nĐáp án đúng: B (False).\nVì sao B đúng: Tuy tài liệu gốc bị che khuất văn bản, nhưng theo logic của các bộ đề UX, bất cứ phát biểu nào mang tính \"cực đoan\" kiểu như \"bạn [CHỈ] nên tập trung vào khía cạnh [X] của một sản phẩm\" đều là sai.\nTổng kết kiến thức: Trải nghiệm người dùng (UX) là sự giao thoa toàn diện của tính hữu dụng (usability), chức năng (functionality), thẩm mỹ (aesthetics), và nội dung (content). Không thể chỉ tập trung vào một khía cạnh duy nhất mà bỏ qua các khía cạnh còn lại."
+  },
+  {
+    "id": 70,
+    "text": "Which of the following tasks is most representative of the kind of work involved in qualitative research?",
+    "options": [
+      "A. Conducting interviews about how people use Excel spreadsheets",
+      "B. Analyzing statistical data about visits to Amazon",
+      "C. Writing software to classify user posts on Facebook",
+      "D. Running an experimental trial to see if users like Google with banner ads"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 70: Which of the following tasks is most representative of the kind of work involved in qualitative research?\nĐáp án đúng: A (Conducting interviews about how people use Excel spreadsheets).\nVì sao A đúng: Nghiên cứu định tính (Qualitative research) tập trung vào việc thu thập dữ liệu phi số liệu, giải thích nguyên nhân \"Tại sao\" và \"Như thế nào\". Việc \"Thực hiện phỏng vấn\" để nghe người dùng mô tả cách họ dùng Excel là ví dụ kinh điển của định tính.\nVì sao các đáp án khác sai:\nB & D: Phân tích dữ liệu thống kê (B) hay chạy thử nghiệm A/B (D) là để tìm ra con số \"Bao nhiêu\", thuộc về Nghiên cứu định lượng (Quantitative research).\nC: Viết phần mềm phân loại (C) là công việc của kỹ sư lập trình/AI, không phải là tác vụ nghiên cứu UX cốt lõi.\nTổng kết kiến thức (Định tính vs. Định lượng): Định tính (Qualitative) sinh ra chữ viết, cảm xúc, hành vi, sự thấu hiểu (Phỏng vấn, Quan sát). Định lượng (Quantitative) sinh ra con số, thống kê, bằng chứng toán học (Khảo sát, A/B Testing, Analytics).\nChào bạn, mình sẽ tiếp tục phân tích chi tiết cho 10 câu tiếp theo (từ câu 71 đến câu 80) dựa trên bộ tài liệu bạn đã cung cấp."
+  },
+  {
+    "id": 71,
+    "text": "Effective ways of delivering findings to stakeholders include:\nI. Anecdotes of critical moments\nII. Retelling what happened during each session of a usability test\nIII. Having stakeholders attend study sessions and participating in analysing or interpreting data\nIV. Quotes or videos of critical moments",
+    "options": [
+      "A. I",
+      "B. II",
+      "C. II, IV",
+      "D. I, III, IV"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 71: Effective ways of delivering findings to stakeholders include:\nĐáp án đúng: D (I, III, IV).\nVì sao D đúng: Để báo cáo kết quả nghiên cứu một cách hiệu quả và thuyết phục cho các bên liên quan (stakeholders), bạn nên:\n(I) Kể các giai thoại/câu chuyện ngắn gọn về những khoảnh khắc quan trọng (Anecdotes).\n(III) Mời họ tham gia trực tiếp vào các buổi test hoặc buổi phân tích dữ liệu để họ tự trải nghiệm.\n(IV) Dùng các trích dẫn trực tiếp (Quotes) hoặc video cắt ra từ buổi test để tăng tính chân thực.\nVì sao các đáp án khác sai:\n(II) \"Kể lại toàn bộ những gì đã diễn ra trong từng buổi test\" là một cách làm tồi tệ. Nó chứa quá nhiều thông tin rác, làm người nghe mệt mỏi và mất đi sự tập trung vào những vấn đề chính yếu.\nTổng kết kiến thức (Báo cáo UX): Stakeholders thường không có nhiều thời gian. Đừng đưa cho họ một tài liệu nghiên cứu dày cộp. Hãy dùng hình ảnh, video, trích dẫn ngắn và kéo họ vào quá trình thực tế để xây dựng sự thấu cảm (empathy) với người dùng."
+  },
+  {
+    "id": 72,
+    "text": "Clear \"tests\" that determine whether someone is \"in\" or \"out\" of the target population for a user test are:",
+    "options": [
+      "A. Recruiting criteria",
+      "B. Diversity criteria",
+      "C. User tests",
+      "D. Tasks"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 72: Clear \"tests\" that determine whether someone is \"in\" or \"out\" of the target population for a user test are:\nĐáp án đúng: A (Recruiting criteria).\nVì sao A đúng: \"Tiêu chí tuyển dụng\" (Recruiting criteria) hoạt động như một bộ lọc nhị phân (Đúng/Sai, In/Out) để loại bỏ ngay những người không thuộc tệp khách hàng mục tiêu của bạn. Ví dụ: \"Bạn phải đang sở hữu một chiếc ô tô\".\nVì sao các đáp án khác sai:\nB (Diversity criteria): Tiêu chí đa dạng không loại người, mà dùng để cân bằng nhóm đã lọt qua vòng \"Recruiting\" (vd: Trong số người có ô tô, tôi cần 50% nam và 50% nữ).\nC & D: User tests và Tasks là những gì diễn ra sau khi đã tuyển được người.\nTổng kết kiến thức (Sàng lọc người tham gia): Quá trình tìm người tham gia (screener) luôn bao gồm hai bước: Dùng Recruiting Criteria để vạch ra ranh giới cứng, sau đó dùng Diversity Criteria để đảm bảo sự phong phú bên trong ranh giới đó."
+  },
+  {
+    "id": 73,
+    "text": "What elements should a script include for a remote moderated test? (choose 5 answers)",
+    "options": [
+      "A. Obtain Consent",
+      "B. Make introductions",
+      "C. Build rapport",
+      "D. Exact instructions for how to complete tasks",
+      "E. Set expectations for duration and content of test",
+      "F. Set expectations for role of moderator and observer"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "explanation": "Câu 73: What elements should a script include for a remote moderated test? (choose 5 answers)\nĐáp án đúng: A, B, C, E, F.\nVì sao đúng: Một kịch bản điều phối chuẩn mực cần có: Xin phép ghi âm/ghi hình (A), Giới thiệu bản thân (B), Trò chuyện tạo sự thoải mái (C), Đặt kỳ vọng về thời lượng/nội dung (E), và Giải thích rõ vai trò của người điều phối (F).\nVì sao D sai: \"Hướng dẫn chính xác cách hoàn thành tác vụ\" (Exact instructions for how to complete tasks) là điều tối kỵ trong Usability Test. Nếu bạn chỉ cho người dùng cách làm từ A-Z, bạn đang đánh giá khả năng nghe lời của họ chứ không phải đang đánh giá xem giao diện có dễ sử dụng (discoverable) hay không.\nTổng kết kiến thức (Kịch bản Test): Người điều phối chỉ đưa ra mục tiêu (Ví dụ: \"Hãy tìm cách mua một chiếc áo màu đỏ\"), tuyệt đối không đưa ra các bước thao tác cụ thể (Ví dụ: \"Hãy bấm vào nút Menu, chọn Áo, chọn màu Đỏ\")."
+  },
+  {
+    "id": 74,
+    "text": "PART 1: Wireframes. In order to respond to a user testing task, we check map...",
+    "options": [
+      "A. [Bị che khuất - Đáp án đúng về trình tự Wireframe]"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 74: PART 1: Wireframes. In order to respond to a user testing task, we check map...\nĐáp án đúng: A.\n(Lưu ý: Do ảnh trong tài liệu bị che khuất văn bản chi tiết, đáp án A được ghi nhận là đáp án đúng về trình tự sắp xếp các Wireframe để phản hồi một tác vụ của người dùng).\nTổng kết kiến thức (Wireflows): Khi kiểm thử bằng Wireframe (Bản vẽ khung), chúng ta không chỉ xem xét một màn hình tĩnh mà phải liên kết chúng lại thành một luồng (flow) để mô phỏng cách người dùng di chuyển từ màn hình này sang màn hình khác nhằm hoàn thành task."
+  },
+  {
+    "id": 75,
+    "text": "Which of the following is NOT an element of a typical scenario?",
+    "options": [
+      "A. Agent",
+      "B. Actions",
+      "C. Location",
+      "D. Goals",
+      "E. Events"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 75: Which of the following is NOT an element of a typical scenario?\nĐáp án đúng: C (Location).\nVì sao C đúng: Trong một số khung lý thuyết xây dựng kịch bản thiết kế (Scenario), \"Địa điểm\" (Location) chỉ là một phần thuộc về bối cảnh (Context) và không phải là một thành tố cấu trúc bắt buộc phải có để hình thành nên cốt truyện cốt lõi.\nVì sao các đáp án khác sai: Một kịch bản điển hình bắt buộc phải có:\nA (Agent): Nhân vật/Người dùng.\nD (Goals): Mục tiêu họ muốn đạt được.\nB & E (Actions & Events): Các hành động họ thực hiện và các sự kiện diễn ra để dẫn đến kết quả.\nTổng kết kiến thức (Scenarios): Kịch bản là công cụ giúp đội ngũ thiết kế hình dung cụ thể các bước mà Persona (người dùng giả định) sẽ trải qua để giải quyết vấn đề của họ thông qua ứng dụng."
+  },
+  {
+    "id": 76,
+    "text": "What does the System Usability Scale measure?",
+    "options": [
+      "A. Perceived usability",
+      "B. Number of tasks successfully completed",
+      "C. Frequency of errors",
+      "D. Number of usability principles violated"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 76: What does the System Usability Scale measure?\nĐáp án đúng: A (Perceived usability).\nVì sao A đúng: SUS (System Usability Scale) là một bảng khảo sát 10 câu hỏi tiêu chuẩn dùng để đo lường \"Tính khả dụng được cảm nhận\" (Perceived usability) từ góc nhìn chủ quan của người dùng sau khi họ dùng thử hệ thống.\nVì sao các đáp án khác sai:\nB & C: Số task hoàn thành và Tần suất lỗi là các thước đo mang tính khách quan (objective metrics), được ghi nhận bằng cách quan sát hoặc phần mềm tracking, không phải bằng bảng hỏi SUS.\nD: Việc tìm ra lỗi vi phạm nguyên tắc thiết kế là kết quả của phương pháp Đánh giá Chuyên gia (Heuristic Evaluation), không liên quan đến SUS.\nTổng kết kiến thức (Thang đo SUS): SUS là công cụ phổ biến nhất thế giới để định lượng hóa cảm nhận của người dùng về độ dễ dùng. Tuy nhiên, điểm SUS cao chỉ phản ánh cảm giác của người dùng, không đồng nghĩa với việc hệ thống không có lỗi kĩ thuật ẩn bên trong."
+  },
+  {
+    "id": 77,
+    "text": "Which of the following is a BAD question to ask during a user needs assessment interview?",
+    "options": [
+      "A. Could you tell me about a recent time when you used the \"undo\" feature?",
+      "B. Tell me more - what was the context when you used the \"undo\" feature?",
+      "C. What functionality would you have liked to have to complete this task?",
+      "D. Was it because you didn't know about the \"undo\" feature that you were unable to complete the task?"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 77: Which of the following is a BAD question to ask during a user needs assessment interview?\nĐáp án đúng: D (Was it because you didn't know about the \"undo\" feature that you were unable to complete the task?).\nVì sao D đúng: Đây là một câu hỏi tồi tệ vì nó hội tụ mọi lỗi sai trong phỏng vấn:\nĐóng (Closed-ended): Ép người dùng trả lời Yes/No.\nMớm lời (Leading): Tự đưa ra sẵn lý do cho người dùng.\nPhán xét (Judgmental): Đổ lỗi việc không hoàn thành task là do sự thiếu hiểu biết của người dùng, khiến họ phòng thủ hoặc tự ái.\nVì sao các đáp án khác sai: Các đáp án A, B, C đều là những câu hỏi mở, khách quan, đào sâu bối cảnh và khuyến khích người dùng chia sẻ thêm (Tell me more, What functionality...).\nTổng kết kiến thức (Nghệ thuật đặt câu hỏi): Trong UX, \"Người dùng không bao giờ sai, chỉ có thiết kế sai\". Việc đặt câu hỏi mang tính đổ lỗi cho năng lực của người dùng sẽ phá hủy hoàn toàn mối quan hệ (rapport) trong buổi phỏng vấn."
+  },
+  {
+    "id": 78,
+    "text": "Creation of many alternative solutions increases the quality of the final design",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 78: Creation of many alternative solutions increases the quality of the final design\nĐáp án đúng: A (True).\nVì sao A đúng: Quá trình tạo ra nhiều giải pháp thay thế (Ideation/Divergence) ép não bộ vượt qua những giải pháp đầu tiên, sáo rỗng và an toàn. Khi bạn có một \"kho\" nhiều ý tưởng khác biệt, khả năng chắt lọc và kết hợp ra được một bản thiết kế cuối cùng xuất sắc (Convergence) sẽ tăng lên đáng kể.\nTổng kết kiến thức (Tư duy phân kì & Hội tụ): Trong Design Thinking, số lượng sinh ra chất lượng. Đừng vội vàng chốt ngay ý tưởng đầu tiên lóe lên trong đầu."
+  },
+  {
+    "id": 79,
+    "text": "What is the main problem with the following survey question?\n\"How likely are you to participate in an online course in the future?\"\n[Very likely] [Somewhat likely] [Neutral] [Somewhat unlikely] [Very unlikely]",
+    "options": [
+      "A. The response categories don't match the question stem.",
+      "B. The question stem doesn't include both poles of the scale.",
+      "C. This should be framed as a unipolar scale.",
+      "D. There's nothing wrong with this question."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 79: What is the main problem with the following survey question? \"How likely are you to participate in an online course in the future?\"\nĐáp án đúng: B (The question stem doesn't include both poles of the scale.).\nVì sao B đúng: Phần thân câu hỏi (question stem) chỉ hỏi \"How likely...\" (Bạn có khả năng... như thế nào), tức là chỉ đề cập đến chiều hướng tích cực. Trong khi đó, các đáp án bên dưới lại là thang đo lưỡng cực (bipolar) chứa cả \"unlikely\" (không có khả năng). Điều này tạo ra một thiên kiến nhẹ, hướng sự tập trung của não bộ vào vế \"có khả năng\". Cách viết đúng phải là: \"How likely or unlikely are you to...\" (Bạn có khả năng hay không có khả năng...).\nVì sao các đáp án khác sai: Không có lỗi về việc thang đo không khớp (A), và đây rõ ràng là một biến cần dùng thang Bipolar để xem thái độ người dùng nghiêng về phe nào, nên không cần ép thành Unipolar (C).\nTổng kết kiến thức (Thiết kế câu hỏi khách quan): Từ ngữ trong câu hỏi phải cân bằng hoàn toàn. Nếu đáp án cho phép người dùng ghét/từ chối, câu hỏi cũng phải nhắc đến trường hợp ghét/từ chối đó để không định hướng suy nghĩ của họ."
+  },
+  {
+    "id": 80,
+    "text": "What is the value of having an overarching question in an interview protocol?",
+    "options": [
+      "A. It provides a focus for the interview that the interviewer keeps in mind throughout the interview.",
+      "B. It serves as a catch-all question to ask at the end of an interview.",
+      "C. It is a good opening question to ask during the interview.",
+      "D. It is a good way to elicit a summary of the interview participant's thoughts."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 80: What is the value of having an overarching question in an interview protocol?\nĐáp án đúng: A (It provides a focus for the interview that the interviewer keeps in mind throughout the interview.).\nVì sao A đúng: \"Câu hỏi bao quát\" (overarching question) giống như kim chỉ nam của toàn bộ dự án nghiên cứu. Người phỏng vấn sẽ giữ câu hỏi này trong đầu suốt quá trình làm việc để đảm bảo họ không bị đi lạc đề khi bị cuốn vào các câu chuyện lan man của người dùng.\nVì sao các đáp án khác sai: Câu hỏi bao quát thường rất vĩ mô (vd: \"Tại sao giới trẻ lại bỏ dùng ứng dụng X?\"). Do đó, người ta KHÔNG BAO GIỜ mang nó ra để hỏi trực tiếp người dùng làm câu mở đầu (C), câu chốt (B), hay câu tóm tắt (D) vì nó quá rộng và người dùng không thể tự trả lời được.\nTổng kết kiến thức (Overarching Question): Câu hỏi này dành riêng cho nhóm Nghiên cứu tự nhìn nhận. Để trả lời được nó, bạn phải chia nhỏ nó ra thành hàng chục câu hỏi phụ vi mô trong kịch bản phỏng vấn."
+  },
+  {
+    "id": 81,
+    "text": "Which of the following is most accurate?",
+    "options": [
+      "A. [Bị che khuất - Đáp án đúng]",
+      "B. Surveys have largely been abandoned in modern research because they are so inaccurate.",
+      "C. Surveys should never be combined with other types of methods",
+      "D. Surveys are good at measuring behavioral outcomes."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 81: Which of the following is most accurate?\nĐáp án đúng: A (Phần này bị che khuất trong tài liệu gốc, nhưng dựa vào phương pháp loại trừ, A là đáp án chính xác).\nVì sao các đáp án khác sai:\nB: Nói rằng \"Khảo sát phần lớn đã bị loại bỏ trong nghiên cứu hiện đại\" là hoàn toàn sai. Khảo sát vẫn là một công cụ cực kỳ phổ biến và mạnh mẽ.\nC: Nói rằng \"Không bao giờ được kết hợp khảo sát với các phương pháp khác\" cũng sai. Thực tế, nghiên cứu hỗn hợp (Mixed-methods) kết hợp cả định tính và định lượng mới mang lại kết quả toàn diện nhất.\nD: Khảo sát rất tệ trong việc đo lường \"kết quả hành vi thực tế\" (behavioral outcomes) vì con người thường nói một đằng làm một nẻo. Khảo sát chỉ tốt để đo lường thái độ và ý kiến.\nTổng kết kiến thức (Sử dụng khảo sát): Khảo sát là công cụ thu thập dữ liệu tự báo cáo (self-reported data). Dù có sai số, nó vẫn là công cụ không thể thiếu khi cần thu thập dữ liệu trên diện rộng, đặc biệt khi kết hợp với các phương pháp khác như phỏng vấn hay phân tích hành vi."
+  },
+  {
+    "id": 82,
+    "text": "Finding 1. No Option to delete or modify Time Sheet entries.\nSeverity: 4\nHeuristic(s) Violated: Navigation\nWhile the existing prototype shows the list of time entries on the Time Sheet tab, it\ndoes not provide an option to Modify or Delete time entries. It is crucial when\nallowing users to DO something to allow them a way to UNDO or correct\nsomething done in error.\n[IMAGE: media/image1.png]\nWhat heuristic does this violate?\n![Minh họa](/images/wdu_q82.png)",
+    "options": [
+      "A. Visibility of system status",
+      "B. User control and freedom",
+      "C. Error prevention",
+      "D. Recognition vs recall"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 82: What heuristic does this violate? (Không có tùy chọn xóa hoặc sửa mục thời gian)\nĐáp án đúng: B (User control and freedom).\nVì sao B đúng: Nguyên tắc \"Kiểm soát và tự do của người dùng\" (User control and freedom) quy định rằng người dùng thường xuyên chọn nhầm chức năng và họ cần một \"lối thoát khẩn cấp\" (như nút Undo, Xóa, Hủy) để thoát khỏi trạng thái đó một cách dễ dàng mà không phải trải qua quy trình phức tạp. Việc không cho phép xóa hay sửa mục nhập thời gian vi phạm trực tiếp nguyên tắc này.\nVì sao các đáp án khác sai:\nA (Visibility of system status): Hệ thống vẫn hiển thị trạng thái (đã nhập gì) rõ ràng.\nC (Error prevention): Đây là lỗi sau khi hành động đã xảy ra và cần khắc phục, không phải là ngăn chặn lỗi trước khi nó xảy ra.\nD (Recognition vs recall): Không liên quan đến việc ghi nhớ thông tin.\nTổng kết kiến thức (Heuristics của Nielsen): Người dùng luôn mắc sai lầm. Giao diện tốt phải cho phép họ dễ dàng quay lại (undo/redo) hoặc chỉnh sửa (edit/delete) những gì họ vừa tạo ra."
+  },
+  {
+    "id": 83,
+    "text": "It's possible to create a useful, functional interactive prototype with very simple tools, such as paper, post-it notes, and scotch tape",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 83: It's possible to create a useful, functional interactive prototype with very simple tools, such as paper, post-it notes, and scotch tape\nĐáp án đúng: A (True).\nVì sao A đúng: Hoàn toàn có thể tạo ra một nguyên mẫu có tính tương tác, hữu ích chỉ bằng giấy, giấy nhớ và băng dính. Kỹ thuật \"Paper Prototyping\" cho phép mô phỏng thao tác của người dùng (ví dụ: rút một tờ giấy ra để giả lập việc cuộn màn hình hoặc dán giấy nhớ để hiện pop-up).\nTổng kết kiến thức (Lo-fi Prototyping): Không cần phần mềm đắt tiền hay kỹ năng code để bắt đầu kiểm thử. Những nguyên mẫu bằng giấy giúp team tiết kiệm chi phí, dễ dàng vứt bỏ nếu sai và thu thập được phản hồi chân thực nhất về luồng sử dụng (flow)."
+  },
+  {
+    "id": 84,
+    "text": "Which of the following best describes why you might choose to use a panel for recruiting respondents?",
+    "options": [
+      "A. To reduce recruitment costs",
+      "B. To make sure you get people who are experienced in answering surveys",
+      "C. To increase quality",
+      "D. To avoid having a convenience sample"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 84: Which of the following best describes why you might choose to use a panel for recruiting respondents?\nĐáp án đúng: A (To reduce recruitment costs).\nVì sao A đúng: (Câu này có nội dung tương tự câu 19). Một \"Panel\" là danh sách những người đã đăng ký sẵn sàng tham gia các cuộc khảo sát. Việc sử dụng nhóm này giúp tiết kiệm đáng kể thời gian và chi phí tuyển dụng so với việc phải chạy quảng cáo hay đi tìm kiếm người mới từ đầu.\nVì sao các đáp án khác sai: Việc dùng panel không đảm bảo 100% \"tăng chất lượng\" (C) hay \"tránh được mẫu tự chọn/thuận tiện\" (D) vì những người trong panel đôi khi làm khảo sát chỉ vì tiền thưởng.\nTổng kết kiến thức (Sử dụng Panel): Panel là giải pháp cân bằng giữa ngân sách/thời gian và nhu cầu thu thập dữ liệu nhanh chóng, phù hợp cho các nghiên cứu có tính chu kỳ hoặc khi tài nguyên hạn hẹp."
+  },
+  {
+    "id": 85,
+    "text": "Conducting an actual semi-structured interview is most consistently like which of the following activities?",
+    "options": [
+      "A. Golf, because negative events can affect your performance.",
+      "B. Driving, because you have to navigate adversarial situations.",
+      "C. Playing jazz, because improvisation is required.",
+      "D. Running a marathon, because it is exhausting."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 85: Conducting an actual semi-structured interview is most consistently like which of the following activities?\nĐáp án đúng: C (Playing jazz, because improvisation is required.).\nVì sao C đúng: Phỏng vấn bán cấu trúc (semi-structured interview) giống như chơi nhạc Jazz. Cả hai đều có một dàn ý/nhịp điệu cơ bản (kịch bản phỏng vấn/bản nhạc gốc), nhưng giá trị thực sự nằm ở khả năng ngẫu hứng (improvisation) của người thực hiện để phiêu theo người dùng, đào sâu vào những góc cạnh thú vị bất chợt xuất hiện.\nVì sao các đáp án khác sai: Lái xe, chơi golf hay chạy marathon không phản ánh được tính tương tác linh hoạt, sự ứng biến nghệ thuật và khả năng đi chệch khỏi kế hoạch ban đầu một cách có chủ đích như nhạc Jazz.\nTổng kết kiến thức (Phỏng vấn bán cấu trúc): Đừng bám chặt vào kịch bản như một cái máy đọc chữ. Kịch bản chỉ là bản đồ định hướng, bạn phải biết khi nào nên bỏ bản đồ xuống để đi theo câu chuyện của người dùng."
+  },
+  {
+    "id": 86,
+    "text": "Which of the following is NOT a best practice for writing open-ended questions?",
+    "options": [
+      "A. Use an open-ended question after every closed-ended question.",
+      "B. Use neutral probes when possible.",
+      "C. Provide extra motivation to respond.",
+      "D. Specify the response wanted in the question stem."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 86: Which of the following is NOT a best practice for writing open-ended questions?\nĐáp án đúng: A (Use an open-ended question after every closed-ended question.).\nVì sao A đúng: Việc bắt người dùng phải viết câu trả lời mở ngay sau mỗi câu hỏi đóng (kiểu như: \"Tại sao bạn lại chọn đáp án trên?\") là một cách làm tồi tệ vì nó tạo ra gánh nặng nhận thức và sự mệt mỏi cực lớn, khiến họ dễ bỏ ngang khảo sát.\nVì sao các đáp án khác sai (Vì chúng LÀ các thực hành tốt):\nB: Dùng các câu hỏi gợi mở trung lập (neutral probes) giúp khuyến khích họ kể thêm mà không bị mớm lời.\nC: Cung cấp động lực (ví dụ: giải thích vì sao ý kiến của họ quan trọng) giúp họ có hứng thú viết.\nD: Chỉ rõ kiểu phản hồi bạn muốn (ví dụ: \"Hãy mô tả 3 lý do...\") giúp họ dễ định hình câu trả lời.\nTổng kết kiến thức (Câu hỏi mở): Hãy dùng câu hỏi mở một cách dè dặt và chiến lược trong bảng khảo sát. Chỉ hỏi khi bạn thực sự cần sự diễn giải chi tiết mà câu hỏi đóng không thể mang lại."
+  },
+  {
+    "id": 87,
+    "text": "Which of the following is not a characteristic of hi-fi prototypes?",
+    "options": [
+      "A. They are more resource-intensive to develop",
+      "B. They can be run by the tester without help",
+      "C. They are of limited usefulness for testing usability",
+      "D. They can be used as a part of the spec given to developers"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 87: Which of the following is not a characteristic of hi-fi prototypes?\nĐáp án đúng: C (They are of limited usefulness for testing usability).\nVì sao C đúng: Phát biểu cho rằng Hi-fi prototypes (nguyên mẫu độ trung thực cao) có \"công dụng hạn chế để kiểm thử tính khả dụng\" là hoàn toàn sai (Do đề bài hỏi \"NOT\"). Thực tế, Hi-fi prototypes có tính tương tác, hình ảnh giống hệt sản phẩm thật, nên chúng là công cụ tốt nhất và chi tiết nhất để test usability một cách toàn diện.\nVì sao các đáp án khác sai (Vì chúng LÀ đặc điểm của Hi-fi prototype):\nA: Đòi hỏi rất nhiều nguồn lực, thời gian và công sức để tạo ra.\nB: Người tham gia test có thể tự dùng nó mà không cần người thiết kế ngồi cạnh hướng dẫn hay thao tác hộ (như lo-fi).\nD: Do có độ chi tiết cao, nó thường được dùng làm bản đặc tả (specs) để chuyển giao cho lập trình viên.\nTổng kết kiến thức (Hi-fi Prototypes): Nguyên mẫu độ trung thực cao mang lại phản hồi chính xác nhất về trải nghiệm vi mô (micro-interactions) và tính khả dụng thực tế, nhưng đi kèm với chi phí đắt đỏ."
+  },
+  {
+    "id": 88,
+    "text": "1.3 Methods\nScope of the evaluation\nThe scope of the evaluation includes the most frequently used functions of the app, which are:\n. Report an event when someone else is being a victim of robbery.\n. Check the map to see if a place is dangerous.\n. Protect themselves in case they are the victim of smartphone robbery\nIs this a good scope for a user test?",
+    "options": [
+      "A. No, a user test must focus on only one task",
+      "B. Yes, it has users test the core functions of the app",
+      "C. No, a user test needs to compare two different systems",
+      "D. No, a user test needs to include testing every single task in the application to deliver valuable data"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 88: Scope of the evaluation includes the most frequently used functions... Is this a good scope for a user test?\nĐáp án đúng: B (Yes, it has users test the core functions of the app).\nVì sao B đúng: Một bài kiểm thử người dùng (user test) thường chỉ kéo dài 30-60 phút. Việc giới hạn phạm vi kiểm thử (scope) vào các chức năng cốt lõi và được sử dụng thường xuyên nhất là một chiến lược xuất sắc và khả thi.\nVì sao các đáp án khác sai:\nA: Một bài test có thể bao gồm nhiều task, không bắt buộc chỉ có một task.\nC: Không bắt buộc phải so sánh hai hệ thống mới gọi là user test (đó là A/B testing).\nD: Cố gắng test mọi tác vụ trong một lần là bất khả thi, gây quá tải cho người dùng và người nghiên cứu.\nTổng kết kiến thức (Phạm vi User Test): Đừng tham lam. Hãy ưu tiên kiểm tra những luồng (flows) mang lại giá trị lớn nhất cho người dùng hoặc những luồng đang có nguy cơ rủi ro cao nhất."
+  },
+  {
+    "id": 89,
+    "text": "Brainstorming, morphological analysis, and \"the worst idea\" are examples of what kind of technique?",
+    "options": [
+      "A. Ideation",
+      "B. Lo-fi prototyping",
+      "C. Convergence",
+      "D. Poor"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 89: Brainstorming, morphological analysis, and \"the worst idea\" are examples of what kind of technique?\nĐáp án đúng: A (Ideation).\nVì sao A đúng: Tất cả các kỹ thuật này (Động não, Phân tích hình thái, và Tìm ý tưởng tồi tệ nhất) đều nhằm mục đích phá vỡ rào cản tư duy để tạo ra càng nhiều ý tưởng mới càng tốt. Đây chính là giai đoạn Hình thành ý tưởng (Ideation).\nVì sao các đáp án khác sai:\nC (Convergence): Hội tụ là quá trình chọn lọc, thu hẹp các ý tưởng lại, trái ngược với Ideation (Phân kỳ).\nB: Prototyping là bước làm nguyên mẫu, diễn ra sau khi đã có ý tưởng.\nTổng kết kiến thức (Ideation Techniques): Có rất nhiều công cụ để ép não bộ sáng tạo. Ví dụ, trò chơi \"The worst idea\" (Cố tình nghĩ ra giải pháp tệ nhất) giúp giải tỏa áp lực phải hoàn hảo, từ đó đôi khi lại mở ra những góc nhìn độc đáo."
+  },
+  {
+    "id": 90,
+    "text": "In which of the following contexts can you use qualitative data analysis?\nI. Understanding user needs\nII. Making sense of non-quantitative data\nIIl. Condensing complex information",
+    "options": [
+      "A. I only",
+      "B. I and II",
+      "C. I and III",
+      "D. I, Il, and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 90: In which of the following contexts can you use qualitative data analysis?\nĐáp án đúng: D (I, II, and III).\nVì sao D đúng: Phân tích dữ liệu định tính (Qualitative data analysis) áp dụng được cho cả 3 ngữ cảnh:\n(I) Hiểu sâu về nhu cầu, nỗi đau của người dùng.\n(II) Giải mã ý nghĩa của các dữ liệu phi số liệu (non-quantitative) như hình ảnh, lời nói, văn bản.\n(III) Cô đọng/tóm tắt các luồng thông tin phức tạp (từ những cuộc phỏng vấn dài thành các themes/insight ngắn gọn).\nTổng kết kiến thức (Phân tích Định tính): Nếu định lượng giúp trả lời câu hỏi \"Có bao nhiêu?\", thì phân tích định tính là nghệ thuật gom nhóm, tìm ra các khuôn mẫu (patterns) trong sự hỗn loạn của ngôn ngữ để trả lời câu hỏi \"Tại sao lại như vậy?\"."
+  },
+  {
+    "id": 91,
+    "text": "At what point in a product or service's life-cycle should one conduct a user needs assessment?\nI. Before designing a new product or service.\nIl. Before considering a re-design of an existing product or service.\nIII. Just before releasing a new product or service that has already been designed.",
+    "options": [
+      "A. I only",
+      "B. Il only",
+      "C. I and II",
+      "D. Il and III"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 91: At what point in a product or service's life-cycle should one conduct a user needs assessment?\nĐáp án đúng: C (I and II).\nVì sao C đúng: Đánh giá nhu cầu người dùng (User needs assessment) là bước tìm hiểu nền tảng để biết người dùng đang cần gì, gặp khó khăn gì. Do đó, nó phải được thực hiện (I) Trước khi thiết kế một sản phẩm mới, và (II) Trước khi xem xét thiết kế lại (re-design) một sản phẩm hiện có.\nVì sao các đáp án khác sai: Mệnh đề (III) \"Ngay trước khi phát hành một sản phẩm đã được thiết kế xong\" là hoàn toàn sai. Việc tìm hiểu nhu cầu lúc này là quá muộn, vì sản phẩm đã làm xong. Lúc này người ta chỉ làm kiểm thử khả dụng (Usability testing) để tìm lỗi chứ không phải để tìm hiểu nhu cầu nữa.\nTổng kết kiến thức (Thời điểm nghiên cứu nhu cầu): Nghiên cứu nhu cầu (Formative research) luôn nằm ở vạch xuất phát của quy trình UX. Nếu làm sai hoặc bỏ qua bước này, bạn có nguy cơ tạo ra một sản phẩm rất đẹp, rất dễ dùng nhưng... không ai cần đến."
+  },
+  {
+    "id": 92,
+    "text": "What can UX researchers do to minimize the impact of confirmation bias?",
+    "options": [
+      "A. Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the test",
+      "B. Recruit only family and friends as participants, since they will be more honest about their feelings",
+      "C. Researchers should trust their intuition when analyzing test results, rather than seeking to be systematic and impartial",
+      "D. Ask participants the same questions at least 3 times, in order to confirm that the answers accurately reflect their feelings"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 92: What can UX researchers do to minimize the impact of confirmation bias?\nĐáp án đúng: A (Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the test).\nVì sao A đúng: Thiên kiến xác nhận (Confirmation bias) là xu hướng con người chỉ chú ý đến những thông tin ủng hộ cho niềm tin có sẵn của họ. Người thiết kế ra sản phẩm thường rất \"yêu\" đứa con tinh thần của mình, nên họ dễ dàng bỏ qua các lỗi mà người dùng gặp phải. Nhờ một \"bên thứ ba trung lập\" không liên quan đến dự án để điều phối buổi test sẽ loại bỏ hoàn toàn thiên kiến này.\nVì sao các đáp án khác sai:\nB: Nhờ gia đình/bạn bè là sai lầm vì họ thường ngại làm mất lòng bạn nên sẽ khen nhiều hơn chê.\nC: Tin vào trực giác thay vì hệ thống khách quan là cốt lõi gây ra thiên kiến.\nD: Việc hỏi lặp lại 3 lần không giúp giảm thiên kiến, mà chỉ làm người dùng khó chịu.\nTổng kết kiến thức (Thiên kiến xác nhận): \"Đừng bao giờ tự chấm điểm bài thi của chính mình\". Trong UX, sự khách quan là yếu tố sống còn để nhìn nhận đúng thực tế sản phẩm."
+  },
+  {
+    "id": 93,
+    "text": "When reporting an issue found through user testing you should report all of the following EXCEPT:",
+    "options": [
+      "A. Recommendation",
+      "B. Severity",
+      "C. Evidence",
+      "D. Clear description of the problem",
+      "E. The names of the participants who encountered them"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Câu 93: When reporting an issue found through user testing you should report all of the following EXCEPT:\nĐáp án đúng: E (The names of the participants who encountered them).\nVì sao E đúng: Trong bất kỳ báo cáo nghiên cứu nào, nguyên tắc đạo đức tối thượng là bảo vệ quyền riêng tư của người tham gia. Việc đưa danh tính thật (tên tuổi) của họ vào báo cáo vi phạm nghiêm trọng quy định về Dữ liệu Nhận dạng Cá nhân (PII).\nVì sao các đáp án khác sai: Khi báo cáo một lỗi UX, bạn bắt buộc phải có: Mô tả rõ ràng vấn đề (D), Mức độ nghiêm trọng (B), Bằng chứng trích xuất từ buổi test (C), và Đề xuất cách khắc phục (A).\nTổng kết kiến thức (Báo cáo lỗi UX & Đạo đức nghiên cứu): Chúng ta báo cáo hành vi và vấn đề, không báo cáo con người. Trong các tài liệu nội bộ, người tham gia thường được ẩn danh dưới dạng P1, P2 (Participant 1, 2) hoặc sử dụng tên giả."
+  },
+  {
+    "id": 94,
+    "text": "Granularity of the needed information is an important consideration when designing system inputs.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 94: Granularity of the needed information is an important consideration when designing system inputs.\nĐáp án đúng: A (True).\nVì sao A đúng: Mức độ chi tiết (Granularity) của thông tin đầu vào là một yếu tố thiết kế quan trọng. Tùy vào mục đích của hệ thống mà bạn yêu cầu người dùng nhập liệu ở mức độ nào. (Ví dụ: Bạn chỉ cần biết người dùng sinh năm nào để tính tuổi, hay bạn cần ngày/tháng/năm sinh chính xác để gửi quà sinh nhật?).\nTổng kết kiến thức (Thiết kế Form nhập liệu): Yêu cầu thông tin với độ chi tiết quá mức cần thiết (high granularity) sẽ làm tăng gánh nặng nhập liệu và khiến người dùng bỏ ngang form. Thiết kế UX tốt chỉ đòi hỏi thông tin ở mức độ chi tiết vừa đủ dùng."
+  },
+  {
+    "id": 95,
+    "text": "By helping users form effective_____,we can help users to predict the results of actions they haven't yet performed using a system.",
+    "options": [
+      "A. System images",
+      "B. Assumptions",
+      "C. Feedback",
+      "D. Conceptual models"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 95: By helping users form effective _____, we can help users to predict the results of actions they haven't yet performed using a system.\nĐáp án đúng: D (Conceptual models).\nVì sao D đúng: \"Mô hình khái niệm\" (Conceptual models) là bản đồ tư duy trong đầu người dùng về cách một hệ thống hoạt động. Khi người dùng có một mô hình khái niệm chính xác (nhờ giao diện rõ ràng, gợi ý tốt), họ có thể dùng logic để suy luận và dự đoán được kết quả của những tính năng mà họ thậm chí chưa từng bấm vào.\nVì sao các đáp án khác sai:\nC (Feedback): Phản hồi chỉ xảy ra sau khi hành động đã được thực hiện, không dùng để dự đoán trước.\nA (System images): Đây là hình ảnh hệ thống thực tế do nhà thiết kế tạo ra, người dùng dùng nó để xây dựng conceptual model của riêng họ.\nTổng kết kiến thức (Conceptual Models): Hãy thiết kế giao diện sao cho nó trùng khớp với những khái niệm quen thuộc trong đời thực. Ví dụ: Biểu tượng \"Thùng rác\" giúp người dùng có ngay mô hình khái niệm rằng \"kéo file vào đây là sẽ bị vứt đi\"."
+  },
+  {
+    "id": 96,
+    "text": "According to the original research on short-term memory, how many \"items\" can a person retain in short-term memory at one time?",
+    "options": [
+      "A. One or two",
+      "B. About 7",
+      "C. About 10",
+      "D. There is no measurable limit"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 96: According to the original research on short-term memory, how many \"items\" can a person retain in short-term memory at one time?\nĐáp án đúng: B (About 7).\nVì sao B đúng: Dựa trên nghiên cứu kinh điển của nhà tâm lý học George Miller (Định luật Miller năm 1956), trí nhớ ngắn hạn của một người trung bình chỉ có thể lưu giữ được khoảng 7 (cộng hoặc trừ 2) khối thông tin (items/chunks) cùng một lúc.\nTổng kết kiến thức (Định luật Miller trong UX): Do giới hạn sinh học này, chúng ta không nên bắt người dùng phải nhớ quá nhiều thứ cùng lúc. Các thanh điều hướng (navigation bar) thường chỉ nên chứa 5-7 mục. Nếu có thông tin dài (như số điện thoại, số thẻ tín dụng), hãy chia nhỏ (chunking) chúng ra (ví dụ: 090-123-4567) để bộ não dễ xử lý hơn."
+  },
+  {
+    "id": 97,
+    "text": "Which of the following is an example of a good use of a post-test questionnaire?",
+    "options": [
+      "A. Asking open-ended questions where participants can give any answer that comes to mind",
+      "B. Asking follow-up questions to understand why participants gave answers that they did",
+      "C. Obtaining quantified measures of participants' subjective reactions to using a system",
+      "D. Measuring the time it takes participants to complete a task"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 97: Which of the following is an example of a good use of a post-test questionnaire?\nĐáp án đúng: C (Obtaining quantified measures of participants' subjective reactions to using a system).\nVì sao C đúng: Bảng câu hỏi sau thử nghiệm (post-test questionnaire, ví dụ như thang đo SUS) là công cụ tuyệt vời nhất để thu thập các \"số liệu định lượng hóa\" (quantified measures) về phản ứng và cảm nhận chủ quan của người dùng đối với hệ thống.\nVì sao các đáp án khác sai:\nA & B: Việc đặt câu hỏi mở hoặc đào sâu lý do \"tại sao\" phù hợp hơn cho buổi phỏng vấn trực tiếp (debrief interview), nơi bạn có thể linh hoạt tương tác.\nD: Việc đo lường thời gian hoàn thành task phải được người nghiên cứu bấm giờ hoặc hệ thống tự đếm trong quá trình diễn ra tác vụ, không phải bằng cách bắt người dùng tự nhớ và điền vào bảng khảo sát sau đó.\nTổng kết kiến thức (Post-test Questionnaire): Đây là lúc bạn phát cho người dùng các bộ câu hỏi chuẩn hóa có thang điểm (như 1 đến 5 sao) để số hóa cảm xúc của họ, giúp bạn có những điểm số cụ thể để báo cáo và so sánh."
+  },
+  {
+    "id": 98,
+    "text": "Which of the following are techniques that might be used in qualitative data analysis?\nI. Clustering\nII. Running a statistical regression\nIII. Finding patterns",
+    "options": [
+      "A. I only",
+      "B. IlI only",
+      "C. I and III",
+      "D. I, Il and III"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 98: Which of the following are techniques that might be used in qualitative data analysis?\nĐáp án đúng: C (I and III).\nVì sao C đúng: Trong phân tích dữ liệu định tính (Qualitative data analysis), hai kỹ thuật cốt lõi là:\n(I) Clustering (Gom cụm): Nhóm các ghi chú/dữ liệu có nét tương đồng lại với nhau (như kỹ thuật Affinity Diagram).\n(III) Finding patterns (Tìm kiếm quy luật/khuôn mẫu): Rút ra những chủ đề hoặc hành vi lặp đi lặp lại từ các dữ liệu đã gom cụm.\nVì sao mệnh đề II sai: Chạy mô hình hồi quy thống kê (statistical regression) liên quan đến các phép toán phức tạp trên các biến số học, đây là kỹ năng đặc thù của Phân tích Định lượng (Quantitative).\nTổng kết kiến thức (Xử lý dữ liệu định tính): Dữ liệu định tính thường là một đống giấy nhớ (sticky notes) chứa chữ viết hoặc các đoạn băng ghi âm. Nhiệm vụ của nhà nghiên cứu là đọc, sắp xếp chúng thành từng nhóm ý nghĩa và tìm ra câu chuyện đằng sau đó."
+  },
+  {
+    "id": 99,
+    "text": "According to Wikipedia, a \"direct manipulation interface\" is one that features \"continuous representation of objects of interest and rapid, reversible, and incremental actions and feedback\". The \"continuous representation of objects of interest\" is best aligned with which principle of good UI design?",
+    "options": [
+      "A. Prevent errors before they happen",
+      "B. Support recognition over recall",
+      "C. Employ aesthetic and minimalist design",
+      "D. Support user control and freedom\nDANH SÁCH CÁC CÂU HỎI CÒN LẠI (TỪ CÂU 100 - 126)"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 99: According to Wikipedia, a \"direct manipulation interface\" is one that features \"continuous representation of objects of interest... The \"continuous representation of objects of interest\" is best aligned with which principle of good UI design?\nĐáp án đúng: B (Support recognition over recall).\nVì sao B đúng: Giao diện thao tác trực tiếp (Direct manipulation) có đặc điểm là \"hiển thị liên tục đối tượng đang được quan tâm\". Việc luôn nhìn thấy đối tượng trên màn hình (như thư mục tài liệu luôn hiển thị trước mắt) giúp bộ não chỉ cần \"nhận diện\" (recognition) ra nó là xong, thay vì phải tốn công \"ghi nhớ\" (recall) xem đối tượng đó nằm ở đâu hay lệnh mở nó là gì bằng các dòng code gõ tay.\nVì sao các đáp án khác sai:\nDù giao diện thao tác trực tiếp cũng giúp ngăn chặn lỗi (A) hay hỗ trợ tự do (D), nhưng mệnh đề cụ thể \"hiển thị liên tục đối tượng\" thì gắn bó mật thiết nhất và trực tiếp nhất với nguyên tắc Nhận diện thay vì Ghi nhớ.\nTổng kết kiến thức (Recognition vs. Recall): \"Nhận diện\" (như thi trắc nghiệm) luôn dễ hơn \"Ghi nhớ\" (như thi tự luận). Trong UI, việc hiển thị sẵn các nút bấm, icon, danh sách thả xuống là những cách để tối ưu hóa sự nhận diện."
+  },
+  {
+    "id": 100,
+    "text": "Which of the following questions is best answered by a quantitative research method?",
+    "options": [
+      "A. What proportion of Gadget X users love Feature Y?",
+      "B. What are the different ways in which Gadget X frustrates its users?",
+      "C. How will total revenue change if Gadget X's price is reduced by 10%?",
+      "D. Does Gadget X tend to increase traffic accidents among its users?"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 100: Which of the following questions is best answered by a quantitative research method?\nĐáp án đúng: A (What proportion of Gadget X users love Feature Y?).\nVì sao A đúng: Nghiên cứu định lượng (Quantitative research) sinh ra để giải quyết các câu hỏi về lượng, như \"Bao nhiêu người\", \"Tỷ lệ bao nhiêu\". Câu hỏi \"Tỷ lệ (proportion) người dùng Gadget X yêu thích tính năng Y là bao nhiêu?\" hoàn toàn phù hợp để dùng bảng khảo sát quy mô lớn chạy ra số liệu phần trăm.\nVì sao các đáp án khác sai:\nB: Hỏi về \"Các cách khác nhau khiến người dùng bực mình\" cần phương pháp Định tính (Phỏng vấn/Quan sát) để khai thác các câu chuyện và ngữ cảnh.\nC & D: Dự báo doanh thu kinh tế hoặc phân tích nguyên nhân - hệ quả của việc tăng tai nạn giao thông đòi hỏi các mô hình phân tích kinh doanh, khoa học dữ liệu hoặc dịch tễ học phức tạp, nằm ngoài phạm vi cốt lõi của nghiên cứu người dùng thông thường.\nTổng kết kiến thức (Định lượng): Khi bạn cần các con số thống kê có ý nghĩa đại diện (như 75% người dùng click vào nút A) để chứng minh một xu hướng hay đưa ra quyết định kinh doanh, Định lượng là phương pháp phải dùng."
+  },
+  {
+    "id": 101,
+    "text": "What is a good way to establish rapport with an interview participant?",
+    "options": [
+      "A. Talk about what other participants have been saying",
+      "B. Make small talk at first",
+      "C. Listen and observe how they respond.",
+      "D. Adopt a learning mindset."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 101: What is a good way to establish rapport with an interview participant?\nĐáp án đúng: B (Make small talk at first).\nVì sao B đúng: Xây dựng mối quan hệ (rapport) là bước tạo sự thoải mái và tin tưởng ban đầu. Việc \"trò chuyện phím\" (small talk) về thời tiết, đường đi hay một chủ đề nhẹ nhàng giúp người tham gia bớt căng thẳng trước khi bước vào các câu hỏi chính thức.\nVì sao các đáp án khác sai:\nA: Kể về người khác sẽ làm lộ thông tin và khiến người tham gia bị nhiễu tâm lý.\nC & D: Lắng nghe và có tư duy học hỏi là thái độ cần thiết trong suốt buổi phỏng vấn, nhưng để \"bắt đầu/thiết lập\" (establish) sự thoải mái thì small talk mang lại hiệu quả trực tiếp nhất.\nTổng kết kiến thức: Một người dùng căng thẳng sẽ không cung cấp dữ liệu tốt. Dành 3-5 phút đầu để phá băng (ice-breaking) là kỹ năng bắt buộc của người phỏng vấn UX."
+  },
+  {
+    "id": 102,
+    "text": "What is the main problem with the following interview question: \"Tell me about what you were able to compile in Terminal. I know you had a hard time finding it.\"",
+    "options": [
+      "A. It is leading — you are feeding a possible answer to the participant",
+      "B. It is closed-ended — it is a yes-or-no question",
+      "C. It is judgmental — you are suggesting that the participant's lack of knowledge was a problem.",
+      "D. It is fine"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 102: What is the main problem with the following interview question: \"Tell me about what you were able to compile in Terminal. I know you had a hard time finding it.\"\nĐáp án đúng: C (It is judgmental — you are suggesting that the participant's lack of knowledge was a problem.).\nVì sao C đúng: Câu nói \"Tôi biết bạn đã rất chật vật để tìm nó\" mang tính phán xét (judgmental). Nó ngầm định rằng người dùng kém cỏi hoặc thiếu kiến thức, khiến họ dễ rơi vào trạng thái phòng thủ, tự ái hoặc không muốn chia sẻ thêm.\nVì sao các đáp án khác sai: Câu này không phải là câu hỏi đóng (Yes/No) và không hẳn là mớm lời (leading) về cách hệ thống hoạt động, mà vấn đề nghiêm trọng nhất của nó là thái độ trịch thượng.\nTổng kết kiến thức: Trong kiểm thử UX, người thiết kế phải luôn nhấn mạnh \"Chúng tôi đang kiểm tra hệ thống, không phải kiểm tra bạn\". Bất kỳ câu từ nào chê bai năng lực của người dùng đều phá hủy môi trường nghiên cứu."
+  },
+  {
+    "id": 103,
+    "text": "What should you do during the Think Aloud protocol?",
+    "options": [
+      "A. Let the participant hear what you're thinking while you observe them",
+      "B. Prompt the user to convey their thinking out loud with short questions",
+      "C. Respond to the participant by telling whether what they're saying is correct or not",
+      "D. Sit quietly and observe, even if the participant says nothing."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 103: What should you do during the Think Aloud protocol?\nĐáp án đúng: B (Prompt the user to convey their thinking out loud with short questions).\nVì sao B đúng: Phương pháp \"Nghĩ thành tiếng\" (Think Aloud) yêu cầu người dùng liên tục nói ra những gì họ đang làm, đang nhìn và đang cảm thấy. Tuy nhiên, người dùng thường có xu hướng im lặng khi gặp khó khăn tập trung. Lúc này, bạn cần chủ động nhắc nhở bằng các câu hỏi ngắn (Ví dụ: \"Bạn đang nghĩ gì vậy?\") để họ tiếp tục nói.\nVì sao các đáp án khác sai:\nA: Buổi test là để nghe suy nghĩ của người dùng, không phải của bạn.\nC: Bạn không bao giờ được phép nói cho họ biết họ làm đúng hay sai trong quá trình test.\nD: Ngồi im khi người dùng im lặng sẽ làm lãng phí thời gian và mất đi dữ liệu quý giá.\nTổng kết kiến thức: Moderating (Điều phối) là một nghệ thuật. Bạn phải biết cách giữ im lặng khi người dùng thao tác tốt, và biết cách mồi câu nhẹ nhàng khi họ quên mất việc phải \"nghĩ thành tiếng\"."
+  },
+  {
+    "id": 104,
+    "text": "Which of the following contexts can you use qualitative data analysis?\nI. Finding patterns from interviews\nII. Condensing complex information",
+    "options": [
+      "A. I only",
+      "B. I and II only",
+      "C. II only",
+      "D. I and II"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 104: Which of the following contexts can you use qualitative data analysis?\nĐáp án đúng: D (I and II).\nVì sao D đúng: Phân tích dữ liệu định tính có hai mục đích cốt lõi: (I) Tìm ra các khuôn mẫu/quy luật (patterns) từ vô số các cuộc phỏng vấn; và (II) Cô đọng, tóm tắt các thông tin phức tạp thành những insight dễ hiểu.\n(Lưu ý: Trong tài liệu gốc, đáp án B và D có phần text lặp ý \"I and II\", nhưng theo format chuẩn của bộ đề, D được ghi nhận là đáp án đầy đủ nhất).\nTổng kết kiến thức: Dữ liệu định tính luôn cồng kềnh (hàng chục trang transcript). Kỹ năng phân tích định tính là khả năng \"lọc cặn\", từ hàng ngàn chữ tìm ra 3-5 vấn đề cốt lõi nhất."
+  },
+  {
+    "id": 105,
+    "text": "Which of the following topics are NOT a common part of the introduction to an interview?",
+    "options": [
+      "A. How confidentiality will be handled",
+      "B. Expected duration of the interview",
+      "C. How many other interview participants there are",
+      "D. Overall goals of the interview"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 105: Which of the following topics are NOT a common part of the introduction to an interview?\nĐáp án đúng: C (How many other interview participants there are).\nVì sao C đúng: Trong phần mở đầu, bạn KHÔNG cần thiết phải nói cho người tham gia biết có bao nhiêu người khác cùng tham gia nghiên cứu này. Thông tin này không mang lại giá trị, thậm chí có thể khiến họ cảm thấy ý kiến của mình ít quan trọng nếu số lượng người quá đông.\nVì sao các đáp án khác sai: Tính bảo mật thông tin (A), thời lượng dự kiến (B), và mục tiêu tổng quan (D) là những thông tin bắt buộc phải nói rõ ngay từ đầu để xin sự đồng thuận (consent).\nTổng kết kiến thức: Phần Intro của một cuộc phỏng vấn là một \"bản hợp đồng miệng\" giữa người nghiên cứu và người dùng: Rõ ràng về mục đích, minh bạch về thời gian và cam kết về quyền riêng tư."
+  },
+  {
+    "id": 106,
+    "text": "Research at scale can be carried out during the following product development lifecycles:",
+    "options": [
+      "A. Discovery",
+      "B. Design",
+      "C. Optimization",
+      "D. All of the others"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 106: Research at scale can be carried out during the following product development lifecycles:\nĐáp án đúng: D (All of the others).\nVì sao D đúng: Nghiên cứu quy mô lớn (Research at scale - như khảo sát diện rộng, phân tích log, A/B testing) có thể và nên được thực hiện ở mọi giai đoạn:\nDiscovery (Khám phá): Khảo sát thị trường để xem bao nhiêu người có nhu cầu.\nDesign (Thiết kế): Kiểm thử tính khả dụng từ xa không điều phối (Unmoderated testing) với hàng trăm người.\nOptimization (Tối ưu hóa): Phân tích dữ liệu người dùng (Analytics) sau khi sản phẩm đã ra mắt.\nTổng kết kiến thức: UX Research không chỉ diễn ra ở đầu dự án. Nó là một quá trình liên tục (iterative) bám sát vòng đời sản phẩm."
+  },
+  {
+    "id": 107,
+    "text": "To test a product with real users to see if they can use it to complete a task... [Khuyết phần sau]\nI. Surveys\nII. A/B testing\nIII. Interviews\nIV. Remote usability testing",
+    "options": [
+      "A. I",
+      "B. II",
+      "C. III",
+      "D. IV"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 107: To test a product with real users to see if they can use it to complete a task...\nĐáp án đúng: D (IV. Remote usability testing).\nVì sao D đúng: Để kiểm tra xem người dùng thật có thể \"hoàn thành một tác vụ\" cụ thể nào đó hay không, phương pháp duy nhất và trực quan nhất là Kiểm thử tính khả dụng (Usability testing), trong đó \"Remote usability testing\" (Kiểm thử từ xa) là một biến thể phổ biến.\nVì sao các đáp án khác sai:\nI (Surveys) & III (Interviews): Chỉ hỏi người dùng xem họ có làm được không, và con người thường nói dối hoặc đánh giá sai năng lực của mình.\nII (A/B testing): So sánh hai phiên bản chứ không tập trung vào việc quan sát quá trình họ hoàn thành tác vụ.\nTổng kết kiến thức: \"Đừng nghe những gì người dùng nói, hãy nhìn những gì họ làm\". Để biết giao diện có dễ dùng không, bắt buộc phải giao task và quan sát hành vi thực tế của họ."
+  },
+  {
+    "id": 108,
+    "text": "Which new technology trends is forcing designers to expand their toolkit to non-visual systems?",
+    "options": [
+      "A. Proliferation of screens (smart watches, embedded displays, etc.) for which designers need to design user instrumented environments",
+      "B. [Bị che khuất]",
+      "C. Artificial Intelligence-based systems",
+      "D. Virtual and augmented reality",
+      "E. None of the others"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Câu 108: Which new technology trends is forcing designers to expand their toolkit to non-visual systems?\nĐáp án đúng: E (None of the others).\nVì sao E đúng: Câu hỏi đề cập đến các hệ thống \"phi thị giác\" (non-visual systems).\nĐáp án A (Màn hình đồng hồ, thiết bị nhúng) vẫn là màn hình (visual).\nĐáp án C (AI) không nhất thiết là phi thị giác.\nĐáp án D (AR/VR) là những công nghệ phụ thuộc cực mạnh vào thị giác (visual/spatial).\nGhi chú: Các hệ thống \"phi thị giác\" thực sự phải là Giao diện Giọng nói (VUI - Voice User Interfaces như Siri, Alexa) hoặc Giao diện Xúc giác/Âm thanh. Do không có lựa chọn nào hoàn toàn đúng, E là đáp án chính xác nhất theo tài liệu.\nTổng kết kiến thức: UX không chỉ là vẽ màn hình (UI). Kỷ nguyên mới đòi hỏi designer phải biết thiết kế kịch bản giao tiếp bằng giọng nói, thiết kế phản hồi rung haptic, và thiết kế trải nghiệm đa giác quan."
+  },
+  {
+    "id": 109,
+    "text": "_____ are those tests that typically compare two or more designs to see which one performs better on a specific metric.",
+    "options": [
+      "A. Surveys",
+      "B. A/B testing",
+      "C. Interviews",
+      "D. Remote usability testing"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 109: _____ are those tests that typically compare two or more designs to see which one performs better on a specific metric.\nĐáp án đúng: B (A/B testing).\nVì sao B đúng: Đây là định nghĩa sách giáo khoa của A/B Testing. Bạn tung ra 2 phiên bản (Ví dụ: Nút Đỏ vs Nút Xanh) cho 2 tệp người dùng ngẫu nhiên trên hệ thống thực, sau đó dùng các số liệu (metrics) như tỷ lệ click chuột (CTR) hoặc doanh thu để xem phiên bản nào \"thắng\".\nVì sao các đáp án khác sai: Khảo sát, phỏng vấn hay Usability test không được thiết kế tối ưu cho việc đo lường hiệu suất đối đầu (head-to-head) dựa trên dữ liệu định lượng thời gian thực.\nTổng kết kiến thức: A/B Testing là đỉnh cao của quá trình \"Tối ưu hóa\" (Optimization). Nó loại bỏ hoàn toàn ý kiến cá nhân của sếp hay của designer, thay vào đó để \"dữ liệu lên tiếng\"."
+  },
+  {
+    "id": 110,
+    "text": "Which of the following is typically NOT TRUE of user testing?",
+    "options": [
+      "A. You should not know who the test participants are, and they should not know who you are.",
+      "B. You should observe test participants using the system directly.",
+      "C. You should recruit test participants who are representative of your target users.",
+      "D. You should give test participants specific tasks to carry out using the system."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 110: Which of the following is typically NOT TRUE of user testing?\nĐáp án đúng: A (You should not know who the test participants are, and they should not know who you are.).\nVì sao A đúng: Nhận định này là SAI bét (NOT TRUE). Trong User Testing, bạn bắt buộc phải biết người tham gia là ai vì bạn đã bỏ công tuyển dụng họ qua bảng sàng lọc (screener) để đảm bảo họ đúng tệp khách hàng mục tiêu. Hơn nữa, bạn còn phải giới thiệu bản thân, trò chuyện để tạo sự thoải mái (rapport), nên không có chuyện \"không ai biết ai\".\nVì sao các đáp án khác sai (Vì chúng là những câu mô tả ĐÚNG về user testing):\nB: Bạn phải quan sát trực tiếp họ thao tác.\nC: Người tham gia phải đại diện đúng cho tệp người dùng mục tiêu.\nD: Bạn phải giao cho họ các tác vụ cụ thể để thực hiện.\nTổng kết kiến thức: User testing không phải là kiểm thử ẩn danh hoàn toàn (Blind testing) kiểu y tế. Mối quan hệ giữa người điều phối và người tham gia là chìa khóa để khai thác các vấn đề UX sâu sắc."
+  },
+  {
+    "id": 111,
+    "text": "True or False: If you ask a good question, everyone interpreting it will apply the exact same meaning to your terms.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 111: True or False: If you ask a good question, everyone interpreting it will apply the exact same meaning to your terms.\nĐáp án đúng: B (False).\nVì sao B đúng: Con người có nền tảng văn hóa, ngôn ngữ và nhận thức khác nhau. Dù bạn có đặt một câu hỏi \"tốt\" và rõ ràng đến đâu, vẫn luôn có rủi ro người trả lời hiểu sai hoặc diễn dịch các thuật ngữ theo cách riêng của họ.\nTổng kết kiến thức (Thiết kế câu hỏi): Đây là lý do tại sao bước kiểm thử trước (pre-testing/pilot testing) bảng khảo sát lại cực kỳ quan trọng. Nó giúp bạn phát hiện ra những từ ngữ dễ gây hiểu lầm trước khi gửi cho hàng ngàn người."
+  },
+  {
+    "id": 112,
+    "text": "About how many \"Key findings\" should be included in a typical user test report?",
+    "options": [
+      "A. 0-2",
+      "B. 3-4",
+      "C. 5-10",
+      "D. 20-50"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 112: About how many \"Key findings\" should be included in a typical user test report?\nĐáp án đúng: C (5-10).\nVì sao C đúng: Một báo cáo kiểm thử người dùng (user test report) hiệu quả nên tập trung vào 5 đến 10 phát hiện quan trọng nhất.\nVì sao các đáp án khác sai:\nA (0-2): Quá ít, không cung cấp đủ giá trị cho thấy buổi test có hiệu quả.\nD (20-50): Quá nhiều, gây tình trạng quá tải thông tin (information overload) cho các bên liên quan, khiến họ không biết phải ưu tiên sửa lỗi nào trước.\nTổng kết kiến thức (Báo cáo UX): Kỹ năng phân tích không chỉ là tìm ra lỗi, mà còn là biết cách ưu tiên (prioritize). Hãy chọn lọc những vấn đề có tác động lớn nhất đến trải nghiệm để đưa lên bản tóm tắt dành cho ban giám đốc (Executive Summary)."
+  },
+  {
+    "id": 113,
+    "text": "When making a recommendation for how to address a problem, you should consider all of the following EXCEPT:",
+    "options": [
+      "A. Identifying best practices from competitors' products",
+      "B. Declining to provide a recommendation, admitting you have no good ideas",
+      "C. Suggesting further research to better characterize the problem",
+      "D. Recommending an iterative design process to find the best solution"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 113: When making a recommendation for how to address a problem, you should consider all of the following EXCEPT:\nĐáp án đúng: B (Declining to provide a recommendation, admitting you have no good ideas).\nVì sao B đúng: Với tư cách là nhà nghiên cứu/thiết kế UX, khi phát hiện ra vấn đề, bạn không bao giờ được phép chỉ \"báo cáo lỗi rồi từ chối đưa ra giải pháp vì không có ý tưởng nào\".\nVì sao các đáp án khác sai (Vì chúng LÀ những việc nên làm): Bạn có thể tham khảo đối thủ (A), đề xuất nghiên cứu sâu hơn nếu chưa rõ (C), hoặc đề xuất thiết kế lặp (D) để thử nghiệm các hướng đi.\nTổng kết kiến thức: Dù không có giải pháp hoàn hảo ngay lập tức, bạn vẫn phải đưa ra một hướng tiếp cận (next steps) để giải quyết vấn đề, thể hiện tinh thần trách nhiệm với sản phẩm."
+  },
+  {
+    "id": 114,
+    "text": "Which of the following is NOT a way to increase the perceived benefit of participating in a survey?",
+    "options": [
+      "A. Specify how the survey results will be used",
+      "B. Identify the trustworthiness of the sponsoring organization",
+      "C. Make the survey as short as possible",
+      "D. Stress that opportunities to respond are limited"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 114: Which of the following is NOT a way to increase the perceived benefit of participating in a survey?\nĐáp án đúng: B (Identify the trustworthiness of the sponsoring organization).\nVì sao B đúng: Trong Thuyết trao đổi xã hội (Social Exchange Theory), việc làm nổi bật \"sự đáng tin cậy của tổ chức\" giúp làm giảm rủi ro (người dùng bớt sợ bị lừa đảo, lộ dữ liệu), chứ không phải làm tăng lợi ích (perceived benefit) trực tiếp mà họ nhận được.\nVì sao các đáp án khác sai: Nói cho họ biết kết quả khảo sát dùng để làm gì (A) hoặc nhấn mạnh cơ hội có hạn (D) là những cách đánh vào tâm lý, làm tăng giá trị vô hình (lợi ích) của việc tham gia.\nTổng kết kiến thức (Thiết kế Khảo sát): Để khuyến khích người dùng làm khảo sát, bạn phải tác động vào 3 yếu tố: Tăng phần thưởng/lợi ích, Giảm chi phí (như làm khảo sát ngắn lại), và Giảm rủi ro bằng cách xây dựng niềm tin."
+  },
+  {
+    "id": 115,
+    "text": "How can designers bridge the gap between formative research and design?",
+    "options": [
+      "A. By envisioning how a technology might address the needs identified in formative work",
+      "B. [Bị che khuất]",
+      "C. By articulating tradeoffs of different design solutions",
+      "D. By providing software that can be put into the codebase for the product being designed"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 115: How can designers bridge the gap between formative research and design?\nĐáp án đúng: A (By envisioning how a technology might address the needs identified in formative work).\nVì sao A đúng: Nghiên cứu định dạng (Formative research) giúp tìm ra nhu cầu và nỗi đau của người dùng. Cầu nối giữa đống dữ liệu nghiên cứu đó với bản thiết kế cuối cùng chính là \"Sự hình dung\" (Envisioning) - phác thảo các kịch bản, ý tưởng về cách công nghệ có thể giải quyết những nỗi đau đó.\nTổng kết kiến thức: Dữ liệu nghiên cứu không tự nhiên biến thành giao diện. Người thiết kế phải trải qua bước chuyển hóa (Ideation, tạo Persona, Kịch bản) để chuyển dữ liệu thô thành các giải pháp thiết kế khả thi."
+  },
+  {
+    "id": 116,
+    "text": "Personas should not be based on generalizations of user characteristics derived from research. They instead focus on specific individuals who test the system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 116: Personas should not be based on generalizations of user characteristics derived from research. They instead focus on specific individuals who test the system.\nĐáp án đúng: B (False).\nVì sao B đúng: Phát biểu này hoàn toàn sai ngược. Persona BẮT BUỘC phải là sự khái quát hóa (generalizations) các đặc điểm từ một nhóm lớn người dùng thực tế sau quá trình nghiên cứu. Persona KHÔNG BAO GIỜ là chân dung của một cá nhân cụ thể, đơn lẻ (như anh A hay chị B vừa tham gia test).\nTổng kết kiến thức (Persona): Persona là một nguyên mẫu đại diện (archetype). Nó tập hợp các điểm chung về hành vi, mục tiêu của một nhóm người dùng lại thành một nhân vật hư cấu duy nhất để dễ đồng cảm."
+  },
+  {
+    "id": 117,
+    "text": "Personas are purely fictional characters.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 117: Personas are purely fictional characters.\nĐáp án đúng: B (False).\nVì sao B đúng: Mặc dù cái tên, khuôn mặt và câu chuyện đời tư của Persona là do nhà thiết kế tự bịa ra (hư cấu), nhưng nó không phải là \"hư cấu hoàn toàn\" (purely fictional). Cốt lõi của nó (nhu cầu, nỗi đau, hành vi) phải được đúc kết từ dữ liệu thực tế của các nghiên cứu.\nTổng kết kiến thức: Nếu bạn tạo ra một Persona chỉ dựa trên trí tưởng tượng trong phòng họp mà không đi phỏng vấn người thật, đó là \"Bullshit Persona\" - một công cụ vô dụng sẽ dẫn dự án đi sai hướng."
+  },
+  {
+    "id": 118,
+    "text": "Personas include different types of information, from demographics to motivations and sociocultural context. How should designers decide what information to include?",
+    "options": [
+      "A. They should focus on making the information as complete as possible",
+      "B. They should focus on idiosyncratic characteristics of people they encountered in the formative research that will make personas as vivid as possible",
+      "C. They should focus mostly on demographic information; other types of information are secondary",
+      "D. They should focus on information that contributes to the distinct needs and potential barriers to and motivations for use that each class of target users has in relation to the technology being developed"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 118: Personas include different types of information, from demographics to motivations and sociocultural context. How should designers decide what information to include?\nĐáp án đúng: D (They should focus on information that contributes to the distinct needs and potential barriers to and motivations for use that each class of target users has in relation to the technology being developed).\nVì sao D đúng: Bạn chỉ nên đưa vào Persona những thông tin có tác động trực tiếp đến cách người dùng sử dụng ứng dụng (nhu cầu, rào cản, động lực).\nVì sao các đáp án khác sai: Việc nhồi nhét cho đầy đủ mọi thông tin (A) hay tập trung quá nhiều vào thông tin nhân khẩu học (như sở thích nuôi chó, mèo...) (C) là vô nghĩa nếu ứng dụng của bạn là phần mềm kế toán doanh nghiệp.\nTổng kết kiến thức: Một Persona tốt là một Persona gọn gàng và sắc bén. Mọi chi tiết trong đó đều phải phục vụ cho việc ra quyết định thiết kế."
+  },
+  {
+    "id": 119,
+    "text": "Which of GUI principles are most useful for people with visual impairments?",
+    "options": [
+      "A. True",
+      "B. False\n(Lưu ý: Dựa trên ảnh 587, câu hỏi và đáp án có sự sai lệch do lỗi đề/OCR, nhưng form trả lời là True/False)"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 119: Which of GUI principles are most useful for people with visual impairments?\nĐáp án đúng: B (False).\n(Lưu ý: Dựa trên tài liệu gốc, câu hỏi này bị lỗi đánh máy/OCR vì câu hỏi dạng chọn nhiều đáp án nhưng lại chỉ có lựa chọn True/False. Tuy nhiên, đáp án được ghi nhận theo bộ đề là B).\nTổng kết kiến thức (Accessibility - Khả năng tiếp cận): Đối với người khiếm thị, các nguyên tắc thiết kế giao diện đồ họa (GUI) quan trọng nhất bao gồm: Độ tương phản màu sắc cao, hỗ trợ trình đọc màn hình (Screen readers), và khả năng phóng to chữ mà không vỡ bố cục."
+  },
+  {
+    "id": 120,
+    "text": "Nielsen makes several recommendations for Help and documentation. Which of the following is NOT one of them?",
+    "options": [
+      "A. [Bị che khuất]",
+      "B. Help should be small and searchable",
+      "C. Help should include step-by-step instructions",
+      "D. Help should be written from the system developers' point of view"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 120: Nielsen makes several recommendations for Help and documentation. Which of the following is NOT one of them?\nĐáp án đúng: D (Help should be written from the system developers' point of view).\nVì sao D đúng: Tài liệu hướng dẫn (Help and documentation) tuyệt đối không được viết theo góc nhìn và ngôn ngữ kỹ thuật của Lập trình viên (system developers). Nó phải được viết bằng ngôn ngữ đời thường, hướng đến mục tiêu của Người dùng.\nVì sao các đáp án khác sai (Vì chúng LÀ các khuyến nghị chuẩn của Nielsen): Tài liệu hướng dẫn phải dễ tìm kiếm (B), tập trung vào nhiệm vụ của người dùng, và bao gồm các bước hướng dẫn cụ thể (step-by-step) (C).\nTổng kết kiến thức (Heuristics số 10 - Help and documentation): Tốt nhất là hệ thống trực quan đến mức không cần hướng dẫn. Nhưng nếu phải có, tài liệu đó cần phải ngắn gọn, dễ tra cứu và nói ngôn ngữ của người dùng.\nDưới đây là phần giải thích chi tiết cho các câu hỏi tiếp theo (từ câu 121 đến 126 và 5 câu đầu tiên trong phần câu hỏi bổ sung) dựa trên tài liệu \"WDU (1).docx\"."
+  },
+  {
+    "id": 121,
+    "text": "In UX, \"Design\" is concerned only with the aesthetic (or visual appeal) aspects of products.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 121: In UX, \"Design\" is concerned only with the aesthetic (or visual appeal) aspects of products.\nĐáp án đúng: B (False).\nVì sao B đúng: Thiết kế Trải nghiệm người dùng (UX Design) không chỉ đơn thuần là làm cho sản phẩm trông đẹp mắt (thẩm mỹ/aesthetic). UX bao hàm một phạm vi rộng lớn hơn rất nhiều, bao gồm tính khả dụng (usability), kiến trúc thông tin, nghiên cứu hành vi người dùng, và tương tác. Thiết kế giao diện trực quan (UI) chỉ là một phần nhỏ bên trong UX.\nTổng kết kiến thức: Nếu một sản phẩm có vẻ ngoài tuyệt đẹp nhưng người dùng không thể tìm thấy nút thanh toán, thì đó là một thiết kế UX tồi. UX ưu tiên công năng và luồng trải nghiệm, sau đó mới đến vẻ đẹp bề ngoài."
+  },
+  {
+    "id": 122,
+    "text": "What is the limit for short term memory response?",
+    "options": [
+      "A. 10 milliseconds",
+      "B. 100 milliseconds",
+      "C. 1 second",
+      "D. 1 minute"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 122: What is the limit for short term memory response?\nĐáp án đúng: B (100 milliseconds).\nVì sao B đúng: Dựa trên các nguyên tắc kinh điển về thời gian phản hồi của hệ thống, 100 mili-giây (0.1 giây) là giới hạn để người dùng cảm thấy hệ thống đang phản hồi \"ngay lập tức\" (instantaneous) với các thao tác của họ. (Lưu ý: Mặc dù câu hỏi dùng từ \"short term memory\", nhưng thực chất nó đang hỏi về giới hạn thời gian phản hồi để không làm đứt gãy luồng suy nghĩ tức thời).\nVì sao các đáp án khác sai: 1 giây là giới hạn để người dùng nhận thấy có độ trễ nhưng vẫn giữ được luồng suy nghĩ mà không bị mất tập trung. 10 mili-giây là quá ngắn, trong khi 1 phút là quá dài, hệ thống sẽ bị coi là treo.\nTổng kết kiến thức: Khi thiết kế các hiệu ứng hover, click nút hoặc chuyển trang, hãy đảm bảo hệ thống phản hồi trong vòng 0.1 giây để tạo cảm giác mượt mà và trực tiếp."
+  },
+  {
+    "id": 123,
+    "text": "Which of the following is NOT a criteria of survey mode?",
+    "options": [
+      "A. Cost",
+      "B. Respondent burden",
+      "C. Sampling frame",
+      "D. Flexibility"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 123: Which of the following is NOT a criteria of survey mode?\nĐáp án đúng: C (Sampling frame).\nVì sao C đúng: \"Khung lấy mẫu\" (Sampling frame) là danh sách những người mà bạn sẽ rút ra để mời làm khảo sát (liên quan đến đối tượng nghiên cứu), nó KHÔNG phải là tiêu chí để đánh giá \"Phương thức khảo sát\" (Survey mode - ví dụ: khảo sát qua mạng, qua điện thoại, hay gửi thư tay).\nVì sao các đáp án khác sai (Vì chúng LÀ tiêu chí đánh giá Survey mode): Khi chọn phương thức khảo sát, bạn phải cân nhắc Chi phí (A - Cost), Gánh nặng cho người trả lời (B - Respondent burden), và Tính linh hoạt của phương thức đó (D - Flexibility).\nTổng kết kiến thức: Đừng nhầm lẫn giữa \"Bạn sẽ hỏi ai?\" (Sampling frame) và \"Bạn sẽ dùng công cụ gì để hỏi họ?\" (Survey mode)."
+  },
+  {
+    "id": 124,
+    "text": "Which of the following is NOT among the metrics that represent Amazon's Mechanical Turk?",
+    "options": [
+      "A. How much to pay Turkers",
+      "B. The task completion rate of the individual Turk workers",
+      "C. Response rates for Turkers",
+      "D. [Bị che khuất]"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 125: Which of the following is NOT among the metrics that represent Amazon's Mechanical Turk?\nĐáp án đúng: D ([Bị che khuất]).\nVì sao D đúng: Dù phần đáp án bị che khuất trong tài liệu, chúng ta dùng phương pháp loại trừ. Amazon Mechanical Turk (MTurk) là một nền tảng thuê người làm các tác vụ nhỏ (như điền khảo sát). Các chỉ số (metrics) quan trọng trên nền tảng này chắc chắn bao gồm: Trả bao nhiêu tiền (A), Tỷ lệ hoàn thành tác vụ (B), và Tỷ lệ phản hồi (C). Do đó, phần bị che khuất là một chỉ số không liên quan.\nTổng kết kiến thức: Khi sử dụng các nền tảng crowdsourcing như MTurk để tìm người dùng, nhà nghiên cứu phải chú ý đến chi phí và các chỉ số đo lường độ tin cậy của người làm thuê để tránh thu về dữ liệu rác."
+  },
+  {
+    "id": 125,
+    "text": "If you want to evaluate whether respondents are following instructions in a survey, what can you do?\nI. Avoid asking any questions that are not open-ended\nII. Ask the questions exactly as they are written and in the order they are written",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. None of the above"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 126: If you want to evaluate whether respondents are following instructions in a survey, what can you do?\nĐáp án đúng: B (II only).\nVì sao B đúng: Để kiểm tra xem người tham gia khảo sát có thực sự đọc và làm theo hướng dẫn hay không (hay chỉ click bừa), bạn có thể chèn các câu hỏi yêu cầu họ \"đọc câu hỏi chính xác như những gì được viết và làm theo trật tự\" (Ask the questions exactly as they are written and in the order they are written). (Ví dụ: \"Để chứng minh bạn đang đọc kỹ, hãy chọn đáp án số 3 cho câu hỏi này\").\nTổng kết kiến thức: Đây được gọi là \"Attention checks\" (Kiểm tra sự chú ý). Khảo sát từ xa thường gặp rủi ro người dùng làm ẩu lấy tiền, nên chèn các câu hỏi gài bẫy là cách để lọc bỏ những dữ liệu không trung thực."
+  },
+  {
+    "id": 126,
+    "text": "In a semi-structured interview, why would you want to avoid a question such as \"Was it because you didn't\nknow about the 'undo' feature that you were unable to complete the task?\"\nI. It is leading -- you are feeding a possible answer to the participant.\nIl. It is closed-ended -- this is a yes-or-no question.\nIlI. It is judgmental -- you are suggesting that the participant's lack of knowledge was a problem.",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. Il and III",
+      "D. I, Il and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 1 (Phần bổ sung): In a semi-structured interview, why would you want to avoid a question such as \"Was it because you didn't know about the 'undo' feature that you were unable to complete the task?\"\nĐáp án đúng: D (I, II and III).\nVì sao D đúng: Câu hỏi này vi phạm mọi nguyên tắc phỏng vấn UX:\n(I) Mớm lời (Leading): Nó gợi ý sẵn một lý do (\"bạn không biết nút undo\") và ép người dùng vào tình huống phải chấp nhận nó.\n(II) Đóng (Closed-ended): Chỉ có thể trả lời Có hoặc Không.\n(III) Phán xét (Judgmental): Ngụ ý đổ lỗi việc task thất bại là do sự thiếu hiểu biết của người dùng.\nTổng kết kiến thức: Thay vì hỏi như vậy, hãy hỏi mở và trung lập: \"Điều gì đã khiến tác vụ này trở nên khó khăn với bạn?\"."
+  },
+  {
+    "id": 127,
+    "text": "What kinds of information might be part of qualitative data analysis?\nI. Quotations from interviews.\nIl. Observed actions or events.\nIII. Inferred facts from interviews.",
+    "options": [
+      "A. I only",
+      "B. I and II only",
+      "C. Il only",
+      "D. I, Il and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 2 (Phần bổ sung): What kinds of information might be part of qualitative data analysis?\nĐáp án đúng: D (I, II and III).\nVì sao D đúng: Phân tích dữ liệu định tính (Qualitative data analysis) bao gồm việc xử lý mọi thông tin phi số học, cụ thể là:\n(I) Các trích dẫn trực tiếp từ lời nói của người dùng trong lúc phỏng vấn.\n(II) Các hành động hoặc sự kiện bạn quan sát được (ví dụ: họ cau mày, họ bấm nhầm nút).\n(III) Những sự thật được suy luận/rút ra từ các cuộc phỏng vấn đó (insight).\nTổng kết kiến thức: Dữ liệu định tính rất phong phú, nó không chỉ là những gì người dùng nói (verbal), mà còn bao gồm cả ngôn ngữ cơ thể, cảm xúc và bối cảnh hành vi (non-verbal)."
+  },
+  {
+    "id": 128,
+    "text": "What consideration is not important when deciding what platform or technology solution you will use for testing?\nI. Metrics that may be collected\nIl. Panel access\nIII. Network speed requirements\nIV. Screen, Audio, or other data collection, as appropriate for test\nV. None of the above",
+    "options": [
+      "A. I, II, III",
+      "B. I, Il",
+      "C. II, IV",
+      "D. I, III, IV",
+      "E. V"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Câu 3 (Phần bổ sung): What consideration is not important when deciding what platform or technology solution you will use for testing?\nĐáp án đúng: E (None of the above).\nVì sao E đúng: Câu hỏi sử dụng phủ định kép. Nó hỏi yếu tố nào \"không quan trọng\". Đáp án E có nghĩa là \"Không có yếu tố nào ở trên là không quan trọng\", hay nói cách khác, TẤT CẢ các yếu tố từ I đến IV đều CỰC KỲ QUAN TRỌNG khi chọn nền tảng test:\n(I) Có thu thập được các số liệu (metrics) cần thiết không.\n(II) Có khả năng tiếp cận tập người dùng (panel access) không.\n(III) Tốc độ mạng yêu cầu là bao nhiêu.\n(IV) Có ghi hình màn hình, ghi âm được không."
+  },
+  {
+    "id": 129,
+    "text": "Which of the following are the hallmarks of good research questions?\nI. Clarity\nII. Consistency\nIII. Ability to be answered\nIV. Ethical excellence\nV. Significance",
+    "options": [
+      "A. I, Il, and III",
+      "B. I, Il, and V",
+      "C. IV and V",
+      "D. II, IV, and V",
+      "E. I, III, IV, and V"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": "Câu 4 (Phần bổ sung): Which of the following are the hallmarks of good research questions?\nĐáp án đúng: E (I, III, IV, and V).\nVì sao E đúng: Một câu hỏi nghiên cứu (research question) xuất sắc phải đạt được các tiêu chuẩn:\n(I) Clarity: Rõ ràng, không mập mờ.\n(III) Ability to be answered: Phải có khả năng trả lời được trong thực tế bằng các phương pháp nghiên cứu khả thi.\n(IV) Ethical excellence: Đảm bảo tính đạo đức, không xâm phạm nghiêm trọng đời tư.\n(V) Significance: Có ý nghĩa và mang lại giá trị cho dự án.\nVì sao mệnh đề II sai: \"Consistency\" (Tính nhất quán) là tiêu chuẩn của dữ liệu thu về hoặc của thang đo, chứ không phải là đặc trưng của bản thân câu hỏi nghiên cứu ban đầu."
+  },
+  {
+    "id": 130,
+    "text": "What elements should a script include for a remote moderated test?",
+    "options": [
+      "A. Obtain Consent",
+      "B. Make introductions",
+      "C. Build rapport",
+      "D. Exact instructions for how to complete tasks",
+      "E. Set expectations for duration and content of test",
+      "F. Set expectations for role of moderator and observer"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "explanation": "Câu 5 (Phần bổ sung): What elements should a script include for a remote moderated test?\nĐáp án đúng: A, B, C, E, F.\nVì sao đúng: Kịch bản cho một buổi test từ xa có điều phối cần thiết lập các yếu tố thủ tục và tâm lý: Xin sự đồng thuận (A), Giới thiệu (B), Phá băng tạo quan hệ (C), Đặt kỳ vọng thời gian (E), và Nêu rõ vai trò của các bên (F).\nVì sao D sai: \"Hướng dẫn chính xác cách hoàn thành tác vụ\" (Exact instructions) sẽ làm hỏng mục đích của Usability Testing. Nếu bạn chỉ cho họ cách làm, bạn sẽ không bao giờ biết được thiết kế của mình có trực quan để người dùng tự khám phá hay không.\nChào bạn, mình sẽ tiếp tục giải thích chi tiết cho các câu hỏi còn lại trong tài liệu, từ Câu 6 đến Câu 27 của phần câu hỏi bổ sung nhé."
+  },
+  {
+    "id": 131,
+    "text": "What technique can you use to learn about how large numbers of users navigate through an experience during the Optimization phase?",
+    "options": [
+      "A. Benchmarking",
+      "B. Analytics Review",
+      "C. A/B testing",
+      "D. Remote usability testing"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 6 (Phần bổ sung): What technique can you use to learn about how large numbers of users navigate through an experience during the Optimization phase?\nĐáp án đúng: B (Analytics Review).\nVì sao B đúng: Để tìm hiểu cách một số lượng rất lớn (large numbers) người dùng di chuyển qua hệ thống ở giai đoạn \"Tối ưu hóa\" (sau khi sản phẩm đã vận hành), phương pháp tốt nhất là Đánh giá số liệu phân tích (Analytics Review). Công cụ như Google Analytics sẽ cho bạn biết chính xác người dùng nhấp vào đâu, rớt ở trang nào với quy mô hàng triệu người.\nVì sao các đáp án khác sai:\nC (A/B testing): Dùng để so sánh hai phiên bản cụ thể chứ không phải xem luồng điều hướng (navigate) chung.\nD (Remote usability testing): Dù làm từ xa, số lượng người tham gia vẫn rất nhỏ (vài người đến vài chục người), không thể đạt được quy mô \"large numbers\".\nTổng kết kiến thức: Phân tích dữ liệu (Analytics) là \"con mắt\" của sản phẩm khi nó đã ra mắt thị trường. Nó cung cấp bằng chứng định lượng tuyệt đối về hành vi thực tế."
+  },
+  {
+    "id": 132,
+    "text": "True or False: Baseline statistics such as task completion rate, time spent on task, and/or error rates should be included in user test reports.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 7 (Phần bổ sung): True or False: Baseline statistics such as task completion rate, time spent on task, and/or error rates should be included in user test reports.\nĐáp án đúng: A (True).\nVì sao A đúng: Các số liệu thống kê cơ bản (baseline statistics) như: Tỷ lệ hoàn thành tác vụ, Thời gian dành cho tác vụ, và Tỷ lệ mắc lỗi là những bằng chứng định lượng không thể thiếu trong báo cáo kiểm thử người dùng (user test reports). Chúng giúp đo lường mức độ hiệu quả và dễ dùng của hệ thống.\nTổng kết kiến thức: Bên cạnh các insight bằng lời (định tính), số liệu (định lượng) giúp các nhà quản lý (stakeholders) dễ dàng hình dung mức độ nghiêm trọng của vấn đề để duyệt ngân sách chỉnh sửa."
+  },
+  {
+    "id": 133,
+    "text": "True or False: If you take good notes, there is no reason to capture a screen recording of user test sessions for later review.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 8 (Phần bổ sung): True or False: If you take good notes, there is no reason to capture a screen recording of user test sessions for later review.\nĐáp án đúng: B (False).\nVì sao B đúng: Dù bạn có ghi chép (take notes) giỏi đến đâu, bạn vẫn có thể bỏ lỡ những cú nhấp chuột sai, những biểu cảm khuôn mặt nhỏ, hay những câu lẩm bẩm của người dùng. Việc quay lại màn hình và ghi âm (screen recording) luôn cần thiết để xem lại, trích xuất dẫn chứng (video clip) và để các thành viên khác trong team cùng phân tích."
+  },
+  {
+    "id": 134,
+    "text": "Personas represent target users and are, thus, primarily a distillation of the findings from formative work. Scenarios begin to move designers toward a design solution. How do scenarios do this?",
+    "options": [
+      "A. By envisioning how a technology might address the needs identified in formative work",
+      "B. By enumerating features of the technology being designed",
+      "C. By articulating tradeoffs of different design solutions",
+      "D. By providing stories that can be put into the ads for the product being designed"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 9 (Phần bổ sung): Personas represent target users and are, thus, primarily a distillation of the findings from formative work. Scenarios begin to move designers toward a design solution. How do scenarios do this?\nĐáp án đúng: A (By envisioning how a technology might address the needs identified in formative work).\nVì sao A đúng: Nếu Persona (chân dung người dùng) giúp ta biết \"Họ là ai?\", thì Scenario (Kịch bản) là bước tiếp theo để \"Hình dung\" (envisioning) xem công nghệ/sản phẩm của chúng ta sẽ len lỏi vào cuộc sống của họ như thế nào để giải quyết các nhu cầu đã được tìm ra trước đó.\nTổng kết kiến thức: Scenario không mô tả giao diện có bao nhiêu cái nút (tức là không \"liệt kê tính năng\" như đáp án B), mà nó kể một câu chuyện về ngữ cảnh sử dụng để hướng tới giải pháp."
+  },
+  {
+    "id": 135,
+    "text": "You have to be good at drawing to create sketches that are useful for design.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 136,
+    "text": "Affordances of user interface don't have much influence on how easily users learn to use the system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 11 (Phần bổ sung): Affordances of user interface don't have much influence on how easily users learn to use the system.\nĐáp án đúng: B (False).\nVì sao B đúng: Phát biểu này sai. \"Affordances\" (Tính gợi năng - ví dụ một nút bấm có đổ bóng trông như có thể bấm được xuống) có ảnh hưởng CỰC KỲ LỚN đến khả năng học hỏi (learnability) của người dùng. Giao diện có affordances tốt giúp người dùng tự hiểu cách dùng ngay từ lần đầu tiên mà không cần ai dạy."
+  },
+  {
+    "id": 137,
+    "text": "Personas are purely fictional characters.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 12 (Phần bổ sung): Personas are purely fictional characters.\nĐáp án đúng: B (False). (Câu này đã được giải thích ở phần trước). Persona phải dựa trên dữ liệu thật, không phải \"hư cấu hoàn toàn\" (purely fictional)."
+  },
+  {
+    "id": 138,
+    "text": "Sketching is used both for generating and for communicating ideas.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Đáp án đúng: A."
+  },
+  {
+    "id": 139,
+    "text": "Wizard of Oz prototypes are most useful for prototyping screen-based applications",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 14 (Phần bổ sung): Wizard of Oz prototypes are most useful for prototyping screen-based applications.\nĐáp án đúng: B (False).\nVì sao B đúng: Kỹ thuật \"Wizard of Oz\" (Phù thủy xứ Oz - người thiết kế trốn sau rèm điều khiển hệ thống để đánh lừa người dùng rằng hệ thống là tự động) rất ít khi dùng cho các \"ứng dụng dựa trên màn hình\" (screen-based apps). Với app trên màn hình, người ta dùng clickable prototype (Figma, InVision).\nTổng kết kiến thức: Wizard of Oz cực kỳ hữu ích cho các công nghệ chưa được xây dựng nhưng cần tương tác phức tạp như: Trợ lý giọng nói (AI/Voice), Chatbot nhận diện ngôn ngữ tự nhiên, hoặc các hệ thống nhận diện cử chỉ cơ thể."
+  },
+  {
+    "id": 140,
+    "text": "Nielsen provides several recommendations for help and documentation. Which of the following is NOT one of\nhis recommendations?",
+    "options": [
+      "A. Help should be focused on users' tasks",
+      "B. Help should be small and searchable",
+      "C. Help should include step-by-step instructions",
+      "D. Help should be written from the system developers' point of view"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 15 (Phần bổ sung): Nielsen provides several recommendations for help and documentation. Which of the following is NOT one of his recommendations?\nĐáp án đúng: D (Help should be written from the system developers' point of view).\n(Câu này lặp lại câu 120, tài liệu hướng dẫn KHÔNG được viết theo góc nhìn và ngôn ngữ của kỹ sư)."
+  },
+  {
+    "id": 141,
+    "text": "In UX, \"Design\" is concerned only with the aesthetic (or beauty-related) aspects of products.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 16 (Phần bổ sung): In UX, \"Design\" is concerned only with the aesthetic (or beauty-related) aspects of products.\nĐáp án đúng: B (False).\n(Lặp lại câu 121, UX Design tập trung vào tính khả dụng, công năng và cấu trúc logic, không \"chỉ\" tập trung vào cái đẹp bề ngoài)."
+  },
+  {
+    "id": 142,
+    "text": "For a system's response to user input to be perceived as \"instantaneous\" by the user, what is the maximum time that can elapse between the user's action and the system response?",
+    "options": [
+      "A. 10 milliseconds",
+      "B. 100 milliseconds",
+      "C. 1 second",
+      "D. 1 minute"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 17 (Phần bổ sung): For a system's response to user input to be perceived as \"instantaneous\" by the user, what is the maximum time that can elapse between the user's action and the system response?\nĐáp án đúng: B (100 milliseconds).\n(Lặp lại câu 122, thời gian phản hồi lý tưởng để tạo cảm giác \"tức thì\" là 100 mili-giây / 0.1 giây)."
+  },
+  {
+    "id": 143,
+    "text": "When sketching to come up with different design solutions, you should stop the first time you run out of ideas.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 18 (Phần bổ sung): When sketching to come up with different design solutions, you should stop the first time you run out of ideas.\nĐáp án đúng: B (False).\n(Lặp lại câu 9, khi cạn ý tưởng đầu tiên là lúc bộ não bắt đầu loại bỏ sự sáo rỗng để tiến vào vùng sáng tạo thực sự, tuyệt đối không được dừng lại)."
+  },
+  {
+    "id": 144,
+    "text": "Which of the following is NOT a dimension of survey modes?",
+    "options": [
+      "A. Cost",
+      "B. Respondent burden",
+      "C. Sampling frame",
+      "D. Flexibility"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 19 (Phần bổ sung): Which of the following is NOT a dimension of survey modes?\nĐáp án đúng: C (Sampling frame).\n(Lặp lại câu 123, Sampling frame - khung chọn mẫu là danh sách đối tượng nghiên cứu, không phải đặc điểm của phương pháp làm khảo sát)."
+  },
+  {
+    "id": 145,
+    "text": "Which of the following are among key tasks that were\nidentified?\n[IMAGE: media/image3.png]\n![Minh họa](/images/wdu_q20_supp.png)",
+    "options": [
+      "A. Customize automatic functions, Help, Log Out",
+      "B. Check map. Create a post. Log Out",
+      "C. Change security code, Create a post, Check\nrecent events",
+      "D. Check map, Help. Activate function \"Robbery\""
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 20 (Phần bổ sung): Which of the following are among key tasks that were identified? (Dựa trên bảng PART 1: Wireframes)\nĐáp án đúng: D (Check map, Help, Activate function \"Robbery\").\nVì sao D đúng: Nhìn vào bảng dữ liệu trong hình ảnh của câu 20:\nMục số 4 là \"Check map\".\nMục số 8 là \"Help\".\nMục số 11 là \"Activate function 'Robbery'\".\nTất cả các thành phần ở đáp án D đều nằm rành rọt trong bảng thiết kế của ứng dụng này. (Các đáp án khác chứa những chức năng không có trong bảng như \"Log Out\" hoặc \"Create a post\")."
+  },
+  {
+    "id": 146,
+    "text": "This example would most likely be an example of\n(choose the BEST response):\n[IMAGE: media/image2.png]\n![Minh họa](/images/wdu_q21_supp.png)",
+    "options": [
+      "A. Wireframes",
+      "B. Lo-Fi Prototype",
+      "C. Hi-Fi Prototype",
+      "D. Yes, wireframes need to look like a completely finished product"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": "Câu 21 (Phần bổ sung): This example would most likely be an example of (choose the BEST response): (Dựa trên hình ảnh UI QUESTBOOK)\nĐáp án đúng: C (Hi-Fi Prototype).\nVì sao C đúng: Quan sát hình ảnh, ta thấy giao diện ứng dụng QUESTBOOK đã được đổ màu, có background, có hình ảnh (characters), sử dụng font chữ định dạng rõ ràng và mô tả được luồng thao tác bằng mũi tên. Mức độ chi tiết này vượt xa Wireframes (bản vẽ khung xương trắng đen) hay Lo-Fi Prototype (bản nháp). Do đó, nó là một Nguyên mẫu độ trung thực cao (Hi-Fi Prototype)."
+  },
+  {
+    "id": 147,
+    "text": "Which of the following is NOT something to think about if you are going to use Amazon's Mechanical Turk to recruit respondents?",
+    "options": [
+      "A. How to pay a fair wage to Turkers",
+      "B. The shakiness of the demographic data about Turkers",
+      "C. How to check for the validity of responses",
+      "D. Response rates for Turkers"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": "Câu 22 (Phần bổ sung): Which of the following is NOT something to think about if you are going to use Amazon's Mechanical Turk to recruit respondents?\nĐáp án đúng: D (Response rates for Turkers).\n(Lặp lại câu 125, \"Tỷ lệ phản hồi\" không phải là một số liệu phổ biến để đánh giá người làm thuê trên Mechanical Turk bằng các tiêu chí như tiền công, độ xác thực dữ liệu, hay tỷ lệ hoàn thành tác vụ)."
+  },
+  {
+    "id": 148,
+    "text": "Which of the following are good guidelines for using an interview protocol?\nI. Memorize the protocol, so that you don't have to refer to it that much during the interview itself.\nII. Avoid asking any questions that are not open-ended.\nIII. Ask the questions exactly as they are written and in the order they are written.",
+    "options": [
+      "A. I only",
+      "B. Il only",
+      "C. Ill only",
+      "D. I and III"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 23 (Phần bổ sung): Which of the following are good guidelines for using an interview protocol?\nĐáp án đúng: A (I only).\nVì sao A đúng: Kịch bản phỏng vấn (Interview protocol) nên được người phỏng vấn ghi nhớ trong đầu (I). Việc này giúp cuộc phỏng vấn diễn ra tự nhiên như một cuộc trò chuyện, tránh tình trạng bạn liên tục cúi xuống nhìn giấy như đang trả bài.\nVì sao các mệnh đề khác sai:\n(II) Sai vì trong phỏng vấn thỉnh thoảng vẫn có thể hỏi câu hỏi đóng (yes/no) để xác nhận thông tin.\n(III) Sai vì phỏng vấn bán cấu trúc yêu cầu bạn phải linh hoạt thay đổi trật tự và từ ngữ câu hỏi tùy theo mạch kể của người dùng, không được đọc rập khuôn y như những gì đã viết."
+  },
+  {
+    "id": 149,
+    "text": "Scenarios help designers reflect on user needs, how technology might address those needs, and potential\nissues that might arise with the use of the envisioned technology.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": "Câu 24 (Phần bổ sung): Scenarios help designers reflect on user needs, how technology might address those needs, and potential issues that might arise with the use of the envisioned technology.\nĐáp án đúng: A (True).\nVì sao A đúng: Đây chính là mục đích lớn nhất của Kịch bản (Scenarios). Nó đặt người dùng vào một tình huống thực tế cụ thể, giúp nhà thiết kế soi chiếu lại nhu cầu, kiểm tra tính khả thi của công nghệ và lường trước những rủi ro trong ngữ cảnh đó."
+  },
+  {
+    "id": 150,
+    "text": "In order to have a mental model of a system that enable them to use that system effectively, users need to understand the technical underpinnings of that system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Câu 25 (Phần bổ sung): In order to have a mental model of a system that enable them to use that system effectively, users need to understand the technical underpinnings of that system.\nĐáp án đúng: B (False).\n(Lặp lại câu 4, Mô hình nhận thức (Mental model) là cách người dùng hiểu bề mặt tương tác của hệ thống, họ hoàn toàn KHÔNG cần phải hiểu cấu trúc kỹ thuật (technical underpinnings) bên dưới lớp code)."
+  },
+  {
+    "id": 151,
+    "text": "Excellent drawing skills are needed to create effective storyboards.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  },
+  {
+    "id": 152,
+    "text": "It is important to be good at drawing to use sketching in UX Design",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "Đáp án đúng: B."
+  }
+]

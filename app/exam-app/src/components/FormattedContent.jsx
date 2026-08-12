@@ -3,14 +3,52 @@ import React from 'react';
 export default function FormattedContent({ text, isOption = false }) {
   if (!text) return null;
 
-  // Render inline backtick code `code`
-  const renderInlineCode = (str) => {
-    const parts = str.split(/`([^`]+)`/g);
-    return parts.map((part, i) => {
-      if (i % 2 === 1) {
-        return <code key={i} className="inline-code">{part}</code>;
+  // Render markdown images and inline backtick code `code`
+  const renderFormattedText = (str) => {
+    const imgRegex = /!\[([^\]]*)\]\(([^)]+)\)/g;
+    const parts = [];
+    let lastIndex = 0;
+    let match;
+
+    while ((match = imgRegex.exec(str)) !== null) {
+      if (match.index > lastIndex) {
+        parts.push(str.substring(lastIndex, match.index));
       }
-      return part;
+      parts.push({ alt: match[1], src: match[2] });
+      lastIndex = imgRegex.lastIndex;
+    }
+    if (lastIndex < str.length) {
+      parts.push(str.substring(lastIndex));
+    }
+
+    return parts.map((part, index) => {
+      if (typeof part === 'object' && part.src) {
+        return (
+          <img
+            key={`img-${index}`}
+            src={part.src}
+            alt={part.alt || 'Question Illustration'}
+            className="question-image"
+            style={{
+              maxWidth: '100%',
+              maxHeight: '400px',
+              display: 'block',
+              margin: '0.8rem 0',
+              borderRadius: '0.5rem',
+              border: '1px solid #cbd5e1'
+            }}
+          />
+        );
+      }
+
+      // Process inline code inside text part
+      const codeParts = part.split(/`([^`]+)`/g);
+      return codeParts.map((cPart, i) => {
+        if (i % 2 === 1) {
+          return <code key={`code-${index}-${i}`} className="inline-code">{cPart}</code>;
+        }
+        return cPart;
+      });
     });
   };
 
@@ -22,12 +60,12 @@ export default function FormattedContent({ text, isOption = false }) {
         return (
           <span>
             <strong style={{ marginRight: '0.4rem' }}>{optionMatch[1]}</strong>
-            {renderInlineCode(optionMatch[2])}
+            {renderFormattedText(optionMatch[2])}
           </span>
         );
       }
     }
-    return <span style={{ whiteSpace: 'pre-wrap' }}>{renderInlineCode(text)}</span>;
+    return <span style={{ whiteSpace: 'pre-wrap' }}>{renderFormattedText(text)}</span>;
   }
 
   // Multi-line text handling
@@ -75,7 +113,7 @@ export default function FormattedContent({ text, isOption = false }) {
       )}
       {proseLines.length > 0 && (
         <div style={{ whiteSpace: 'pre-wrap', marginBottom: codeLines.length > 0 ? '0.5rem' : '0' }}>
-          {renderInlineCode(proseLines.join('\n'))}
+          {renderFormattedText(proseLines.join('\n'))}
         </div>
       )}
       {codeLines.length > 0 && (

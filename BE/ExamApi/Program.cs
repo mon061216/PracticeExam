@@ -149,6 +149,50 @@ using (var scope = app.Services.CreateScope())
             }
         }
     }
+
+    // Seed WDU
+    var wduSubject = db.Subjects.FirstOrDefault(s => s.Name.StartsWith("WDU"));
+    if (wduSubject == null)
+    {
+        wduSubject = new Subject { Name = "WDU: Web Design & Usability" };
+        db.Subjects.Add(wduSubject);
+        db.SaveChanges();
+    }
+
+    var existingWduQuestions = db.Questions.Where(q => q.SubjectId == wduSubject.Id).ToList();
+    if (existingWduQuestions.Any())
+    {
+        db.Questions.RemoveRange(existingWduQuestions);
+        db.SaveChanges();
+        Console.WriteLine("Cleared previous WDU questions to sync updated questions.");
+    }
+
+    if (!db.Questions.Any(q => q.SubjectId == wduSubject.Id))
+    {
+        var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "wdu_questions.json");
+        if (File.Exists(jsonPath))
+        {
+            var json = File.ReadAllText(jsonPath);
+            var questionsData = JsonSerializer.Deserialize<List<QuestionData>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            
+            if (questionsData != null)
+            {
+                foreach (var q in questionsData)
+                {
+                    db.Questions.Add(new Question
+                    {
+                        SubjectId = wduSubject.Id,
+                        Text = q.Text,
+                        Options = JsonSerializer.Serialize(q.Options),
+                        CorrectAnswers = JsonSerializer.Serialize(q.CorrectAnswers),
+                        Explanation = q.Explanation
+                    });
+                }
+                db.SaveChanges();
+                Console.WriteLine("Successfully seeded WDU questions.");
+            }
+        }
+    }
 }
 
 

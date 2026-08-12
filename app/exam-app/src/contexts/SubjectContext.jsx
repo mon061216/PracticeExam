@@ -1,4 +1,8 @@
 import { createContext, useContext, useState, useEffect } from 'react';
+import swtQuestionsData from '../data/questions.json';
+import swrQuestionsData from '../data/swr302_questions.json';
+import prnQuestionsData from '../data/prn212_questions.json';
+import wduQuestionsData from '../data/wdu_questions.json';
 
 const SubjectContext = createContext();
 
@@ -6,29 +10,43 @@ export function useSubject() {
   return useContext(SubjectContext);
 }
 
-export function SubjectProvider({ children }) {
-  const [subjects, setSubjects] = useState([]);
-  const [selectedSubjectId, setSelectedSubjectId] = useState(null);
-  const [questions, setQuestions] = useState([]);
-  const [loading, setLoading] = useState(true);
+const FALLBACK_SUBJECTS = [
+  { id: 1, name: "Software Testing" },
+  { id: 2, name: "SWR302" },
+  { id: 3, name: "PRN212: Basic Cross-Platform Application Programming With .NET" },
+  { id: 4, name: "WDU: Web Design & Usability" }
+];
 
-  // VITE_API_URL should be set in .env or defaulting to localhost:5203
+const FALLBACK_QUESTIONS = {
+  1: swtQuestionsData,
+  2: swrQuestionsData,
+  3: prnQuestionsData,
+  4: wduQuestionsData
+};
+
+export function SubjectProvider({ children }) {
+  const [subjects, setSubjects] = useState(FALLBACK_SUBJECTS);
+  const [selectedSubjectId, setSelectedSubjectId] = useState(1);
+  const [questions, setQuestions] = useState(swtQuestionsData);
+  const [loading, setLoading] = useState(false);
+
   const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5203/api';
 
   useEffect(() => {
-    // Fetch subjects on mount
     fetch(`${apiUrl}/subjects`)
-      .then(res => res.json())
+      .then(res => {
+        if (!res.ok) throw new Error('API response not ok');
+        return res.json();
+      })
       .then(data => {
-        setSubjects(data);
-        if (data.length > 0) {
-          setSelectedSubjectId(data[0].id); // default to first subject
+        if (data && data.length > 0) {
+          setSubjects(data);
+          setSelectedSubjectId(data[0].id);
         }
-        setLoading(false);
       })
       .catch(err => {
-        console.error('Failed to fetch subjects:', err);
-        setLoading(false);
+        console.warn('API unavailable, using fallback static data:', err);
+        setSubjects(FALLBACK_SUBJECTS);
       });
   }, [apiUrl]);
 
@@ -36,19 +54,23 @@ export function SubjectProvider({ children }) {
     if (selectedSubjectId) {
       setLoading(true);
       fetch(`${apiUrl}/questions/${selectedSubjectId}`)
-        .then(res => res.json())
+        .then(res => {
+          if (!res.ok) throw new Error('API response not ok');
+          return res.json();
+        })
         .then(data => {
-            // Options and CorrectAnswers are stored as JSON strings in DB, we need to parse them
-            const parsedData = data.map(q => ({
-                ...q,
-                options: typeof q.options === 'string' ? JSON.parse(q.options) : q.options,
-                correctAnswers: typeof q.correctAnswers === 'string' ? JSON.parse(q.correctAnswers) : q.correctAnswers
-            }));
-            setQuestions(parsedData);
-            setLoading(false);
+          const parsedData = data.map(q => ({
+            ...q,
+            options: typeof q.options === 'string' ? JSON.parse(q.options) : q.options,
+            correctAnswers: typeof q.correctAnswers === 'string' ? JSON.parse(q.correctAnswers) : q.correctAnswers
+          }));
+          setQuestions(parsedData);
+          setLoading(false);
         })
         .catch(err => {
-          console.error('Failed to fetch questions:', err);
+          console.warn('API fetch questions failed, using static fallback:', err);
+          const fallback = FALLBACK_QUESTIONS[selectedSubjectId] || FALLBACK_QUESTIONS[4] || [];
+          setQuestions(fallback);
           setLoading(false);
         });
     }
