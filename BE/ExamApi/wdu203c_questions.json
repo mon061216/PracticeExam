@@ -1,0 +1,3837 @@
+[
+  {
+    "id": 1,
+    "text": "Which of the following is NOT a reason why building products with great UX is hard?",
+    "options": [
+      "A. You are not the user",
+      "B. Computers are weird",
+      "C. Software is (usually) complex",
+      "D. There is no known process that we can follow to create good UX"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "text": "True or false: You need to have a degree in psychology in order to understand the principles behind good UX.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "text": "True or false: \"User Experience\" only describes the experience that people have while actually using a product, and not other related experiences like acquiring the product or fixing it when it breaks.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "text": "True or false: One of your goals in designing products with a good user experience should be to fail as early and often as possible.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "text": "Which of the following is not a phase in the iterative design process?",
+    "options": [
+      "A. Build",
+      "B. Design",
+      "C. Stylize",
+      "D. Assess"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "text": "A model of the design process that shows both the iterative nature and also how it progresses towards an end goal is:",
+    "options": [
+      "A. The spiral model",
+      "B. The waterfall model",
+      "C. The hub-and-spoke model",
+      "D. The wave model"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "text": "Interviews, Observations, Surveys, User Testing, and Inspection Methods are all examples of:",
+    "options": [
+      "A. Common UX mistakes",
+      "B. UX Design methods",
+      "C. UX Research methods",
+      "D. UX Marketing methods"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "text": "Which of the following components of UX were discussed in this week's lectures? Check all that apply.",
+    "options": [
+      "A. Value",
+      "B. Usability",
+      "C. Desirability",
+      "D. Adoptability",
+      "E. Scrollability",
+      "F. Monetizability"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "text": "Which of the following questions would be most relevant to the UX criterion of \"Adoptability\"?",
+    "options": [
+      "A. Where do users currently look for products or services like the one we will offer?",
+      "B. Do users prefer bright or muted colors for graphics in this product category?",
+      "C. How much would people be willing to pay for the product or service we plan to offer?",
+      "D. What percentage of people succeed in completing key tasks using the product?"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "text": "True or false: In this course, you will \"get your hands dirty\" and gain hands-on experience with UX Research and Design methods.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "text": "True or false: In UX, \"Design\" is concerned only with the aesthetic (or beauty-related) aspects of products.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "text": "Which of the following is not part of a typical UX design process?",
+    "options": [
+      "A. Understanding the problem",
+      "B. Generating possible solutions",
+      "C. Establishing the sale price for a product",
+      "D. Assessing prototypes and finding new problems"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "text": "\\_____________ means \"to make an idea real or concrete.\"",
+    "options": [
+      "A. Assessment",
+      "B. Communication",
+      "C. Reification",
+      "D. Reflection"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "text": "According to Bill Moggridge, \"A representation of a design, made before the final solution exists\" is called a:",
+    "options": [
+      "A. Time capsule",
+      "B. Prototype",
+      "C. Brainstorm",
+      "D. Design representation"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "text": "Which of the following is not an advantage of lo-fi prototyping?",
+    "options": [
+      "A. You can identify problems before investing significant resources into a design direction.",
+      "B. You can work out aspects of graphic design such as fonts and color schemes, which have the largest impact on user experience.",
+      "C. Stakeholders are more likely to give honest feedback if they perceive that design ideas are \"sketchy\" rather than highly polished.",
+      "D. Lo-fi prototypes are easy to change, allowing you to iterate more rapidly than you could if you were creating more complex prototypes."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "text": "Bill Buxton claims that \\__________ is not just a byproduct of design, but is central to design thinking and learning.",
+    "options": [
+      "A. Sketching",
+      "B. Beauty",
+      "C. Functionality",
+      "D. User Testing"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "text": "True or false: it is important to be good at drawing to use sketching in UX Design.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "text": "True or false: in the \"generation\" phase, your goal should be to sketch many different design ideas rather than to perfect a single idea.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "text": "True or false: when sketching to come up with different design solutions, you should stop the first time you run out of ideas.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "text": "Brainstorming, morphological analysis, and \"the worst idea\" are examples of what kind of technique?",
+    "options": [
+      "A. Ideation",
+      "B. Lo-fi prototyping",
+      "C. Convergence",
+      "D. Poor"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "text": "The \"central vision\" portion of the human field of view, in which people can read text and recognize details in images, is approximately how wide?",
+    "options": [
+      "A. 5°",
+      "B. 18°",
+      "C. 30°",
+      "D. 180°"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "text": "The pattern of eye fixations that people perform when processing a web page has been shown to resemble what shape?",
+    "options": [
+      "A. A circle",
+      "B. A spiral",
+      "C. The letter 'F'",
+      "D. The letter 'Z'"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "text": "The effect that makes it easy to recognize objects in a visual field that differ from their background and all other objects in simple visual features like color and texture is called:",
+    "options": [
+      "A. saccade",
+      "B. gestalt",
+      "C. brightness",
+      "D. Pop-out"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "text": "Which of the following is not considered a primitive visual feature that is processed in the first, and fastest, stage of visual processing?",
+    "options": [
+      "A. angle of intersection",
+      "B. proximity",
+      "C. shade/contrast",
+      "D. motion"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "text": "According to the original research on short-term memory, how many \"items\" can a person retain in short-term memory at one time?",
+    "options": [
+      "A. One or two",
+      "B. About 7",
+      "C. About 10",
+      "D. There is no measurable limit"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "text": "A collection of associated concepts in long-term memory is called what?",
+    "options": [
+      "A. A thought",
+      "B. A schema",
+      "C. A mule",
+      "D. A gestalt"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "text": "Which of the following does not impact the likelihood that something in long-term memory will be recalled?",
+    "options": [
+      "A. strength of association",
+      "B. frequency of use",
+      "C. recency of use",
+      "D. accuracy of information"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "text": "About how long does an item remain in short-term memory if it is not actively maintained through rehearsal?",
+    "options": [
+      "A. Less than one second",
+      "B. A few seconds",
+      "C. A few minutes",
+      "D. Up to an hour"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "text": "The recommendation \"keep lists of options short\" is given because:",
+    "options": [
+      "A. short lists load faster on a web page.",
+      "B. designing long lists of options is a waste of time because most users will only ever choose one or two of them.",
+      "C. due to the limits of short-term memory, users will have forgotten the first items by the time they've gotten to the end of a long list.",
+      "D. long lists exceed users' useful field of view, and they aren't able to scan them effectively using"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "text": "In the context of this lesson, the use of consistency, standards, and metaphor is recommended because:",
+    "options": [
+      "A. people are afraid of things that are new and different.",
+      "B. they allow a design to take advantage of users' existing schema.",
+      "C. they are typically required by platform guideline documents.",
+      "D. borrowing ideas from others is easier than coming up with your own."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "text": "Write the stages of action in the correct order in the text box below. There is no need to number them, and feel free to separate each stage with a comma:\nI. Interpreting the State of the World\nII. Selecting the Action\nIII. Evaluating the Outcome\nIV. Executing the Action\nV. Forming the Intention\nVI. Perceiving the State of the World",
+    "options": [
+      "A. V, II, IV, VI, I, III",
+      "B. I, II, III, IV, V, VI"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "text": "If a user of a system is unable to find an option for action that they believe will move them closer to achieving their goal, we would say that the system fails to bridge:",
+    "options": [
+      "A. The Gulf of Inspection",
+      "B. The Gulf of Expectation",
+      "C. The Gulf of Execution",
+      "D. The Gulf of Evaluation"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "text": "If a user of a system is unable to determine whether an action they took helped to move them closer to achieving their goal, we would say that the system fails to bridge:",
+    "options": [
+      "A. The Gulf of Inspection",
+      "B. The Gulf of Expectation",
+      "C. The Gulf of Evaluation",
+      "D. The Gulf of Execution"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "text": "A feature of an environment or system that, by its shape and appearance, suggests to a person that a particular action could be taken is called:",
+    "options": [
+      "A. An affordance",
+      "B. A signal",
+      "C. A constraint",
+      "D. A signpost"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "text": "A feature of an environment or system that communicates through verbiage or imagery what will happen if an action is taken is called:",
+    "options": [
+      "A. A signifier",
+      "B. A signal",
+      "C. Feedback",
+      "D. An icon"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "text": "A change in an environment or system that indicates that a user's action was recognized and communicates the result of that action is called:",
+    "options": [
+      "A. Response time",
+      "B. A signal",
+      "C. Feedback",
+      "D. A dialogue box"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "text": "Reducing the set of available actions to only those that are possible given a particular state of the system would be an example of applying:",
+    "options": [
+      "A. Feedback",
+      "B. Constraints",
+      "C. Conceptual Models",
+      "D. Mapping"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "text": "By helping users form effective \\________, we can help users to predict the results of actions they haven't yet performed using a system.",
+    "options": [
+      "A. system images",
+      "B. assumptions",
+      "C. feedback",
+      "D. conceptual models"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "text": "Neilsen's set of 10 heuristics was designed to meet all of the following criteria except:",
+    "options": [
+      "A. The heuristics are exhaustive and detailed enough to tell a designer exactly what elements to include in every possible part of every possible user interface",
+      "B. The heuristics are applicable to a wide range of different platforms and interaction modalities (e.g., mouse-and-keyboard, touch-based mobile, speech)",
+      "C. The heuristics are compact enough to be taught to a non-expert within a few hours",
+      "D. The heuristics are backed up by systematic research showing that the set of heuristics could explain a range of usability problems observed across numerous usability tests with multiple systems"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "text": "For a system's response to user input to be perceived as \"instantaneous\" by the user, what is the maximum time that can elapse between the user's action and the system response?",
+    "options": [
+      "A. 10 milliseconds",
+      "B. 100 milliseconds",
+      "C. 1 second",
+      "D. 1 minute"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "text": "Using obscure system codes or non-intuitive imagery to represent system features and/or feedback violates which heuristic?",
+    "options": [
+      "A. User control and freedom",
+      "B. Flexibility and efficiency of use",
+      "C. Aesthetic and minimalist design",
+      "D. Match between system and the real world"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "text": "Because some users learn how to use a system through trial and error, it is important to:",
+    "options": [
+      "A. provide extensive documentation to ensure that users always do the right thing",
+      "B. force users to undergo training before using a system so they don't break anything",
+      "C. provide users with only one option at a time so that they cannot make mistakes",
+      "D. support \"undo\" and \"redo\" to help users recover from mistakes"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "text": "According to Nielsen's heuristics, \"platform standards\" are important to support in user interface design because:",
+    "options": [
+      "A. Platform standards are always better than anything you could come up with on your own",
+      "B. Supporting standards allows users to leverage \"schemas\" they have developed through prior experiences with similar systems",
+      "C. Platform owners may refuse to allow your system to run on their platform if you do not conform",
+      "D. You can use pre-existing code libraries, which saves development time"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "text": "Some web forms give instantaneous feedback about the validity of data entered into a form field every time a user types a character. This type of \"in-process feedback\" helps usability because:",
+    "options": [
+      "A. It can be used to manipulate users into providing data they didn't intend to provide",
+      "B. It encourages users to look up help and documentation to understand how the system works",
+      "C. It helps prevent errors before they happen",
+      "D. It keeps users focused on the current task rather than getting distracted"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "text": "According to Wikipedia, a \"direct manipulation interface\" is one that features \"continuous representation of objects of interest and rapid, reversible, and incremental actions and feedback.\" The \"continuous representation of objects of interest\" is best aligned with which principle of good UI design?",
+    "options": [
+      "A. Prevent errors before they happen",
+      "B. Support recognition over recall",
+      "C. Employ aesthetic and minimalist design",
+      "D. Support user control and freedom"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "text": "A recommended technique for supporting \"flexibility and efficiency of use\" is:",
+    "options": [
+      "A. the use of keyboard \"accelerator\" shortcuts",
+      "B. make sure all commands are represented graphically on the screen",
+      "C. streamline the design to minimize page load times",
+      "D. eliminate as many commands as possible to prevent possible errors"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "text": "From a usability point of view, it's important to use an \"aesthetic and minimalist design\" because:",
+    "options": [
+      "A. a pleasing design can increase brand awareness, which can increase sales",
+      "B. reducing clutter and organizing information makes it easier for people to find what they are looking for",
+      "C. a simpler design is more cost-effective to develop and maintain",
+      "D. an ugly design will provoke users to make errors on purpose, as a form of protest"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "text": "Nielsen provides several recommendations for help and documentation. Which of the following is not one of his recommendations?",
+    "options": [
+      "A. help should be focused on users' tasks",
+      "B. help should be small and searchable",
+      "C. help should include step-by-step instructions",
+      "D. help should be written from the system developers' point of view"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "text": "Which of the following is NOT a reason to conduct a user needs assessment?",
+    "options": [
+      "A. To understand why a user would want to use a product or service at all.",
+      "B. To test whether one version of a product or service is better than another.",
+      "C. To learn how users actually use a product or service.",
+      "D. To see what problems users have when using a product or service."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "text": "At what point in a product or service's life-cycle should one conduct a user needs assessment?\nI. Before designing a new product or service.\nII. Before considering a re-design of an existing product or service.\nIII. Just before releasing a new product or service that has already been designed.",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. II and III"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "text": "Which of the following steps will you be learning about in this user needs assessment course?\nI. Preparing for and conducting interviews.\nII. Observing users using a product or service.\nIII. Analyzing qualitative data to arrive at insights.",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. II and III",
+      "D. I, II, and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "text": "Which of the following tasks is most representative of the kind of work involved in qualitative research?",
+    "options": [
+      "A. Conducting interviews about how people use Excel spreadsheets",
+      "B. Analyzing statistical data about visits to Amazon",
+      "C. Writing software to classify user posts on Facebook",
+      "D. Running an experimental trial to see if users like Google with banner ads"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "text": "Which of the following describes potential relationships between qualitative and quantitative research?\nI. Qualitative research generates hypotheses that can be verified with quantitative research.\nII. Qualitative research offers potential explanations for outcomes from quantitative research.\nIII. Qualitative research tends to provide close-up, in-depth description while quantitative research tends to provide aggregate, large-scale description.",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. II and III",
+      "D. I, II, and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "text": "Which of the following questions is best answered by a qualitative research methodology?",
+    "options": [
+      "A. What proportion of Gadget X users love Feature Y?",
+      "B. What are the different ways in which Gadget X frustrates its users?",
+      "C. How will total revenue change if Gadget X's price is reduced by 10%?",
+      "D. Does Gadget X tend to increase traffic accidents among its users?"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "text": "For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?",
+    "options": [
+      "A. What kinds of problems do users face when using Microsoft Word's spell-checking feature?",
+      "B. What kinds of problems do users face when using Microsoft products?",
+      "C. What kinds of problems do users face when using Microsoft Word?",
+      "D. What kinds of problems do users face when fixing a spelling error identified by Microsoft Word's spell-checking feature?"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "text": "For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?",
+    "options": [
+      "A. How could the \"on/off\" switch of the device you are using be better designed to accommodate users?",
+      "B. How could the local grocery store be designed better to accommodate customers?",
+      "C. How could the city/town/village you live in be designed better to accommodate residents?",
+      "D. How could the customer queue at the local post office be designed better to accommodate customers?"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "text": "For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?",
+    "options": [
+      "A. How do users feel about MOOCs (massive open online courses)?",
+      "B. How do users feel about the interface for this particular question in this quiz?",
+      "C. How do users feel about websites in general?",
+      "D. How do users feel about Coursera's interface for quizzes?"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "text": "For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?",
+    "options": [
+      "A. How can the world economy be improved for human beings?",
+      "B. What do people who take this course want out of it?",
+      "C. How could the solar system be better designed for alien visitors?",
+      "D. What do sentient beings expect from the universe?"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "text": "What kind of interviews are you learning about in this course?",
+    "options": [
+      "A. Group, remote, semi-structured.",
+      "B. Individual, remote, structured.",
+      "C. Individual, in-person, semi-structured.",
+      "D. Group, in-person, unstructured."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "text": "Which of the following should you aim for when arranging interviews?\nI. The participant should be a user or potential user of the product or service.\nII. The interview should be held where the product or service would normally be used.\nIII. The time should be when the product or service would normally be used.",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. II and III",
+      "D. I, II and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "text": "What is one quality that distinguishes a semi-structured interview from other kinds of interviews?",
+    "options": [
+      "A. Half of the interview will be a questionnaire, the other half will be open-ended.",
+      "B. Half of the interview will be a questionnaire, the other half will be based on an interview protocol.",
+      "C. While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script.",
+      "D. The interviewer and the interview participant should each expect to speak about half of the time."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "text": "What is the value of having an overarching question in an interview protocol?",
+    "options": [
+      "A. It provides a focus for the interview that the interviewer keeps in mind throughout the interview.",
+      "B. It serves as a catch-all question to ask at the end of an interview.",
+      "C. It is a good opening question to ask during the interview.",
+      "D. It is a good way to elicit a summary of the interview participant's thoughts."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "text": "Which of the following topics are not a common part of the introduction to an interview?",
+    "options": [
+      "A. How confidentiality will be handled",
+      "B. Expected duration of the interview",
+      "C. How many other interview participants there are",
+      "D. Overall goals of the interview"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "text": "Which of the following is a good open-ended question to ask in a semi-structured interview?",
+    "options": [
+      "A. How many times a week do you use a GPS device recently?",
+      "B. Can you tell me about the most recent time when you used a GPS device?",
+      "C. Was the GPS interface poorly designed?",
+      "D. Why didn't you use the landmark feature on your GPS device?"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "text": "Once you have a list of core questions to ask, what should you do next in constructing the interview protocol?\nI. Cluster related questions together.\nII. Try the questions on a potential subject.\nIII. Add follow-up questions.",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. II and III",
+      "D. I, II and III"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "text": "Which of the following is a bad question to ask during a user needs assessment interview?",
+    "options": [
+      "A. Could you tell me about a recent time when you used the \"undo\" feature?",
+      "B. Tell me more -- what was the context when you used the \"undo\" feature?",
+      "C. What functionality would you have liked to have to complete the task?",
+      "D. Was it because you didn't know about the \"undo\" feature that you were unable to complete the task?"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "text": "In a semi-structured interview, why would you want to avoid a question such as \"Was it because you didn't know about the 'undo' feature that you were unable to complete the task?\"\nI. It is leading -- you are feeding a possible answer to the participant.\nII. It is closed-ended -- this is a yes-or-no question.\nIII. It is judgmental -- you are suggesting that the participant's lack of knowledge was a problem.",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. II and III",
+      "D. I, II and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "text": "Which of the following are good guidelines for using an interview protocol?\nI. Memorize the protocol, so that you don't have to refer to it that much during the interview itself.\nII. Avoid asking any questions that are not open-ended.\nIII. Ask the questions exactly as they are written and in the order they are written.",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. III only",
+      "D. I and III"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "text": "Which of the following should you NOT do when trying to establish rapport with an interview participant?",
+    "options": [
+      "A. Talk about what other participants have been saying.",
+      "B. Make small talk at first.",
+      "C. Listen and observe how they respond.",
+      "D. Adopt a learning mindset."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "text": "Conducting an actual semi-structured interview is most consistently like which of the following activities?",
+    "options": [
+      "A. Golf, because negative events can affect your performance.",
+      "B. Driving, because you have to navigate adversarial situations.",
+      "C. Playing jazz, because improvisation is required.",
+      "D. Running a marathon, because it is exhausting."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "text": "Among responses by interview participants that are relevant to your overarching question, what should you be paying particular attention to?",
+    "options": [
+      "A. Answers that confirm what you know.",
+      "B. Answers that are surprising or unexpected.",
+      "C. Answers delivered without emotion.",
+      "D. Answers that show off the participant's cleverness."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "text": "What should you keep in mind throughout the interview?",
+    "options": [
+      "A. Your overarching question(s).",
+      "B. \"The Force\" from Star Wars.",
+      "C. The name of the interview participant.",
+      "D. The next question in your interview protocol."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "text": "Which of the following is the right way to take notes?",
+    "options": [
+      "A. To write only the key points in short phrases.",
+      "B. To capture only what audio recording definitely will not.",
+      "C. There is no one right way to take notes.",
+      "D. To jot down only follow-up questions you want to ask later."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "text": "Which of the following is worth noticing in an observation?\nI. The physical context where the user is.\nII. Pauses or missteps the user makes.\nIII. Comments the user makes during a task.",
+    "options": [
+      "A. II only",
+      "B. III only",
+      "C. II and III",
+      "D. I, II and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "text": "What should you do during the think-aloud protocol?",
+    "options": [
+      "A. Let the participant hear what you're thinking while you observe them.",
+      "B. Prompt the user to convey their thinking out loud with short questions.",
+      "C. Respond to the participant by telling whether what they're saying is correct or not.",
+      "D. Sit quietly and observe, even if the participant says nothing."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "text": "What is an affinity note?",
+    "options": [
+      "A. A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant for the user needs assessment.",
+      "B. A comment you write during an interview that indicates a common, recurring theme.",
+      "C. A short summary that includes your analysis of a single interview.",
+      "D. A follow-up message from an interview participant that contains additional information."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "text": "Which of the following should you avoid when writing affinity notes?",
+    "options": [
+      "A. Make each note understandable on its own.",
+      "B. Be concrete.",
+      "C. Aim for about one affinity note per minute of interview.",
+      "D. Provide thorough, detailed explanations."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "text": "With respect to semi-structured interviews, what is the point of the Carnegie Hall joke about practice?",
+    "options": [
+      "A. Interviewing is a state of mind.",
+      "B. The location where you conduct an interview is as important as the interview itself.",
+      "C. Like any skill, practice is essential.",
+      "D. Musicians make good interviewers."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "text": "What is qualitative data analysis?",
+    "options": [
+      "A. The formal analysis of data that is not all quantified or quantifiable.",
+      "B. The formal analysis of numerical information.",
+      "C. The formal analysis of product quality.",
+      "D. The formal analysis of how good something is."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "text": "What kinds of information might be part of qualitative data analysis?\nI. Quotations from interviews.\nII. Observed actions or events.\nIII. Inferred facts from interviews.",
+    "options": [
+      "A. I only",
+      "B. I and II only",
+      "C. II only",
+      "D. I, II and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "text": "Which of the following are techniques that might be used in qualitative data analysis?\nI. Clustering\nII. Running a statistical regression\nIII. Finding patterns",
+    "options": [
+      "A. I only",
+      "B. III only",
+      "C. I and III",
+      "D. I, II and III"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "text": "What should you do when clustering data for qualitative data analysis?",
+    "options": [
+      "A. Ensure each cluster is the same size.",
+      "B. Make clusters out of related information.",
+      "C. Throw out data that doesn't fit in any cluster.",
+      "D. Focus on the arrangement of items in each cluster."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "text": "According to the instructor, \\________ information is understanding, and understanding is intelligence. Fill in the blank.",
+    "options": [
+      "A. Rearranging",
+      "B. Condensing",
+      "C. Creating",
+      "D. Eliminating"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "text": "Which of the following is true about affinity walls?\nI. They are one way of doing qualitative data analysis.\nII. They use affinity notes as raw data.\nIII. They must be conducted against a wall.",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. I, II and III"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "text": "What should you do when you create clusters in an affinity wall?",
+    "options": [
+      "A. Avoid mistakes, because once a cluster is formed, it cannot be undone.",
+      "B. Create clusters of more than seven affinity notes.",
+      "C. Put all notes that use the same word in a single cluster.",
+      "D. Be willing to move notes and re-form clusters."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "text": "What should a new note you write (after data extraction is completed) during construction of an affinity wall contain?",
+    "options": [
+      "A. A self-contained summary of the knowledge in the associated cluster.",
+      "B. Spelling or grammar corrections for affinity notes.",
+      "C. A new question to ask in a future user needs assessment.",
+      "D. A salience ranking of the affinity notes in the associated cluster."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "text": "What does it mean to balance abstraction and precision in an affinity wall cluster summary?",
+    "options": [
+      "A. The summary should be neither too long nor too short.",
+      "B. The summary should use some of the same vocabulary used in the notes in the cluster.",
+      "C. The summary should be applicable to most but not all of the notes in the cluster.",
+      "D. The summary should represent all of the notes in the cluster while being as specific and insightful as possible."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "text": "In the affinity wall demo video about toaster ovens, why were the two affinity notes related to \"burning\" eventually separated?",
+    "options": [
+      "A. Because \"burning toast\" and \"burning fingers\" were associated with two different concepts that went better with other affinity notes.",
+      "B. Because that cluster grew to exceed seven affinity notes.",
+      "C. Because they were about two different interview participants.",
+      "D. Because \"burning toast\" tends to happen before \"burning fingers.\""
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "text": "What was the title of this course?",
+    "options": [
+      "A. Understanding User Needs",
+      "B. Designing User Experience",
+      "C. Surveying Users at Scale",
+      "D. Analyzing User Data"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "text": "Which of the following research techniques were taught in this specific course?",
+    "options": [
+      "A. Experience sampling",
+      "B. A/B testing",
+      "C. Semi-structured interviews",
+      "D. Surveys and questionnaires"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "text": "The methodology you learned in this course is often labeled \"human-centered.\" Why?",
+    "options": [
+      "A. Because it cannot be applied to animals.",
+      "B. Because it requires mindfulness training and centeredness to execute well.",
+      "C. Because it focuses on the needs, preferences, and perspectives of a human user (or potential user).",
+      "D. Because it focuses only on the human user and ignores the user's environment."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "text": "What is another name for the affinity wall technique?",
+    "options": [
+      "A. The KJ Method",
+      "B. Relatedness clustering",
+      "C. Holmes deduction",
+      "D. Jiro Dreams of Sushi"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "text": "Which of the following is not another name for the kind of qualitative research methodology you learned in this course?",
+    "options": [
+      "A. Ethnographic research.",
+      "B. Contextual inquiry.",
+      "C. User needs assessment.",
+      "D. Socio-technical extraction."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "text": "Which of the following is not one of the three things you learned in this course?",
+    "options": [
+      "A. Conducting semi-structured interviews",
+      "B. Observing users",
+      "C. Coding of qualitative texts",
+      "D. Analyzing data with affinity walls"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "text": "What should be your approach in conducting a semi-structured interview?",
+    "options": [
+      "A. Maintain a conversational tone and use the interview protocol as a loose guideline.",
+      "B. Maintain a formal tone and read the interview protocol questions exactly in the listed order.",
+      "C. Maintain a relaxed tone and discuss whatever the interview participant feels is relevant.",
+      "D. Maintain a professional tone and never refer to the interview protocol."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "text": "In which of the following contexts can you use qualitative data analysis?\nI. Understanding user needs\nII. Making sense of non-quantitative data\nIII. Condensing complex information",
+    "options": [
+      "A. I only",
+      "B. I and II",
+      "C. I and III",
+      "D. I, II, and III"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "text": "Which of the following observation methodologies did you learn in this course?",
+    "options": [
+      "A. Sit-and-stare methodology",
+      "B. Shock-and-awe technique",
+      "C. Think-aloud protocol",
+      "D. Poke-or-nudge routine"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "text": "How do you get to Carnegie Hall?",
+    "options": [
+      "A. Practice, practice, practice!",
+      "B. Go down three blocks and take a right.",
+      "C. Buy a ticket online.",
+      "D. Use a GPS device."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "text": "Your client wants you to conduct a user test of their pre-release prototype to find the most important user interface problems to be fixed before the product is released. What kind of user test is your client asking you to perform?",
+    "options": [
+      "A. Summative",
+      "B. Formative",
+      "C. Competitive",
+      "D. A/B"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "text": "You are working on assessing the usability of a medical device. For regulatory reasons, you need to demonstrate that 99% of medical professionals can perform a certain task in under one minute. What kind of user test should you perform?",
+    "options": [
+      "A. Comparative",
+      "B. Formative",
+      "C. Benchmark",
+      "D. Microusability"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "text": "What should be your approach in conducting a semi-structured interview?",
+    "options": [
+      "A. Maintain a conversational tone and use the interview protocol as a loose guideline.",
+      "B. Maintain a formal tone and read the interview protocol questions exactly in the listed order.",
+      "C. Maintain a relaxed tone and discuss whatever the interview participant feels is relevant.",
+      "D. Maintain a professional tone and never refer to the interview protocol."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "text": "Which of the following data types is typically not collected in a user test?",
+    "options": [
+      "A. Task completion",
+      "B. Task timing",
+      "C. Critical incidents",
+      "D. Expected purchase price"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "text": "Critical incidents and verbal reports are both examples of what kind of user testing data?",
+    "options": [
+      "A. Quantitative",
+      "B. Qualitative",
+      "C. Insignificant",
+      "D. Performance"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "text": "Which of the following is typically not true of user testing?",
+    "options": [
+      "A. You should not know who the test participants are, and they should not know who you are.",
+      "B. You should observe test participants using the system directly.",
+      "C. You should recruit test participants who are representative of your target users.",
+      "D. You should give test participants specific tasks to carry out using the system."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "text": "What is a key benefit of collecting qualitative data during user testing?",
+    "options": [
+      "A. It helps you \"prove\" statistically that the system being studied is better than competitors'",
+      "B. It doesn't require any analysis, so it saves time compared to other types of data",
+      "C. It helps you understand why test participants had difficulties when using the system",
+      "D. It allows you to assess the overall quality of the system being tested"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "text": "Which of the following is not an example of a subjective measure that might be collected during a user test?",
+    "options": [
+      "A. Perceived usability",
+      "B. Perceived usefulness",
+      "C. Desirability",
+      "D. Task completion speed"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "text": "Which of the following data types is arguably the most important to capture when conducting a formative, problem-finding user test?",
+    "options": [
+      "A. Critical incidents",
+      "B. Perceived usability",
+      "C. Suggested improvements",
+      "D. Participant demographics"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "text": "When using questionnaires to collect characteristic, behavioral, and attitudinal data about your test participants, it is best to:",
+    "options": [
+      "A. Ask all the questions you can think of, because you never know what will be useful.",
+      "B. Ask no questions, because it will distract from the test and annoy your participants.",
+      "C. Focus on collecting data that could help explain differences in task outcomes.",
+      "D. Focus on getting users to rate the quality of your system on a five-point scale."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "text": "What is user testing particularly well suited to tell you?",
+    "options": [
+      "A. How many people will buy your product.",
+      "B. Users' most critical unmet needs.",
+      "C. Whether users can successfully perform the tasks that you designed the system to support.",
+      "D. What users will do with the system once they have it in their own hands."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "text": "Clear \"tests\" that determine whether someone is \"in\" or \"out\" of the target population for a user test are:",
+    "options": [
+      "A. Recruiting criteria",
+      "B. Diversity criteria",
+      "C. User tests",
+      "D. Tasks"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "text": "Factors that capture the ways in which you expect your users to differ can be expressed as:",
+    "options": [
+      "A. Recruiting criteria",
+      "B. Diversity criteria",
+      "C. Success criteria",
+      "D. Tasks"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "text": "Imagine a new shopping website named Nomaza.com. Nomaza.com offers a wide range of products. Which of the following might be a reasonable goal for a Nomaza.com user test? (choose all that apply)",
+    "options": [
+      "A. Can experienced online shoppers use Nomaza.com to find and purchase household items?",
+      "B. How likely are first-time users of Nomaza.com to return for a second visit?",
+      "C. Are novice Internet shoppers able to complete the checkout process on Nomaza.com?",
+      "D. Can people find stuff they want on Nomaza.com?"
+    ],
+    "correctAnswers": [
+      "A",
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "text": "Which type of recruiting criteria would the following question screen for? \"In the past week, how many hours did you spend completing coursework on edX? 0, 1-2, 3-5, or more than 5\"",
+    "options": [
+      "A. Expertise",
+      "B. Behavioral",
+      "C. Characteristic",
+      "D. Attitudinal"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "text": "Which of the following is not one of the qualities of well-design tasks for use in a user test?",
+    "options": [
+      "A. Realistic",
+      "B. Verifiable",
+      "C. Doesn't \"lead the witness\"",
+      "D. Leaves room for different users' interpretation"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "text": "What is the problem with the following task description? \"Go to coursera.org. Hover over the button \"Explore\", then click \"Explore all of Coursera\". Scroll until you find the link to \"User Experience (UX) Research and Design\" Specialization. Click on it. On the resulting page, find the first course and enroll in it.\"",
+    "options": [
+      "A. It is not realistic",
+      "B. It is not verifiable",
+      "C. It \"leads the witness\"",
+      "D. It is not the most efficient way of enrolling in a Coursera course"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "text": "What is the problem with the following task description? \"Go to coursera.org and find a course that looks interesting to you. Find out more about it.\"",
+    "options": [
+      "A. It is not realistic",
+      "B. It is not verifiable",
+      "C. It \"leads the witness\"",
+      "D. It is not the most efficient way of learning about a Coursera course"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "text": "When designing the set of tasks you will use in a test, it's a good idea to:",
+    "options": [
+      "A. Order them from hardest to easiest, to get the hard stuff out of the way.",
+      "B. Order them from easiest to hardest, so that your participants feel more comfortable.",
+      "C. Ask individual participants to perform several very similar tasks one after another, to ensure that they perform consistently.",
+      "D. Exhaustively test every possible path a user could take through the interface, even if it means testing with dozens of users."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "text": "In user testing, we generally ask test participants to verbalize what they are thinking as they perform tasks. This approach is called:",
+    "options": [
+      "A. Debriefing",
+      "B. The Think-Aloud Protocol",
+      "C. What You See Is What You Get",
+      "D. Screening"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "text": "You are testing the Nomaza.com website. All of your test participants will be using the same computer, which is located in your user testing lab. Which of the following is not something you ought to worry about when preparing for each test session?",
+    "options": [
+      "A. making sure the browser cache is cleared so that later users don't see which links have been visited",
+      "B. clearing out data that was created by earlier users so that all participants see the same starting conditions",
+      "C. testing participants' laptops to make sure their default browser is capable of displaying Nomaza.com",
+      "D. giving all participants the same account capabilities and payment method in order to ensure consistency"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "text": "Which of the following is an example of a good use of a post-test questionnaire?",
+    "options": [
+      "A. Asking open-ended questions where participants can give any answer that comes to mind",
+      "B. Asking follow-up questions to understand why participants gave answers that they did",
+      "C. Obtaining quantified measures of participants subjective reactions to using a system",
+      "D. Measuring the time it takes participants to complete a task"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "text": "Which of the following is not true about standardized usability questionnaires like QUIS and PSSUQ?",
+    "options": [
+      "A. The level of reliability is known, allowing you to assess how consistent they are across systems and study participants",
+      "B. Most of them have been used in many studies, allowing comparisons across systems",
+      "C. Some of them allow you to \"plug in\" different questionnaire sections to ask about specific usability issues",
+      "D. They are so expensive that they are only used in the biggest, most well-funded projects"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "text": "What does the System Usability Scale measure?",
+    "options": [
+      "A. Perceived usability",
+      "B. Number of tasks successfully completed",
+      "C. Frequency of errors",
+      "D. Number of usability principles violated"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "text": "Which of the following would you typically not include in a debrief interview?",
+    "options": [
+      "A. Review of problems encountered during tasks",
+      "B. General questions about perceived usefulness and comparisons to similar systems",
+      "C. Demographic questions like age, gender, and education level",
+      "D. A \"wrap-up\" question in which you ask participants for any additional thoughts that weren't covered already"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "text": "What does the concept of \"demand characteristics\" warn us about when applied to user testing?",
+    "options": [
+      "A. Participants will perform differently when observed than they would if they were on their own",
+      "B. Participants are likely to tell us what they think we want to hear",
+      "C. Participants who receive monetary compensation will typically perform better on tasks than those who don't",
+      "D. Researchers shouldn't ask participants to do anything in particular, rather they should let participants decide what to do"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "text": "What can UX researchers do to minimize the impact of confirmation bias?",
+    "options": [
+      "A. Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the test",
+      "B. Recruit only family and friends as participants, since they will be more honest about their feelings",
+      "C. Researchers should trust their intuition when analyzing test results, rather than seeking to be systematic and impartial",
+      "D. Ask participants the same questions at least 3 times, in order to confirm that the answers accurately reflect their feelings"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "text": "Which of the following best describes the role of a participant in a user test?",
+    "options": [
+      "A. They are being evaluated to see if they are competent enough to use the system tested",
+      "B. Once they have agreed to participate, they are obligated to complete all tasks and answer all questions, regardless of their discomfort",
+      "C. They are partners with the researchers administering the test, working with together to find flaws in the system design",
+      "D. They should remain ignorant of the goals of the test, so that they can offer more creative feedback and design suggestions"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "text": "A basic ethical principle of research involving human subjects that states that researchers need to confirm that participants in a study know the purpose of the study, what they will be asked to do, their right to withdraw or refuse to comply with aspects of the study, and what will be done with the data is \\____________.",
+    "options": [
+      "A. Usability",
+      "B. Perceived usefulness",
+      "C. Acquiescence",
+      "D. Informed Consent"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "text": "Why is it important to ask participants to announce when they believe they are done with a task?",
+    "options": [
+      "A. Otherwise there is no way to know if they've finished",
+      "B. Allowing the moderator to declare a task \"done\" could give the participant more information than they would have if conducting the task outside the test environment",
+      "C. Saying \"I'm done\" gives the participant a sense of accomplishment",
+      "D. It allows the moderator to pay less attention to the current task and start to prepare for the next one"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "text": "Is the following statement true or false? You should always include a pre-test questionnaire in any user test you conduct.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "text": "All of the following are important to do when observing a user testing session, except for:",
+    "options": [
+      "A. Capture recordings of the user's screen",
+      "B. Capture audio recordings of the user thinking aloud",
+      "C. Notify participants as soon as they have met each task's success criteria",
+      "D. Use a logging sheet to capture when critical incidents occur"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "text": "When choosing an environment to conduct a user test session, which of the following is not an important characteristic of your chosen site?",
+    "options": [
+      "A. Distraction-free",
+      "B. Private",
+      "C. Dedicated only for conducting user tests",
+      "D. Quiet"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "text": "Which of the following would be a good reason for using a high-end usability testing lab with separate control and observation room?",
+    "options": [
+      "A. You will be providing a computer for participants to use during the test",
+      "B. You will be using the think-aloud protocol",
+      "C. You plan to administer a post-test questionnaire",
+      "D. You plan to invite multiple stakeholders to observe the test sessions"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "text": "The person who greets participants and communicates with them throughout a user test session is called the:",
+    "options": [
+      "A. Logger",
+      "B. Moderator",
+      "C. Interviewer",
+      "D. Technician"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "text": "About how many \"key findings\" should be included in a typical user test report?",
+    "options": [
+      "A. 1",
+      "B. 2-3",
+      "C. 5-10",
+      "D. 20-50"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "text": "When reporting an issue found through user testing you should report all of the following except:",
+    "options": [
+      "A. Recommendation",
+      "B. Severity",
+      "C. Evidence",
+      "D. Clear description of the problem",
+      "E. The names of the participants who encountered them"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "text": "When making a recommendation for how to address a problem, you should consider all of the following except:",
+    "options": [
+      "A. Identifying best practices from competitors' products",
+      "B. Declining to provide a recommendation, admitting you have no good ideas",
+      "C. Suggesting further research to better characterize the problem",
+      "D. Recommending an iterative design process to find the best solution"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "text": "True or False: Baseline statistics such as task completion rate, time spent on task, and/or error rates should be included in user test reports.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "text": "True or False: It is not the role of the UX researcher to assign severity to problems found in user testing--this should be left up to the product owner.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "text": "True or False: If you take good notes, there is no reason to capture a screen recording of user test sessions for later review.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "text": "Which of the following is not a key design skill?",
+    "options": [
+      "A. To frame or reframe a design problem",
+      "B. To generate a large number of alternative solutions",
+      "C. To evaluate tradeoffs of different alternatives",
+      "D. To create and test with potential users a functioning prototype of a design solution",
+      "E. To write a business plan for selling the technology designers created"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "text": "The primary concern of design is to create artifacts and systems that are aesthetically pleasing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "text": "Bill Buxton states that all design is \"compromise.\" By this he means that fundamentally no design is particularly good.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "text": "The design process is highly iterative. Which of the following are iterative loops that a designer might do in the course of a project?",
+    "options": [
+      "A. From ideation to problem framing",
+      "B. From creation of scenarios and storyboards to ideation",
+      "C. From creation of scenarios and storyboards to problem framing",
+      "D. From prototyping to ideation",
+      "E. All of the above",
+      "F. None of the above"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "text": "Designers usually solve the exact design problem they are initially presented with.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "text": "Designers often refer to the notion of the \"design space.\" What does this term refer to?",
+    "options": [
+      "A. Physical space (like a design studio) where design activities take place",
+      "B. Space into which the design has to fit (e.g., the size of the screen of a mobile phone)",
+      "C. Properties of the space (e.g., location, shape of the room) where the design will be used",
+      "D. The range of alternative ways that a design solution can work"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "text": "Problem scoping is a fundamental part of the design process.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "text": "Designers conduct formative research using a single, unified set of methods.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "text": "Formal research methods are always preferable to informal methods for doing formative research.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "text": "Which of the following are research methods that can be applied in formative research?",
+    "options": [
+      "A. Interviews",
+      "B. Observations",
+      "C. Asking friends and family members about their experiences",
+      "D. Participatory design groups",
+      "E. All of the above",
+      "F. None of the above"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "text": "Creation of many alternative solutions increases the quality of the final design.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "text": "Why does ideation emphasize the speed of idea generation?",
+    "options": [
+      "A. Because designers often work on tight schedules",
+      "B. Because the ideas that first come to mind are usually the best ones",
+      "C. Because the quality of the initial ideas doesn't matter since a design solution gets iteratively refined many times anyway",
+      "D. Because quick idea generation helps designers generate a lot of ideas"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "text": "Designers should aim to generate about half a dozen solutions when they ideate.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "text": "Which of the following is not a method for doing ideation?",
+    "options": [
+      "A. Brainstorming",
+      "B. Mind-mapping",
+      "C. Timed idea generation",
+      "D. Tradeoff analysis",
+      "E. Sketching"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "text": "Ideation mostly happens at the start of the design process when the designer is first coming up with possible solutions to the design problem.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "text": "Sketching is used both for generating and for communicating ideas.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "text": "Which of the following is not a characteristic of sketches done for the purposes of ideation?",
+    "options": [
+      "A. Quick",
+      "B. Disposable",
+      "C. Evocative",
+      "D. Refined",
+      "E. Ambiguous"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "text": "You have to be good at drawing to create sketches that are useful for design.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "text": "Why is it important to have a facilitator for a brainstorming session?",
+    "options": [
+      "A. To make sure people don't go on excessive tangents",
+      "B. To notice when session participants feel stuck or are have hit a dead end, and to redirect the session by bringing up a new topic for brainstorming",
+      "C. To keep in check critiquing of ideas",
+      "D. To flag if participants end up diving too deeply into a single ideas",
+      "E. All of the above"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "text": "It is important not to criticize ideas during brainstorming.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "text": "Personas are purely fictional characters.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "text": "How many personas should designers create for a design project?",
+    "options": [
+      "A. Often one or two personas are all that's needed",
+      "B. As many personas as it takes to represent everything designers have learned in the formative work",
+      "C. The number of personas should match the number of classes of target users that the designers have identified in the formative work",
+      "D. The more personas, the better",
+      "E. Three to four personas are usually a sweet spot"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "text": "Personas include different types of information, from demographics to motivations and sociocultural context. How should designers decide what information to include?",
+    "options": [
+      "A. They should focus on making the information as complete as possible",
+      "B. They should focus on idiosyncratic characteristics of people they encountered in the formative research that will make personas as vivid as possible",
+      "C. They should focus mostly on demographic information; other types of information are secondary",
+      "D. They should focus on information that contributes to the distinct needs and potential barriers to and motivations for use that each class of target users has in relation to the technology being developed"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "text": "Personas represent target users and are, thus, primarily a distillation of the findings from formative work. Scenarios begin to move designers toward a design solution. How do scenarios do this?",
+    "options": [
+      "A. By envisioning how a technology might address the needs identified in formative work",
+      "B. By enumerating features of the technology being designed",
+      "C. By articulating tradeoffs of different design solutions",
+      "D. By providing stories that can be put into the ads for the product being designed"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "text": "Scenarios help designers reflect on user needs, how technology might address those needs, and potential issues that might arise with the use of the envisioned technology.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "text": "Which of the following is not an element of a typical scenario?",
+    "options": [
+      "A. Agent",
+      "B. Actions",
+      "C. Location",
+      "D. Goals",
+      "E. Events"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "text": "Why would a designer create storyboards as opposed to write scenarios?",
+    "options": [
+      "A. To better represent physical environment in which the technology would be used",
+      "B. To better represent relationships among multiple people",
+      "C. To better envision size or other physical constraints of the technology and its use",
+      "D. All of the above"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "text": "Excellent drawing skills are needed to create effective storyboards.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "text": "It's typically obvious which design solution, among alternatives they generated, designers should pursue.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "text": "Which component of the QOC framework articulates conditions or constraints that the design needs to meet?",
+    "options": [
+      "A. Questions",
+      "B. Options",
+      "C. Criteria",
+      "D. None of the above"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "text": "Although there are different types of input, UX designers only need to focus on designing the information that users will explicitly enter into the system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "text": "Which of the following are types of user-entered inputs?",
+    "options": [
+      "A. GPS",
+      "B. Text fields where users enter free-form responses",
+      "C. Widgets like calendar pickers or on/off switches",
+      "D. Voice input, like dictation typing",
+      "E. All options on this list except GPS"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "text": "Which of the following is not a type of passive input?",
+    "options": [
+      "A. Application data like contacts, calendar events, or user's health information (e.g., steps)",
+      "B. Weather data",
+      "C. Picture taken by the user using the phone camera",
+      "D. User's current location"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "text": "Granularity of the needed information is an important consideration when designing system inputs.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "text": "Which is not an output modality commonly used in today's interactive applications?",
+    "options": [
+      "A. Audio",
+      "B. Visual",
+      "C. Olfactory",
+      "D. Tactile/Haptic"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "text": "What does the designer need to know in order to design effective output?",
+    "options": [
+      "A. What information the user needs to accomplish the task",
+      "B. Context in which the information will be accessed",
+      "C. User's knowledge base",
+      "D. All of the above"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "text": "\"Pull\" output gives user high level of control of information access.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "text": "\"Push\" output can time information delivery for maximum effectiveness.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "text": "Which of the following represents the system's state:",
+    "options": [
+      "A. Information about the user's current location",
+      "B. User profile information",
+      "C. Rules for providing feedback to the user",
+      "D. Current values of all system inputs and variables, and rules for operating on those values"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "text": "Mode can change how multiple aspects of the system behave.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "text": "Designers prototype to test their design ideas before resources are invested in expensive and time-consuming software development.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "text": "Which of the following can prototypes help designers test?",
+    "options": [
+      "A. The overall design concept",
+      "B. Functionality of different components of the system",
+      "C. Screen layouts",
+      "D. User interactions",
+      "E. All of the above"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "text": "It doesn't matter whether you initially create a low- or high-fidelity prototype. You can get the same kind of feedback on either.",
+    "options": [
+      "A. True",
+      "B. False\nB\nQuestion 4 Which of the following is not a question that can be answered by getting feedback on wireframes? A. Do screens contain the right functional components? B. Does the screen layout make sense?",
+      "C. Is the displayed content ordered correctly?",
+      "D. Do the screens provide adequate navigation?"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "text": "Wireframes can test design concepts, as well as help designers decide among multiple ways of designing a piece of functionality.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "text": "It's possible to create a useful, functional interactive prototype with very simple tools, such as paper, post-it notes, and scotch tape.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "text": "Which of the following is not a characteristic of low-fidelity prototypes?",
+    "options": [
+      "A. They should be quick to create",
+      "B. They should support the full sequence of actions needed to complete a task",
+      "C. They should be realistic",
+      "D. They should cover the functionality of the whole system."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "text": "A single designer can usually conduct a test of a lo-fi prototype by him/herself.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "text": "Which of the following is not a characteristic of hi-fi prototypes?",
+    "options": [
+      "A. They are more resource-intensive to develop",
+      "B. They can be run by the tester without help",
+      "C. They are of limited usefulness for testing usability",
+      "D. They can be used as a part of the spec given to developers"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "text": "Wizard of Oz prototypes are most useful for prototyping screen-based applications",
+    "options": [
+      "A. True",
+      "B. False\nB\nQuestion 1 Affordances of user interface don't have much influence on how easily users learn to use the system. A. True B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "text": "In order to have a mental model of a system that enable them to use that system effectively, users need to understand the technical underpinnings of that system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "text": "Gulf of execution refers to which of the following?",
+    "options": [
+      "A. The time it takes an application to execute some computationally-intensive task, such as running a statistical model.",
+      "B. The difference between the output the system provided and the output the user wanted.",
+      "C. The discrepancy between what the user is trying to do and what he/she is able to do using the system's interface.",
+      "D. The time between when the user gives the system a command and when the system executes that command (e.g., the delay in responding to a button press)"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "text": "Gulf of evaluation refers to which of the following?",
+    "options": [
+      "A. The user's ability to understand the system's output (e.g., the graphs that the system presents the user)",
+      "B. The ability of the user to tell if the system did what the user was trying to do.",
+      "C. The user's ability to evaluate if the system is a good match for his/her needs.",
+      "D. The difference between user ratings of an app in the app store and the actual quality of the app."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "text": "While designers have to set defaults for many design elements, these default values rarely matter since users can just change them at any time.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "text": "Designing thoughtful defaults is important for several reasons. Which of the following is not a reason for designing good defaults.",
+    "options": [
+      "A. Defaults define out-of-the-box experience",
+      "B. Defaults are easily changed.",
+      "C. Defaults decrease onboarding time",
+      "D. Defaults can have large consequences."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "text": "Which position on the social effects of technology claims that technological adoption is primarily governed by the needs of different social groups and that it has little to do with the properties of the actual technology?",
+    "options": [
+      "A. Social determinists",
+      "B. Technical determinists",
+      "C. Interactionists"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "text": "Technical determinists believe that sometimes the properties of technologies almost necessitates certain kinds of consequences.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "text": "Which new technological trend is not requiring designers to change how they prototype and test their systems?",
+    "options": [
+      "A. Proliferation of screens (smart watches, embedded displays, etc.) for which designers need to design user experiences",
+      "B. Instrumented environments",
+      "C. Artificial Intelligence-based systems",
+      "D. Virtual and augmented reality",
+      "E. None of the above"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "text": "The many new technological trends we discussed means that UX design as a process is fundamentally changing and that what we discussed in this course is not going to be useful a year or two from now.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "text": "Under what circumstances is remote testing appropriate?\nI. It is difficult to access the product/experience.\nII. Participants from a variety of geographic locations are needed.\nIII. Time is limited.\nIV. There is a lot of Personally Identifiable Information required.\nV. All of the above",
+    "options": [
+      "A. I, II, III",
+      "B. I, IV",
+      "C. I, III, IV",
+      "D. II and III",
+      "E. V"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "text": "What consideration is not important when deciding what platform or technology solution you will use for testing?\nI. Metrics that may be collected\nII. Panel access\nIII. Network speed requirements\nIV. Screen, Audio, or other data collection, as appropriate for test\nV. None of the above",
+    "options": [
+      "A. I, II, III",
+      "B. I, II",
+      "C. II, IV",
+      "D. I, III, IV",
+      "E. V"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "text": "When is it most appropriate to conduct remote moderated testing?\nI. Redirection and discussion are required\nII. Users can complete tasks without instruction\nIII. Finding participants local to your lab is challenging\nIV. You want to see and explore user's digital contexts\nV. All of the above",
+    "options": [
+      "A. I, II, III",
+      "B. I, IV",
+      "C. I, III",
+      "D. I, III, IV",
+      "E. V"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "text": "What elements should a script include for a remote moderated test?",
+    "options": [
+      "A. Obtain Consent",
+      "B. Make introductions",
+      "C. Build rapport",
+      "D. Exact instructions for how to complete tasks",
+      "E. Set expectations for duration and content of test",
+      "F. Set expectations for role of moderator and observer"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "text": "What preparations should you make ahead of both remote moderated as well as unmoderated testing?\nI. Review alternate paths\nII. Be online 10 15 minutes early\nIII. Determine what metrics to collect and how\nIV. Obtain informed consent\nV. Overrecruit\nVI. All of the above",
+    "options": [
+      "A. I, II, III",
+      "B. I, III, IV, V",
+      "C. II, IV, V",
+      "D. I, IV",
+      "E. VI"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "text": "Which of the following is not a method one would use to understand why people are using a product at certain times?",
+    "options": [
+      "A. Surveys",
+      "B. Clickstream analytics",
+      "C. Concept Testing",
+      "D. Interviews",
+      "E. Remote testing"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "text": "Which of the following is a method one would use to learn more about users' attitudes, preferences, context, and needs?\nI. Interviews (Remote or in person)\nII. Clickstream analytics\nIII. Behavioral analytics (surveys)\nIV. A/B Testing",
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. I, II, and IV",
+      "D. I, II, III, and IV"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "text": "Which of the following are the hallmarks of good research questions?\nI. Clarity\nII. Consistency\nIII. Ability to be answered\nIV. Ethical excellence\nV. Significance",
+    "options": [
+      "A. I, II, and III",
+      "B. I, II, and V",
+      "C. IV and V",
+      "D. II, IV, and V",
+      "E. I, III, IV, and V"
+    ],
+    "correctAnswers": [
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "text": "What alternative approaches can you use to engage people in research results? (pick all that apply)",
+    "options": [
+      "A. Extensive report",
+      "B. Have stakeholders attend study sessions and participate in analyzing and interpreting data.",
+      "C. Create and show videos of critical moments during tests",
+      "D. Emails that include bullet point findings",
+      "E. Brief executive summary"
+    ],
+    "correctAnswers": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "text": "What types of research activities are typically engaged in by 2 3 person design teams? A/B Testing Feature driven usability testing Competitive testing Attitudinal analytics (surveys)",
+    "options": [
+      "A. I",
+      "B. II",
+      "C. III",
+      "D. IV",
+      "E. II and IV"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "text": "What deliverables are typically used to tell user stories? (pick all that apply)",
+    "options": [
+      "A. Personas",
+      "B. Scenarios",
+      "C. Diary Study",
+      "D. Customer Journey Maps"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "text": "What technique can you use to learn about how large numbers of users navigate through an experience during the Optimization phase?",
+    "options": [
+      "A. Benchmarking",
+      "B. Analytics Review",
+      "C. A/B testing",
+      "D. Remote usability testing"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "text": "Research at scale can be carried out during the following product development lifecycles:",
+    "options": [
+      "A. Discovery",
+      "B. Design/Development",
+      "C. Optimization",
+      "D. All"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "text": "Effective ways of delivering findings to stakeholders include:\nI. Anecdotes of critical moments\nII. Retelling what happened during each session of a usability test\nIII. Having stakeholders attend study sessions and participating in analysing or interpreting data\nIV. Quotes or videos of critical moments",
+    "options": [
+      "A. I",
+      "B. II",
+      "C. II, IV",
+      "D. I, III, IV"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "text": "UX research at scale can be conducted by teams at these levels of maturity:\nI. UX team of one (Awareness)\nII. Mobilization\nIII. Collaboration\nIV. Executive Buy-In\nV. UX Obsessed",
+    "options": [
+      "A. I, II, III",
+      "B. III, IV, V",
+      "C. IV, V",
+      "D. All"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "text": "What is the main problem with the following survey question? \"How likely are you to participate in an online course in the future?\" Very likely Somewhat likely Neutral Somewhat unlikely Very unlikely",
+    "options": [
+      "A. The response categories don't match the question stem.",
+      "B. The question stem doesn't include both poles of the scale.",
+      "C. This should be framed as a unipolar scale.",
+      "D. There's nothing wrong with this question."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "text": "Which of the following is NOT a best practice for writing open-ended questions?",
+    "options": [
+      "A. Use an open-ended question after every closed-ended question.",
+      "B. Use neutral probes when possible.",
+      "C. extra motivation to respond.",
+      "D. Specify the response wanted in the question stem."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "text": "Which of the following is the LEAST true statement about open-ended questions?",
+    "options": [
+      "A. Responses require effort for coding and analysis.",
+      "B. Respondents are more likely to skip open-ended questions.",
+      "C. They can require more data cleaning.",
+      "D. They provide bad data because responses are not standardized."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "text": "Which of the following statement about open-ended questions is most FALSE?",
+    "options": [
+      "A. They allow respondents to answer without limiting the range of responses.",
+      "B. They are more frequently skipped than other types of questions.",
+      "C. They are the easiest type of question to analyze.",
+      "D. They are often used when we haven't pre-defined response categories."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "text": "Which of the following is MOST true about offering a \"Don't Know\" option in your response categories?",
+    "options": [
+      "A. Research shows people don't choose the \"Don't Know\" option when it's offered.",
+      "B. You should always include a \"Don't Know\" option in your written surveys.",
+      "C. It's best to do when the question asks for recall, not when asking for opinions.",
+      "D. The \"Don't Know\" option should only be used for opinion questions."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "text": "Which of the following is NOT an uncommon type of survey question?",
+    "options": [
+      "A. Drill Down",
+      "B. Nominal",
+      "C. Map",
+      "D. Pick, Group and Rank"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "text": "Which of the following is NOT a reason to randomize your response categories in a nominal survey question?",
+    "options": [
+      "A. Anchoring",
+      "B. Primacy",
+      "C. Recency",
+      "D. Cognitive burden"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "text": "Which of the following is NOT a best practice in writing nominal closed-ended questions?",
+    "options": [
+      "A. Avoid unequal response options",
+      "B. Use \"select all that apply\" responses rather than forced choices.",
+      "C. Constrain the number of response options that you provide",
+      "D. Randomize response options when necessary"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "text": "What is the main problem with the \"Agree/Disagree\" response scale?",
+    "options": [
+      "A. Overly familiar to respondents, leading to satisficing",
+      "B. Leads to acquiescence bias",
+      "C. Cognitively burdensome",
+      "D. Not understood by most respondents"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "text": "Which of the following is NOT a best practice when designing ordinal closed-ended questions?",
+    "options": [
+      "A. Use direct labels",
+      "B. Use vague quantifiers rather than specific metrics",
+      "C. Provide a balanced scale",
+      "D. Provide scales that approximate the real world distribution"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "text": "Which of the following is a STRENGTH of surveys as a UX method?",
+    "options": [
+      "A. Measuring Behaviors",
+      "B. Understanding why people do things",
+      "C. Describing Opinions of a Group of People",
+      "D. Conducting Exploratory Work"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "text": "Which of the following is NOT a way to match your UX goals to survey methods?",
+    "options": [
+      "A. Launch an exploratory survey to determine UX goals.",
+      "B. Ask why you want to have the data.",
+      "C. Have a story for why surveys are the best way to meet this UX goal.",
+      "D. Define goals before choosing metrics."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "text": "This term describes the total set of people you want to be able to represent with your survey.",
+    "options": [
+      "A. Sample",
+      "B. Response Rate",
+      "C. Respondents",
+      "D. Population"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "text": "What term is used to describe the actual questions you ask people?",
+    "options": [
+      "A. Respondent",
+      "B. Instrument C.Frame",
+      "D. Population"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "text": "Which of the following is the most accurate statement?",
+    "options": [
+      "A. Error can be reduced by designing surveys as well as well as possible within resource constraints.",
+      "B. Error should be reduced to zero before launching a survey.",
+      "C. It's impossible to affect error one way or another.",
+      "D. Surveys should never be trusted because of how much error they involve."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "text": "This is error that is introduced when your questions somehow don't actually get to the concept you're interested in.",
+    "options": [
+      "A. Coverage Error",
+      "B. Sampling Error",
+      "C. Measurement error",
+      "D. Nonresponse Error"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "text": "This is the error that is introduced because some portion of the population is refusing to answer your questions.",
+    "options": [
+      "A. Coverage error",
+      "B. Nonresponse error",
+      "C. Sampling error",
+      "D. Measurement error"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "text": "This is the error that is introduced because the way you are asking questions is going to miss some big chunk of your population of interest.",
+    "options": [
+      "A. Measurement error",
+      "B. Nonresponse error",
+      "C. Sampling frame",
+      "D. Sampling error"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "text": "Which of the following is most accurate?",
+    "options": [
+      "A. Surveys are good at broad descriptions of groups, but not at precise measurements.",
+      "B. Surveys have largely been abandoned in modern research because they are so inaccurate.",
+      "C. Surveys should never be combined with other types of methods.",
+      "D. Surveys are good at measuring behavioral outcomes."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "text": "Which of the following is NOT a type of sampling?",
+    "options": [
+      "A. Census",
+      "B. Sampling Frame",
+      "C. Probability",
+      "D. Convenience"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "text": "Which of the following is NOT important to consider when defining your population?",
+    "options": [
+      "A. Number of questions you want to ask",
+      "B. Characteristics of the people you're interested in",
+      "C. Survey mode",
+      "D. Relationship to the product"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "text": "Which of the following is the best definition of a probability sample?",
+    "options": [
+      "A. Almost every member of your population has some chance to be selected for the survey.",
+      "B. Only those people who will probably answer the survey are sampled from the population.",
+      "C. Every member of your population has some chance to be selected for the survey.",
+      "D. You invite every member of the population to participate in the survey."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "text": "Which of the following would NOT be an example of a sampling frame?",
+    "options": [
+      "A. A social media site, like Twitter",
+      "B. An organization's email directory",
+      "C. All phone numbers in the U.S.",
+      "D. User names of everyone who logged into the site this month"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "text": "Which of the following is a reason why you might use non-probability samples rather than probability samples?",
+    "options": [
+      "A. Ability to represent the population better",
+      "B. Quality of data",
+      "C. Cost",
+      "D. Ability to get more responses"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "text": "Which of the following is NOT an example of convenience sampling?",
+    "options": [
+      "A. Asking people on a street corner to answer some questions.",
+      "B. Posting flyers in a doctor's office asking for participants who have had a cold recently.",
+      "C. Asking your friends on Facebook or Twitter to answer questions for you.",
+      "D. Emailing all students at a university based on a random sample of email addresses provided by the administration."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "text": "Which of the following is an example of purposive sampling?",
+    "options": [
+      "A. Asking your female friends to respond to a survey via Facebook and Twitter requests.",
+      "B. Asking people who use a site's shopping cart how they feel about that experience.",
+      "C. Emailing a random sample of employees who started at the company this year based on a list provided by HR.",
+      "D. Asking one group of respondents to forward the survey invite to their social networks."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "text": "Which of the following best describes why you might choose to use a panel for recruiting respondents?",
+    "options": [
+      "A. To reduce recruitment costs",
+      "B. To make sure you get people who are experienced in answering surveys",
+      "C. To increase quality",
+      "D. To avoid having a convenience sample"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "text": "Which of the following is NOT something to think about if you are going to use Amazon's Mechanical Turk to recruit respondents?",
+    "options": [
+      "A. How to pay a fair wage to Turkers",
+      "B. The shakiness of the demographic data about Turkers",
+      "C. How to check for the validity of responses",
+      "D. Response rates for Turkers"
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "text": "Which of the following best describes the social desirability outcomes in interview-led survey modes?",
+    "options": [
+      "A. Results can be biased because people want to be agreeable with an interviewer.",
+      "B. Results can be biased because interviewers will avoid questions that could be embarrassing.",
+      "C. Results can be biased because people semi-consciously will try to look acceptable to the interviewer.",
+      "D. Results can be biased because some interviewers are more able to get people to do surveys."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "text": "Which of the following is NOT a dimension of survey modes?",
+    "options": [
+      "A. Cost",
+      "B. Respondent burden",
+      "C. Sampling frame",
+      "D. Flexibility"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 243,
+    "text": "Which of the following is the most true statement?",
+    "options": [
+      "A. It's better to get a low response rate from a small sample than it is to get a high response rate from a big sample.",
+      "B. Response rates are only important for national, probability studies.",
+      "C. Response rates are not connected to survey quality.",
+      "D. It's better to get a high response rate from a small sample than a low response rate from a big sample."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 244,
+    "text": "Which of the following is NOT a reason you would want to have a high response rate?",
+    "options": [
+      "A. If you want to be more confident that you've detected a difference/change.",
+      "B. If your population is very heterogeneous.",
+      "C. If you want to be able to conduct more complicated statistical analyses.",
+      "D. If you want to detect smaller, or more subtle differences/changes."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "text": "Which of the following is the most true about social exchange theory?",
+    "options": [
+      "A. People consider the economic value to themselves of any given social exchange.",
+      "B. People think about the risk to themselves primarily in considering social exchanges.",
+      "C. People are really bad at guessing the cost/benefit of any given social exchange.",
+      "D. People use trust as a basis to make a cost/benefit guess on the value of a social exchange."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "text": "Which of the following is NOT a way to increase the perceived benefit of participating in a survey?",
+    "options": [
+      "A. Specify how the survey results will be used",
+      "B. Identify the trustworthiness of the sponsoring organization",
+      "C. Make the survey as short as possible",
+      "D. Stress that opportunities to respond are limited"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "text": "Which of the following is LEAST true about extrinsic, or material, incentives?",
+    "options": [
+      "A. You should frame incentives as gifts, not as payment.",
+      "B. Incentives given before the survey are more effective.",
+      "C. The more money you offer, the more likely people are to participate.",
+      "D. Lotteries (a chance to win a larger reward) are not very effective as incentives."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "text": "Which of the following is NOT a way of reducing the burden for a respondent to participate in your survey?",
+    "options": [
+      "A. Asking people who use a site's shopping cart how they feel about that experience.",
+      "B. Keep the survey as short as you can without compromising quality.",
+      "C. Reduce the complexity of questions by making them easy to understand.",
+      "D. Asking one group of respondents to forward the survey invite to their social networks."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "text": "Which of the following best describes why you might choose to use a panel for recruiting respondents?",
+    "options": [
+      "A. To make sure you get people who are experienced in answering surveys",
+      "B. To reduce recruitment costs",
+      "C. To increase quality",
+      "D. To avoid having a convenience sample"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "text": "Which of the following is NOT something to think about if you are going to use Amazon's Mechanical Turk to recruit respondents?",
+    "options": [
+      "A. How to pay a fair wage to Turkers",
+      "B. Response rates for Turkers",
+      "C. The shakiness of the demographic data about Turkers",
+      "D. How to check for the validity of responses"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 251,
+    "text": "Which of the following best describes the social desirability outcomes in interview-led survey modes?",
+    "options": [
+      "A. Results can be biased because people want to be agreeable with an interviewer.",
+      "B. Results can be biased because interviewers will avoid questions that could be embarrassing.",
+      "C. Results can be biased because some interviewers are more able to get people to do surveys.",
+      "D. Results can be biased because people semi-consciously will try to look acceptable to the interviewer."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 252,
+    "text": "Which of the following is NOT a dimension of survey modes?",
+    "options": [
+      "A. Cost",
+      "B. Respondent burden",
+      "C. Sampling frame",
+      "D. Flexibility"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "text": "Which of the following is the most true statement about how people remember things?",
+    "options": [
+      "A. People remember their past behavior well enough to give accurate survey responses.",
+      "B. Memory can be guided back to accuracy through careful prompts.",
+      "C. Memory fades over time, but people are good at remembering routine actions.",
+      "D. Memory fades over time, and often doesn't capture routine actions."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "text": "Which of the following is NOT important for every survey question?",
+    "options": [
+      "A. Writing a question that every respondent will interpret in the way the researcher intends.",
+      "B. Writing a question that every respondent will answer in the same way.",
+      "C. Writing a question that every respondent will respond to accurately.",
+      "D. Writing a question that every respondent is willing to answer."
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 255,
+    "text": "Which of the following is the most true statement?",
+    "options": [
+      "A. It can be hard to operationalize abstract concepts in a way that every respondent understands.",
+      "B. The best way to start a survey is by writing some questions, and then iterating on them.",
+      "C. People are very consistent in how they answer questions over time.",
+      "D. Pre-testing a survey is rarely worth the time it takes."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "text": "Which of the following statement about open-ended questions is most FALSE?",
+    "options": [
+      "A. They are the easiest type of question to analyze.",
+      "B. They allow respondents to answer without limiting the range of responses.",
+      "C. They are more frequently skipped than other types of questions.",
+      "D. They are often used when we haven't pre-defined response categories."
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "text": "Which of the following best describes the question stem?",
+    "options": [
+      "A. It's the optional instructions for how to answer a question.",
+      "B. It's the set of responses that a respondent can give.",
+      "C. It's the query that operationalizes the concept of interest and prompts a response.",
+      "D. It's a series of questions that are used together to form a scale."
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "text": "Which type of question asks the respondent to compare categories where there is no inherent order between the choices?",
+    "options": [
+      "A. Ordinal closed-ended",
+      "B. Descriptive open-ended",
+      "C. Nominal closed-ended",
+      "D. List-of-items open-ended"
+    ],
+    "correctAnswers": [
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 259,
+    "text": "What type of question is the following survey question: How much do you like or dislike participating in surveys? Extremely like Somewhat like Neither like nor dislike Somewhat dislike Extremely dislike",
+    "options": [
+      "A. Bipolar ordinal",
+      "B. Unipolar ordinal",
+      "C. Nominal",
+      "D. Open-ended"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 260,
+    "text": "Multiple choice questions like this are really just survey questions! What type of survey question is this?",
+    "options": [
+      "A. Nominal closed-ended, choice unforced",
+      "B. Nominal closed-ended, choice forced",
+      "C. Ordinal closed-ended, choice unforced",
+      "D. Ordinal closed-ended, choice forced"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "text": "Which of the following is NOT something you should consider while writing questions?",
+    "options": [
+      "A. Avoiding jargon.",
+      "B. Keeping language as simple as possible.",
+      "C. Ask one question at a time.",
+      "D. Making the question sound scientific."
+    ],
+    "correctAnswers": [
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "text": "Which of the following is the most important consideration in picking what type of question type to use?",
+    "options": [
+      "A. The demographic makeup of your population",
+      "B. The type of analysis you plan on doing",
+      "C. The type of sampling you're using",
+      "D. The mode your survey will be delivered in"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "text": "What makes these good research questions for a needs-finding study? (Select All that apply)",
+    "options": [
+      "A. They're open ended, not leading",
+      "B. They seek to learn about what problems there are with existing solutions",
+      "C. They are questions that can be answered by interviewing the target user population",
+      "D. They will help the researcher learn how users currently complete the activity that their design will try to improve"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "text": "Which of the following methods would be the best approach for answering the stated questions?",
+    "options": [
+      "A. Qualitative research such as user interviews or focus groups",
+      "B. Quantitative research such as surveys",
+      "C. Quantitative research such as A/B testing",
+      "D. Qualitative research such as user testing a prototype"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "text": "Which of these examples of personas could be more effective for guiding a design solution?",
+    "options": [
+      "A. #2 because it includes relevant demographic information, motivations and needs related to the design problem, and characteristics could constrain the persona's ability to use a system.",
+      "B. #1 because there are more personas and they're in paragraph form",
+      "C. #1 because the picture in #2 is distracting"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 266,
+    "text": "Read the project brief, then the scenario. What conclusions might you draw from the scenario that would inform the design? (Select all that apply)",
+    "options": [
+      "A. George needs the app to work efficiently, since he will likely be using it at the end of the day and will only have a short period to sell the leftover food",
+      "B. Consumers need to find out about the food availability right when it is posted, since it will likely be at the end of the day. Pushing notifications to consumers when food is posted would be useful in the app",
+      "C. The app's success will rely on users following through on picking up their purchases; making users pay in-app rather than in the store will increase the likelihood that all the food is picked up",
+      "D. George does not care about making money since he is throwing the food away anyways, so all the leftover food should be posted on the app for free"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 267,
+    "text": "Download Attachment #1 as .pdf and read in full to answer questions 1 and 2. The stated purpose of this user test is: The test is designed to validate the main purpose of the project which is: \"Designing an affordable and easy to use method to archive insurance related files electronically while keeping in mind that the environment has an unstable internet connection and customers can't wait until all documents are uploaded\". While this is a good start, after reading through the user test plan and scenarios, which of these options provides a more specific goal? The goal is to discover whether the web browser tool or Dropbox is easier for users' file management needs",
+    "options": [
+      "A. The goal is to get users to explain what exactly their ideal system would be so that the researcher can design that for them",
+      "B. The goal is to understand the users' current way of doing things",
+      "C. The goal is to discover whether users like the way that Dropbox looks better than the web browser tool"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 268,
+    "text": "If this was the full test plan, which of the following suggestions might help clarify the plan?",
+    "options": [
+      "A. Specify Recruiting Criteria",
+      "B. Complete the Test Script",
+      "C. Add task instructions for users to replicate",
+      "D. Include Follow-Up Questions"
+    ],
+    "correctAnswers": [
+      "B",
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 269,
+    "text": "Download Attachment #2 as .pdf and read in full to answer questions 3 and 4. Which of these aspects make the key findings section particularly good?",
+    "options": [
+      "A. It lists UX issues ranked by priority based on evidence of actual user testing feedback",
+      "B. It includes actionable recommendations of how to fix the UX issues",
+      "C. It includes visuals of possible designs that would fix the UX issues",
+      "D. It only focuses on two main UX issues"
+    ],
+    "correctAnswers": [
+      "A",
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "text": "For each UX issue, the report includes the:",
+    "options": [
+      "A. Severity",
+      "B. Evidence",
+      "C. Clear description of the problem",
+      "D. Name of the participant who encountered the issue"
+    ],
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 271,
+    "text": "Is this a good scope for a user test?",
+    "options": [
+      "A. Yes, it has users test the core functions of the app",
+      "B. No, a user test needs to include testing every single task in the application to deliver valuable data",
+      "C. No, a user test must focus on only one task",
+      "D. No, a user test needs to compare two different systems"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 272,
+    "text": "What heuristic does this violate?",
+    "options": [
+      "A. User control and freedom",
+      "B. Error prevention",
+      "C. Visibility of system status",
+      "D. Recognition vs recall"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "text": "Which of the following are among key tasks that were identified?",
+    "options": [
+      "A. Check map, Help, Activate function \"Robbery\"",
+      "B. Check map, Create a post, Log Out",
+      "C. Customize automatic functions, Help, Log Out",
+      "D. Change security code, Create a post, Check recent events"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "text": "Could you run user tests with this prototype and receive useful data to inform your designs?",
+    "options": [
+      "A. Yes, any type of prototype can be used for user testing",
+      "B. No, only fully interactive digital prototypes will give you useful data",
+      "C. No, user testing is most effective when you use hand-drawn prototypes rather than ones created with graphic design software",
+      "D. No, you shouldn't use a prototype to conduct user testing"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "text": "This example would most likely be an example of (choose the BEST response):",
+    "options": [
+      "A. Wireframes",
+      "B. Hi-Fi Prototype",
+      "C. Lo-Fi Prototype",
+      "D. Yes, wireframes need to look like a completely finished product"
+    ],
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 276,
+    "text": "Rank these prototypes in order of fidelity, from low to high.",
+    "options": [
+      "A. 1, 2, 3",
+      "B. 3, 2, 1",
+      "C. 1, 3, 2",
+      "D. 2, 1, 3"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 277,
+    "text": "What makes the example shown effective at conveying the navigation flow? (Select all that apply)",
+    "options": [
+      "A. It specifies where the user should click to progress to the next screen.",
+      "B. It is a digital prototype",
+      "C. It contains placeholder text"
+    ],
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": ""
+  }
+]

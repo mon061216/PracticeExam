@@ -151,7 +151,7 @@ using (var scope = app.Services.CreateScope())
     }
 
     // Seed WDU
-    var wduSubject = db.Subjects.FirstOrDefault(s => s.Name.StartsWith("WDU"));
+    var wduSubject = db.Subjects.FirstOrDefault(s => s.Name == "WDU: Web Design & Usability");
     if (wduSubject == null)
     {
         wduSubject = new Subject { Name = "WDU: Web Design & Usability" };
@@ -190,6 +190,50 @@ using (var scope = app.Services.CreateScope())
                 }
                 db.SaveChanges();
                 Console.WriteLine("Successfully seeded WDU questions.");
+            }
+        }
+    }
+
+    // Seed WDU203c
+    var wdu203cSubject = db.Subjects.FirstOrDefault(s => s.Name == "WDU203c: Web Design & Usability");
+    if (wdu203cSubject == null)
+    {
+        wdu203cSubject = new Subject { Name = "WDU203c: Web Design & Usability" };
+        db.Subjects.Add(wdu203cSubject);
+        db.SaveChanges();
+    }
+
+    var existingWdu203cQuestions = db.Questions.Where(q => q.SubjectId == wdu203cSubject.Id).ToList();
+    if (existingWdu203cQuestions.Any())
+    {
+        db.Questions.RemoveRange(existingWdu203cQuestions);
+        db.SaveChanges();
+        Console.WriteLine("Cleared previous WDU203c questions to sync updated questions.");
+    }
+
+    if (!db.Questions.Any(q => q.SubjectId == wdu203cSubject.Id))
+    {
+        var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "wdu203c_questions.json");
+        if (File.Exists(jsonPath))
+        {
+            var json = File.ReadAllText(jsonPath);
+            var questionsData = JsonSerializer.Deserialize<List<QuestionData>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            
+            if (questionsData != null)
+            {
+                foreach (var q in questionsData)
+                {
+                    db.Questions.Add(new Question
+                    {
+                        SubjectId = wdu203cSubject.Id,
+                        Text = q.Text,
+                        Options = JsonSerializer.Serialize(q.Options),
+                        CorrectAnswers = JsonSerializer.Serialize(q.CorrectAnswers),
+                        Explanation = q.Explanation
+                    });
+                }
+                db.SaveChanges();
+                Console.WriteLine("Successfully seeded WDU203c questions.");
             }
         }
     }
